@@ -59,7 +59,7 @@ diagonal connections span just one square, horizontal and vertical span one or t
 Lookup the digits or letters from the template and fill them in on the adjusted diagram.
 You might need more repeats than expected to figure out a tiling.
 
-![](../images/matrix-template.png)
+![](/GroundForge/images/matrix-template.png)
 
 
 ### Tiling
@@ -110,5 +110,5 @@ The weaving base pattern has always a checkerboard tiling. The diagonal base pat
 
 ![](images/disect-pairs-as-threads.png)
 
-[SVG version]: /GroundForge/help/images/template.svg
-[variant]: /GroundForge/help/images/matrix-template2.png
+[SVG version]: /GroundForge/images/template.svg
+[variant]: /GroundForge/images/matrix-template2.png

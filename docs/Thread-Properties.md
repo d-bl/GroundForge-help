@@ -31,7 +31,7 @@ The feature did not mary well with the Droste patterns and is only available for
 * in the address bar of your browser
   * replace `https://github.com/d-bl/tiles.html` (as far as there is a `.html`)
   * with `file:///PATH/TO/UNZIPPED/GroundForge-thread-props/docs/tiles.html`
-* click ![](../images/download.jpg)
+* click ![](GroundForge/images/download.jpg)
 * open the download with a [tool of your choice](Reshape-Patterns#evaluated-editors)
 
 The next procedure may vary between the tools.
