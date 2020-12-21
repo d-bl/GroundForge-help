@@ -20,7 +20,7 @@ To apply this technique in GroundForge, click on the ![wand](/GroundForge/images
 
 There are several options for specifying which stitches appear in the new thread diagram.
 
-By default, every stitch is `ctc`.  You can assign a new default stitch by typing the actions (such as `ct`) in the input box that appears to the left of the new pair diagram. You can also assign a stitch to every "cross" in the original thread diagram by typing `cross=...` (for example, `cross=ctcll`) in the input box.  Similarly, you assign a stitch to every "twist" in the original thread diagram using `twist=...`.  For finer control, you can specify a stitch for a specific intersection.  First find the identity of the intersection in the new pair diagram (hover over the intersection until the id appears), then give it a new value in the input box such as `b10=clcl`.  You can combine any of these options in the input box.  Use a new line or a comma to separate each instruction. After editing the stitches in the input box, click on the ![wand](../images/wand.png) image beside _First level_ under the _Thread diagram as pair diagram_ heading. 
+By default, every stitch is `ctc`.  You can assign a new default stitch by typing the actions (such as `ct`) in the input box that appears to the left of the new pair diagram. You can also assign a stitch to every "cross" in the original thread diagram by typing `cross=...` (for example, `cross=ctcll`) in the input box.  Similarly, you assign a stitch to every "twist" in the original thread diagram using `twist=...`.  For finer control, you can specify a stitch for a specific intersection.  First find the identity of the intersection in the new pair diagram (hover over the intersection until the id appears), then give it a new value in the input box such as `b10=clcl`.  You can combine any of these options in the input box.  Use a new line or a comma to separate each instruction. After editing the stitches in the input box, click on the ![wand](/GroundForge/images/wand.png) image beside _First level_ under the _Thread diagram as pair diagram_ heading. 
 
 ![](images/droste-assign-stitches.png)
 
@@ -66,7 +66,7 @@ Base  | Base &rarr; First Level    | First level     | [Whiting catalogue](/gw-l
 Experiment
 -------------------------
 
-For the base pattern, start with something small.  For example, enter an even number of alternating rows of `8`'s and `1`'s or `-`'s and `5`'s in the _Pattern definition_ area of _Edit pattern_. Then click on the blue square of the simple layout (see below).  Next click on the ![wand](../images/wand.png) image beside _First level_ under the _Thread diagram as pair diagram_ heading. Remember to keep the swatch size small.  A large swatch size may be very slow. 
+For the base pattern, start with something small.  For example, enter an even number of alternating rows of `8`'s and `1`'s or `-`'s and `5`'s in the _Pattern definition_ area of _Edit pattern_. Then click on the blue square of the simple layout (see below).  Next click on the ![wand](/GroundForge/images/wand.png) image beside _First level_ under the _Thread diagram as pair diagram_ heading. Remember to keep the swatch size small.  A large swatch size may be very slow. 
 
 ![](images/init-droste.png)
 
