@@ -6,7 +6,7 @@ title: Undo
 Links, wand and undo   
 ====================
 
-The two buttons ![](../images/link.png) and ![](../images/wand.png)
+The two buttons ![](/GroundForge/images/link.png) and ![](../images/wand.png)
 (re)render the current definition of pair/thread-diagrams.
 
 ![](../images/wand.png) is faster and does not change the size of the diagram panels.
@@ -19,7 +19,7 @@ Create links
 You need an up to date page address to create links to a diagram to share
 on your web-site, blog or where ever you like.
 
-_Known bug_: When you (right-) click ![](../images/link.png),
+_Known bug_: When you (right-) click ![](/GroundForge/images/link.png),
 the value might be out of sync with the actual pattern configuration.
 A second time it will be up to date.
 

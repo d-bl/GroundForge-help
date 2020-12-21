@@ -39,7 +39,7 @@ In the thread diagram, each thread has a small square at the start and a bobbin 
 
 You can increase or decrease the size of the sample (also known as a "swatch") generated in the pair and thread diagrams. Above the pair and thread diagrams, change the number of columns and rows for the swatch. Note: If you make the swatch very large, performance may slow down considerably.  Read about [restrictions to the swatch size](Patch-Size) for more details. 
 
-![](/GroundForge/images/patch-size.png)
+![](images/patch-size.png)
 
 Every time you change the swatch size, you must regenerate the pair and thread diagrams by clicking on the ![wand](/GroundForge/images/wand.png) image found near the top left of the _Diagrams_ area.
 
@@ -69,7 +69,7 @@ To return the pattern to its original values, click on the 'Reload' button (also
 
 Once you have invested some time working on a lace ground, you will want to save your work. Click on the ![link](/GroundForge/images/link.png) image near the top left of the _Edit pattern_ area. This will change the text in the address bar at the top of your browser. The text is a link to this website and contains the lace pattern as well as the stitch choices you have made.
 
-![](/GroundForge/images/save-link.png)
+![](images/save-link.png)
 
 Save the link text into a file for later use. Copy and paste the link text into the address bar of your browser to return to your current state or share it with other lacemakers.
 

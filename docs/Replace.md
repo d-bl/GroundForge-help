@@ -50,7 +50,7 @@ Reconnected stitches
 The green annotations in the screen shot below show how the remaining stitches reconnect in the pair diagram after a dropped stitch.
 One case is straight forward. In the other case, because the GroundForge pair diagram treats stitch-pin-stitch as a single stitch, the stitches are merged two by two.
 
-The ![animate](../images/animate.png) button simulates what the pattern looks like when the connections between stitches act like springs.
+The ![animate](/GroundForge/images/animate.png) button simulates what the pattern looks like when the connections between stitches act like springs.
 The same spring behaviour is used to create the thread diagrams.  Aplying the animate button creates a pair diagram that can be used as a pricking for the thread diagram. 
 
 You can [try](/GroundForge/tiles?patchWidth=12&patchHeight=13&g1=ctct&e1=ctct&c1=ctct&a1=ctct&f2=ctct&b2=-&g3=ctct&e3=ctct&c3=ctct&a3=ctct&h4=ctct&f4=-&d4=ctct&b4=ctct&g5=ctct&e5=ctct&c5=ctct&a5=ctct&f6=ctct&b6=ctct&g7=ctct&e7=ctct&c7=ctct&a7=ctct&h8=ctct&f8=ctct&d8=ctct&b8=ctct&tile=5-5-5-5-,-5---5--,B-C-B-C-,-5-5-5-5,5-5-5-5-,-5---5--,B-C-B-C-,-5-5-5-5,&footsideStitch=tctct&tileStitch=ctct&headsideStitch=tctct&shiftColsSW=0&shiftRowsSW=8&shiftColsSE=8&shiftRowsSE=8)

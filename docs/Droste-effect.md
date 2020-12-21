@@ -14,7 +14,7 @@ In a typical pair diagram, two pairs intersect at each crossing and then continu
 
 ![](images/simple-droste.png)
 
-To apply this technique in GroundForge, click on the ![wand](../images/wand.png) image beside _First level_ under the _Thread diagram as pair diagram_ heading. 
+To apply this technique in GroundForge, click on the ![wand](/GroundForge/images/wand.png) image beside _First level_ under the _Thread diagram as pair diagram_ heading. 
  
 ![](images/reuse.png)
 
@@ -24,7 +24,7 @@ By default, every stitch is `ctc`.  You can assign a new default stitch by typin
 
 ![](images/droste-assign-stitches.png)
 
-To repeat this process a second time, click on the ![wand](../images/wand.png) image beside _Second level_ under the _Thread diagram as pair diagram_ heading.   This will create another new thread diagram by using the thread diagram from the first level as a pair diagram.
+To repeat this process a second time, click on the ![wand](/GroundForge/images/wand.png) image beside _Second level_ under the _Thread diagram as pair diagram_ heading.   This will create another new thread diagram by using the thread diagram from the first level as a pair diagram.
 
 ![](images/droste-repeat-assign-stitches.png)
 
