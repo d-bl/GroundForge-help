@@ -26,4 +26,4 @@ To receive email alerts about discussions: use the "watch" button almost on top 
 [project page]: https://github.com/d-bl/GroundForge/
 [project files]: https://github.com/d-bl/GroundForge/commits/master.atom
 [atom-notes]: https://github.com/d-bl/GroundForge/releases.atom
-[help pages]: https://github.com/d-bl/GroundForge/tree/master/docs/help
+[help pages]: https://github.com/d-bl/GroundForge-help/tree/master/docs/

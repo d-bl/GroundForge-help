@@ -18,8 +18,8 @@ the link reloads the entire page and your browser will remember the pattern
 ![](images/toggle-stitch.png) **Stitch**  
 The character inside the circle determines the origins 
 of the pairs used to make the stitch.
-The default [cheat sheet](images/matrix-example.png) shows all you need to assemble a pattern.
-An [extended version](../images/matrix-template-extended.png) 
+The default [cheat sheet](/GroundForge/images/matrix-template.png) shows all you need to assemble a pattern.
+An [extended version](/GroundForge/images/matrix-template-extended.png) 
 shows additional symbols used in legacy patterns.
 
 ![](../images/size-inc.jpg)

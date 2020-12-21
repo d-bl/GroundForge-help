@@ -50,8 +50,6 @@ Matrix from pair diagram
 
 The template below contains objects to assemble a matrix required for the parameters.
 Each object represents a stitch and the pairs used to make the stitch.
-A less compact [variant] of the template has the objects in alpha-numerical order:
-counter clock-wise, shortest first.
 
 Start with the simplifications and distortions as described under [Recognize patterns](#recognize-patterns).
 The snapped versions of the example happen to abide the rules for a valid matrix:
@@ -78,7 +76,7 @@ If the upper left equals the lower right and the upper right equals bottom left,
 you can use the top half or bottom half as brick tile.
 It saves IDs of stitches to assign.
 
-![](images/matrix-example.png)
+![](/GroundForge/images/matrix-example.png)
 
 
 ### With an SVG editor
@@ -86,7 +84,7 @@ It saves IDs of stitches to assign.
 You can also use a general purpose editor like Adobe-Illustrator, CorelDraw or the free InkScape
 and the [SVG version] (right click to download) of the template.
 
-![](images/matrix-template-object.png)
+![](/GroundForge/images/matrix-template-object.png)
 
 The symbol in each template object has six free snapping points,
 two of them should be connected with other objects.
@@ -110,5 +108,5 @@ The weaving base pattern has always a checkerboard tiling. The diagonal base pat
 
 ![](images/disect-pairs-as-threads.png)
 
-[SVG version]: /GroundForge/images/template.svg
+[SVG version]: images/template.svg
 [variant]: /GroundForge/images/matrix-template2.png
