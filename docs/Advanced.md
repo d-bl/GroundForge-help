@@ -95,7 +95,7 @@ It is important to have only one copy of each stitch in the pattern, otherwise u
 
 ### Initialize stitches
 
-For convenience, you can set all stitches in the pattern to the same value.  In the _Edit pattern_ area, just below the middle box where you typed symbols for the pattern, there is a small text box.  Enter a stitch as a sequence of `c`, `t`, `r` or `l` (for example, `cttct`).  Click on the _initialize stitches_ button and then on the ![wand](../images/wand.png) image above the pattern diagram to regenerate the thread and pair diagrams.  This is a quick way to see how a ground looks in cloth-stitch, half-stitch or whole-stitch.  Once initialized, you can change the stitches used for individual intersections by clicking on the symbols in the pattern diagram.  Each time you click on the _initialize stitches_ button, the stitch values in the pattern are reset.
+For convenience, you can set all stitches in the pattern to the same value.  In the _Edit pattern_ area, just below the middle box where you typed symbols for the pattern, there is a small text box.  Enter a stitch as a sequence of `c`, `t`, `r` or `l` (for example, `cttct`).  Click on the _initialize stitches_ button and then on the ![wand](/GroundForge/images/wand.png) image above the pattern diagram to regenerate the thread and pair diagrams.  This is a quick way to see how a ground looks in cloth-stitch, half-stitch or whole-stitch.  Once initialized, you can change the stitches used for individual intersections by clicking on the symbols in the pattern diagram.  Each time you click on the _initialize stitches_ button, the stitch values in the pattern are reset.
 
 Footside Tutorial
 -----------------

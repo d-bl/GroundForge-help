@@ -7,10 +7,10 @@ Toggle thread colors
 ====================
 You may have to scroll/drag the thread diagram (or increase the panel size)
 to make the squares at the start or bobbins ate the end of the threads visible.  
-![](/GroundForge/images/toggle-thread.png)
+![](images/toggle-thread.png)
 Click these squares or bobbins to browse through a few colors.
 A tooltip shows a thread number when your mouse hovers over a square.  
-![](/GroundForge/images/toggle-hover.png)  
+![](images/toggle-hover.png)  
 Too tiny squares or too close together? Use the zoom function of your browser.
 Usually control-shift-plus to zoom in, control-zero to reset,
 on a mac use command for control.
