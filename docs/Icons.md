@@ -39,7 +39,7 @@ See also [reshape patterns](Reshape-Patterns).
 
 ![](/GroundForge/images/download.jpg) **Download**  
 * scalable images for 3rd party [editors](Reshape-Patterns#evaluated-editors).
-  Or preview in your browser to print, [drag](/GroundForge/images/download.png) the file between other pages.
+  Or preview in your browser to print, [drag](/GroundForge/images/download.jpg) the file between other pages.
   * thread diagrams: for other thread [colors/widths](Thread-Properties#more-thread-colors-andor-widths)
   * other diagrams: for whatever suites you.
 * Templates for an [Inkscape plugin](/inkscape-bobbinlace/).

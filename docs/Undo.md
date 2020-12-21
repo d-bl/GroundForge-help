@@ -6,12 +6,12 @@ title: Undo
 Links, wand and undo   
 ====================
 
-The two buttons ![](/GroundForge/images/link.png) and ![](../images/wand.png)
+The two buttons ![](/GroundForge/images/link.png) and ![](/GroundForge/images/wand.png)
 (re)render the current definition of pair/thread-diagrams.
 
-![](../images/wand.png) is faster and does not change the size of the diagram panels.
+![](/GroundForge/images/wand.png) is faster and does not change the size of the diagram panels.
 
-![](../images/link.png) updates the parameters in the page address.
+![](/GroundForge/images/link.png) updates the parameters in the page address.
 The browser will remember this version of the pattern. 
 
 Create links
@@ -33,7 +33,7 @@ Undo complete pattern configurations
 ------------------------------------
 When having second thoughts on changes made to a pattern
 you can use the back button of your browser to return
-to the pattern as it was last time when you used ![](../images/link.png)
+to the pattern as it was last time when you used ![](/GroundForge/images/link.png)
 When you used the latter button to inspect the result of your changes,
 you'll have to undo changes made to individual form fields as explained below.
 

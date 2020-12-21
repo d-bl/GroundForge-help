@@ -76,7 +76,7 @@ If the upper left equals the lower right and the upper right equals bottom left,
 you can use the top half or bottom half as brick tile.
 It saves IDs of stitches to assign.
 
-![](/GroundForge/images/matrix-example.png)
+![](images/matrix-example.png)
 
 
 ### With an SVG editor
@@ -84,7 +84,7 @@ It saves IDs of stitches to assign.
 You can also use a general purpose editor like Adobe-Illustrator, CorelDraw or the free InkScape
 and the [SVG version] (right click to download) of the template.
 
-![](/GroundForge/images/matrix-template-object.png)
+![](images/matrix-template-object.png)
 
 The symbol in each template object has six free snapping points,
 two of them should be connected with other objects.
@@ -109,4 +109,3 @@ The weaving base pattern has always a checkerboard tiling. The diagonal base pat
 ![](images/disect-pairs-as-threads.png)
 
 [SVG version]: images/template.svg
-[variant]: /GroundForge/images/matrix-template2.png
