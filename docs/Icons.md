@@ -22,6 +22,9 @@ The default [cheat sheet](/GroundForge/images/matrix-template.png) shows all you
 An [extended version](/GroundForge/images/matrix-template-extended.png) 
 shows additional symbols used in legacy patterns.
 
+![](/GroundForge/images/swatches.png) **Color code**  
+Links to [Color-Code], on desktop or laptop an extract appears showing actually used colors and stitches
+
 ![](/GroundForge/images/size-inc.jpg)
 ![](/GroundForge/images/size-dec.jpg)
 **Resize space** (not to be confused with zoom or  patch size)  

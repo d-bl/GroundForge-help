@@ -11,6 +11,9 @@ Color Code
 - [Colors by GroundForge](#colors-by-groundforge)
 - [Tweak Colors](#tweak-colors)
 
+The icon ![](/GroundForge/images/swatches.png) on pair diagrams link to this page.
+On a desktop or laptop you can hover over the icon to get an abstract 
+of color names and corresponding stitches that are actually used.
 
 Color code dialects
 -------------------
@@ -47,16 +50,16 @@ A plait in a pair diagram is not drawn as ">---<" but as "X" but still blue.
 Same for "&#41289;" (pins are hardly supported anyway)
 turquoise and brown represent this family of stitches.
 
-stitch name             | color     | examples and notes
-:----------------------:|:---------:|:-------------------------------------------
-half stitch             | green     | `ct`, `tc`, `ttc`, `tct` (just one time `c` and both pairs twisted at least once)
-cloth stitch            | purple    | `ctc`, `ctcl`, `rctc` (just `ctc` and at most on pair twisted)
-double stitch           | red       | `ctct`, `tctc`, `tctct` (just `ctc` and both pairs twisted at least once)
-plait                   | blue      | `ctctc` (a `ctc` followed by at least one `tc`)
-turning stitch          | turquoise | `cttc` (just two times `c` and both pairs twisted twice in between)
-turning stitch variants | brown     | `cllc`, `crrc`, `ctlc`, `ctrc` (just two times `c` and in between both pair twisted more than twice or each pair another number of twists between the `c`'s)
-tally                   | yellow    | `cllcrrcllc`, `crrcllcrrc`, (at least four `c`'s and alternating `ll`/`rr` in between)
-anything else           | black     | e.g. `ctcttc`, `lcr`
+stitch name             | color                                |           | examples and notes
+:----------------------:|:------------------------------------:|:---------:|:-------------------------------------------
+half stitch             | ![](images/color-code/green.png)     | green     | `ct`, `tc`, `ttc`, `tct` (just one time `c` and both pairs twisted at least once)
+cloth stitch            | ![](images/color-code/purple.png)    | purple    | `ctc`, `ctcl`, `rctc` (just `ctc` and at most on pair twisted)
+double stitch           | ![](images/color-code/red.png)       | red       | `ctct`, `tctc`, `tctct` (just `ctc` and both pairs twisted at least once)
+plait                   | ![](images/color-code/blue.png)      | blue      | `ctctc` (a `ctc` followed by at least one `tc`)
+turning stitch          | ![](images/color-code/turquoise.png) | turquoise | `cttc` (just two times `c` and both pairs twisted twice in between)
+turning stitch variants | ![](images/color-code/brown.png)     | brown     | `cllc`, `crrc`, `ctlc`, `ctrc` (just two times `c` and in between both pair twisted more than twice or each pair another number of twists between the `c`'s)
+tally                   | ![](images/color-code/yellow.png)    | yellow    | `cllcrrcllc`, `crrcllcrrc`, (at least four `c`'s alternating with `ll`/`rr`, in turn also alternating)
+anything else           | ![](images/color-code/black.png)     | black     | e.g. `ctcttc`, `lcr`
 
 The examples and notes are not exhaustive.
 At least there can be additional twists (left, right or both pairs)
