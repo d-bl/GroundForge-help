@@ -11,9 +11,8 @@ Color Code
 - [Colors by GroundForge](#colors-by-groundforge)
 - [Tweak Colors](#tweak-colors)
 
-The icon ![](/GroundForge/images/swatches.png) on pair diagrams link to this page.
-On a desktop or laptop you can hover over the icon to get an abstract 
-of color names and corresponding stitches that are actually used.
+Click/tap the swatch icon ![](/GroundForge/images/swatches.png) for
+an abstract of color names and corresponding stitches that are actually used.
 
 Color code dialects
 -------------------

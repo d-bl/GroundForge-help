@@ -23,9 +23,8 @@ An [extended version](/GroundForge/images/matrix-template-extended.png)
 shows additional symbols used in legacy patterns.
 
 ![](/GroundForge/images/swatches.png) **Color code**  
-Links to [Color-Code](Color-Code), 
-hover with your mouse over the icon
-to show an extract with actually used colors and stitches.
+The [Color-Code](Color-Code) page explains colors and twist marks in general. 
+Click the icon for an extract with actually used colors and stitches.
 
 ![](/GroundForge/images/size-inc.jpg)
 ![](/GroundForge/images/size-dec.jpg)
