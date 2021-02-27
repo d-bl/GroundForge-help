@@ -24,6 +24,8 @@ when tapping, you get a link that opens the dialog.
 You can view a download in a browser by dragging it with your mouse between the tabs:  
 ![](images/download.png)
 
+Some bowsers may have a limit on the size of the downloads. 
+
 Some tablets open a download in a browser, some of those fail to render. 
 Other save a download in a photo section, 
 but it is a vector based image, not a pixel based photo.
