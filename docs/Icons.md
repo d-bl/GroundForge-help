@@ -41,10 +41,6 @@ An example of the latter is the TesseLace pattern [3x4_447](/GroundForge/tiles.h
 which becomes surprisingly regular.
 See also [reshape patterns](Reshape-Patterns).
 
-![](/GroundForge/images/download.jpg) **Download**  
-* scalable images for 3rd party [editors](Reshape-Patterns#evaluated-editors).
-  Or preview in your browser to print, [drag](/GroundForge/images/download.jpg) the file between other pages.
-  * thread diagrams: for other thread [colors/widths](Thread-Properties#more-thread-colors-andor-widths)
-  * other diagrams: for whatever suites you.
-* Templates for an [Inkscape plugin](/inkscape-bobbinlace/).
-  Preview the text file before trying: it might contain an error message.
+![](/GroundForge/images/download.jpg) **[Download](Download)**  
+Scalable images for 3rd party [editors](Reshape-Patterns#evaluated-editors),
+or templates for an [Inkscape plugin](/inkscape-bobbinlace/).

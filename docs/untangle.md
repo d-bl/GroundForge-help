@@ -15,3 +15,7 @@ Dragging stitches can reveal what happens in a problematic area.
 
 The draggable modus may cause nervous/rotating diagrams when trying to change thread colors.
 The modus applies to thread diagrams as wel as pair diagrams.
+
+Very large droste patterns may not unfold properly.
+Wait until you are sure the animation is finished, then start dragging to continue the unfold process.
+The system may react very slowly, please wait until something starts happening. 
