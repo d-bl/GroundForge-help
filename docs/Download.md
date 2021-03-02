@@ -4,10 +4,10 @@ title: GroundForge download
 ---
 
 The download icon ![](/GroundForge/images/download.jpg) 
-downloads
+downloads:
 * templates for an [Inkscape plugin](/inkscape-bobbinlace/)
   from the "pattern definition" panel
-* the diagram as scalable images from the other panels
+* the diagram as scalable image from the other panels
   
 Templates
 ---------
