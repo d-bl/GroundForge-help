@@ -3,6 +3,12 @@ layout: default
 title: Changes
 ---
 
+* [Reuse] Share
+* Changes
+* [Stable version](Stable)
+* [Fix old pattern links](Fix-Old-Links)
+
+
 Changes
 =======
 
