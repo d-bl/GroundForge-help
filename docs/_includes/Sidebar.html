@@ -3,7 +3,13 @@
        <ul>
            <li><a href="https://groups.io/g/GroundForge" target="_blank">User group</a></li>
            <li><a href="https://groundforge.wordpress.com" target="_blank">Support</a></li>
-           <li><a href="/{{ site.github.repository_name }}/about-us">About us</a></li>
+           <li>
+               {% if page.name == 'about' %}
+               About us
+               {% else %}
+               <a href="/{{ site.github.repository_name }}/about-us">About us</a>
+               {% endif %}
+           </li>
        </ul>
     </li>
     <li><h2>Catalogues</h2>
