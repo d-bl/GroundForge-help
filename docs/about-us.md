@@ -3,18 +3,17 @@ layout: default
 title: About us
 ---
 
-# About us
-
-## Contents
+# About us - The support team
 
 * [Jo Pol](#jo-pol)
 * [Marian Tempels](#marian-tempels)
+* [Veronika Irvine](#veronika-irvine)
 
 ## Jo Pol
 
 Living in the Netherlands.
 
-My childhood friend was fond of playing with dolls,
+My childhood friend was fond of playing stories with her dolls,
 I was more interested in the leftovers from her mother's sewing activities to dress my dolls.
 It is just an example of the many crafts I tried for a longer or shorter period.
 My grammar school was an early adopter in offering computer programming courses, it determined my choice of career.
@@ -41,6 +40,7 @@ Inspired by "Hollandsche kant" I started to experiment with the rose-ground, usi
 
 I studied Mathematics at Technical University Eindhoven and work as data- and rules-analyst.    
 
+## Veronika Irvine
 ***
 [&uArr;]()
 
