@@ -4,7 +4,7 @@
            <li><a href="https://groups.io/g/GroundForge" target="_blank">User group</a></li>
            <li><a href="https://groundforge.wordpress.com" target="_blank">Support</a></li>
            <li>
-               {% if page.name == 'about' %}
+               {% if page.name == 'about-us.md' %}
                About us
                {% else %}
                <a href="/{{ site.github.repository_name }}/about-us">About us</a>
@@ -25,7 +25,13 @@
       <ul>
           <li><a href="/GroundForge/nets">Nets page</a></li>
           <li><a href="/GroundForge/tiles">Main page</a></li>
-          <li>User guide</li>
+          <li>
+              {% if page.name == 'about-us.md' %}
+              <a href="/GroundForge/">User guide</a>
+              {% else %}
+              User guide
+              {% endif %}
+          </li>
       </ul><hr/>
     </li>
     <li><h2>User guide</h2><h3>Introduction</h3>
