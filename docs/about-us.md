@@ -17,9 +17,9 @@ My childhood friend was fond of playing stories with her dolls,
 I was more interested in the leftovers from her mother's sewing activities to dress my dolls.
 It is just an example of the many crafts I tried for a longer or shorter period.
 My grammar school was an early adopter in offering computer programming courses, it determined my choice of career.
-A bobbin lace demo around the same time draw my attention and with the help of library books I got hooked.
+A bobbin lace demo around the same time draw my attention and with the help of library books I got hooked for life.
 
-Since a workshop "Flanders differently" given by the LOKK,
+Since a workshop "Flanders differently" given by the Dutch lace guild LOKK,
 I wanted the computer to turn color coded pair diagrams into thread diagrams.
 But at that time I lacked the skills to do it myself and
 details of the required concepts were too abstract to convince others.
