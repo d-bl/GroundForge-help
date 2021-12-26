@@ -41,7 +41,6 @@ Inspired by "Hollandsche kant" I started to experiment with the rose-ground, usi
 I studied Mathematics at Technical University Eindhoven and work as data- and rules-analyst.    
 
 ## Veronika Irvine
-***
-[&uArr;]()
 
+She introduces herself on her [Tesselace](https://tesselace.com/about/) website.
 
