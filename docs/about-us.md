@@ -7,7 +7,7 @@ title: About us
 
 * [Jo Pol](#jo-pol)
 * [Marian Tempels](#marian-tempels)
-* Veronika Irvine<br>introduces herself on her [Tesselace](https://tesselace.com/about/) website
+* <a href="https://tesselace.com/about/" target="_blank">Veronika Irvine</a>
 
 ## Jo Pol
 
