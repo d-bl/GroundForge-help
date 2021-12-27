@@ -5,6 +5,9 @@ Header { background: #3679cd url(../images/header-bg-left.png) top right repeat;
         background-color: #3679cd
     }
 }
+@only screen and (min-width: 960px) {
+    header h1 { width 580px }
+}
 
 #sidebar strong { font-size: 18px; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; }
 #sidebar ul { padding-left: 0; margin-bottom: 0px; font-weight: bold; font-size: 12px; color: #474747; }
