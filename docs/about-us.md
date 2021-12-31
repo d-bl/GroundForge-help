@@ -39,4 +39,3 @@ My lace-making got a tremendous boost when I joined the De Waaier lace group. I 
 Inspired by "Hollandsche kant" I started to experiment with the rose-ground, using unorthodox stitches like "cross only" or "do nothing". Also, I joined the units of the rose ground with plaits. These works were published in the "Kantbrief", the magazine from the dutch lace-society LOKK, and in "bulletin OIDFA".   
 
 I studied Mathematics at Technical University Eindhoven and work as data- and rules-analyst.    
-
