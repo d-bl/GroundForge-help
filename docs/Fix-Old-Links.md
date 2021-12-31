@@ -3,6 +3,11 @@ layout: default
 title: Fix Old Links
 ---
 
+* [Reuse] Share
+* [Changes](Changes)
+* [Stable version](Stable)
+* Fix Old Links
+
 Fix Old Links to patterns
 =========================
 

@@ -3,24 +3,23 @@ layout: default
 title: About us
 ---
 
-# About us
-
-## Contents
+# About us - The support team
 
 * [Jo Pol](#jo-pol)
 * [Marian Tempels](#marian-tempels)
+* <a href="https://tesselace.com/about/" target="_blank">Veronika Irvine</a>
 
 ## Jo Pol
 
 Living in the Netherlands.
 
-My childhood friend was fond of playing with dolls,
+My childhood friend was fond of playing stories with her dolls,
 I was more interested in the leftovers from her mother's sewing activities to dress my dolls.
 It is just an example of the many crafts I tried for a longer or shorter period.
 My grammar school was an early adopter in offering computer programming courses, it determined my choice of career.
-A bobbin lace demo around the same time draw my attention and with the help of library books I got hooked.
+A bobbin lace demo around the same time draw my attention and with the help of library books I got hooked for life.
 
-Since a workshop "Flanders differently" given by the LOKK,
+Since a workshop "Flanders differently" given by the Dutch lace guild LOKK,
 I wanted the computer to turn color coded pair diagrams into thread diagrams.
 But at that time I lacked the skills to do it myself and
 details of the required concepts were too abstract to convince others.
@@ -40,8 +39,3 @@ My lace-making got a tremendous boost when I joined the De Waaier lace group. I 
 Inspired by "Hollandsche kant" I started to experiment with the rose-ground, using unorthodox stitches like "cross only" or "do nothing". Also, I joined the units of the rose ground with plaits. These works were published in the "Kantbrief", the magazine from the dutch lace-society LOKK, and in "bulletin OIDFA".   
 
 I studied Mathematics at Technical University Eindhoven and work as data- and rules-analyst.    
-
-***
-[&uArr;]()
-
-

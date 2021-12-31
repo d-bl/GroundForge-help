@@ -3,6 +3,11 @@ layout: default
 title: Stable version / 3rd party pages
 ---
 
+* [Reuse] Share
+* [Changes](Changes)
+* Stable version
+* [Fix old pattern links](Fix-Old-Links)
+
 Stable version
 ==============
 
