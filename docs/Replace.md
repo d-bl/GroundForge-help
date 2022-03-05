@@ -5,36 +5,47 @@ title: Modify stitches
 
 Modify stitches
 =======================
-One of the diagrams shows faint and bright stitches.
-The faint stitches repeat the bright ones.
-Click slightly north-east of a bright stitch to open a yellow input field and start typing. 
-Don't use your mouse to position the cursor inside the input field because
-clicking will select another input field.
-User the arrows on your keyboard to move around. 
 
-![](images/stitch-input.png)
+![](images/replace-stitches.png)
 
-You can also use the TAB key of your keyboard to travel from one field to the next,
-even from/to form fields outside the diagram. 
-Touch devices may also have keys to traverse through the fields.
-Below a screenshot of an iPad with the up/down arrows on the right.
- 
-![](images/iPad-tab-thru.png)
+Hovering over a stitch reveals the exact definition
+as shown near the bottom of the screenshot above.
+Clicking a stitch replaces its definition with the value
+in the text field above the grey diagram caption.
+
+As an alternative to hover, you can reveal a [legend](#legend) with the color swatch button
+![](/GroundForge/images/swatches.png)
+in the grey caption of a pair diagram to reveal a legend.
+For a touch device that is your only choice to figure out the exact stitch definitions.
+
+One color in the pair diagram may cover variations of a stitch.
+Note that (unlike the belgian color code) two or more consecutive twists cause a single twist mark,
+the open method (twist first) and closed method (twist last) might be mixed.
 
 Stitch definitions
 ------------------
 
 Type as many `c`'s and `t`'s for cross and twist as you need for the stitch of your choice,
 or use `l`'s and `r`'s for a left twist or right twist.
-For example, here are some interesting stitch combinations that you can copy and paste:
 
-{% include stitches.html %}
+Some (less) common examples are predefined for your convenience.
+Click/tap a `use` link to put the definition in the text field.
+Click/tap `flip` to mirror the stitch in the text field
+and make further adjustments when required.
 
-The right footside in the following example applies the last stitch in the second row of the figure above (with a few more twists).
+The right footside in the following example applies a flipped version
+of the last predefined stitch with a few more twists.
 You can [try](/GroundForge/tiles?patchWidth=3&patchHeight=8&g1=tctcttrrctct&f1=tctct&c1=ctc&b1=tctct&f2=tctct&c2=ctc&b2=tctct&a2=tctct&footside=-7,A1&tile=8,1&headside=8D,4-&footsideStitch=tctct&tileStitch=ctc&headsideStitch=tctct&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=0&shiftRowsSE=2)
 variations.
 
 ![](images/foot-side-stitches.png)
+
+Legend
+------
+
+The following illustration shows the ids in the legend, tooltips when hovering over a stitch and how to interpret them.
+
+![](images/legend-and-ids.png)
 
 Drop stitches
 -------------
