@@ -15,7 +15,7 @@ in the text field above the grey diagram caption.
 
 As an alternative to hover, you can reveal a [legend](#legend) with the color swatch button
 ![](/GroundForge/images/swatches.png)
-in the grey caption of a pair diagram to reveal a legend.
+in the grey caption of a pair diagram.
 For a touch device that is your only choice to figure out the exact stitch definitions.
 
 One color in the pair diagram may cover variations of a stitch.
