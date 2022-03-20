@@ -14,7 +14,10 @@ Example from Binche Kompakt
 _Figure 1: Paris ground and snowflake rings worked with whole (CTCT, red) and half (CT, green) stitch_
 
 Since this lace ground has been captured in GroundForge, it is relatively straight forward to play with different snowflake variations. 
-We invite you to experiment using the GroundForge base pattern [with] or [without] foot sides.  Click on a circle in the pattern diagram.  When a yellow popup appears, edit the stitch description to change (_using any combination of 'c', 't', 'r' or 'l'_) or drop (_'-'_) a stitch.  For more detailed instructions on editing the stitches, please refer to the [Help introduction](index). 
+We invite you to experiment using the GroundForge base pattern [with] or [without] foot sides.  
+Click on a stitch in the pair diagram to apply the stitch specified in the textfield just above the diagram.
+This text field can have any combination of 'c', 't', 'r' or 'l' or just a '-' to drop a stitch.  
+For more detailed instructions on editing the stitches, please refer to the [Help page](Replace). 
 
 Below are four main variations showing the pattern diagram (top row) and corresponding thread diagram (bottom row).
 
