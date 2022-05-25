@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Binche Kompakt ground number 31
-lang: en
-ref: binche
+name: Binche.md
 ---
 
 Example from Binche Kompakt

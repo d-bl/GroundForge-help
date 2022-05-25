@@ -1,26 +1,32 @@
 ---
 layout: default
 title: Color Code
+name: Color-code.md
 ---
 
 Color Code
 ==========
 
+- **New [approach](/GroundForge/images/stitches-legens.svg)**
 - [Color code dialects](#color-code-dialects)
 - [Twist marks by GroundForge](#twist-marks-by-groundforge)
 - [Colors by GroundForge](#colors-by-groundforge)
 - [Tweak Colors](#tweak-colors)
 
 Click/tap the swatch icon ![](/GroundForge/images/swatches.png) for
-an abstract of color names and corresponding stitches that are actually used.
+a legend of stitches that are actually used in the pattern.
 
 Color code dialects
 -------------------
 
 Various dialects of color codes for pair diagrams are used by bobbin lace designers:
-a [Belgian] version, a simplified [Danish] version, a [red-blue] version and perhaps more.
-Allowing -even encouraging- unorthodox stitches, the liberty to use both open and closed stitches,
-poor or no support for tallies, pins and gimps in GroundForge and other limitations asks for yet another dialect.
+There is at least a [Belgian] version, a simplified [Danish] version and a [red-blue] version and perhaps more.
+These dialects can distinguish only about half a dozen of stitches.
+
+The primary pair diagram applies a completely different [approach](/GroundForge/images/stitches-legens.svg)
+and can distinguish 147 stitches.
+The pair diagrams for the Droste patterns apply dialect of the traditional code,
+details in the following sections.
 
 [Belgian]: https://www.mail-archive.com/lace@arachne.com/msg51345.html
 [Danish]: https://www.mail-archive.com/lace@arachne.com/msg51355.html

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fix Old Links
+name: Fix-Old-Links.md
 ---
 
 * [Reuse] Share

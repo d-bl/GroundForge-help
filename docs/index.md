@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Getting Started
-lang: en
-ref: intro
+name: index.md
 ---
 
 Getting Started

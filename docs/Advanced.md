@@ -1,6 +1,7 @@
 ---
 layout: default
 title: New pattern tutorial
+name: Advanced.md
 ---
 
 Creating a pattern definition

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Share
+name: Reuse.md
 ---
 
 * Share

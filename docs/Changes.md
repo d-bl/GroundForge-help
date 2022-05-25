@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Changes
+name: Changes.md
 ---
 
 * [Reuse] Share

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tile layout
+name: Change-tiles.md
 ---
 Tile layout
 ===========

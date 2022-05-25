@@ -1,6 +1,7 @@
 ---
 layout: default
 title: GroundForge download
+name: Download.md
 ---
 
 The download icon ![](/GroundForge/images/download.jpg) 

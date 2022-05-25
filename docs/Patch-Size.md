@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Patch Size
+name: Patch-Size.md
 ---
 
 Changing the dimensions of the diagrams may have some unexpected consequences.

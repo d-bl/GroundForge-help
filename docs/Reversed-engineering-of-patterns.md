@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Advanced Design
+name: Reversed-engineering-of-patterns.md
 ---
 
 Working with printed catalogues

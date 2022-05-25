@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reshape Patterns
+name: Reshape-Patterns.md
 ---
 
 Reshape Patterns

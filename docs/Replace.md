@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Modify stitches
+name: Replace.md
 ---
 
 Modify stitches
