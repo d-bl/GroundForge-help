@@ -6,7 +6,7 @@ title: Color Code
 Color Code
 ==========
 
-- **New [approach](/GroundForge/images/stitches-legens.svg)**
+- **New [approach](/GroundForge/images/stitches-legens.svg)** for the primary pair diagram
 - [Color code dialects](#color-code-dialects)
 - [Twist marks by GroundForge](#twist-marks-by-groundforge)
 - [Colors by GroundForge](#colors-by-groundforge)
@@ -14,6 +14,8 @@ Color Code
 
 Click/tap the swatch icon ![](/GroundForge/images/swatches.png) for
 a legend of stitches that are actually used in the pattern.
+The legend for the primary pair diagram is a download and can be 
+copy-pasted into the download of a pair diagram with 3rd party software.
 
 Color code dialects
 -------------------
@@ -36,7 +38,9 @@ Twist marks by GroundForge
 --------------------------
 
 The _intention_ is a twist mark wherever there are multiple twists in a pair.
-Please [notify] us of any glitches.
+There are glitches with the traditional style color code for the Droste patterns
+The new approach should be consistent. This new approach also has the advantage 
+that don't have to add the tick marks to the color to compute the number of twists.
 
 The reason of this approach is the ability to apply and even mix 
 open stitches (start with twist) and closed stitches (end with twists).
