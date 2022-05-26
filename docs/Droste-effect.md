@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Droste effect
-name: Droste-effect.md
 ---
 
 Droste effect

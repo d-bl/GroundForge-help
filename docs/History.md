@@ -1,7 +1,6 @@
 ---
 layout: default
 title: History of GroundForge
-name: History.md
 ---
 
 

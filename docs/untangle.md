@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Untangle
-name: untangle.md
 ---
 
 Sometimes the animation leaves some clutter in pair or thread diagrams.

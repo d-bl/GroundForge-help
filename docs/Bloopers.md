@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Bloopers
-name: Bloopers.md
 ---
 
 Bloopers

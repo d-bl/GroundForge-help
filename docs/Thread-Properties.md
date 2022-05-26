@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Thread properties
-name: Thread-Properties.md
 ---
 
 Toggle thread colors

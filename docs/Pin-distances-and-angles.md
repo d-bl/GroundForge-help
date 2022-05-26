@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Pin distances and Angles
-name: Pin-distances-and-angles.md
 ---
 
 Pin distances and Angles

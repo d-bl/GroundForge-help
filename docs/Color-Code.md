@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Color Code
-name: Color-code.md
 ---
 
 Color Code

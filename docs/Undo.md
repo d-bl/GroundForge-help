@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Undo
-name: Undo.md
 ---
 
 Links, wand and undo   

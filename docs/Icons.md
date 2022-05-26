@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Icons, their purpose/meaning
-name: Icons.md
 ---
 
 The purpose/meaning of buttons/icons in short

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: About us
-name: about-us.md
 ---
 
 # About us - The support team

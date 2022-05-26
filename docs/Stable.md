@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Stable version / 3rd party pages
-name: Stable.md
 ---
 
 * [Reuse] Share
