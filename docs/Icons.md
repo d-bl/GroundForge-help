@@ -34,6 +34,8 @@ in the south-east, where the sliders meet.
 Drag this corner to adjust the available space. 
 The buttons shown here are an alternative when the hot corner is not available, for example on touch devices. 
 
+![](images/resize.png)
+
 ![](/GroundForge/images/animate.png) **Animate**  
 It may bridge the difference in shapes of the holes between pattern definition and thread diagram. 
 For example for [dropped stitches](Replace#drop-stitches) or irregular holes. 
