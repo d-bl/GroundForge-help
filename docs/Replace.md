@@ -3,7 +3,7 @@ layout: default
 title: Modify stitches
 ---
 
-(Un)skip stitches
+Drop/restore stitches
 =======================
 
 ![](images/legend-and-ids.png)
