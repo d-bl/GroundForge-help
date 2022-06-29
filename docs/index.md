@@ -53,7 +53,7 @@ The pattern contains a vector drawing showing the order in which pairs of thread
 Where two pairs come together, there is usually a square or diamond.
 Follow the ![(i)](/GroundForge/images/information-icon.png) for the colors these blobs can take and the meaning of these colors.
 Follow the ![swatches](/GroundForge/images/swatches.png) image to download an enumeration of the symbols in this particular pattern.
-You can also hover over a blob for the meaning.
+You can also hover over a stitch for the meaning.
 This system of color coding can distinguish 147 different stitches,
 the traditional color coding can distinguish only about half a dozen.
 
@@ -64,7 +64,7 @@ To change a stitch, type the desired new value in the field above the pattern.
 For your convenience a few possibilities are predefined.
 Click the `use` button of your choice to put the value in the text field,
 then optionally click flip for a mirrored version and/or add twists.
-Finally click the desired blob(s).
+Finaly click the desired stitches to change apply the instructions and change the symbol.
 The diagram may disappear out of view, in that case increase the space for the diagram.
 Regenerate the thread diagram by clicking on the ![wand](/GroundForge/images/wand.png) image.
 

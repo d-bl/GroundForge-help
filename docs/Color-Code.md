@@ -6,16 +6,18 @@ title: Color Code
 Color Code
 ==========
 
-- **New [approach](/GroundForge/images/stitches-legens.svg)** for the primary pair diagram
+- **New [approach](/GroundForge/images/stitches-legens.svg)** for one of the pair diagrams
 - [Color code dialects](#color-code-dialects)
-- [Twist marks by GroundForge](#twist-marks-by-groundforge)
-- [Colors by GroundForge](#colors-by-groundforge)
-- [Tweak Colors](#tweak-colors)
+- For the Droste diagrams
+  - [Twist marks by GroundForge](#twist-marks-by-groundforge)
+  - [Colors by GroundForge](#colors-by-groundforge)
+  - [Tweak Colors](#tweak-colors)
 
 Click/tap the swatch icon ![](/GroundForge/images/swatches.png) for
 a legend of stitches that are actually used in the pattern.
-The legend for the primary pair diagram is a download and can be 
+The legend for the new style pair diagram is a download and can be 
 copy-pasted into the download of a pair diagram with 3rd party software.
+The legends for the Droste patterns are plain text.
 
 Color code dialects
 -------------------
@@ -24,18 +26,27 @@ Various dialects of color codes for pair diagrams are used by bobbin lace design
 There is at least a [Belgian] version, a simplified [Danish] version and a [red-blue] version and perhaps more.
 These dialects can distinguish only about half a dozen of stitches.
 
-The primary pair diagram applies a completely different [approach](/GroundForge/images/stitches-legens.svg)
-and can distinguish 147 stitches.
-The pair diagrams for the Droste patterns apply dialect of the traditional code,
+These systems are easy to draw by hand and sufficient for traditional styles of bobbin lace.
+When experimenting with unorthodox stitches and grounds we need to distinguish more than those half a dozen of colors.
+
+One of the pair diagrams in GroundForge applies a completely different [approach](/GroundForge/images/stitches-legens.svg).
+This approach may be elaborate to draw by hand.
+This new style can distinguish 147 stitches: Anything up to three crosses
+and up to three twists between those crosses. As extra also tallies and plain plaits.
+
+The pair diagrams for the Droste patterns still apply a dialect of the [Belgian] code,
 details in the following sections.
+Due to technical complications the new approach is not applied.
 
 [Belgian]: https://www.mail-archive.com/lace@arachne.com/msg51345.html
 [Danish]: https://www.mail-archive.com/lace@arachne.com/msg51355.html
 [red-blue]: https://susanroberts.info/wp-content/uploads/2019/08/Working-diagrams-part-2.pdf
 
+For the Droste diagrams
+-----------------------
 
 Twist marks by GroundForge
---------------------------
+==========================
 
 The _intention_ is a twist mark wherever there are multiple twists in a pair.
 There are glitches with the traditional style color code for the Droste patterns
@@ -52,7 +63,7 @@ Hover over stitches to figure out the exact definition as shown below.
 [notify]: https://groundforge.wordpress.com/
 
 Colors by GroundForge
----------------------
+=====================
 
 A plait in a pair diagram is not drawn as ">---<" but as "X" but still blue.
 Same for "&#41289;" (pins are hardly supported anyway)
@@ -77,7 +88,7 @@ The exact mathematical/functional definition can be found at the bottom of the c
 
 
 Tweak Colors
-------------
+============
 
 A pair diagram has a predefined palette of colors applied to stitches as shown with the following sample.
 
