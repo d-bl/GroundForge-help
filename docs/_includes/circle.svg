@@ -1,3 +1,1 @@
-<svg width="28" height="28">
-    <circle cx="14" cy="14" r="10" stroke-width="0" fill="{{ include.color }}" />
-</svg>
+<svg width="28" height="28"><circle cx="14" cy="14" r="10" stroke-width="0" fill="{{ include.color }}" /></svg>
