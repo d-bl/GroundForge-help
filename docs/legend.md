@@ -9,7 +9,7 @@ Number of stitches
 | none| one | two | more | |
 | :---: | :---: | :---: | :---: | :--- |
 | ~~&nbsp;&nbsp;&nbsp;&nbsp;~~ | ~~&nbsp;&nbsp;!&nbsp;&nbsp;&nbsp;&nbsp;~~ | ~~&nbsp;&nbsp;!&nbsp;&nbsp;~~ | ~~&nbsp;&nbsp;!!!&nbsp;&nbsp;~~ | twists between stitches |
-| {% include circle.svg color="#CA0020" %}  | {% include circle.svg color="0571B0" %} | {% include circle.svg color="#F4A582" %} | {% include circle.svg color="#92C5DE" %} | twists between crosses
+| {% include circle.svg color="#CA0020" %}  | {% include circle.svg color="0571B0" %} | {% include circle.svg color="#F4A582" %} | {% include circle.svg color="#92C5DE" %} | twists between crosses |
 
 Crosses
 -------
