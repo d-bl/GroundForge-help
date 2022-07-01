@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,18 +13,6 @@
    height="188.04054"
    sodipodi:docname="examples.svg"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
-  <path
-     class="link"
-     d="m 576.18933,183.78152 -12.84074,-21.2022 -34.22746,-57.78864"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker-mid:url(#twist-1-5)"
-     id="path1103"
-     sodipodi:nodetypes="ccc" />
-  <path
-     class="link"
-     d="m 483.11861,183.78152 12.84074,-21.2022 34.22746,-57.78864"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker-mid:url(#twist-1-5)"
-     id="path1101"
-     sodipodi:nodetypes="ccc" />
   <path
      class="link"
      d="m 30.39657,163.61539 c 0,0 6.95312,-9.00825 13.961078,-16.72084 10.86198,-11.95413 39.82916,-42.10387 39.82916,-42.10387"
@@ -56,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -326,124 +315,4 @@
        id="tspan986"
        x="298.1907"
        y="108.79395">ll</tspan></text>
-  <g
-     onclick="paint(this)"
-     class="node"
-     transform="matrix(7.5061682,0,0,7.5061682,531.21443,127.63128)"
-     id="g1018"
-     inkscape:export-xdpi="18.6"
-     inkscape:export-ydpi="18.6">
-    <title
-       id="title1005">ctllcrrc - c1</title>
-    <path
-       d="m -5.4999982,-5.5000003 c 0,0 1.8651309,3e-7 1.8651323,2.7500005 C -3.6348645,4e-7 -5.4999989,7e-7 -5.4999989,7e-7 L 1.7e-6,-2.9999998e-7 V -5.5000003 Z"
-       style="opacity:0.9;fill:#0571b0;fill-opacity:1;stroke:none"
-       id="path1014"
-       sodipodi:nodetypes="czcccc"
-       inkscape:export-xdpi="18.6"
-       inkscape:export-ydpi="18.6" />
-    <path
-       d="m 5.5000002,-5.5000001 c 0,0 -1.5986852,0 -1.5986847,2.7500005 C 3.901316,9e-7 5.5000012,8.9999999e-7 5.5000012,8.9999999e-7 l -5.5000007,-7e-7 V -5.5000001 Z"
-       style="opacity:0.9;fill:#92c5de;stroke:none"
-       id="path1016"
-       sodipodi:nodetypes="czcccc"
-       inkscape:export-xdpi="18.6"
-       inkscape:export-ydpi="18.6" />
-    <path
-       d="M -5.5,-5.5 0,-11 v 5.5 z"
-       style="opacity:0.9;fill:#0571b0;stroke:none"
-       id="path934-8" />
-    <path
-       d="m 5.5000005,-5.5000007 -5.5,-5.5000003 v 5.5000003 z"
-       style="opacity:0.9;fill:#0571b0;stroke:none"
-       id="path1072" />
-    <path
-       d="M -5.4999989,7.0000001e-7 1.1e-6,5.5000008 V 7.0000001e-7 Z"
-       style="opacity:0.9;fill:#0571b0;stroke:none"
-       id="path1074" />
-    <path
-       d="m 5.5000016,1.7e-6 -5.5,5.5000001 V 1.7e-6 Z"
-       style="opacity:0.9;fill:#0571b0;stroke:none"
-       id="path1076" />
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-     x="489.36978"
-     y="15.143255"
-     id="text1080"><tspan
-       sodipodi:role="line"
-       id="tspan1078"
-       x="489.36978"
-       y="15.143255">winkie pin</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-     x="527.16083"
-     y="46.793949"
-     id="text1084"><tspan
-       sodipodi:role="line"
-       id="tspan1082"
-       x="527.16083"
-       y="46.793949">c</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-     x="527.16083"
-     y="132.79395"
-     id="text1088"><tspan
-       sodipodi:role="line"
-       id="tspan1086"
-       x="527.16083"
-       y="132.79395">c</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-     x="527.16083"
-     y="90.793953"
-     id="text1093"><tspan
-       sodipodi:role="line"
-       id="tspan1090"
-       x="527.16083"
-       y="90.793953">c</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-     x="527.16083"
-     y="174.79395"
-     id="text1097"><tspan
-       sodipodi:role="line"
-       id="tspan1095"
-       x="527.16083"
-       y="174.79395">c</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-     x="528.21356"
-     y="70.793953"
-     id="text1107"><tspan
-       sodipodi:role="line"
-       id="tspan1105"
-       x="528.21356"
-       y="70.793953">t</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-     x="520.19067"
-     y="108.79395"
-     id="text1111"><tspan
-       sodipodi:role="line"
-       id="tspan1109"
-       x="520.19067"
-       y="108.79395">trr</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-     x="528.21356"
-     y="150.79395"
-     id="text1115"><tspan
-       sodipodi:role="line"
-       id="tspan1113"
-       x="528.21356"
-       y="150.79395">t</tspan></text>
 </svg>
