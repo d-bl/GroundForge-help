@@ -1,1 +1,1 @@
-<svg height="28" width="28"><polyline points="{{ inclide.points }}" stroke-width="2px" stroke="black" fill="none" /></svg>
+<svg height="28" width="28"><polyline points="{{ include.points }}" stroke-width="2px" stroke="black" fill="none" /></svg>
