@@ -7,7 +7,7 @@ Color code rules
 ================
 
 The Belgian color code and similar systems are sufficient for traditional styles of bobbin lace and easy to draw by hand.
-When experimenting with unorthodox stitches and grounds we need to distinguish more stitches possible with half a dozen of colors.
+When experimenting with unorthodox stitches and grounds we need to distinguish more stitches possible than possible with half a dozen of colors.
 
 This page explains the general rules for a completely different system applied to one of the pair diagrams in GroundForge.
 This new approach can distinguish 147 stitches: Anything up to three crosses
@@ -15,11 +15,12 @@ and up to three twists between those crosses. As extra also tallies and plain pl
 One drawback though: this approach may be too elaborate to draw accurately by hand.
 
 The ![swatches](/GroundForge/images/swatches.png) icon in the caption of the pair diagrams
-provide legends with just the stitches applied in the corresponding pair diagram. 
-For publishing purposes, you can use third party software to merge the downloads of the pattern and pattern-specific legend.
+provide enumerations of the stitches applied in the corresponding pair diagram. 
+For publishing purposes, you can use third party software to merge
+the downloads of the pattern and the enumeration.
 
-Number of stitches
-------------------
+Twists
+------
 
 | none| one | two | more | |
 | :---: | :---: | :---: | :---: | :--- |
