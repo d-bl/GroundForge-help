@@ -39,8 +39,8 @@ Crosses
 | {% include circle.svg color="black" %} | 1. just a single cross |
 | {% include polyline.svg points="14,4 4,4 4,24 24,24 24,4 14,4 14,24" %} | 2. cross - twist(s) - cross |
 | {% include polyline.svg points="14,4 4,14 14,24 24,14 14,4 14,24 24,14 4,14" %} | 3. cross - twist(s) - cross - twist(s) - cross |
-| {% include rectangle.svg width="7" height="14" %} | ctctctc and longer plaits |
-| {% include rectangle.svg width="14" height="14" %} | cllcrrcllc and longer or mirrored tallies |
+| {% include rectangle.svg width="7" height="14" %} | `ctctctc` and longer plaits |
+| {% include rectangle.svg width="14" height="14" %} | `cllcrrcllc` and longer or mirrored tallies |
 
 Examples
 --------
