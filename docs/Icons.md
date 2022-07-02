@@ -26,8 +26,10 @@ shows additional symbols used in legacy patterns.
 Shows the [rules](color-rules) for a color code with up to four colors per stitch.  
 The [Color-Code](Color-Code) page explains colors and twist marks for the Droste pair diagrams with just a single color per stitch.
 
-![](/GroundForge/images/swatches.png) **Color code**  
-Click the icon for an extract with actually used stitches and their color(s).
+![](/GroundForge/images/swatches.png) **Stitch enumaration**  
+Click the icon for an enumeration of used stitches and their color(s).
+Plain text for Droste diagrams with a single color per stitch,
+a download in case of the 4 color system.
 
 ![](/GroundForge/images/size-inc.jpg)
 ![](/GroundForge/images/size-dec.jpg)
