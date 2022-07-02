@@ -6,7 +6,7 @@ title: Icons, their purpose/meaning
 The purpose/meaning of buttons/icons in short
 =============================================
 
-![](/GroundForge/images/information-icon.png) **Link**  
+![(i)](/GroundForge/images/information-icon.png) **Link**  
 To a help page. Hover over the icon for the subject.
 
 ![](/GroundForge/images/wand.png)
@@ -22,9 +22,12 @@ The default [cheat sheet](/GroundForge/images/matrix-template.png) shows all you
 An [extended version](/GroundForge/images/matrix-template-extended.png) 
 shows additional symbols used in legacy patterns.
 
+![](/GroundForge/images/to-color-rules.png) **Color code rules**  
+Shows the [rules](color-rules) for a color code with up to four colors per stitch.  
+The [Color-Code](Color-Code) page explains colors and twist marks for the Droste pair diagrams with just a single color per stitch.
+
 ![](/GroundForge/images/swatches.png) **Color code**  
-The [Color-Code](Color-Code) page explains colors and twist marks in general. 
-Click the icon for an extract with actually used colors and stitches.
+Click the icon for an extract with actually used stitches and their color(s).
 
 ![](/GroundForge/images/size-inc.jpg)
 ![](/GroundForge/images/size-dec.jpg)

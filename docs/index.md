@@ -51,7 +51,7 @@ The pattern contains a vector drawing showing the order in which pairs of thread
 ![](images/G2-stitch-editor.png)
 
 Where two pairs come together, there is usually a square or diamond.
-Follow the ![(i)](/GroundForge/images/information-icon.png) for the colors these blobs can take and the meaning of these colors.
+Follow the ![(i)](/GroundForge/images/to-color-rules.png) for the meaning of the colors and shapes per stitch.
 Follow the ![swatches](/GroundForge/images/swatches.png) image to download an enumeration of the symbols in this particular pattern.
 You can also hover over a stitch for the meaning.
 This system of color coding can distinguish 147 different stitches,

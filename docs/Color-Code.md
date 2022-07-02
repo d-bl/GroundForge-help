@@ -24,15 +24,13 @@ Color code dialects
 
 Various dialects of color codes for pair diagrams are used by bobbin lace designers:
 There is at least a [Belgian] version, a simplified [Danish] version and a [red-blue] version and perhaps more.
-These dialects can distinguish only about half a dozen of stitches.
+These dialects use just one color per stitch what allows only about half a dozen of stitches.
 
 These systems are easy to draw by hand and sufficient for traditional styles of bobbin lace.
 When experimenting with unorthodox stitches and grounds we need to distinguish more than those half a dozen of colors.
 
 One of the pair diagrams in GroundForge applies a completely different [approach](/GroundForge/images/stitches-legens.svg).
-This approach may be elaborate to draw by hand.
-This new style can distinguish 147 stitches: Anything up to three crosses
-and up to three twists between those crosses. As extra also tallies and plain plaits.
+This approach uses up to four colors per stitch. 
 
 The pair diagrams for the Droste patterns still apply a dialect of the [Belgian] code,
 details in the following sections.
