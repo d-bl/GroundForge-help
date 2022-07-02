@@ -1,1 +1,1 @@
-<svg width="28" height="28"><rect cx="14" cy="14" width="{{ include.width }}" height="{{ include.height }}" stroke-width="0" fill="black" /></svg>
+<svg width="28" height="28"><rect x="7" cy="7" width="{{ include.width }}" height="{{ include.height }}" stroke-width="0" fill="black" /></svg>

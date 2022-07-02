@@ -1,26 +1,29 @@
 ---
 layout: default
-title: General color code legend
+title: Color code rules
 ---
 
-These Belgian color code and similar systems are easy to draw by hand and sufficient for traditional styles of bobbin lace.
-When experimenting with unorthodox stitches and grounds we need to distinguish more than those half a dozen of colors.
+Color code rules
+================
 
-One of the pair diagrams in GroundForge applies a completely different [approach](/GroundForge/images/stitches-legens.svg).
-This approach may be too elaborate to draw by hand.
-This new style can distinguish 147 stitches: Anything up to three crosses
+The Belgian color code and similar systems are sufficient for traditional styles of bobbin lace and easy to draw by hand.
+When experimenting with unorthodox stitches and grounds we need to distinguish more stitches possible with half a dozen of colors.
+
+This page explains the general rules for a completely different system applied to one of the pair diagrams in GroundForge.
+This new approach can distinguish 147 stitches: Anything up to three crosses
 and up to three twists between those crosses. As extra also tallies and plain plaits.
+One drawback though: this approach may be too elaborate to draw accurately by hand.
 
 The ![swatches](/GroundForge/images/swatches.png) icon in the caption of the pair diagrams
-provide legends with just the stitches applied in the diagrams. 
-This page explains the general rules.
+provide legends with just the stitches applied in the corresponding pair diagram. 
+For publishing purposes, you can use third party software to merge the downloads of the pattern and pattern-specific legend.
 
 Number of stitches
 ------------------
 
 | none| one | two | more | |
 | :---: | :---: | :---: | :---: | :--- |
-| ~~&nbsp;&nbsp;&nbsp;&nbsp;~~ | ~~&nbsp;&nbsp;!&nbsp;&nbsp;&nbsp;&nbsp;~~ | ~~&nbsp;&nbsp;!&nbsp;&nbsp;~~ | ~~&nbsp;&nbsp;!!!&nbsp;&nbsp;~~ | twists between stitches |
+| ~~&nbsp;&nbsp;&nbsp;&nbsp;~~ | ~~&nbsp; ! &nbsp;~~ | ~~&nbsp; !! &nbsp;~~ | ~~&nbsp; !!! &nbsp;~~ | twists between stitches |
 | {% include circle.svg color="#CA0020" %}  | {% include circle.svg color="#0571B0" %} | {% include circle.svg color="#F4A582" %} | {% include circle.svg color="#92C5DE" %} | twists between crosses |
 
 The colors for the twists are poored into the empty spaces of the shapes in the following table.
@@ -29,12 +32,12 @@ Crosses
 -------
 
 | | |
-| --- | --- |
-| 1. {% include circle.svg color="black" %} | just a single cross |
-| 2. {% include polyline.svg points="14,4 4,4 4,24 24,24 24,4 14,4 14,24" %} | cross - twist(s) - cross |
-| 3. {% include polyline.svg points="14,4 4,14 14,24 24,14 14,4 14,24 24,14 4,14" %} | cross - twist(s) - cross - twist(s) - cross |
-| * {% include rectangle.svg width="7" height="14" %} | ctctctc and longer plaits |
-| * {% include rectangle.svg width="14" height="14" %} | cllcrrcllc and longer or mirrored tallies |
+| :---: | :--- |
+| {% include circle.svg color="black" %} | 1. just a single cross |
+| {% include polyline.svg points="14,4 4,4 4,24 24,24 24,4 14,4 14,24" %} | 2. cross - twist(s) - cross |
+| {% include polyline.svg points="14,4 4,14 14,24 24,14 14,4 14,24 24,14 4,14" %} | 3. cross - twist(s) - cross - twist(s) - cross |
+| {% include rectangle.svg width="7" height="14" %} | ctctctc and longer plaits |
+| {% include rectangle.svg width="14" height="14" %} | cllcrrcllc and longer or mirrored tallies |
 
 Examples
 --------
