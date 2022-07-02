@@ -22,14 +22,14 @@ The default [cheat sheet](/GroundForge/images/matrix-template.png) shows all you
 An [extended version](/GroundForge/images/matrix-template-extended.png) 
 shows additional symbols used in legacy patterns.
 
-![](/GroundForge/images/to-color-rules.png) **Color code rules**  
-Shows the [rules](color-rules) for a color code with up to four colors per stitch.  
-The [Color-Code](Color-Code) page explains colors and twist marks for the Droste pair diagrams with just a single color per stitch.
-
 ![](/GroundForge/images/swatches.png) **Stitch enumaration**  
-Click the icon for an enumeration of used stitches and their color(s).
-Plain text for Droste diagrams with a single color per stitch,
-a download in case of the 4 color system.
+Click the icon for an enumeration of used stitches and their color(s).  
+Droste diagrams produce plain text with a single color per stitch.
+The result is an SVG download (see below) in case of the 4 color system.
+
+![](/GroundForge/images/to-color-rules.png) **Color code rules**  
+This icon leads to the rules for a color code with up to [four colors per stitch](color-rules).  
+The Droste pair diagrams still use a [single color per stitch](Color-Code).
 
 ![](/GroundForge/images/size-inc.jpg)
 ![](/GroundForge/images/size-dec.jpg)
