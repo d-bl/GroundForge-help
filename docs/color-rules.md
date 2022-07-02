@@ -9,9 +9,11 @@ Color code rules
 The Belgian color code and similar systems are sufficient for traditional styles of bobbin lace and easy to draw by hand.
 When experimenting with unorthodox stitches and grounds we need to distinguish more stitches than possible with half a dozen of colors.
 
-This page explains the general rules for a completely different system applied to one of the pair diagrams in GroundForge.
-This new approach can distinguish 147 stitches: Anything up to three crosses
-and up to three twists between those crosses. As extra also tallies and plain plaits.
+This page explains how GroundForge uses up to four colors per stitch.
+This approach can distinguish anything up to three crosses
+and up to three twists between those crosses.
+As extra also tallies and plain plaits.
+Counting also mirrored versions of stitches, that makes 147 stitches.
 One drawback though: this approach may be too elaborate to draw accurately by hand.
 
 The ![swatches](/GroundForge/images/swatches.png) icon in the caption of a pair diagram
