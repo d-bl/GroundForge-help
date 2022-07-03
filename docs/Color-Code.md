@@ -8,14 +8,14 @@ Color Code
 
 - [Color code dialects](#color-code-dialects)
 - [up to 4 colors per stitch](color-rules)
-- 1 color per stitch
-  - [Twist marks by GroundForge](#twist-marks-by-groundforge)
-  - [Colors by GroundForge](#colors-by-groundforge)
+- 1 color per stitch by GroundForge
+  - [Twist marks](#twist-marks-by-groundforge)
+  - [Colors](#colors-by-groundforge)
   - [Tweak Colors](#tweak-colors)
 
 Click/tap the swatch icon ![](/GroundForge/images/swatches.png) for
-an enumeration of stitches that are actually used in the pattern.
-The enumeration for the new style pair diagram is a download and can be 
+an enumeration of stitches that are actually used in a pattern.
+The enumeration for the 4-color-per-stich style pair diagram is a download and can be 
 copy-pasted into the download of a pair diagram with 3rd party software.
 The enumerations for the Droste patterns are plain text.
 
@@ -26,7 +26,7 @@ Various dialects of color codes for pair diagrams are used by bobbin lace design
 There is at least a [Belgian] version, a simplified [Danish] version and a [red-blue] version and perhaps more.
 These dialects use just one color per stitch what allows only about half a dozen of stitches.
 
-These systems have in common that only one color is to represent a stitch.
+These systems have in common that only one color represents a stitch.
 These are easy to draw by hand and sufficient for traditional styles of bobbin lace.
 When experimenting with unorthodox stitches and grounds we need to distinguish more than those half a dozen of colors.
 
