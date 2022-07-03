@@ -6,7 +6,7 @@ title: Color code rules
 Color code rules
 ================
 
-The Belgian color code and similar systems are sufficient for traditional styles of bobbin lace and easy to draw by hand.
+The Belgian color code and [similar systems](Color-Code) are sufficient for traditional styles of bobbin lace and easy to draw by hand.
 When experimenting with unorthodox stitches and grounds we need to distinguish more stitches than possible with half a dozen of colors.
 
 This page explains how GroundForge uses up to four colors per stitch.
