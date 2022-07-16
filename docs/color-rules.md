@@ -29,7 +29,10 @@ Twists
 | ~~&nbsp;&nbsp;&nbsp;&nbsp;~~ | ~~&nbsp; ! &nbsp;~~ | ~~&nbsp; !! &nbsp;~~ | ~~&nbsp; !!! &nbsp;~~ | twists between stitches |
 | {% include circle.svg color="#CA0020" %}  | {% include circle.svg color="#0571B0" %} | {% include circle.svg color="#F4A582" %} | {% include circle.svg color="#92C5DE" %} | twists between crosses |
 
-The colors for the twists are poored into the empty spaces of the shapes in the following table.
+The colors for the twists are poured into the empty spaces of the shapes in the following table.
+
+![nrs](/GroundForge/images/to-color-rules.png) The icon leading to this page serves as a reminder:
+the color numbers are arranged in a clockwise order starting with red (=danger alias unusual) as zero.
 
 Crosses
 -------

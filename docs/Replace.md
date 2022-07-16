@@ -8,7 +8,8 @@ Drop/restore stitches
 
 ![](images/legend-and-ids.png)
 
-
+How to modify stitches is explained in the getting started [tutorial](#modify-stitches).
+A more advanced subject is skipping/dropping stitches and restore them.
 
 Drop stitches
 -------------
@@ -19,13 +20,17 @@ The default stitch is `ctc`.
 _Warning_: too many adjacent dropped stitches may cause weird thread diagrams
 in which the pairs swap before a stitch is made.
 
-An explanation of a versatile [Binche](Binche) pattern still uses the old cold coding to explain dropping stitches.
+Restore stitches
+-------------
+An explanation of a versatile [Binche](Binche) pattern still uses the old old method to explain dropping stitches.
 That method still works though the pattern no longer has colors.
 You can drop the stitches also in the new style pair diagram,
 but to restore a dropped stitch you need the diagram under `edit pattern`.
 
 Reconnected stitches
 --------------------
+When stitches are dropped, the algorithm has to reconnect the involved pairs with the adjacent stitches.
+
 The green annotations in the screen shot below show how the remaining stitches reconnect in the pair diagram after a dropped stitch.
 One case is straight forward. In the other case, because the GroundForge pair diagram treats stitch-pin-stitch as a single stitch, the stitches are merged two by two.
 
