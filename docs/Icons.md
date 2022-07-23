@@ -22,7 +22,7 @@ The default [cheat sheet](/GroundForge/images/matrix-template.png) shows all you
 An [extended version](/GroundForge/images/matrix-template-extended.png) 
 shows additional symbols used in legacy patterns.
 
-![](/GroundForge/images/swatches.png) **Stitch enumaration**  
+![](/GroundForge/images/swatches.png) **Stitch enumeration**  
 Click the icon for an enumeration of used stitches and their color(s).  
 Droste diagrams produce plain text with a single color per stitch.
 The result is an SVG download (see below) in case of the 4 color system.
