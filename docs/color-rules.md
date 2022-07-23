@@ -9,12 +9,12 @@ Color code rules
 The Belgian color code and [similar systems](Color-Code) are sufficient for traditional styles of bobbin lace and easy to draw by hand.
 When experimenting with unorthodox stitches and grounds we need to distinguish more stitches than possible with half a dozen of colors.
 
-This page explains how GroundForge uses up to four colors per stitch.
-This approach can distinguish anything up to three crosses
-and up to three twists between those crosses.
-As extra also tallies and plain plaits.
-Counting also mirrored versions of stitches, that makes 147 stitches.
-One drawback though: this approach may be too elaborate to draw accurately by hand.
+This page explains how GroundForge uses up to four colors per stitch to
+distinguish up to three crosses and up to three twists
+between those crosses, as well as tallies and plain plaits.
+If we count mirrored versions of stitches, the color code can distinguish 147 total
+separate stitches. It does have one drawback: the approach may be too elaborate to 
+draw accurately by hand.
 
 The ![swatches](/GroundForge/images/swatches.png) icon in the caption of a pair diagram
 provides enumerations of the applied stitches. 
@@ -24,15 +24,15 @@ the downloads of the pattern and the enumeration.
 Twists
 ------
 
+![nrs](/GroundForge/images/to-color-rules.png) The icon leading to this page serves as a reminder:
+the color numbers are arranged in a clockwise order starting with red (=danger alias unusual) as zero.
+
 | none| one | two | more | |
 | :---: | :---: | :---: | :---: | :--- |
 | ~~&nbsp;&nbsp;&nbsp;&nbsp;~~ | ~~&nbsp; ! &nbsp;~~ | ~~&nbsp; !! &nbsp;~~ | ~~&nbsp; !!! &nbsp;~~ | twists between stitches |
 | {% include circle.svg color="#CA0020" %}  | {% include circle.svg color="#0571B0" %} | {% include circle.svg color="#F4A582" %} | {% include circle.svg color="#92C5DE" %} | twists between crosses |
 
-The colors for the twists are poured into the empty spaces of the shapes in the following table.
-
-![nrs](/GroundForge/images/to-color-rules.png) The icon leading to this page serves as a reminder:
-the color numbers are arranged in a clockwise order starting with red (=danger alias unusual) as zero.
+Colors for the twists fill shapes in the following table.
 
 Crosses
 -------
@@ -48,7 +48,7 @@ Crosses
 Examples
 --------
 
-The following annotated examples apply the rules of the _twists_ table into the outlined shapes of the _crosses_ table.
+The following examples combine the color rules relating to _twists_ with the shapes representing the _crosses_.
 Note that each `t` of the captions is translated into an `l` plus `r` in the drawings.
 
 ![](images/examples.svg)
