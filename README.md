@@ -10,8 +10,8 @@ license. The repositories with help pages and examples have a
 See [details](https://github.com/d-bl/GroundForge#licenses)
 for diagrams you made with GroundForge: in short, what you made is yours.
 
-Pruned repository
------------------
+History
+-------
 
 This repository has the help files previously part of the [GroundForge](https://github.com/d-bl/GroundForge)
 repository.
