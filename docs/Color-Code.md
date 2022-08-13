@@ -8,8 +8,8 @@ Color Code
 
 - [Color code dialects](#color-code-dialects)
 - [up to 4 colors per stitch](color-rules)
-- 1 color per stitch by GroundForge
-  - [Twist marks](#twist-marks-by-groundforge)
+- 1 color per stitch by GroundForge for Droste diagrams
+  - [Twist marks](#twist-marks)
   - [Colors](#colors-by-groundforge)
   - [Tweak Colors](#tweak-colors)
 
@@ -20,7 +20,7 @@ copy-pasted into the download of a pair diagram with 3rd party software.
 The enumerations for the Droste patterns are plain text.
 
 Color code dialects
--------------------
+===================
 
 Various dialects of color codes for pair diagrams are used by bobbin lace designers:
 There is at least a [Belgian] version, a simplified [Danish] version and a [red-blue] version and perhaps more.
@@ -42,19 +42,17 @@ Due to technical complications the new approach is not applied.
 [red-blue]: https://susanroberts.info/wp-content/uploads/2019/08/Working-diagrams-part-2.pdf
 
 For the Droste diagrams
------------------------
+=======================
 
-Twist marks by GroundForge
-==========================
+Droste diagrams are thread diagrams used as pair diagrams to produce another thread diagram.
 
-The _intention_ is a twist mark wherever there are multiple twists in a pair.
-There are glitches with the traditional style color code for the Droste patterns
-The new approach should be consistent. This new approach also has the advantage 
-that don't have to add the tick marks to the color to compute the number of twists.
+Twist marks
+-----------
+
+The _intention_ is a twist mark wherever there are multiple twists in a pair but the implementation is buggy.
 
 The reason of this approach is the ability to apply and even mix 
 open stitches (start with twist) and closed stitches (end with twists).
-It can make the diagrams ambiguous.
 Hover over stitches to figure out the exact definition as shown below.
 
 ![](images/dialect.png)
@@ -62,7 +60,7 @@ Hover over stitches to figure out the exact definition as shown below.
 [notify]: https://groundforge.wordpress.com/
 
 Colors by GroundForge
-=====================
+---------------------
 
 A plait in a pair diagram is not drawn as ">---<" but as "X" but still blue.
 Same for "&#41289;" (pins are hardly supported anyway)
@@ -87,7 +85,7 @@ The exact mathematical/functional definition can be found at the bottom of the c
 
 
 Tweak Colors
-============
+------------
 
 A pair diagram has a predefined palette of colors applied to stitches as shown with the following sample.
 

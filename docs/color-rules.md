@@ -67,3 +67,5 @@ Note
 
 The color scheme was selected from [colorbrewer](https://colorbrewer2.org/?type=diverging&scheme=RdBu&n=5)
 because of its color-blind friendly properties.
+
+The pair diagrams based on thread diagrams still apply a [variation]() of the Belgian color-code with buggy numbers of twist marks. 
