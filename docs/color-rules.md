@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Color code rules
+title: 4 colors per stitch
 ---
 
 Color codes

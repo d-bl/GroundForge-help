@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Color Code
+title: Single color per sticth
 ---
 
 Color Code
