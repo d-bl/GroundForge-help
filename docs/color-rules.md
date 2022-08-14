@@ -70,3 +70,6 @@ The color scheme was selected from [colorbrewer](https://colorbrewer2.org/?type=
 because of its color-blind friendly properties.
 
 The pair diagrams based on thread diagrams still apply a [variation](Color-Code) of the Belgian color-code with buggy numbers of twist marks. 
+
+Not having twists between stitches encoded in the colors of the stitches, 
+makes the diagrams agnostic to the open (start with twist) and close (end with twist) method.
