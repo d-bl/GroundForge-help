@@ -13,7 +13,7 @@ When experimenting with unorthodox stitches and grounds we need to distinguish m
 ===================
 
 This page explains how GroundForge uses up to four colors per stitch to
-distinguish up to three crosses and up to three twists
+distinguish up to four crosses per stitch and up to three twists
 between those crosses, as well as tallies and plain plaits.
 If we count mirrored versions of stitches, the color code can distinguish over 4K
 separate stitches. It does have one drawback: the approach may be too elaborate to 
