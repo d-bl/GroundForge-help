@@ -6,8 +6,8 @@ title: 4 colors per stitch
 Color codes
 ===========
 
-The Belgian color code and [similar systems](Color-Code) are sufficient for traditional styles of bobbin lace and easy to draw by hand.
-When experimenting with unorthodox stitches and grounds we need to distinguish more stitches than possible with half a dozen of colors.
+The Belgian color code and [similar systems](Color-Code) are designed for traditional styles of bobbin lace.
+When experimenting with unorthodox stitches and grounds we need more than half a dozen of colors for a universal legend.
 
 4 colors per stitch
 ===================
