@@ -6,7 +6,7 @@ title: Icons, their purpose/meaning
 The purpose/meaning of buttons/icons in short
 =============================================
 
-![](/GroundForge/images/information-icon.png) **Link**  
+![(i)](/GroundForge/images/information-icon.png) **Link**  
 To a help page. Hover over the icon for the subject.
 
 ![](/GroundForge/images/wand.png)
@@ -22,9 +22,14 @@ The default [cheat sheet](/GroundForge/images/matrix-template.png) shows all you
 An [extended version](/GroundForge/images/matrix-template-extended.png) 
 shows additional symbols used in legacy patterns.
 
-![](/GroundForge/images/swatches.png) **Color code**  
-The [Color-Code](Color-Code) page explains colors and twist marks in general. 
-Click the icon for an extract with actually used colors and stitches.
+![](/GroundForge/images/swatches.png) **Stitch enumeration**  
+Click the icon for an enumeration of used stitches and their color(s).  
+Droste diagrams produce plain text with a single color per stitch.
+The result is an SVG download (see below) in case of the 4 color system.
+
+![](/GroundForge/images/to-color-rules.png) **Color code rules**  
+This icon leads to the rules for a color code with up to [four colors per stitch](color-rules).  
+The Droste pair diagrams still use a [single color per stitch](Color-Code).
 
 ![](/GroundForge/images/size-inc.jpg)
 ![](/GroundForge/images/size-dec.jpg)
@@ -33,6 +38,8 @@ Depending on the browser/device, the diagrams may have a hot corner
 in the south-east, where the sliders meet.
 Drag this corner to adjust the available space. 
 The buttons shown here are an alternative when the hot corner is not available, for example on touch devices. 
+
+![](images/resize.png)
 
 ![](/GroundForge/images/animate.png) **Animate**  
 It may bridge the difference in shapes of the holes between pattern definition and thread diagram. 

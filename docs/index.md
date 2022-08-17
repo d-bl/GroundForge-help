@@ -45,19 +45,40 @@ Every time you change the swatch size, you must regenerate the pair and thread d
 
 ## Modify stitches
 
-To change the stitches, go to the pattern diagram in the _Edit pattern_ section. The pattern contains a vector drawing showing the order in which pairs of threads come together. There are multiple copies of the ground pattern in the prototype, showing how the pattern repeats. One copy is brightly coloured, the others appear faded. We will always work with the brightly coloured copy.
+To change the stitches, go to the pairs diagram in the _Diagrams_ section.
+The pattern contains a vector drawing showing the order in which pairs of threads come together. 
 
 ![](images/G2-stitch-editor.png)
 
-Where two pairs come together, there is a circle with a number or letter in its centre. Click once on any of these circles and a yellow box appears with the stitch definition. To change the stitch, type the new instructions while the yellow box is visible. Note: Do not try to click inside the yellow box to change the caret position.  Use the arrows on the keyboard instead.  
+Where two pairs come together, there is usually a square or diamond.
+Follow the ![(i)](/GroundForge/images/to-color-rules.png) for the meaning of the colors and shapes per stitch.
+Follow the ![swatches](/GroundForge/images/swatches.png) image to download an enumeration of the symbols in this particular pattern.
+You can also hover over a stitch for the meaning.
+This system of color coding can distinguish 147 different stitches,
+the traditional color coding can distinguish only about half a dozen.
 
-Every time you change the stitch definitions, you must regenerate the pair and thread diagrams by clicking on the ![wand](/GroundForge/images/wand.png) image found near the top left of the _Edit pattern_ area.
+To change a stitch, type the desired new value in the field above the pattern.
 
-Exercise: Try to change the center of the spider from `ctcctc` to `t`. (Spoiler alert: The center of the spider is the black circle around the symbol `5`, located in the top left corner of the prototype).
+![](images/stitch-samples.png)
+
+For your convenience a few possibilities are predefined.
+Click the `use` button of your choice to put the value in the text field,
+then optionally click flip for a mirrored version and/or add twists.
+Finaly click the desired stitches to change apply the instructions and change the symbol.
+The diagram may disappear out of view, in that case increase the space for the diagram.
+Regenerate the thread diagram by clicking on the ![wand](/GroundForge/images/wand.png) image.
+
+Exercise: Try to change the center of the spider from `ctcctc` to `t`.
 
 In addition to the usual `c` for cross and `t` for twist, you can twist only the right pair by typing `r` or type `l` to twist only the left pair. You can also "drop" a stitch. That is, when two pairs meet, do not braid them together at all. To drop a stitch, replace the stitch instructions with `-`. Be careful when dropping stitches. It can have unexpected consequences.
 
 Exercise: Can you create the following variation? [solution](/GroundForge/tiles?whiting=G2_P199&patchWidth=20&patchHeight=20&f1=-&a1=t&j2=ctc&i2=ctclll&h2=ctctt&g2=ctctt&f2=ctctt&e2=ctctt&d2=ctctt&c2=ctcrrr&b2=ctc&j3=ctclll&i3=ctctt&h3=ctctt&g3=ctcttl&f3=ctc&e3=ctcttr&d3=ctctt&c3=ctctt&b3=ctcrrr&a3=ctc&j4=ctctt&i4=ctctt&h4=ctcttl&g4=ctc&f4=ctc&e4=ctc&d4=ctcttr&c4=ctctt&b4=ctctt&a4=ctcttt&j5=ctctt&i5=ctcttl&h5=ctc&g5=ctc&e5=ctc&d5=ctc&c5=ctcttr&b5=ctctt&a5=ctctt&tile=5----5----,-CDD632AAB,5666632222,5666632222,56666-2222&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5)
+
+**Note** on the last example stitch:  
+It is a counterintuitive winkie pin,
+without a pin because pins are rarely placed were desired.
+As long as two pair meet again without interaction with other pairs,
+GroundForge interprets the actions as a single stitch.
 
 ![](images/G2-modified.png)
 

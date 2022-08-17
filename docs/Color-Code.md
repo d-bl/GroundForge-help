@@ -1,41 +1,58 @@
 ---
 layout: default
-title: Color Code
+title: Single color per sticth
 ---
 
 Color Code
 ==========
 
 - [Color code dialects](#color-code-dialects)
-- [Twist marks by GroundForge](#twist-marks-by-groundforge)
-- [Colors by GroundForge](#colors-by-groundforge)
-- [Tweak Colors](#tweak-colors)
+- [up to 4 colors per stitch](color-rules)
+- 1 color per stitch by GroundForge for Droste diagrams
+  - [Twist marks](#twist-marks)
+  - [Colors](#colors-by-groundforge)
+  - [Tweak Colors](#tweak-colors)
 
 Click/tap the swatch icon ![](/GroundForge/images/swatches.png) for
-an abstract of color names and corresponding stitches that are actually used.
+an enumeration of stitches that are actually used in a pattern.
+The enumeration for the 4-color-per-stich style pair diagram is a download and can be 
+copy-pasted into the download of a pair diagram with 3rd party software.
+The enumerations for the Droste patterns are plain text.
 
 Color code dialects
--------------------
+===================
 
 Various dialects of color codes for pair diagrams are used by bobbin lace designers:
-a [Belgian] version, a simplified [Danish] version, a [red-blue] version and perhaps more.
-Allowing -even encouraging- unorthodox stitches, the liberty to use both open and closed stitches,
-poor or no support for tallies, pins and gimps in GroundForge and other limitations asks for yet another dialect.
+There is at least a [Belgian] version, a simplified [Danish] version and a [red-blue] version and perhaps more.
+These dialects use just one color per stitch what allows only about half a dozen of stitches.
+
+These systems have in common that only one color represents a stitch.
+These are easy to draw by hand and sufficient for traditional styles of bobbin lace.
+When experimenting with unorthodox stitches and grounds we need to distinguish more than those half a dozen of colors.
+
+One of the pair diagrams in GroundForge applies a completely different [approach](/GroundForge/images/stitches-legens.svg).
+This approach uses up to four colors per stitch. 
+
+The pair diagrams for the Droste patterns still apply a dialect of the [Belgian] code,
+details in the following sections.
+Due to technical complications the new approach is not applied.
 
 [Belgian]: https://www.mail-archive.com/lace@arachne.com/msg51345.html
 [Danish]: https://www.mail-archive.com/lace@arachne.com/msg51355.html
 [red-blue]: https://susanroberts.info/wp-content/uploads/2019/08/Working-diagrams-part-2.pdf
 
+For the Droste diagrams
+=======================
 
-Twist marks by GroundForge
---------------------------
+Droste diagrams are thread diagrams used as pair diagrams to produce another thread diagram.
 
-The _intention_ is a twist mark wherever there are multiple twists in a pair.
-Please [notify] us of any glitches.
+Twist marks
+-----------
+
+The _intention_ is a twist mark wherever there are multiple twists in a pair but the implementation is buggy.
 
 The reason of this approach is the ability to apply and even mix 
 open stitches (start with twist) and closed stitches (end with twists).
-It can make the diagrams ambiguous.
 Hover over stitches to figure out the exact definition as shown below.
 
 ![](images/dialect.png)

@@ -87,7 +87,7 @@ Apply a grid to the base pattern and assign symbols to each line intersection.  
 Finally, we arrange the copies.  Click on the filled blue block in the image of a checkerboard.
 Initially, the copies will be placed corner to corner.  Click on the black arrows around the green and purple blocks to nudge the copies so that they overlap as desired.
 
-It is important to have only one copy of each stitch in the pattern, otherwise unexpected things can happen.  Therefore, an important last step is to remove the duplicate stitches that appear in the overlapping corners.    Replace the overlapped stitches in the bottom corners with as many `-`'s as required, as shown below. 
+It is important to have only one copy of each stitch in the pattern, otherwise unexpected things can happen.  Therefore, an important last step is to remove the duplicate stitches that appear in the overlapping corners.    Replace the overlapped stitches in the bottom corners with as many `-`'s as required, as shown below in the green boxes. 
 
 ![](images/rose-checker-define-repeat-2.png) 
 
@@ -95,7 +95,12 @@ It is important to have only one copy of each stitch in the pattern, otherwise u
 
 ### Initialize stitches
 
-For convenience, you can set all stitches in the pattern to the same value.  In the _Edit pattern_ area, just below the middle box where you typed symbols for the pattern, there is a small text box.  Enter a stitch as a sequence of `c`, `t`, `r` or `l` (for example, `cttct`).  Click on the _initialize stitches_ button and then on the ![wand](/GroundForge/images/wand.png) image above the pattern diagram to regenerate the thread and pair diagrams.  This is a quick way to see how a ground looks in cloth-stitch, half-stitch or whole-stitch.  Once initialized, you can change the stitches used for individual intersections by clicking on the symbols in the pattern diagram.  Each time you click on the _initialize stitches_ button, the stitch values in the pattern are reset.
+For convenience, you can set all stitches in the pattern to the same value.
+In the _Diagrams_ area, there is a text box above the pair diagram.
+Enter a stitch as a sequence of `c`, `t`, `r` or `l` (for example, `cttct`).
+Click on the _assign to all_ button and then on the ![wand](/GroundForge/images/wand.png) image to regenerate the thread and pair diagrams.
+This is a quick way to see how a ground looks in cloth-stitch, half-stitch or whole-stitch.
+To change individual stitches, change the text box again and click an intersection in the pair diagram.
 
 Footside Tutorial
 -----------------
