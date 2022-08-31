@@ -3,12 +3,7 @@ layout: default
 title: Share
 ---
 
-* Share
-  * [Reuse on 3rd party pages](#reuse-on-3rd-part-pages)
-  * [Batch or server side](#Batch-or-server-side)
-* [Stay posted](Changes)
-* [Stable version](Stable)
-* [Fix old pattern links](Fix-Old-Links)
+{% include toc.md %}
 
 
 Reuse on 3rd party pages
@@ -40,18 +35,7 @@ Known examples:
 
 ### 3. Embedded diagrams
 You can even embed one or more of the dynamic diagrams on your pages.
-To get started download both files on [docs/API]: save the raw versions together in one directory. 
-Change one JavaScript reference in the html file to the following address
-(note that `{NNN}` means the latest commit [number]):
-
-```
-https://raw.githubusercontent.com/d-bl/GroundForge/{NNN}/docs/js/GroundForge-opt.js
-```
-Now the downloaded page should show the same diagrams as the public [API page].
-
-Finally edit the `load` function in the downloaded script to drop the diagrams you don't want.
-Assign dynamic values to the hardcode value `q` and/or arguments for `patterns.add`. 
-An option to obtain these values are the convenience forms discussed above.
+The [API](/GroundForge/API) explanation should get you started.
 
 Batch or server side
 ====================

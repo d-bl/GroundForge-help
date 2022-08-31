@@ -3,10 +3,7 @@ layout: default
 title: Fix Old Links
 ---
 
-* [Reuse] Share
-* [Changes](Changes)
-* [Stable version](Stable)
-* Fix Old Links
+{% include toc.md %}
 
 Fix Old Links to patterns
 =========================
