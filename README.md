@@ -17,7 +17,7 @@ This repository is part of a set. Please see https://github.com/d-bl/GroundForge
 History
 -------
 
-This repository has the help files previously part of the [GroundForge](https://github.com/d-bl/GroundForge)
+This content of this repository was previously part of the [GroundForge](https://github.com/d-bl/GroundForge)
 repository.
 Separating help pages from the code allows more appropriate licenses.
 
