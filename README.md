@@ -1,6 +1,3 @@
-[Contribute](https://github.com/d-bl/GroundForge#contribute-to-documentation)
-to the family of repositories.
-
 License
 -------
 
@@ -9,6 +6,13 @@ license. The repositories with help pages and examples have a
 [CC-BY](http://creativecommons.org/licenses/by/4.0/) license. 
 See [details](https://github.com/d-bl/GroundForge#licenses)
 for diagrams you made with GroundForge: in short, what you made is yours.
+
+
+Contribute
+----------
+
+This repository is part of a set. Please see https://github.com/d-bl/GroundForge#contribute-to-documentation
+
 
 History
 -------
