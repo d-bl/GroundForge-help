@@ -1,35 +1,31 @@
-Contact
--------
-*
+* <h2> Contact </h2>
+
   * <a href="https://groups.io/g/GroundForge" target="_blank">User group</a>
   * <a href="https://groundforge.wordpress.com" target="_blank">Support</a>
   * {% if page.name == 'about-us.md' %} About us {% else %} [About us](/GroundForge-help/about-us) {% endif %}
 
-Catalogues
-----------
-*
+* <h2> Catalogues </h2>
+
   * [TesseLace index](/tesselace-to-gf)
   * [Gertrude Whiting sampler](/gw-lace-to-gf)
   * [Many Attractive Examples](/MAE-gf/)
   * [Literature](/MAE-gf/docs/literature)
 
-GroundForge
------------
-*
+* <h2> GroundForge </h2>
+
   * [Diagram editor](/GroundForge/tiles)
   * {% if page.name == 'about-us.md' %} [User guide](/GroundForge/) {% else %} User guide {% endif %}
   * [Net variations](/GroundForge/nets)
 
   * * *
 
-User guide
-----------
+* <h2> User guide </h2>
 
-### Introduction
+* <h3> Introduction </h3>
+* [de](https://github.com/d-bl/GroundForge/blob/oidfa-article/docs/help/DE.md), [en](/GroundForge/), [fr](http://gibritte.over-blog.com/2020/05/jouer-groundforge.html), [nl](https://github.com/d-bl/GroundForge/blob/oidfa-article/docs/help/NL.md)
 
-[de](https://github.com/d-bl/GroundForge/blob/oidfa-article/docs/help/DE.md), [en](/GroundForge/), [fr](http://gibritte.over-blog.com/2020/05/jouer-groundforge.html), [nl](https://github.com/d-bl/GroundForge/blob/oidfa-article/docs/help/NL.md)
-### Features
-*
+* <h3> Features </h3>
+
   * [Icons](/GroundForge-help/Icons)
   * [Thread properties](/GroundForge-help/Thread-Properties) ![](/GroundForge-help/images/toggle-thread.png)
   * [Drop/restore stitches](/GroundForge-help/Replace) ![](/GroundForge-help/images/toggle-stitch.png)
@@ -44,24 +40,24 @@ User guide
       * [up to 4 per stitch](/GroundForge-help/color-rules) ![](/GroundForge/images/to-color-rules.png)
       * [enumerate stitches](/GroundForge-help/Icons) ![](/GroundForge/images/swatches.png)
 
-### Tutorials
-*
+* <h3> Tutorials </h3>
+
   * [Getting Started](/GroundForge-help/index)
   * [Create a pattern](/GroundForge-help/Advanced)
   * [Droste effect](/GroundForge-help/Droste-effect)
   * [Reshape pair diagrams](/GroundForge-help/Reshape-Patterns)
   * [Printed patterns to GF](/GroundForge-help/Reversed-engineering-of-patterns)
 
-### Notes
-*
+* <h3> Notes </h3>
+
   * [Patch Size](/GroundForge-help/Patch-Size)
   * [Pin distances and angles](/GroundForge-help/Pin-distances-and-angles)
   * [Head/foot-sides](/GroundForge-help/footsides)
 
 * * *
 
-### Contribute
-*
+* <h3> Contribute </h3>
+
   * [Share and reuse](/GroundForge-help/Reuse)
   * [propose changes]({{%20site.github.repository_url%20}}/edit/master/docs/{{%20page.path%20}} "typo's, grammar, whatever") to this page.
   * [![](/GroundForge/assets/images/CC_some_rights_reserved.png)](https://github.com/d-bl/GroundForge/#licenses)  
