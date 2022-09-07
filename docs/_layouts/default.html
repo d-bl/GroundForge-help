@@ -43,6 +43,7 @@
 
         <aside id="sidebar" lang="en">
             {% include Sidebar.html %}
+            {{ Sidebar.html | markdownify }}
         </aside>
     </div>
 </div>
