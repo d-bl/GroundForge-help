@@ -34,7 +34,7 @@
   * [Resize space](/GroundForge-help/Icons) ![-](/GroundForge/images/size-inc.jpg)![-](/GroundForge/images/size-dec.jpg)
   * [Animate](/GroundForge-help/Icons) ![-](/GroundForge/images/animate.png)
   * [Download](/GroundForge-help/Download) ![-](/GroundForge/images/download.jpg)
-  * [Print](/GroundForge-help/Icons) ![-](/GroundForge/images/print.jpg)
+  * [Print](/GroundForge-help/Icons) ![-](/GroundForge/images/print.png)
   * Color codes, twist marks
       * [1 color per stitch](/GroundForge-help/Color-Code)
       * [up to 4 per stitch](/GroundForge-help/color-rules) ![-](/GroundForge/images/to-color-rules.png)
