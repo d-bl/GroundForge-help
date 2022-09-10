@@ -4,14 +4,14 @@
 * <a href="https://groundforge.wordpress.com" target="_blank">Support</a>
 * {% if page.name == 'about-us.md' %} About us {% else %} [About us](/GroundForge-help/about-us) {% endif %}
 
-##Catalogues
+## Catalogues
 
 * [TesseLace index](/tesselace-to-gf)
 * [Gertrude Whiting sampler](/gw-lace-to-gf)
 * [Many Attractive Examples](/MAE-gf/)
 * [Literature](/MAE-gf/docs/literature)
 
-##GroundForge
+## GroundForge
 
 * [Diagram editor](/GroundForge/tiles)
 * {% if page.name == 'about-us.md' %} [User guide](/GroundForge/) {% else %} User guide {% endif %}
