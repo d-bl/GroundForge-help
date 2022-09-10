@@ -21,7 +21,7 @@
 
 * <h2> User guide </h2>
 
-* <h3> Introduction </h3>
+  <h3> Introduction </h3>
 
   * [de](https://github.com/d-bl/GroundForge/blob/oidfa-article/docs/help/DE.md), [en](/GroundForge/), [fr](http://gibritte.over-blog.com/2020/05/jouer-groundforge.html), [nl](https://github.com/d-bl/GroundForge/blob/oidfa-article/docs/help/NL.md)
 
