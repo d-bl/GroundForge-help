@@ -1,0 +1,39 @@
+group,page,bookmark/tab title,side bar navigation,shared TOC, notes
+,Same content when "index" is dropped and/or ".html" added. An additional #tag scrolls the page.
+User guide > features >
+,https://d-bl.github.io/GroundForge-help/Change-tiles,Tile layout, > Tile layout
+,https://d-bl.github.io/GroundForge-help/Color-Code,Single color per sticth, > Color codes > 1 color per sticth
+,https://d-bl.github.io/GroundForge-help/color-rules,4 colors per stitch, > Color codes > up to 4 per stitch
+,https://d-bl.github.io/GroundForge-help/Download,GroundForge download, > Download
+,https://d-bl.github.io/GroundForge-help/footsides,Modify stitches, > Head/foot sides
+,https://d-bl.github.io/GroundForge-help/Icons,"Icons, their purpose/meaning", > Icons,,and more menu entries
+,https://d-bl.github.io/GroundForge-help/Replace,Modify stitches, > Drop/restore stitches
+,https://d-bl.github.io/GroundForge-help/Thread-Properties,Thread properties, > Thread properties
+,https://d-bl.github.io/GroundForge-help/Undo,Undo, > save refresh undo
+User guide > tutorials >
+,https://d-bl.github.io/GroundForge-help/Droste-effect,Droste effect, > Droste effect
+,https://d-bl.github.io/GroundForge-help/index,Getting Started, > Getting Started
+,https://d-bl.github.io/GroundForge-help/Advanced,New pattern tutorial, > Create a pattern
+,https://d-bl.github.io/GroundForge-help/Reshape-Patterns,Reshape Patterns, > Reshape pair diragrams
+,https://d-bl.github.io/GroundForge-help/Reversed-engineering-of-patterns,Advanced Design, > Printed pattern to GF
+other
+,https://d-bl.github.io/GroundForge/index,GroundForge - Home,User guide > introdcution > en
+,https://d-bl.github.io/GroundForge-help/Changes,Changes,,> Stay posted,about notifications and issues
+,https://d-bl.github.io/GroundForge-help/Patch-Size,Patch Size,User guide > Notes > Patch Size
+,https://d-bl.github.io/GroundForge-help/Pin-distances-and-angles,Pin distances and Angles,User guide > Notes > Pin distances and Angles
+,https://d-bl.github.io/GroundForge-help/about-us,About us,Contact > About us
+,https://d-bl.github.io/GroundForge-help/Binche,Binche Kompakt ground number 31,
+,https://d-bl.github.io/GroundForge-help/Stable,Stable version / 3rd party pages,,> stable version
+,https://d-bl.github.io/GroundForge-help/untangle,Untangle,
+,https://d-bl.github.io/gw-lace-to-gf/index,Whiting index,Catalogues > Gertrude Whiting sampler
+,https://d-bl.github.io/MAE-gf/literature,Literature,Catalogues > Literature
+review only (very technical content),
+,https://d-bl.github.io/GroundForge/nets,GroundForge: nets,GroundForge > Net variations
+,https://d-bl.github.io/GroundForge/tiles,GroundForge - thread diagrams from pair diagrams,GroundForge > Diagram editor
+not sure is not really for an end user guide,
+,https://d-bl.github.io/GroundForge/API/index,GroundForge - API,,,Building blocks of the web UI. Should be (but is not yet) findable via the project README
+,https://d-bl.github.io/GroundForge/404,,,,how to fix broken bookmarks and third party links because page renames
+,https://d-bl.github.io/GroundForge-help/Bloopers,Bloopers,
+,https://d-bl.github.io/GroundForge-help/History,History of GroundForge,
+,https://d-bl.github.io/GroundForge-help/Fix-Old-Links,Fix Old Links,,> Fix old pattern links
+,https://d-bl.github.io/GroundForge-help/Reuse,Share,Contribute > Share and reuse,> Share
