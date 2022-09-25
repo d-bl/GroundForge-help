@@ -1,13 +1,27 @@
 ---
 layout: default
-title: Patch Size
+title: Swatch Size
 ---
+Swatch Size
+===========
 
 Changing the dimensions of the diagrams may have some unexpected consequences.
 
-Large sizes
------------
-Note that a large swatch size makes a diagram slower to render.  On slow devices like tablets and phones that might give the impression that links to pages with a large swatch size don't work at all or block the device. So create links with patch sizes just large enough to recognize the pattern, visitors can easily increment the size.
+Override maximum size
+---------------------
+The arrows of the input fields are maximized such that
+the swatch snugly fits on an A4.
+For a larger swatch size you can type any number.
+
+With foot sides added to a maximum swatch size, the pattern spills over a portrait A4.
+When the pattern doesn't fit on an A4, the maximum available space will become a portrait A2.
+
+Large sizes and slow devices
+----------------------------
+Note that a large swatch size makes a diagram slower to render.
+On slow devices like tablets and phones that might give the impression that links to large swatches don't work.
+Those links can even block a device.
+So create links with patch sizes just large enough to recognize the pattern, visitors can easily increment the size.
 
 When you specify a swatch that is too small, (or a link with no dimensions) the size will be automatically increased to contain at least one tile.
 
