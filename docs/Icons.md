@@ -31,12 +31,13 @@ The result is an SVG download (see below) in case of the 4 color system.
 This icon leads to the rules for a color code with up to [four colors per stitch](color-rules).  
 The Droste pair diagrams still use a [single color per stitch](Color-Code).
 
-![print](/GroundForge/images/print.png) **Printable page**
-This icon produces a page with two representations of the pair diagram
-and an enumeration of the stitches. 
-Arrange the space for the diagrams with the hot corner (you can hide either one or even both)
-and use the print(preview) functions of your browser. 
-To post-process with third party-software use a separate download for the diagram and enumeration.
+![print](/GroundForge/images/print.png) **Print/PDF friendly**
+This icon leads to a page with most diagrams and an enumeration of the stitches. 
+The print preview of your browser will drop the intro and allows saving as PDF.
+Your operating system allows you to browse visually through saved PDFs
+and the link brings you back to the pattern definition for further tweaking.
+Inkscape can import and post process a saved PDF
+but using the download buttons for the diagrams results in less clutter.
 
 ![inc](/GroundForge/images/size-inc.jpg)
 ![dec](/GroundForge/images/size-dec.jpg)
