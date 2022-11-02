@@ -17,8 +17,8 @@ on a mac use command for control.
 
 More thread colors and/or widths
 ================================
-
-Downloaded diagrams and a vector capable editor (SVG) allow more/other thread properties. 
+The print/PDF friendly page allows you to choose any color you like.
+Downloaded a diagram and a vector capable editor (SVG) allows even other thread properties such as width. 
 
 When 4 variants is enough: your SVG editor might allow to select all threads
 with one of the predefined colors and subsequently change them.
