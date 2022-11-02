@@ -16,10 +16,10 @@ interactive page where you can continue tweaking the pattern.
 
 The page has only diagrams and an enumeration of the stitches.
 The print preview of your browser drops the last interaction clutter.
-Diagrams for the Droste  patterns (using a thread diagram as pair diagram)
-are not implemented. Instead, you get some obsolete diagrams with the
-[1-color-per-stitch](Color-Code) coding which is replaced by the
-[4-color-per-stitch](color-rules) coding on the interactive page.
+The page has [1-color-per-stitch](Color-Code) diagrams as well as
+[4-color-per-stitch](color-rules), both in an animated version and a not animated version.
+Diagrams for the Droste patterns (using a thread diagram as pair diagram)
+are only available on the interactive page.
 
 Thread colors
 -------------
