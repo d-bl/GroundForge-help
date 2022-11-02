@@ -32,12 +32,8 @@ This icon leads to the rules for a color code with up to [four colors per stitch
 The Droste pair diagrams still use a [single color per stitch](Color-Code).
 
 ![print](/GroundForge/images/print.png) **Print/PDF friendly**
-This icon leads to a page with most diagrams and an enumeration of the stitches. 
-The print preview of your browser will drop the intro and allows saving as PDF.
-Your operating system allows you to browse visually through saved PDFs
-and the link brings you back to the pattern definition for further tweaking.
-Inkscape can import and post process a saved PDF
-but using the download buttons for the diagrams results in less clutter.
+The [page](print-pdf) is intended to build your own catalogue of patterns,
+either on paper or as a collection of PDF documents.
 
 ![inc](/GroundForge/images/size-inc.jpg)
 ![dec](/GroundForge/images/size-dec.jpg)
