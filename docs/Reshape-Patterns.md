@@ -113,6 +113,6 @@ When done with adjusting the pattern you might do all kind of other things with 
 
 [SVG editor]: https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors#File_format_support
 
-[fill]: https://tesselace.com/2017/11/08/filling-a-shape-with-a-lace-ground/
+[fill]: https://web.archive.org/web/20220517070441/https://tesselace.com/2017/11/08/filling-a-shape-with-a-lace-ground/
 
 [bend]: http://tavmjong.free.fr/INKSCAPE/MANUAL/html/Paths-LivePathEffects-BendTool.html
