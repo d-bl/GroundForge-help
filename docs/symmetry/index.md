@@ -20,38 +20,53 @@ with a download and browse your saved files to reload.
 When editing a downloaded diagram with some SVG editor,
 it can still be reloaded, but editing might no longer work.
 
-Init: meaning of form values
+Start: create a new template
 ----------------------------
-The bottom line in the following image shows how the tile dimensions are counted.
-Note that large dimensions can make the page slow.
+Explanation of the form fields.
+
+The bottom line in the following image shows how the tile dimensions are expressed with number of stitches.
+Note that large dimensions can make the page slow and vieuwing all the patterns will 
+require scrolling or zooming out (ctrl-minus on Windows, cmd-minus on Mac) by your browser.
 
 ![](tile-size.png)
 
-Variant 1 and 2 below, note that the template frame of the DFZ course is not rendered.
+Note the corners in variant 1 and 2 below.
+For those who followed the DFZ course: the frame of the template is not rendered.
 
 ![](variant-1.png)
 ![](variant-2.png)
 
-Mouse actions in the diagram
-----------------------------
+The text field should contain a 4x4 sequence defining a custom pattern.
+
+Patterns, constructed with the template
+---------------------------------------
+Patterns are constructed by reflections, rotations and glides of the template.
+The letters `bdpq` are used to illustrate these transformations,
+`x` stands for any of the four letters.
+The predefined patterns have the four letter arranged in diagonals, columns and rows.
+
+    bx bx bb    bdpq bbbb    dbdb bpbp
+    xb bx xx    bdpq dddd    qpqp dqdq
+                bdpq dddd    bdbd bpbp
+                bdpq dddd    pqpq dqdq ....
+
+
+Edit a template with mouse actions
+------------------------------------
 
 ### Click
 
-A click on a pair sets the number of twists between both stitches
-as specified in the form above the diagrams.
+A form specifies how many twist are set when you click a pair
+and whether a clicked stitch is deleted or gets its color code changed.
 
-![](twists.png)
-
-The same form specifies what happens when you click a stitch:
-Delete or apply the color-code for another stitch.
-
+![](twists.png) &nbsp; &nbsp;
 ![](delete-color-code.png)
 
-Note that the color codes reflected with the rest of the tiles,
+Note that the color codes are reflected with the rest of the tiles,
 but the tool-tips are not.
 Stitches along the edges are projected on top of one another.
-Experiment for the desired effect in the desired pattern
-or adjust the download with a third party tool.
+Stitches along the top and bottom should all be the same.
+This also applies to the stitches along the sides.
 
 ![](edge-overlap.png)
 
@@ -81,16 +96,3 @@ When you release the mouse after dragging, the algorithm creates a new stitch
 with the green segment whose center is closest to the mouse position.
 In the example, the connection could easily be made with the wrong highlighted pair.
 Make sure to move close enough to the desired pair.
-
-Indents
--------
-
-_Work in progres_
-
-Currently, only the third column of the first two rows below are implemented.
-The number of rows are not exhaustive but many configurations may cause duplicates.
-
-At the bottom is illustrated how two of the nine spreadsheet layouts are shifted versions.
-They are omitted because too many layouts reduce the performance.
-![](indents.svg)
-
