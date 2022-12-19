@@ -6,6 +6,8 @@ title: edit symmetries
 Edit symmetries
 ===============
 
+Browse through dozens of pattern variations created from a single template.
+
 The [editor](GroundForge/symmetry) is inspired by Veronika Irvine's course on [DFZ] in 2021.
 The course teaches a pencil and tracing paper method to combine copies of tiles into arrangements with a variety of symmetries.
 
@@ -20,8 +22,8 @@ with a download and browse your saved files to reload.
 When editing a downloaded diagram with some SVG editor,
 it can still be reloaded, but editing might no longer work.
 
-Start: create a new template
-----------------------------
+New template
+------------
 Explanation of the form fields.
 
 The bottom line in the following image shows how the tile dimensions are expressed with number of stitches.
@@ -64,11 +66,11 @@ and whether a clicked stitch is deleted or gets its color code changed.
 
 Note that the color codes are reflected with the rest of the tiles,
 but the tool-tips are not.
-Stitches along the edges are projected on top of one another.
-Stitches along the top and bottom should all be the same.
-This also applies to the stitches along the sides.
 
-![](edge-overlap.png)
+Stitches along the edges of the template are projected on top of one another
+when repeat in mirrored and rotated copies.
+Stitches along the top and bottom are kept all the same.
+This also happens with the stitches along the sides.
 
 
 ### Drag
