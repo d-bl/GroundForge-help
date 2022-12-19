@@ -11,6 +11,8 @@ Browse through dozens of pattern variations created from a single template.
 The [editor](GroundForge/symmetry) is inspired by Veronika Irvine's course on [DFZ] in 2021.
 The course teaches a pencil and tracing paper method to combine copies of tiles into arrangements with a variety of symmetries.
 
+Currently, it is not possible to generate thread diagrams from the generated patterns.
+
 [DFZ]: https://doily-free-zone.namastream.com/product/26887/about
 
 
@@ -21,6 +23,9 @@ With the symmetry editor you start with init, can save your work
 with a download and browse your saved files to reload.
 When editing a downloaded diagram with some SVG editor,
 it can still be reloaded, but editing might no longer work.
+
+After reloading you might have to manually adjust the width and height
+for a new template to make other changes to the reloaded patterns work.
 
 New template
 ------------
@@ -45,12 +50,13 @@ Patterns, constructed with the template
 Patterns are constructed by reflections, rotations and glides of the template.
 The letters `bdpq` are used to illustrate these transformations,
 `x` stands for any of the four letters.
-The predefined patterns have the four letter arranged in diagonals, columns and rows.
+The predefined patterns have the four letter arranged in diagonals, columns, rows and squares.
+A text field is available to define a custom pattern as the last of all pattern variations.
 
-    bx bx bb    bdpq bbbb    dbdb bpbp
-    xb bx xx    bdpq dddd    qpqp dqdq
-                bdpq dddd    bdbd bpbp
-                bdpq dddd    pqpq dqdq ....
+    bx bx bb    bdpq bbbb    dbdb bpbp bpbp ....
+    xb bx xx    bdpq dddd    qpqp qpqp dqdq ....
+                bdpq dddd    bdbd dbdb bpbp ....
+                bdpq dddd    pqpq qpqp dqdq ....
 
 
 Edit a template with mouse actions
@@ -68,10 +74,12 @@ Note that the color codes are reflected with the rest of the tiles,
 but the tool-tips are not.
 
 Stitches along the edges of the template are projected on top of one another
-when repeat in mirrored and rotated copies.
-Stitches along the top and bottom are kept all the same.
-This also happens with the stitches along the sides.
+when repeated in mirrored and rotated copies.
+It is not possible to delete these stitches.
+Stitches along the top and bottom are kept identical, black in the illustration below.
+This also happens with the stitches along the sides, red in the illustration below.
 
+![](edge-stitches.png)
 
 ### Drag
 
@@ -98,3 +106,13 @@ When you release the mouse after dragging, the algorithm creates a new stitch
 with the green segment whose center is closest to the mouse position.
 In the example, the connection could easily be made with the wrong highlighted pair.
 Make sure to move close enough to the desired pair.
+
+Third party editors
+-------------------
+
+After download you can customize the generated patterns with a third party editor.
+For example indent the patterns that don't react to the indent form field.
+To improve performance you might want to remove the patterns you are not interested in. 
+
+Note that these customisations get lost after reloading and making other adjustments.
+It is also possible that other customisation break functionality.
