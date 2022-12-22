@@ -10,7 +10,7 @@ _Browse through dozens of pattern variations created from a single template._
 
 The [page](GroundForge/symmetry) starts with some forms but revolves about a template that is repeated in several swatches in a smaller scale.
 These swatches are various configurations of reflected and rotated repeats of the template.
-You can quickly browse through dozens of more variations created from a single template
+You can quickly browse through more variations created from the same template
 with a few controls in a form.
 
 In the template you can drop and add stitches and apply a [color code] to the stitches.
@@ -34,9 +34,9 @@ Other GroundForge pages use address bar components to define a pattern.
 With the symmetry editor you start with a new template, can save your work
 with a download and browse your saved files to reload.
 
-Though you are reusing a previous template, you might have to manually adjust
-the width and height for a new template.
-These values are used to apply changes to the reloaded patterns.
+When reusing a previous template, you might have to manually adjust
+the width and height for a new template to match the reloaded template.
+These values are used to apply further changes to the reloaded patterns.
 
 New template
 ------------
@@ -107,14 +107,13 @@ and whether a clicked stitch is deleted or gets its color code changed.
 ![](twists.png) &nbsp; &nbsp;
 ![](delete-color-code.png)
 
-Note that the color codes are reflected with the rest of the tiles,
-but the tool-tips are not.
-
 Stitches along the edges of the template are projected on top of one another
 when repeated in mirrored and rotated copies.
-It is not possible to delete these stitches.
-Stitches along the top and bottom are kept identical, black in the illustration below.
-This also happens with the stitches along the sides, red in the illustration below.
+For this reason those stitches change all at once. 
+There are two groups: illustrated with black and red below.
+
+Note that the color codes are reflected with the rest of the tiles,
+but the tool-tips are not.
 
 ![](edge-stitches.png)
 
@@ -128,9 +127,8 @@ move stitches at or beyond the border of the template.
 
 Add stitches
 ------------
-#### Center of pairs
 
-Moving the center of a pair is a kind of pinching action to create a new stitch.
+Moving the center of a line between two stitches is a kind of pinching action to create a new stitch.
 On mouse down you will see two highlighted pairs kissing the selected pair,
 interrupted by some segments that should not make a connection
 because they touch the selected segment. 
