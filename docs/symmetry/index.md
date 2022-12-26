@@ -118,7 +118,7 @@ Segments on top of one another appear darker.
 ![](delete-color-code.png)
 
 Note that the color codes are reflected with the rest of the template copies,
-but the tool-tips are not.
+but the tool-tips are not. The legend though does enumerate all stitches correctly.
 
 Stitches along the edges of the template are projected on top of one another
 when repeated in mirrored and rotated copies.
