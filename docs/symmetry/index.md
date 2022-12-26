@@ -3,6 +3,20 @@ layout: default
 title: edit symmetries
 ---
 
+- [Edit symmetries](#edit-symmetries)
+- [The forms](#the-forms)
+    * [Download / Browse](#download---browse)
+    * [Template dimensions](#template-dimensions)
+    * [Template variants](#template-variants)
+    * [Define click/tap actions](#define-click-tap-actions)
+    * [Patterns, constructed with the template](#patterns--constructed-with-the-template)
+- [Edit a template with mouse actions](#edit-a-template-with-mouse-actions)
+    * [Click/Tap](#click-tap)
+    * [Drag Stitches](#drag-stitches)
+    * [Add stitches](#add-stitches)
+- [Third party editors](#third-party-editors)
+
+
 Edit symmetries
 ===============
 
@@ -17,16 +31,17 @@ In the template you can drop and add stitches and apply a [color code] to the st
 The color code is also reflected and rotated in the swatches.
 
 The editor is inspired by Veronika Irvine's course on [DFZ] in 2021
-or rather the bonus lesson with Inkscape. This page reduces the labor even more. 
+or rather the [bonus lesson] with Inkscape. This page reduces some tedious tasks. 
 
 Currently, it is not possible to generate thread diagrams from the generated diagrams.
 
 [DFZ]: https://doily-free-zone.namastream.com/product/26887/about
 [color code]: color-rules
+[bonus lesson]: https://youtu.be/0mf_pE2Ywk8
 
 The forms
 =========
-Explanation of the fields and controls on the forms.
+An overview of the fields and controls on the forms.
 
 Download / Browse
 -----------------
@@ -34,91 +49,86 @@ Other GroundForge pages use address bar components to define a pattern.
 With the symmetry editor you start with a new template, can save your work
 with a download and browse your saved files to reload.
 
-When reusing a previous template, you might have to manually adjust
-the width and height for a new template to match the reloaded template.
-These values are used to apply further changes to the reloaded patterns.
-
-New template
-------------
+Template dimensions
+-------------------
 The bottom line in the following image shows how the tile dimensions are expressed with number of stitches.
 Note that large dimensions can make the page slow and viewing all the patterns will 
 require scrolling or zooming out (ctrl-minus on Windows, cmd-minus on Mac) by your browser.
 
 ![](tile-size.png)
 
+You can get unexpected results when dimension values do not match the actual template.
+After changing width and or height you must create a new template or reset the values.
+
+Template variants
+-----------------
 Note the corners in variant 1 and 2 below.
 For those who followed the DFZ course: the frame of the template is not rendered.
 
-![](variant-1.png)
+![](variant-1.png) &nbsp; &nbsp;
 ![](variant-2.png)
 
 Define click/tap actions
 ------------------------
-Some form fields influence the click/tap actions:
+Some form fields influence the effect of click/tap actions:
 
 * the number of twist marks on a line connecting two stitches
 * delete a stitch or set its [color code]
-* the stitch definition that leads to the color code
+* the stitch definition that defines the color code
 
 
 Patterns, constructed with the template
 ---------------------------------------
 Patterns are constructed by reflections, rotations and glides of the template.
 The letters `bdpq` are used to illustrate these transformations.
-The predefined patterns have the four letter arranged in diagonals, columns, rows and squares.
-
-    bd bd bb    bdpq bbbb bdpq bbbb    dbdb bpbp bpbp ....
-    db bd dd    bdpq dddd bdpq dddd    qpqp qpqp dqdq ....
-                bdpq pppp bdpq pppp    bdbd dbdb bpbp ....
-                bdpq qqqq bdpq qqqq    pqpq qpqp dqdq ....
-
-The second through seventh patterns can be varied with two dropdown fields. 
-A text field is available to define a custom pattern as the last of all pattern variations.
-The field should contain a 4x4 sequence of `d`, `p`, `p` and/or `q` defining a custom pattern.
+The patterns have the four letters arranged in diagonals, columns, 
+rows and squares as shown in the following figure.
+A text field defines the last pattern.
+The field should contain a 4x4 sequence even if that means repeating yourself.
 This last pattern is omitted on invalid input.
+
+![](patterns.png)
+
+Two dropdown fields define variations of the patterns represented in color.
 
 ![](drop-downs.png)
 
-Two patterns are repeated, one pair applies the optional indent row by row,
-the second set indents the rows two by two, like shown below.
+The red patterns above repeat the blue ones for different types of indents:
+row by row or two rows at a time:
 
-    1      123456            11      123456                         
-    21      123456           2211    123456                         
-    321      123456          332211   123456                         
-    4321      123456         443322   123456                         
-     4321      123456          4433    123456                         
-      4321      123456           44    123456                         
-       432                                                
-        43                                                 
-         4                                                  
+![](indent.png)
 
 However, when full repeats of the template are indented,
-templates are added up front and dropped from the back.
+templates are added up front and dropped from the back
+as shown in the following figure.
+
+![](indents-as-implemented.png)
 
 
 Edit a template with mouse actions
 ==================================
 
-### Click/Tap
-
+Click/Tap
+---------
 A form specifies how many twist are set when you click a pair
 and whether a clicked stitch is deleted or gets its color code changed.
+Segments on top of one another appear darker.
 
 ![](twists.png) &nbsp; &nbsp;
 ![](delete-color-code.png)
+
+Note that the color codes are reflected with the rest of the template copies,
+but the tool-tips are not.
 
 Stitches along the edges of the template are projected on top of one another
 when repeated in mirrored and rotated copies.
 For this reason those stitches change all at once. 
 There are two groups: illustrated with black and red below.
 
-Note that the color codes are reflected with the rest of the tiles,
-but the tool-tips are not.
-
 ![](edge-stitches.png)
 
-### Drag Stitches
-
+Drag Stitches
+-------------
 Moving stitches is pretty trivial.
 Stitches along the edges can not be moved.
 The algorithm does not enforce any limits on moving stitches,
@@ -127,7 +137,6 @@ move stitches at or beyond the border of the template.
 
 Add stitches
 ------------
-
 Moving the center of a line between two stitches is a kind of pinching action to create a new stitch.
 On mouse down you will see two highlighted pairs kissing the selected pair,
 interrupted by some segments that should not make a connection
@@ -148,10 +157,27 @@ Otherwise, a connection could be made with a segment that would cause crossing l
 Third party editors
 ===================
 
-After download, you can customize the generated patterns with a third party editor.
-For example indent the patterns that don't react to the indent form field.
-To improve the performance of InkScape you might want to remove the patterns you are not interested in.
-For other applications (those wh reduce clone to plain copies) that might not matter.
+After download, you can customize, scale and annotate the generated patterns with a 
+[third party editor](Reshape-Patterns#evaluated-editors).
 
-Note that these customisations get lost after reloading and making other adjustments.
-It is also possible that other customisation break functionality.
+Inkscape may react slow unlike other applications that import clones as plain copies.
+To improve the performance in InkScape, you might want to remove the patterns you are not interested in,
+or unlink the clones. 
+A drastic way to unlink is removing the originals: the template in the top left corner
+of the sheet and four b-d-p-q clones stacked on top of one anther beyond that corner of the sheet.
+That action might take a wile, and you loose the power of changing all copies at once.
+
+![](originals.png)
+
+Some groups of objects are important to observe when you want to reload the file for further changes by the web application:
+the template group with id `#cloned`, the swatches group with id `#clones` and `#bdpqLegend`. 
+The latter two groups get replaced when changing indents and/or `bdpq` configurations,
+manual changes to these groups will get lost unless moved out of these groups.
+The legend also changes when stitches are changed. 
+
+The `#cloned` group is more vulnerable. It is safe to add objects to this group.
+Further constraints on why/what to (not) change on objects in this group are way beyond the scope of this document.
+
+Make use of snapping to align (groups of) objects:
+
+![](snap.png)
