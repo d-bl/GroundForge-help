@@ -77,28 +77,29 @@ Some form fields influence the effect of click/tap actions:
 * the stitch definition that defines the color code
 
 
-Patterns, constructed with the template
----------------------------------------
-Patterns are constructed by reflections, rotations and glides of the template.
-The letters `bdpq` are used to illustrate these transformations.
-The patterns have the four letters arranged in diagonals, columns, 
-rows and squares as shown in the following figure.
-A text field defines the last pattern.
+Swatches of templates
+---------------------
+The swatches are constructed by reflections, rotations and glides of template copies.
+The letters `bdpq` are used to illustrate the transformation per copied template.
+The swatches have the four letters arranged in diagonals, columns, 
+rows and squares as shown by bars in the following figure.
+Marks at the start of these bars indicate the indent pattern, either one by one or two by two.
+
+![](swatches.svg)
+
+Two dropdown fields define variations of the swatches represented with straight bars.
+Each bar repeats a single letter.
+
+A text field defines the last row of patterns.
+The z-shaped bars contain the sequence as taken from
+the drop-down for the second row of patterns.
+You can define your own configuration manually.
 The field should contain a 4x4 sequence even if that means repeating yourself.
-This last pattern is omitted on invalid input.
-
-![](patterns.png)
-
-Two dropdown fields define variations of the patterns represented in color.
+This last row of swatches is omitted on invalid input.
 
 ![](drop-downs.png)
 
-The red patterns above repeat the blue ones for different types of indents:
-row by row or two rows at a time:
-
-![](indent.png)
-
-However, when full repeats of the template are indented,
+When full repeats of the template are indented,
 templates are added up front and dropped from the back
 as shown in the following figure.
 
