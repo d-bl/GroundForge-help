@@ -9,7 +9,7 @@ title: edit symmetries
     * [Template dimensions](#template-dimensions)
     * [Template variants](#template-variants)
     * [Define click/tap actions](#define-click-tap-actions)
-    * [Patterns, constructed with the template](#patterns--constructed-with-the-template)
+    * [Swatches of templates](#swatches-of-templates)
 - [Edit a template with mouse actions](#edit-a-template-with-mouse-actions)
     * [Click/Tap](#click-tap)
     * [Drag Stitches](#drag-stitches)
