@@ -109,6 +109,12 @@ as shown in the following figure.
 
 ![](indents-as-implemented.png)
 
+Hover with your mouse over the grey dot next to a swatch for a tooltip that shows the specifications.
+This can be of help after reloading a file.
+In Inscape, you need the [XML-editor](xml-title.png) to retrieve the information.
+Other SVG editors might or might not preserve this information.
+
+Note that a larger scale for the swatches gives more room for the legend of applied stitches.
 
 Edit a template with mouse actions
 ==================================
