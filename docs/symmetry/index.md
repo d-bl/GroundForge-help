@@ -87,7 +87,7 @@ rows and squares as shown by bars in the following figure.
 Marks at the start of these bars indicate the indent pattern, either one by one or two by two.
 One input field controls the amount of indent for all swatches at once.
 Some swatches repeat themselves faster than others. 
-The maximum value of the input allows all swatches to browse through all options.
+The maximum value of the input field allows all swatches to browse through all options.
 
 ![](swatches.svg)
 
