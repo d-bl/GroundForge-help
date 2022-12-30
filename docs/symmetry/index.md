@@ -83,7 +83,11 @@ The swatches are constructed by reflections, rotations and glides of template co
 The letters `bdpq` are used to illustrate the transformation per copied template.
 The swatches have the four letters arranged in diagonals, columns, 
 rows and squares as shown by bars in the following figure.
+
 Marks at the start of these bars indicate the indent pattern, either one by one or two by two.
+One input field controls the amount of indent for all swatches at once.
+Some swatches repeat themselves faster than others. 
+The value of the input field is maximised such that all swatches can browse through all options.
 
 ![](swatches.svg)
 
