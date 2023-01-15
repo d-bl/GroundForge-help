@@ -5,16 +5,19 @@ title: edit symmetries
 
 - [Edit symmetries](#edit-symmetries)
 - [The forms](#the-forms)
-    * [Download / Browse](#download---browse)
-    * [Template dimensions](#template-dimensions)
-    * [Template variants](#template-variants)
-    * [Define click/tap actions](#define-click-tap-actions)
-    * [Swatches of templates](#swatches-of-templates)
+  * [Download / Browse](#download---browse)
+  * [Template dimensions](#template-dimensions)
+  * [Template variants](#template-variants)
+  * [Define click/tap actions](#define-click-tap-actions)
+  * [Swatches of templates](#swatches-of-templates)
 - [Edit a template with mouse actions](#edit-a-template-with-mouse-actions)
-    * [Click/Tap](#click-tap)
-    * [Drag Stitches](#drag-stitches)
-    * [Add stitches](#add-stitches)
+  * [Click/Tap](#click-tap)
+  * [Drag Stitches](#drag-stitches)
+  * [Add stitches](#add-stitches)
 - [Third party editors](#third-party-editors)
+  * [File structure](#file-structure)
+  * [Unlink clones](#unlink-clones)
+  * [Other changes](#other-changes)
 
 
 Edit symmetries
@@ -125,7 +128,6 @@ A form specifies how many twist are set when you click a pair
 and whether a clicked stitch is deleted or gets its color code changed.
 Segments on top of one another appear darker.
 
-![](twists.png) &nbsp; &nbsp;
 ![](delete-color-code.png)
 
 Note that the color codes are reflected with the rest of the template copies,
@@ -149,46 +151,93 @@ move stitches at or beyond the border of the template.
 Add stitches
 ------------
 Moving the center of a line between two stitches is a kind of pinching action to create a new stitch.
-On mouse down you will see two highlighted pairs kissing the selected pair,
-interrupted by some segments that should not make a connection
-because they touch the selected segment. 
+
+To fix mistakes, it is good to have _click mode for stitches_ set to _delete_
+before you start dragging.
+To undo, simply click at the same spot where you released the mouse button.
+
+On mouse down you will see two highlighted pairs kissing the selected pair.
+Some segments are darker, connecting with them would cause two segments on top of one another. 
 
 ![](kissing.png)
 
 It would have been better to highlight even less segments.
 However, so far this was a simple to implement precaution that prevents you
-to connect with one of the grey lines at the bottom of the big hole.
-That would create an impossible loop in a pair.
+to connect with one of the grey lines at one side of the big hole.
+That would create an impossible loop in a pair requiring a sewing.
 
-When you release the mouse after dragging, the algorithm creates a new stitch
-with the green segment whose center is closest to the mouse position.
+When you release the mouse after dragging, the algorithm 
+selects the kissing pair towards the mouse was moved and creates a new stitch
+with the segment of that pair whose center is closest to the mouse position.
 Make sure to move close enough to the desired segment.
 Otherwise, a connection could be made with a segment that would cause crossing lines.
 
 Third party editors
 ===================
 
-After download, you can customize, scale and annotate the generated patterns with a 
+After download, you can customize and annotate the generated patterns with a 
 [third party editor](Reshape-Patterns#evaluated-editors).
+The generated file has properties to observe when customizing and reloading for further changes with the web page.
+
+File structure
+--------------
+
+The code snippet below is a trimmed down version of a generated file to illustrate its structure.
+The SVG document is loaded into an HTML element `<div id="template">`.
+The template diagram as discussed above lives actually in the group with id `#cloned`.
+This identifier reflects how the group is used to create the swatches in the group with id `#clones`.
+
+    <defs>
+      <marker id="twist-1"/>
+      <marker id="twist-2"/>
+      <marker id="twist-3"/>
+    </defs>
+    <g id="clones">
+      <g id="clb"><use xlink:href="#cloned"/></g>
+      <g id="cld"><use xlink:href="#cloned"/></g>
+      <g id="clp"><use xlink:href="#cloned"/></g>
+      <g id="clq"><use xlink:href="#cloned"/></g>
+      <g>
+        <g><title/><circle/></g>
+        <use xlink:href="#clb"/>
+        <use xlink:href="#cld"/>
+        <use xlink:href="#clp"/>
+        <use xlink:href="#clq"/>
+      </g>
+    </g>
+    <g id="bdpqLegend"/>
+    <g id="cloned">
+      <path class="link kiss_0_1 starts_at_123 ends_at_456"/>
+      <g id="123" class="node">
+    </g>
+
+A change to a field in the form section _swatches of templates_ replaces the full content of `#clones`.
+A change to a stich in the template replaces the full content of `#bdpqLegend`
+and one of the elements with class `node`.
+Due to their nature the appearance of the `<use>` elements change along with template in group `#cloned`.
+
+The algorithm to delete and add stitches relies on the classes 
+in the elements of `#cloned` and the ids of the `node` elements.
+The classes `node`, `link` and `kiss_` allow selecting and manipulating groups of objects.
+The classes `starts_at_` and `ends_at_`  allow moving segments along with the stitches.
+They should also allow to build a chain of links within a kissing pair.
+
+Unlink clones
+-------------
 
 Inkscape may react slow unlike other applications that import clones as plain copies.
-To improve the performance in InkScape, you might want to remove the patterns you are not interested in,
-or unlink the clones. 
+To improve the performance in InkScape, you might want to remove the patterns you are not interested in.
+
 A drastic way to unlink is removing the originals: the template in the top left corner
 of the sheet and four b-d-p-q clones stacked on top of one anther beyond that corner of the sheet.
 That action might take a wile, and you loose the power of changing all copies at once.
 
 ![](originals.png)
 
-Some groups of objects are important to observe when you want to reload the file for further changes by the web application:
-the template group with id `#cloned`, the swatches group with id `#clones` and `#bdpqLegend`. 
-The latter two groups get replaced when changing indents and/or `bdpq` configurations,
-manual changes to these groups will get lost unless moved out of these groups.
-The legend also changes when stitches are changed. 
+Other changes
+-------------
 
-The `#cloned` group is more vulnerable. It is safe to add objects to this group.
-Further constraints on why/what to (not) change on objects in this group are way beyond the scope of this document.
-
-Make use of snapping to align (groups of) objects:
+To increase swatch sizes, repeat the last 4 rows and/or columns of template copies.
+Snapping is a great tool to align the groups of objects:
 
 ![](snap.png)
