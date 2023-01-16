@@ -207,7 +207,7 @@ This identifier reflects how the group is used to create the swatches in the gro
     </g>
     <g id="bdpqLegend"/>
     <g id="cloned">
-      <path class="link kiss_0_1 starts_at_123 ends_at_456"/>
+      <path class="link kiss_2 starts_at_123 ends_at_456"/>
       <g id="123" class="node">
     </g>
 
