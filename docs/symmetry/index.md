@@ -208,7 +208,7 @@ This identifier reflects how the group is used to create the swatches in the gro
     <g id="bdpqLegend"/>
     <g id="cloned">
       <path class="link kiss_2 starts_at_123 ends_at_456"/>
-      <g id="123" class="node">
+      <g id="123" class="node"><title>ctc<title>...</g>
     </g>
 
 A change to a field in the form section _swatches of templates_ replaces the full content of `#clones`.
@@ -221,6 +221,9 @@ in the elements of `#cloned` and the ids of the `node` elements.
 The classes `node`, `link` and `kiss_` allow selecting and manipulating groups of objects.
 The classes `starts_at_` and `ends_at_`  allow moving segments along with the stitches.
 They should also allow to build a chain of links within a kissing pair.
+
+**Note** after unlinking clones, the classes `starts_at_`, `ends_at_` and `kiss_`
+lose their functional meaning, like the title in the `node` groups.
 
 Unlink clones
 -------------
