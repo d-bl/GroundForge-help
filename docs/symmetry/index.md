@@ -25,7 +25,7 @@ Edit symmetries
 
 _Browse through dozens of pattern variations created from a single template._
 
-The [page](GroundForge/symmetry) starts with some forms but revolves about a template that is repeated in several swatches in a smaller scale.
+The [page](/GroundForge/symmetry) starts with some forms but revolves about a template that is repeated in several swatches in a smaller scale.
 These swatches are various configurations of reflected and rotated repeats of the template.
 You can quickly browse through more variations created from the same template
 with a few controls in a form.
@@ -124,13 +124,13 @@ Edit a template with mouse actions
 
 Click/Tap
 ---------
-A form specifies how many twist are set when you click a pair
+A form specifies how many twist are set when you click a pair segment between stitches
 and whether a clicked stitch is deleted or gets its color code changed.
-Segments on top of one another appear darker.
+Deleting stitches may cause segments on top of one another, they appear darker.
 
 ![](delete-color-code.png)
 
-Note that the color codes are reflected with the rest of the template copies,
+Note that the color codes are reflected and rotated with the rest of the template copies,
 but the tool-tips are not. The legend though does enumerate all stitches correctly.
 
 Stitches along the edges of the template are projected on top of one another
@@ -150,27 +150,20 @@ move stitches at or beyond the border of the template.
 
 Add stitches
 ------------
-Moving the center of a line between two stitches is a kind of pinching action to create a new stitch.
+Moving the center of a line between two stitches initiates a kind of pinching action to create a new stitch.
 
 To fix mistakes, it is good to have _click mode for stitches_ set to _delete_
 before you start dragging.
 To undo, simply click at the same spot where you released the mouse button.
 
 On mouse down you will see two highlighted pairs kissing the selected pair.
-Some segments are darker, connecting with them would cause two segments on top of one another. 
+Move the mouse to the center of one of the bright segments to make a new stitch
+and release the mouse button.
 
 ![](kissing.png)
 
-It would have been better to highlight even less segments.
-However, so far this was a simple to implement precaution that prevents you
-to connect with one of the grey lines at one side of the big hole.
-That would create an impossible loop in a pair requiring a sewing.
-
-When you release the mouse after dragging, the algorithm 
-selects the kissing pair towards the mouse was moved and creates a new stitch
-with the segment of that pair whose center is closest to the mouse position.
-Make sure to move close enough to the desired segment.
-Otherwise, a connection could be made with a segment that would cause crossing lines.
+At the moment the algorithm happily makes connections with the darker sections of the kissing pairs.
+That would cause crossing lines.
 
 Third party editors
 ===================
