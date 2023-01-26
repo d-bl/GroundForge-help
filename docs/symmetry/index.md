@@ -23,20 +23,19 @@ title: edit symmetries
 Edit symmetries
 ===============
 
-_Browse through dozens of pattern variations created from a single template._
+_Create a single template and browse through dozens of pattern variations created with the template._
 
-The [page](/GroundForge/symmetry) starts with some forms but revolves about a template that is repeated in several swatches in a smaller scale.
-These swatches are various configurations of reflected and rotated repeats of the template.
-You can quickly browse through more variations created from the same template
-with a few controls in a form.
-
-In the template you can drop and add stitches and apply a [color code] to the stitches.
+The [page](/GroundForge/symmetry) has a few forms before an editable template
+and several swatches in a smaller scale.
+The swatches are various configurations of reflected and rotated repeats of the template.
+One of the forms lets you quickly browse through more swatches.
+You can drop, move and add stitches in the template and apply a [color code] to the stitches.
 The color code is also reflected and rotated in the swatches.
 
 The editor is inspired by Veronika Irvine's course on [DFZ] in 2021
-or rather the [bonus lesson] with Inkscape. This page reduces some tedious tasks. 
-
-Currently, it is not possible to generate thread diagrams from the generated diagrams.
+or rather the [bonus lesson] with Inkscape. 
+The page simplifies tedious tasks but does not enforce all the constraints.
+Currently, it is not possible to generate thread diagrams from the diagrams.
 
 [DFZ]: https://doily-free-zone.namastream.com/product/26887/about
 [color code]: color-rules
