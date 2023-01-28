@@ -11,6 +11,7 @@ title: edit symmetries
   * [Define click/tap actions](#define-click-tap-actions)
   * [Swatches of templates](#swatches-of-templates)
 - [Edit a template with mouse actions](#edit-a-template-with-mouse-actions)
+  * [Constraints](#constraints)
   * [Click/Tap](#click-tap)
   * [Drag Stitches](#drag-stitches)
   * [Add stitches](#add-stitches)
@@ -26,15 +27,16 @@ Edit symmetries
 _Create a single template and browse through dozens of pattern variations created with the template._
 
 The [page](/GroundForge/symmetry) has a few forms before an editable template
-and several swatches in a smaller scale.
+and (optionally) several swatches in a smaller scale.
 The swatches are various configurations of reflected and rotated repeats of the template.
 One of the forms lets you quickly browse through more swatches.
-You can drop, move and add stitches in the template and apply a [color code] to the stitches.
-The color code is also reflected and rotated in the swatches.
+You can drop, move and add stitches in the template and apply a [color code] to the stitches:
+the 4 colors per stitch approach.
+The color code is properly reflected and rotated in the swatches.
 
 The editor is inspired by Veronika Irvine's course on [DFZ] in 2021
 or rather the [bonus lesson] with Inkscape. 
-The page simplifies tedious tasks but does not enforce all the constraints.
+The page simplifies tedious tasks and enforces some constraints.
 Currently, it is not possible to generate thread diagrams from the diagrams.
 
 [DFZ]: https://doily-free-zone.namastream.com/product/26887/about
@@ -121,23 +123,40 @@ Note that a larger scale for the swatches gives more room for the legend of appl
 Edit a template with mouse actions
 ==================================
 
+Constraints
+-----------
+Some constraints are enforced:
+
+* Stitches along the perimeters can not move or be deleted
+* New stitches can only be made between two neighbouring kissing pairs.
+* Stitches along opposite borders are identical.
+
+You have to observe the following constraints by yourself:
+
+* Keep the position of stitches within the perimeter of the template.
+* Only create stitches with the bright sections of kissing pairs
+* Don't separate the template in two disconnected sections,
+  though some swatches may produce valid results.
+* Stitches along the perimeter should be symmetrical
+  when reflected in a vertical or horizontal mirror.
+* Stitches should be identical for all borders
+  for the template variant with stitches in the corners.
+
+The following diagram illustrates one of the reasons  for the requirements along the edges of the template.
+The stitches are projected on top of one another and the line with black stitches is interrupted with red ones.
+
+![](edge-stitches.png)
+  
 Click/Tap
 ---------
-A form specifies how many twist are set when you click a pair segment between stitches
-and whether a clicked stitch is deleted or gets its color code changed.
+
 Deleting stitches may cause segments on top of one another, they appear darker.
+When reconnecting, move a bright segment to the darker ones for predictable behavior.
 
 ![](delete-color-code.png)
 
-Note that the color codes are reflected and rotated with the rest of the template copies,
-but the tool-tips are not. The legend though does enumerate all stitches correctly.
-
-Stitches along the edges of the template are projected on top of one another
-when repeated in mirrored and rotated copies.
-For this reason those stitches change all at once. 
-There are two groups: illustrated with black and red below.
-
-![](edge-stitches.png)
+The legend not only enumerates stitches in the template, but also reflected and rotated versions.
+Note that the tooltips in the swatches show the original `ct` sequence, not the reflected or rotated versions.
 
 Drag Stitches
 -------------
