@@ -5,10 +5,9 @@ title: edit symmetries
 
 - [Edit symmetries](#edit-symmetries)
 - [The forms](#the-forms)
-  * [Download / Browse](#download---browse)
-  * [Template dimensions](#template-dimensions)
-  * [Template variants](#template-variants)
-  * [Define click/tap actions](#define-click-tap-actions)
+  * [Export / Import](#export---import)
+  * [Template](#template)
+  * [Modify template](#modify-template)
   * [Swatches of templates](#swatches-of-templates)
 - [Edit a template with mouse actions](#edit-a-template-with-mouse-actions)
   * [Constraints](#constraints)
@@ -19,7 +18,6 @@ title: edit symmetries
   * [File structure](#file-structure)
   * [Unlink clones](#unlink-clones)
   * [Other changes](#other-changes)
-
 
 Edit symmetries
 ===============
@@ -45,86 +43,87 @@ Currently, it is not possible to generate thread diagrams from the diagrams.
 
 The forms
 =========
+
 An overview of the fields and controls on the forms.
 
-Download / Browse
------------------
+Export / Import
+---------------
+
 Other GroundForge pages use address bar components to define a pattern.
 With the symmetry editor you start with a new template, can save your work
 with a download and browse your saved files to reload.
 
-Template dimensions
--------------------
-The bottom line in the following image shows how the tile dimensions are expressed with number of stitches.
+Template
+--------
+
+In this form you choose the dimensions for a new template and the type of corners.
+
+The bottom line in the following image has some nodes moved upwards.
+It shows how the tile dimensions are expressed with number of stitches.
 Note that large dimensions can make the page slow and viewing all the patterns will 
 require scrolling or zooming out (ctrl-minus on Windows, cmd-minus on Mac) by your browser.
 
 ![](tile-size.png)
 
-You can get unexpected results when dimension values do not match the actual template.
+You can get unexpected swatches when dimension values do not match the actual template.
 After changing width and or height you must create a new template or reset the values.
 
-Template variants
------------------
-Note the corners in variant 1 and 2 below.
-For those who followed the DFZ course: the frame of the template is not rendered.
+Modify template
+---------------
 
-![](variant-1.png) &nbsp; &nbsp;
-![](variant-2.png)
-
-Define click/tap actions
-------------------------
-Some form fields influence the effect of click/tap actions:
+These form fields influence the effect of click/tap actions:
 
 * the number of twist marks on a line connecting two stitches
-* delete a stitch or set its [color code]
-* the stitch definition that defines the color code
+* delete a stitch or set its [color code] with the 4 colors per stich system
+* the stitch definition that defines the color code:
+  a sequence of the letters c(ross), t(wist), l(left twist) and r(ight twist)
 
 
 Swatches of templates
 ---------------------
-The swatches are constructed by reflections, rotations and glides of template copies.
-The letters `bdpq` are used to illustrate the transformation per copied template.
-The swatches have the four letters arranged in diagonals, columns, 
-rows and squares as shown by bars in the following figure.
 
-Marks at the start of these bars indicate the indent pattern, either one by one or two by two.
-One input field controls the amount of indent for all swatches at once.
-Some swatches repeat themselves faster than others. 
-The maximum value of the input field allows all swatches to browse through all options.
+The swatches are constructed by reflections, rotations and glides of template copies.
+
+The form section has:
+
+* a checkbox to dis/enable the swatches, their presence reduces performance of editing the template
+* a field to define the amount of indenting rows/columns of template copies in the swatches
+* two dropdowns and a text field to configure the swatches
+* a button to take the value of the 4-letter dropdown to fill the text field
+* a _show_ button to update the swatches when editing the text field
+* the _scale_ button can show more swatches in a smaller space or give more space for the legend 
+
+The letters `bdpq` are used to illustrate the transformation per copied template.
+The first two rows of swatches have the four letters arranged in diagonals,
+columns and rows as shown by bars  in the following figure.
+Marks at the start of the rows and columns indicate the indent pattern,
+either one row/column at a time or two.
+
+The text field can be complete custom or take the sequence of the second dropdown
+in the z-shape order.
+The text field should contain a 4x4 sequence even if that means repeating yourself.
+This last row of swatches is omitted on invalid input.
 
 ![](swatches.svg)
 
-Two dropdown fields define variations of the swatches represented with straight bars.
-Each bar repeats a single letter.
-
-A text field defines the last row of patterns.
-The z-shaped bars contain the sequence as taken from
-the drop-down for the second row of patterns.
-You can define your own configuration manually.
-The field should contain a 4x4 sequence even if that means repeating yourself.
-This last row of swatches is omitted on invalid input.
-
-![](drop-downs.png)
-
-When full repeats of the template are indented,
-templates are added up front and dropped from the back
-as shown in the following figure.
+Some swatches repeat themselves faster than others. 
+The maximum value of the indent field allows all swatches to browse through all options.
+When full repeats of the template are indented, templates are added up front
+and dropped from the back as shown in the following figure.
 
 ![](indents-as-implemented.png)
 
 Hover with your mouse over the grey dot next to a swatch for a tooltip that shows the specifications.
 This can be of help after reloading a file.
-In Inscape, you need the [XML-editor](xml-title.png) to retrieve the information.
+In Inkscape, you need the [XML-editor](xml-title.png) to retrieve the information.
 Other SVG editors might or might not preserve this information.
-
-Note that a larger scale for the swatches gives more room for the legend of applied stitches.
 
 Edit a template with mouse actions
 ==================================
 
 Constraints
 -----------
+
 Some constraints are enforced:
 
 * Stitches along the perimeters can not move or be deleted
@@ -150,6 +149,10 @@ The stitches are projected on top of one another and the line with black stitche
 Click/Tap
 ---------
 
+Clicking a line segment between two stitches sets the number of twist marks.
+Clicking a stich either deletes the stitch or changes its color code,
+depending on the choice made in the form _modify template_.
+
 Deleting stitches may cause segments on top of one another, they appear darker.
 When reconnecting, move a bright segment to the darker ones for predictable behavior.
 
@@ -160,14 +163,12 @@ Note that the tooltips in the swatches show the original `ct` sequence, not the 
 
 Drag Stitches
 -------------
-Moving stitches is pretty trivial.
-Stitches along the edges can not be moved.
-The algorithm does not enforce any limits on moving stitches,
-so it is your own responsibility to avoid crossing lines or 
-move stitches at or beyond the border of the template.
+
+Moving stitches is pretty trivial but is subject to some [constraints](#constraints).
 
 Add stitches
 ------------
+
 Moving the center of a line between two stitches initiates a kind of pinching action to create a new stitch.
 
 To fix mistakes, it is good to have _click mode for stitches_ set to _delete_
@@ -179,9 +180,6 @@ Move the mouse to the center of one of the bright segments to make a new stitch
 and release the mouse button.
 
 ![](kissing.png)
-
-At the moment the algorithm happily makes connections with the darker sections of the kissing pairs.
-That would cause crossing lines.
 
 Third party editors
 ===================
