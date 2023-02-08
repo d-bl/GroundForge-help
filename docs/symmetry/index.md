@@ -3,6 +3,8 @@ layout: default
 title: edit symmetries
 ---
 
+_Create your own template, it may generate numerous patterns with reflected and rotated copies._
+
 - [Edit symmetries](#edit-symmetries)
 - [The forms](#the-forms)
   * [Export / Import](#export---import)
