@@ -129,13 +129,13 @@ Constraints
 Some constraints are enforced:
 
 * Stitches along the perimeters can not move or be deleted
-* New stitches can only be made between two neighbouring kissing pairs.
+* New stitches can only be made between two neighbouring [kissing](../kissing) pairs.
 * Stitches along opposite borders are identical.
 
 You have to observe the following constraints by yourself:
 
 * Keep the position of stitches within the perimeter of the template.
-* Only create stitches with the bright sections of [kissing](kissing) pairs
+* Only create stitches with the bright sections of [kissing](../kissing) pairs
 * Don't separate the template in two disconnected sections,
   though some swatches may produce valid results.
 * Stitches along the perimeter should be symmetrical

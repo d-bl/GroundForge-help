@@ -20,7 +20,7 @@ An example with [GW-4](/GroundForge/tiles?whiting=G4_P201&patchWidth=40&patchHei
 This phenomenon can help to solve problems.
 Such as:
 
-* Add a [foot side](/GroundForge-help/Advanced#footside-tutorial)
+* Add a [foot side](../Advanced#footside-tutorial)
   or split a pattern.
-* Pinch to [add a stitch](/GroundForge-help/symmetry/#add-stitches)
+* Pinch to [add a stitch](../symmetry/#add-stitches)
   and not create a sewing.
