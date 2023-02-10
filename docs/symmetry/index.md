@@ -11,7 +11,7 @@ _Create your own template, it may generate numerous patterns with reflected and 
   * [Template](#template)
   * [Modify template](#modify-template)
   * [Swatches of templates](#swatches-of-templates)
-- [Edit a template with mouse actions](#edit-a-template-with-mouse-actions)
+- [Interact with template](#interact-with-template)
   * [Constraints](#constraints)
   * [Click/Tap](#click-tap)
   * [Drag Stitches](#drag-stitches)
@@ -120,8 +120,8 @@ This can be of help after reloading a file.
 In Inkscape, you need the [XML-editor](xml-title.png) to retrieve the information.
 Other SVG editors might or might not preserve this information.
 
-Edit a template with mouse actions
-==================================
+Interact with template
+======================
 
 Constraints
 -----------
@@ -135,7 +135,7 @@ Some constraints are enforced:
 You have to observe the following constraints by yourself:
 
 * Keep the position of stitches within the perimeter of the template.
-* Only create stitches with the bright sections of kissing pairs
+* Only create stitches with the bright sections of [kissing](kissing) pairs
 * Don't separate the template in two disconnected sections,
   though some swatches may produce valid results.
 * Stitches along the perimeter should be symmetrical
