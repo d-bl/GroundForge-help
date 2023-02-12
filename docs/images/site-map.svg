@@ -101,7 +101,7 @@
          style="stroke-width:0.264583"
          x="74.303833"
          y="88.616455"
-         id="tspan131">    Diagram editor</tspan><tspan
+         id="tspan131">    Diagram editor*</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="74.303833"
@@ -161,7 +161,7 @@
            y="112.73643">Intro</tspan></text>
     </a>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart);stroke-dasharray:1.58749795,1.58749795;stroke-dashoffset:0"
        d="M 36.746489,100.46563 C 38.864766,87.519006 57.145971,87.649921 76.550804,87.131498"
        id="path459"
        sodipodi:nodetypes="cc" />
@@ -188,15 +188,15 @@
          y="69.292">links to</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
-       x="139.08652"
-       y="93.783417"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264583"
+       x="140.92021"
+       y="91.868896"
        id="text3517"><tspan
          sodipodi:role="line"
          id="tspan3515"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
-         x="139.08652"
-         y="93.783417">links to</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264583"
+         x="140.92021"
+         y="91.868896">links to</tspan></text>
     <a
        id="a5153"
        xlink:actuate=""
@@ -226,7 +226,7 @@
        id="path5057"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart);stroke-dasharray:1.58749795,1.58749795;stroke-dashoffset:0"
        d="M 78.215738,92.342381 C 57.136161,93.281113 56.491689,87.160975 76.550804,87.131498"
        id="path5085"
        sodipodi:nodetypes="cc" />
@@ -237,15 +237,15 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
-       x="50.146835"
-       y="84.146851"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264583"
+       x="48.826481"
+       y="83.769539"
        id="text5105"><tspan
          sodipodi:role="line"
          id="tspan5103"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
-         x="50.146835"
-         y="84.146851">link to</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264583"
+         x="48.826481"
+         y="83.769539">links to</tspan></text>
     <a
        id="a5936"
        xlink:href="https://d-bl.github.io/GroundForge/sheet.html?img=376&amp;patch=B-C-,---5,C-B-,-5--;checker&amp;%20patch=5-M9,-50F;checker&amp;%20patch=4-J4,35-7;checker&amp;%20patch=4-L8,25-1;checker&amp;%20patch=4-M9,25E-;checker&amp;%20patch=68-7,-124;checker&amp;%20patch=4-O0,9E-7;checker&amp;%20patch=4-O0,O04-;checker&amp;%20patch=58-1,-158;checker&amp;%20patch=5831,-4-7;checker&amp;%20patch=5-O-E-,-E-5-O;checker"
@@ -296,7 +296,7 @@
          x="44.838261"
          y="93.504715">about</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart);stroke-dasharray:1.58749795,1.58749795;stroke-dashoffset:0"
        d="M 73.402298,106.78271 C 56.677738,106.57539 46.864807,86.244129 76.550804,87.131498"
        id="path657"
        sodipodi:nodetypes="cc" />
@@ -311,5 +311,21 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
          x="54.399529"
          y="59.767002">links to</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 108.93699,97.648685 c 34.17793,-0.521409 45.06953,-8.065435 4.84311,-9.709966"
+       id="path220"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="142.28156"
+       y="107.90875"
+       id="text1534"><tspan
+         sodipodi:role="line"
+         id="tspan1532"
+         style="stroke-width:0.264583;font-size:2.82222222px"
+         x="142.28156"
+         y="107.90875">*: rename to pairs/threads</tspan></text>
   </g>
 </svg>
