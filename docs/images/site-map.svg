@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="163.48399mm"
+   height="77.077003mm"
+   viewBox="0 0 163.48399 77.077004"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="site-map.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1543198"
+     inkscape:cx="338.29447"
+     inkscape:cy="146.83972"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="15"
+       markerHeight="11"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:#b3b3b3;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.071338,-39.374522)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="74.303833"
+       y="59.512253"
+       id="text113"><tspan
+         sodipodi:role="line"
+         id="tspan111"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="74.303833"
+         y="59.512253">Catalogues</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="74.303833"
+         y="64.362953"
+         id="tspan117">    TesseLace index</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="74.303833"
+         y="69.213654"
+         id="tspan119">    Gertrude Whiting sampler</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="74.303833"
+         y="74.064354"
+         id="tspan121">    Many Attractive Examples</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="74.303833"
+         y="78.915054"
+         id="tspan123">    Literature</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="74.303833"
+         y="83.765755"
+         id="tspan127">GroundForge</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="74.303833"
+         y="88.616455"
+         id="tspan131">    Diagram editor</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="74.303833"
+         y="93.467155"
+         id="tspan133">    User guide</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="74.303833"
+         y="98.317856"
+         id="tspan135">    Net variations</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="74.303833"
+         y="103.16855"
+         id="tspan137">    Symmetries</tspan><tspan
+         sodipodi:role="line"
+         id="tspan555"
+         style="font-weight:bold;stroke-width:0.264583"
+         x="74.303833"
+         y="108.01925">Tutorials</tspan></text>
+    <a
+       id="a5149"
+       transform="translate(6.8791669)" />
+    <rect
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.7;stroke-linejoin:bevel;stroke-opacity:0.987013"
+       id="rect245"
+       width="61.822628"
+       height="66.365921"
+       x="71.943367"
+       y="45.110851" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+       x="114.47432"
+       y="52.237328"
+       id="text408"><tspan
+         sodipodi:role="line"
+         id="tspan406"
+         style="stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+         x="114.47432"
+         y="52.237328">Side bar</tspan></text>
+    <a
+       id="a5878"
+       xlink:href="https://d-bl.github.io/GroundForge/"
+       target="_blank"
+       transform="translate(4.7625001,-6.35)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="29.370365"
+         y="112.73643"
+         id="text412"><tspan
+           sodipodi:role="line"
+           id="tspan410"
+           style="stroke-width:0.264583"
+           x="29.370365"
+           y="112.73643">Intro</tspan></text>
+    </a>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 36.746489,100.46563 C 38.864766,87.519006 57.145971,87.649921 76.550804,87.131498"
+       id="path459"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 131.39971,68.080406 c 12.40284,-0.292198 19.58966,0.677591 23.60105,7.743096"
+       id="path3503"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleStart);marker-end:url(#TriangleStart)"
+       d="m 154.8416,84.845115 c -3.21615,3.025857 -14.59358,3.309241 -41.0615,3.093604"
+       id="path3507"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+       x="149.64952"
+       y="69.292"
+       id="text3513"><tspan
+         sodipodi:role="line"
+         id="tspan3511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+         x="149.64952"
+         y="69.292">links to</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+       x="139.08652"
+       y="93.783417"
+       id="text3517"><tspan
+         sodipodi:role="line"
+         id="tspan3515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+         x="139.08652"
+         y="93.783417">links to</tspan></text>
+    <a
+       id="a5153"
+       xlink:actuate=""
+       xlink:href="https://d-bl.github.io/GroundForge/print?whiting=F4_P180&amp;patchWidth=9&amp;patchHeight=9&amp;d1=ctc&amp;c1=ctc&amp;b1=ctc&amp;a1=ctc&amp;d2=ctc&amp;c2=ctcllctc&amp;a2=ctcrrctc&amp;tile=1483,8-48&amp;footsideStitch=ctctt&amp;tileStitch=ctc&amp;headsideStitch=ctctt&amp;shiftColsSW=-2&amp;shiftRowsSW=2&amp;shiftColsSE=2&amp;shiftRowsSE=2"
+       transform="translate(2.7533604,-3.5089158)"
+       target="_blank">
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="135.16896"
+         y="85.367455"
+         id="text3521"><tspan
+           sodipodi:role="line"
+           id="tspan3519"
+           style="stroke-width:0.264583"
+           x="135.16896"
+           y="85.367455">PDF/print friendly page</tspan></text>
+    </a>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 79.665053,63.394504 C 54.330913,65.684994 55.8639,86.872053 76.550804,87.131498"
+       id="path5053"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 78.815811,72.372201 C 57.296089,71.755032 61.728437,86.659435 76.550804,87.131498"
+       id="path5057"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 78.215738,92.342381 C 57.136161,93.281113 56.491689,87.160975 76.550804,87.131498"
+       id="path5085"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 79.665053,63.394504 51.705285,60.366153"
+       id="path5099"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+       x="50.146835"
+       y="84.146851"
+       id="text5105"><tspan
+         sodipodi:role="line"
+         id="tspan5103"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+         x="50.146835"
+         y="84.146851">link to</tspan></text>
+    <a
+       id="a5936"
+       xlink:href="https://d-bl.github.io/GroundForge/sheet.html?img=376&amp;patch=B-C-,---5,C-B-,-5--;checker&amp;%20patch=5-M9,-50F;checker&amp;%20patch=4-J4,35-7;checker&amp;%20patch=4-L8,25-1;checker&amp;%20patch=4-M9,25E-;checker&amp;%20patch=68-7,-124;checker&amp;%20patch=4-O0,9E-7;checker&amp;%20patch=4-O0,O04-;checker&amp;%20patch=58-1,-158;checker&amp;%20patch=5831,-4-7;checker&amp;%20patch=5-O-E-,-E-5-O;checker"
+       target="_blank"
+       transform="translate(4.7625001,-6.35)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="28.072424"
+         y="66.696671"
+         id="text5109"><tspan
+           sodipodi:role="line"
+           id="tspan5107"
+           style="stroke-width:0.264583"
+           x="28.072424"
+           y="66.696671">pricking</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="28.072424"
+           y="71.547371"
+           id="tspan5111">variations</tspan></text>
+    </a>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 40.547817,66.631376 c 1.447869,19.682862 9.00959,20.069985 36.002987,20.500122"
+       id="path5117"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="149.79916"
+       y="50.708565"
+       id="text5714"><tspan
+         sodipodi:role="line"
+         id="tspan5712"
+         style="stroke-width:0.264583"
+         x="149.79916"
+         y="50.708565" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+       x="44.838261"
+       y="93.504715"
+       id="text5820"><tspan
+         sodipodi:role="line"
+         id="tspan5818"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+         x="44.838261"
+         y="93.504715">about</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 73.402298,106.78271 C 56.677738,106.57539 46.864807,86.244129 76.550804,87.131498"
+       id="path657"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+       x="54.399529"
+       y="59.767002"
+       id="text814"><tspan
+         sodipodi:role="line"
+         id="tspan812"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#b3b3b3;stroke-width:0.264583;fill:#b3b3b3;fill-opacity:1"
+         x="54.399529"
+         y="59.767002">links to</tspan></text>
+  </g>
+</svg>
