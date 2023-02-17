@@ -186,9 +186,25 @@ and release the mouse button.
 Third party editors
 ===================
 
-After download, you can customize and annotate the generated patterns with a 
-[third party editor](Reshape-Patterns#evaluated-editors).
-The generated file has properties to observe when customizing and reloading for further changes with the web page.
+After download, you can customize and annotate the generated patterns with a third party editor.
+The generated files have properties to observe when customizing and reloading for further changes with the web page.
+
+A not exhaustive list of third party products and services:
+
+* Lace8 and Knipling (💰, not on Mac) don't understand the downloads at all.
+* [Inkscape] (free, open source)  keeps the clones.
+* [offidocs] includes Inkscape for iPad and chrome/Firefox [plugin] (subscription to get rid of adds).
+* [Affinity Designer] (💰, iPad; also for Mac and Windows) unlinks the clones by default.
+* [CorelDRAW] (💰💰, subscription;  Home and Student Suite 💰, Windows and Mac) unlinks the clones by default.
+  No intention (2018) to implement an import option that treats clones as such.
+* [Adobe Illustrator]  (💰💰, subscription)
+
+[Inkscape]: https://inkscape.org/
+[offidocs]: https://www.offidocs.com/index.php/desktop-online-images-graphics-apps/inkscape-online-editor-vector-graphics
+[plugin]: https://www.offidocs.com/index.php/images-grahpics-chrome-firefox-extensions/inkscape-web-browser-extension
+[CorelDRAW]: https://www.coreldraw.com
+[Affinity Designer]: https://affinity.serif.com/en-us/designer/ipad/
+[Adobe Illustrator]: https://helpx.adobe.com/support/illustrator.html
 
 File structure
 --------------
@@ -214,12 +230,16 @@ This identifier reflects how the group is used to create the swatches in the gro
         <use xlink:href="#cld"/>
         <use xlink:href="#clp"/>
         <use xlink:href="#clq"/>
+        ...
       </g>
+      ...
     </g>
     <g id="bdpqLegend"/>
     <g id="cloned">
       <path class="link kiss_2 starts_at_123 ends_at_456"/>
+      ...
       <g id="123" class="node"><title>ctc<title>...</g>
+      ...
     </g>
 
 A change to a field in the form section _swatches of templates_ replaces the full content of `#clones`.
