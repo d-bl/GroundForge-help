@@ -9,6 +9,6 @@ title: Print with destination PDF
 * The last seconds of the video clip shows the document has a link. Once the document is saved, this link goes back to the online page.
 
 <video controls style="border: 1px solid; padding-top: 2px;">
-    <source src="print-to-pdf.mp4" type="video/mp4">
-    Your browser does not support an inline <a href="print to pdf">video</a>.
+    <source src="print-as-pdf.mp4" type="video/mp4">
+    Your browser does not support an inline <a href="print as pdf">video</a>.
 </video>  
