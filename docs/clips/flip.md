@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Ignore an restore stitches
+title: Flip stitches
 ---
-
 Assign mirrored and rotated version of stitches.
+================================================
+
+Soundless video clip.
 
 <video controls style="border: 1px solid; padding-top: 2px;">
     <source src="flip.mp4" type="video/mp4">

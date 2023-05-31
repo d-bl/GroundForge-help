@@ -1,7 +1,12 @@
 ---
 layout: default
-title: Ignore an restore stitches
+title: Ignore and restore stitches
 ---
+
+Ignore and restore stitches
+==========================
+
+Soundless video clip.
 
 <video controls style="border: 1px solid; padding-top: 2px;">
     <source src="ignore.mp4" type="video/mp4">
