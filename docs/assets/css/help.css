@@ -15,6 +15,7 @@ Header { background: #3679cd url(../images/header-bg-left.png) top right repeat;
 #main-content ul ul { margin-bottom: 0px; }
 
 #fallBack { border: 10px solid orange; padding: 5px; }
+.deprecated { background: darkorange; padding: 2px; }
 
 figure { display: inline-block; margin-left: 0; margin-top: 0; margin-right: 0.5em; }
 figure image, figcaption { display: block; }
