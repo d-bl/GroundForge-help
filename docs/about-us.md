@@ -7,7 +7,7 @@ title: About us
 
 * [Jo Pol](#jo-pol)
 * [Marian Tempels](#marian-tempels)
-* <a href="https://tesselacedotcom.wordpress.com/about/" target="_blank">Veronika Irvine</a>
+* <a href="https://linktr.ee/tesselace" target="_blank">Veronika Irvine</a>
 
 ## Jo Pol
 
