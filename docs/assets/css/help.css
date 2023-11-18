@@ -18,6 +18,7 @@ header a:hover {color: #9ddcff}
 
 #fallBack { border: 10px solid orange; padding: 5px; }
 .deprecated { background: darkorange; padding: 2px; }
+header h1, header h2 {width:100%}
 
 figure { display: inline-block; margin-left: 0; margin-top: 0; margin-right: 0.5em; }
 figure image, figcaption { display: block; }
