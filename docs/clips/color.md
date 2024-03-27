@@ -3,7 +3,7 @@ layout: default
 title: Colors in thread diagrams
 ---
 
-Highlight threads and stitches in thread diagrams
+Highlights in thread diagrams
 =================================================
 
 Soundless video clip.
