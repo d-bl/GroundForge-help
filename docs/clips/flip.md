@@ -2,8 +2,8 @@
 layout: default
 title: Flip stitches
 ---
-Assign mirrored and rotated version of stitches.
-================================================
+Mirrored and rotated stitches.
+==============================
 
 Soundless video clip.
 
