@@ -13,7 +13,7 @@ Soundless video clip.
     Your browser does not support an inline <a href="flip">video</a>.
 </video>   
 
-The clip shows that buttons `↔` and `↕` change the text field.
+The clip shows that the buttons `↔` and `↕` change the text field.
 You can subsequently assign the text value to stitches in the diagram.
 
 Details
@@ -34,6 +34,6 @@ Each blue dashed line in A-D indicates a flip axis.
 A red dashed line in C-D is not a flip axis.
 Mixed dashes: flip axis for the pair diagram but not for the thread diagram. 
 The small arrow heads in G show that flipping along the red axis can create an
-impossible situation because the working direction of the worker pair should have flipped too.
+impossible situation because the direction of the worker pair should have flipped too.
 The bright green stitch in F show the right part of G in context.
 The yellow dashed lines illustrate how the stitches of B rotate by 45 degrees to appear in C.
