@@ -12,42 +12,21 @@ Soundless video clip.
     Your browser does not support an inline <a href="flip">video</a>.
 </video>  
 
-The table below illustrates the implementation.
-
-<table>
-    <tr>
-        <td class="sn sw"><code id="mb">cllcr</code></td>
-        <td class="sn de"></td>
-        <td class="sn dw"></td>
-        <td class="sn se"><code id="md">crrcl</code></td>
-    </tr>
-    <tr>
-        <td class="ds sw"></td>
-        <td class="ds de">b</td>
-        <td class="ds dw">d</td>
-        <td class="ds se"></td>
-    </tr>
-    <tr>
-        <td class="dn sw"></td>
-        <td class="dn de">p</td>
-        <td class="dn dw">q</td>
-        <td class="dn se"></td>
-    </tr>
-    <tr>
-        <td class="ss sw"><code id="mp">rccl</code></td>
-        <td class="ss de"></td>
-        <td class="ss dw"></td>
-        <td class="ss se"><code id="mq">lcrrc</code></td>
-    </tr>
-</table>
-
-This gives expected results in a diamond mesh.
-With a working pair, we get less expected results.
-We see reflections when flipping along the green dashed lines but not with the red dashed line.
+These 
+[diamond](https://d-bl.github.io/GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=4,x&tile=-5-5,5-5-,-5-5,5-5-&headside=x,7&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=4&shiftRowsSE=4&e1=ctc&c1=cllcrc&a1=ctctctl&n2=ctctctr&d2=cllcrc&b2=cllcrc&e3=ctc&c3=cllcrc&d4=ctc&b4=ctc)
+and
+[square](https://d-bl.github.io/GroundForge/stitches.html?b1=cllcr&c1=crrcl&b2=rcllc&c2=lcrrc&tile=88,11&a1=rctctctctt&l2=lctctctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&patchWidth=10&patchHeight=12&headside=x,7&footside=4,x)
+patterns (with other stitches than the video demo above) are used to
+demonstrate details of the flip feature in the figures below.
 
 ![](cllcr-bdpq.svg)
 
-
-[diamond](https://d-bl.github.io/GroundForge/stitches.html?patchWidth=12&patchHeight=15&footside=4,x&tile=-5-5-,5-5-5,-5-5-,5-5-5&headside=x,7&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=5&shiftRowsSE=1&e1=ctc&c1=ctc&a1=ctctctl&n2=ctctctr&f2=crrcl&d2=cllcr&b2=ctc&e3=ctc&c3=ctc&f4=lcrrc&d4=rcllc&b4=ctc)
-/
-[weaving](https://d-bl.github.io/GroundForge/stitches.html?b1=cllcr&c1=crrcl&b2=rcllc&c2=lcrrc&tile=88,11&a1=rctctctctt&l2=lctctctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&patchWidth=10&patchHeight=12&headside=x,7&footside=4,x)
+A and C are the [color coded](../color-rules.md) diagrams for B and D.
+The fat arrow heads indicate working directions.
+Each blue dashed line in A-D indicates a flip axis.
+A red dashed line in C-D is not a flip axis.
+Mixed dashes: flip axis for the pair diagram but not for the thread diagram. 
+The small arrow heads in G show that flipping along the red axis can create an
+impossible situation because the working direction of the worker pair should have flipped too.
+The bright green stitch in F show the right part of G in context.
+The yellow dashed lines illustrate how the stitches of B rotate by 45 degrees to appear in C.
