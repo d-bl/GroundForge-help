@@ -16,8 +16,8 @@ Soundless video clip.
 The clip shows that the buttons `↔` and `↕` change the text field.
 You can subsequently assign the text value to stitches in the diagram.
 
-Details
--------
+Notes on mirroring stitches.
+----------------------------
 
 These 
 [diamond](https://d-bl.github.io/GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=4,x&tile=-5-5,5-5-,-5-5,5-5-&headside=x,7&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=4&shiftRowsSE=4&e1=ctc&c1=cllcrc&a1=ctctctl&n2=ctctctr&d2=cllcrc&b2=cllcrc&e3=ctc&c3=cllcrc&d4=ctc&b4=ctc)
