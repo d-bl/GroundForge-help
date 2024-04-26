@@ -28,13 +28,14 @@ demonstrate details of the flip effects in the figures below.
 
 ![](cllcr-bdpq.svg)
 
-A and C are the [color coded](../color-rules.md) diagrams for B and D.
+Figure A and C are the [color coded](../color-rules.md) diagrams for B and D.
 The fat arrow heads indicate working directions.
 Each blue dashed line in A-E indicates a flip axis.
 A red dashed line in C-D is not a flip axis.
-Mixed dashes: flip axis for the pair diagram but not for the corresponding thread diagram. 
+Mixed dashes: flip axis for the pair diagram but not for the corresponding thread diagram.
+The yellow dashed lines in B illustrate how the stitches rotate by 45 degrees to appear in C.
+
 The small arrow heads in G show an impossible situation.
-Two arrows meet one another, another goes up: 
+Two arrows meet one another, another goes up:
 the direction of the worker pair should have flipped too.
 The bright green stitch in F show the right part of G in context.
-The yellow dashed lines in B illustrate how the stitches rotate by 45 degrees to appear in C.
