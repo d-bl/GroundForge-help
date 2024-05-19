@@ -15,7 +15,7 @@
 * [Drop/restore stitches](/GroundForge-help/Replace) ![-](/GroundForge-help/images/toggle-stitch.png)
 * [Tile layout](/GroundForge-help/Change-tiles) ![-](/GroundForge-help/images/brick-menu-icon.png)
 * [Save, refresh, undo](/GroundForge-help/Undo) ![-](/GroundForge/images/link.png) ![-](/GroundForge/images/wand.png)
-* [Resize space](/GroundForge-help/Icons) ![-](/GroundForge/images/size-inc.jpg)![-](/GroundForge/images/size-dec.jpg)
+* [Panel size](/GroundForge-help/Icons) ![-](/GroundForge/images/size-inc.jpg)![-](/GroundForge/images/size-dec.jpg)![-](/GroundForge/images/maximize.jpg)![-](/GroundForge/images/reset-dimensions.jpg)![-](/GroundForge/images/minimize.jpg)
 * [Animate](/GroundForge-help/Icons) ![-](/GroundForge/images/animate.png)
 * [Untangle](/GroundForge-help/untangle)
 * [Download](/GroundForge-help/Download) ![-](/GroundForge/images/download.jpg)
@@ -29,13 +29,14 @@
 
 * [Getting Started](/GroundForge-help/index)
 * [Create a pattern](/GroundForge-help/Advanced)
+* [Swatch Size](/GroundForge-help/Patch-Size) (rows/columns)
 * [Droste effect](/GroundForge-help/Droste-effect)
 * [Reshape pair diagrams](/GroundForge-help/Reshape-Patterns)
 * [Printed patterns to GF](/GroundForge-help/Reversed-engineering-of-patterns)
+* [Binche](/GroundForge-help/Binche) sampler
 
 ### Notes
 
-* [Patch Size](/GroundForge-help/Patch-Size)
 * [Pin distances and angles](/GroundForge-help/Pin-distances-and-angles)
 * [Head/foot-sides](/GroundForge-help/footsides)
 

@@ -23,9 +23,8 @@ An [extended version](/GroundForge/images/matrix-template-extended.png)
 shows additional symbols used in legacy patterns.
 
 ![3x3](/GroundForge/images/swatches.png) **Stitch enumeration**  
-Click the icon for an enumeration of used stitches and their color(s).  
-Droste diagrams produce plain text with a single color per stitch.
-The result is an SVG download (see below) in case of the 4 color system.
+This icon lets you toggle between showing/hiding an enumeration of used stitches and their color(s).
+The button is only available on the crowded deprecated page.
 
 ![2x2](/GroundForge/images/to-color-rules.png) **Color code rules**  
 This icon leads to the rules for a color code with up to [four colors per stitch](color-rules).  
@@ -36,12 +35,16 @@ The [page](print-pdf) is intended to build your own catalogue of patterns,
 either on paper or as a collection of PDF documents.
 
 ![inc](/GroundForge/images/size-inc.jpg)
-![dec](/GroundForge/images/size-dec.jpg)
-**Resize space** (not to be confused with zoom or  patch size)  
+![dec](/GroundForge/images/size-dec.jpg) -
+![max](/GroundForge/images/maximize.jpg)
+![reset](/GroundForge/images/reset-dimensions.jpg)
+![min](/GroundForge/images/minimize.jpg)
+**Panel size**  
 Depending on the browser/device, the diagrams may have a hot corner
 in the south-east, where the sliders meet.
 Drag this corner to adjust the available space. 
-The buttons shown here are an alternative when the hot corner is not available, for example on touch devices. 
+The buttons shown here are an alternative when the hot corner is not available, for example on touch devices.
+A half minute [video](clips/resize) clip shows how to use the second set of buttons.
 
 ![](images/resize.png)
 

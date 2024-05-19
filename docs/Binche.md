@@ -7,7 +7,7 @@ ref: binche
 
 Example from Binche Kompakt
 ===========================
- [_Binche Kompakt_](https://www.deutscher-kloeppelverband.de/katalog/) is sampler designed by Hildegund Jene which features 32 different grounds drawn from Flemish, Parisian,and Valenciennes laces.  Ground number 31 in the sampler is particularly challenging to work because it uses a combination of half-stitch (CT) and whole-stitch (CTCT) in the ring pairs. To better understand this ground, a GroundForge model was made.
+ [_Binche Kompakt_](https://www.deutscher-kloeppelverband.de/katalog/) is a sampler designed by Hildegund Jene which features 32 different grounds drawn from Flemish, Parisian,and Valenciennes laces.  Ground number 31 in the sampler is particularly challenging to work because it uses a combination of half-stitch (CT) and whole-stitch (CTCT) in the ring pairs. To better understand this ground, a GroundForge model was made.
 
 ![](images/kompakt-31-challenge.png)
 
@@ -25,7 +25,7 @@ Below are four main variations showing the pattern diagram (top row) and corresp
 
 _Figure 2: Four variations of TT4_
 
-<a name="nrs"/>
+<a id="nrs"></a>
 
 The extensive catalogue _Viele gute Gründe_ by Ulricke Voelcker-Löhr contains many snowflake variations.  Several of these are similar to the four variations presented here:
 * In 7 snowflakes (B3.25, B3.71-B3.76), two diagonal pairs cross twice, as in the first variation above.
