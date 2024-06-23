@@ -7,7 +7,14 @@ ref: binche
 
 Example from Binche Kompakt
 ===========================
- [_Binche Kompakt_](https://www.deutscher-kloeppelverband.de/katalog/) is a sampler designed by Hildegund Jene which features 32 different grounds drawn from Flemish, Parisian,and Valenciennes laces.  Ground number 31 in the sampler is particularly challenging to work because it uses a combination of half-stitch (CT) and whole-stitch (CTCT) in the ring pairs. To better understand this ground, a GroundForge model was made.
+ 
+_Binche Kompakt_ is a sampler designed by Hildegund Jene
+ which features 32 different grounds drawn from Flemish, Parisian,and Valenciennes laces.
+The pattern is no longer available at the [Deutscher Klöppelverband], but you may find it in the second-hand market.
+ Ground number 31 in the sampler is particularly challenging to work because it uses a combination of half-stitch (CT) and whole-stitch (CTCT) in the ring pairs.
+ To better understand this ground, a GroundForge model was made.
+
+[Deutscher Klöppelverband]: https://www.deutscher-kloeppelverband.de/
 
 ![](images/kompakt-31-challenge.png)
 
