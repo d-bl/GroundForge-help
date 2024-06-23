@@ -57,6 +57,12 @@ or apply just a twist to the middle stitch.
 
 ![](images/drop-stitches.png) 
 
+When you are done editing the pattern, you can return by following the link _stitches and threads_. 
+Please note that (except along edges) a grey half circle indicates a problem.
+In the following example, two pairs are entering but only one pair is leaving the stitch.
+
+![](images/error_indication.png)
+
 ### History of Ground 31
 
 In issue 2000/2 of the Belgian lace magazine [_Kant_](https://www.kantcentrum.eu/en/magazine), Anne-Marie Verbeke-Billiet published a handkerchief pattern called _Anneke_ based on an old Valenciennes example.  She included four variations of stitches traditionally used in Paris ground and in the ring pairs around snowflakes.  The variation that is most unusual uses a combination of whole (CTCT) and half (CT) stitches.  This stitch combination, which she labels TT4 in the article (see also B4.2 in _Viele gute Gründe_ by Ulricke Voelcker-Löhr), has the effect of blurring the ring pairs around the snowflakes until they almost disappear.  According to Verbeke-Billiet, this stitch combination was once as popular as the whole stitch variation (TT1 in Kant and B4.1 in VGG) that is so familiar today. TT4 fell out of the lacemaker's repertoire about one hundred years ago perhaps because, like many half-stitch grounds, it is very difficult to work. The threads don't travel in tidy vertical and diagonal lines making it hard, especially when worked without pins, to keep track of where you are in the pattern.
