@@ -5,6 +5,11 @@ Header { background: #3679cd url(../images/header-bg-left.png) top right repeat;
         background-color: #3679cd
     }
 }
+@media only screen {
+    aside {
+        display: none;
+    }
+}
 header a{color: #fff}
 header a:hover {color: #9ddcff}
 

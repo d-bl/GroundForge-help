@@ -61,10 +61,10 @@ _Figure 3: Edit the pattern definition_
 
 ![](images/error_indication.png?align=right)
 
-When you are done editing the pattern, you can follow the link _stitches and threads_ 
-to return to the pair and thread diagram.
 Please note that (except along edges) a grey half circle indicates a problem.
 In the example on the right, two pairs are entering but only one pair is leaving the stitch.
+When you are done editing the pattern, you can follow the link _stitches and threads_
+to return to the pair and thread diagram.
 
 ### History of the ground
 
