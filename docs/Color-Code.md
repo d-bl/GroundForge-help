@@ -13,11 +13,6 @@ Color Code
   - [Colors](#colors-by-groundforge)
   - [Tweak Colors](#tweak-colors)
 
-Click/tap the swatch icon ![](/GroundForge/images/swatches.png) for
-an enumeration of stitches that are actually used in a pattern.
-The enumeration for the 4-color-per-stich style pair diagram is a download and can be 
-copy-pasted into the download of a pair diagram with 3rd party software.
-The enumerations for the Droste patterns are plain text.
 
 Color code dialects
 ===================

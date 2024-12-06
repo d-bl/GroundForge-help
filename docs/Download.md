@@ -33,7 +33,7 @@ by dragging it with your mouse between the tabs:
 Some browsers may have a limit on the size of the downloads. 
 
 Some tablets open a download in a browser, some of those fail to render. 
-Other save a download in a photo section, 
+Others save a download in a photo section, 
 but it is a vector based image, not a pixel based photo.
 A 3rd party [editor](Reshape-Patterns#evaluated-editors)
 supporting SVG can show and change the download.

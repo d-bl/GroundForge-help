@@ -9,12 +9,7 @@ Color codes
 The Belgian color code and [similar systems](Color-Code) are designed for traditional styles of bobbin lace.
 When experimenting with unorthodox stitches and grounds we need more than half a dozen of colors for a universal legend.
 
-Depending on the context, these icons: ![3x3swatches](/GroundForge/images/swatches.png) ![2x2swatches](/GroundForge/images/to-color-rules.png)  
-may lead to a page explaining one of the color code systems (one color versus four colors per stitch),
-or provide enumerations of the stitches used in a pattern.
-For publishing purposes, you can use third party software to merge
-the downloads of a pattern and an enumeration.
-The 2x2 icon serves as a reminder:
+[2x2swatches](/GroundForge/images/to-color-rules.png)  serves as a reminder:
 the color numbers are arranged in a clockwise order
 starting with red (=danger alias unusual) as zero.
 

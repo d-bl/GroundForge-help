@@ -7,10 +7,6 @@ Toggle thread colors
 ====================
 You may have to scroll/drag the thread diagram (or increase the panel size)
 to make the squares at the start or bobbins ate the end of the threads visible.  
-![](images/toggle-thread.png)
-Click these squares or bobbins to browse through a few colors.
-A tooltip shows a thread number when your mouse hovers over a square.  
-![](images/toggle-hover.png)  
 Too tiny squares or too close together? Use the zoom function of your browser.
 Usually control-shift-plus to zoom in, control-zero to reset,
 on a mac use command for control.
@@ -25,14 +21,6 @@ with one of the predefined colors and subsequently change them.
 
 Grouping thread segments simplifies the procedure to apply more thread colors and widths.
 The feature did not mary well with the Droste patterns and is only available for laptops and desktops:
-* [download](https://github.com/d-bl/GroundForge/archive/thread-props.zip) and unzip
-* select/tweak your pattern on the [web site](/GroundForge/tiles)
-* click ![](/GroundForge/images/link.png)
-* in the address bar of your browser
-  * replace `https://github.com/d-bl/tiles.html` (as far as there is a `.html`)
-  * with `file:///PATH/TO/UNZIPPED/GroundForge-thread-props/docs/tiles.html`
-* click ![](/GroundForge/images/download.jpg)
-* open the download with a [tool of your choice](Reshape-Patterns#evaluated-editors)
 
 The next procedure may vary between the tools.
 * Select the diagram.
