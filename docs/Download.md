@@ -38,7 +38,3 @@ but it is a vector based image, not a pixel based photo.
 A 3rd party [editor](Reshape-Patterns#evaluated-editors)
 supporting SVG can show and change the download.
 It may need to get access to the photos section or wherever the download is stored.
-
-A use case to edit thread diagrams:
-apply other [colors/widths](Thread-Properties#more-thread-colors-andor-widths) 
-to the threads.
