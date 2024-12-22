@@ -7,7 +7,8 @@ Toc
 ===
 * [Mix snowflakes into new Grounds](#mix-snowflakes-into-new-grounds)
   * [Recipes for the mixer](#recipes-for-the-mixer)
-    * [Modify a given recipe](#modify-a-given-recipe)
+    * [Modify a given recipe](#modify-a-given-recipe
+    * [Even numbers of stitches](#even-numbers-of-stitches)
     * [Blob analysis](#blob-analysis)
     * [Try step by step](#try-step-by-step)
   * [Stitches for six pair snowflakes](#stitches-for-six-pair-snowflakes)
@@ -73,9 +74,9 @@ The mixer can handle up to 10 stitches. That is an arbitrary but hard coded limi
 
 [workaround]: https://github.com/d-bl/GroundForge/blob/master/docs/_includes/snow/README.md#odd-number-of-stitches
 
-![](blobs.svg?align=left)
-
 ### Blob analysis
+
+![](blobs.svg?align=left)
 
 To start from scratch, we need to interpret a six-pair diagram as a thread diagram.
 On the left an arbitrary example.
