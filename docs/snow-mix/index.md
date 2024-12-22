@@ -7,7 +7,7 @@ Toc
 ===
 * [Mix snowflakes into new Grounds](#mix-snowflakes-into-new-grounds)
   * [Recipes for the mixer](#recipes-for-the-mixer)
-    * [Modify a given recipe](#modify-a-given-recipe
+    * [Modify a given recipe](#modify-a-given-recipe)
     * [Even numbers of stitches](#even-numbers-of-stitches)
     * [Blob analysis](#blob-analysis)
     * [Try step by step](#try-step-by-step)
