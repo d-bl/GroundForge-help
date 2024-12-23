@@ -12,6 +12,8 @@ Toc
     * [Blob analysis](#blob-analysis)
     * [Try step by step](#try-step-by-step)
   * [Stitches for six pair snowflakes](#stitches-for-six-pair-snowflakes)
+    * [Collapsed stitches](#collapsed-stitches)
+    * [Footsides](#footsides)
   * [Save and recall a pattern](#save-and-recall-a-pattern)
 
 
@@ -140,13 +142,44 @@ some stitches might have their ID changed, or they are no longer applicable at a
 
 The twist marks in the pair diagram are not reliable.
 
+### Collapsed stitches
+
+We might encounter repeated actions in a stitch. Repeated twists are the most common.
+The sample on the left below shows a repeated cross on both sides.
+For GroundForge anything done with the same two pairs is a single stitch.
+We see that below in the middle with the pair diagram created from the thread diagram.
+We can counteract that effect with a _ctctttctc_ as shown on the right. 
+
+![](double-cross.png) &nbsp; ![](un-doubled.png) &nbsp; ![](re-doubled.png)
+
+![](footsides.png?align=right)
+
+### Footsides
+
+Footsides direct contrasting threads back into the ground in a specific order.
+On the right a simplified pattern (blue) with two different footsides
+each with their own consequences.
+The footsides are based on a _tct_ give or take a twist.
+Following the link-button `tweak footsides` in the mixer,
+you can apply any other stitch, like _tcrct_, _tclct_ or _tctct_
+before you go to the _pairs from threads_ page.
+
+Footside twist may collaps with ground twists.
+
+A passive more or less is not significant to control the thread flow,
+but you might want half snowflakes that match the ground.
+For that purpose, there is room for five more pairs using this [advanced] technique.
+
+<!-- TODO develop recipes from simplified  -->
+[simplified]: /GroundForge/droste?patchWidth=1?patchWidth=1&patchHeight=15&footside=4,x&tile=-,5&headside=7,x&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&c1=lctrr&a1=rctll&b2=ctc&droste2=c10=c11=c12=tctctct,c13=rrtctctct,a10=tctctctc,a11=ctctctc,a13=ctctct,a12=lllctctctctc#
+[advanced]: /GroundForge-help/Advanced#footside-tutorial
+
 Save and recall a pattern
 -------------------------
 
 The print function of your browser can save the diagrams [as PDF](/GroundForge-help/clips/print-as-pdf).
-Make sure the stitches panel is big enough to accommodate all stitches.
-The document has a link back to the interactive page.
-In turn the interactive page has a link to the _pair diagram_.
-That link should go back to the mixer page with the pattern.
+The document has a link back to the interactive page,  unless you opted for a selection in the print dialog.
+
+When on a _pairs from thread_ page, make sure the stitches panel is big enough to accommodate all stitches.
 Open the document in your browser, and you can copy the content of the stitches panel
-in case the link in the document does not restore it properly. 
+in case the link in the document does not restore the content properly.
