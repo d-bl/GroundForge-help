@@ -1,6 +1,6 @@
 ---
 layout: default
-title: stitches for mix of snowflakes
+title: mix snowflakes
 ---
 
 Toc
@@ -20,7 +20,7 @@ Toc
 Mix snowflakes into new Grounds
 ===============================
 
-On the [snow mixer] you can create diagrams for (new) grounds with a mix of snowflakes.
+On the [snow mixer] you can create diagrams for (new) grounds with a mix of 2x2 snowflakes.
 
 ![sample](sample.png?align=left)
 On the left a sample of lace by Babette.
@@ -28,10 +28,10 @@ She invented a double hexagonal ring pair around a snowflake.
 The intersections of the double ring pairs are in fact compact snowflakes.
 This inspired to explore a mix of snowflakes in general.
 
-The pair diagram of a six pair snowflake can be interpreted
-as a thread diagram of a three pair connection.
-Each three pair connection can be composed with a group of two pair stitches.
-The mixer starts with the last step as building blocks alias recipes for a combination of four snowflakes.
+The pair diagram of a 6-pair snowflake can be interpreted
+as a thread diagram of a 3-pair connection.
+Each 3-pair connection can be composed with a group of 2-pair stitches.
+The mixer starts with the last step as building blocks alias recipes for a combination of 2x2 snowflakes.
 
 
 [snow mixer]: /GroundForge/mix4snow/
@@ -39,15 +39,18 @@ The mixer starts with the last step as building blocks alias recipes for a combi
 Recipes for the mixer
 ---------------------
 
-The mixer shows a few recipes for its building blocks with thumbnails.
+The [snow mixer] shows a few recipes with thumbnails.
 This is just a start as a collection with recipes can barely scratch the surface of the possibilities.
-The dazzling numbers are explained on [counting snow families](https://d-bl.github.io/MAE-gf/docs/counting-snow/)
-We have a few more [recipes](/MAE-gf/docs/snow-stitches/563412-145236.svg) of only two families.
+In [counting snow families](https://d-bl.github.io/MAE-gf/docs/counting-snow/)
+we have 230 families for the type of snowflakes for the mixer.
+About half of the _B3_ samples in [Viele gute Gründe](/MAE-gf/docs/literature)
+are members of only 2 families and need only 17 recipes.
+We have a few more [recipes](/MAE-gf/docs/snow-stitches/563412-145236.svg) beyond the thumbnails for only two families.
 
 ### Modify a given recipe
 
-The full list of steps if for a laptop or desktop.
-A mobile device does not show the tooltips. It requires more trial and error without the hover steps.
+The following list of steps shows some hover actions.
+A mobile device does not support hovering, it requires a little more trial and error without.
 Click the blue hexagon again when you guessed wrong with removing the color.
 
 Suppose we want to remove the center of a spider. 
@@ -59,9 +62,9 @@ Suppose we want to remove the center of a spider.
 * Click the stitch to check the color disappears from the desired stitch in the thread diagram.
 * In this case we clicked the fourth stitch of the plait.
 * Figure (a) adds a two to the id in figure b, as the application starts with zero that means the third action.
-* The recipe was `lc,crc,ctc,lcrcl,ctc,crc,c,r`, the fourth stitch is `lcrcl` as we saw on the tooltip.
-  We have to remove third action which is the `r`.
-  Note that a `t` counts as two actions: twist left plus twist right.
+* The recipe was _lc,crc,ctc,lcrcl,ctc,crc,c,r_, the fourth stitch is _lcrcl_ as we saw on the tooltip.
+  We have to remove the third action which is the _r_.
+  Note that a _t_ counts as two actions: twist left plus twist right.
 
 |    figure (a)    |    figure (b)    |      figure (c)       |
 |:----------------:|:----------------:|:---------------------:|
@@ -74,7 +77,7 @@ To get an even number of stitches, we had to separate it from the preceding stit
 For technical reasons the mixer template does not support odd numbers of stitches, see this [workaround].
 The mixer can handle up to 10 stitches. That is an arbitrary but hard coded limit.
 
-[workaround]: https://github.com/d-bl/GroundForge/blob/master/docs/_includes/snow/README.md#odd-number-of-stitches
+[workaround]: https://github.com/d-bl/GroundForge/blob/master/docs/_includes/mix4snow/README.md#odd-number-of-stitches
 
 ### Blob analysis
 
@@ -104,6 +107,7 @@ The too complicated example on the right illustrates requirements for the blobs:
 ### Try step by step
 
 The double ring pair of the default pattern is a nice environment to explore or troubleshoot a new recipe.
+The following table explains by example.
 
 | recipe                                  | result                  |                                                          |
 |:----------------------------------------|:------------------------|:---------------------------------------------------------|
@@ -158,13 +162,13 @@ We can counteract that effect with a _ctctttctc_ as shown on the right.
 
 Footsides direct contrasting threads back into the ground in a specific order.
 On the right a simplified pattern (blue) with two different footsides
-each with their own consequences.
+each with their own consequences for the thread sequence.
 The footsides are based on a _tct_ give or take a twist.
-Following the link-button `tweak footsides` in the mixer,
+Following the link-button _tweak footsides_ in the mixer,
 you can apply any other stitch, like _tcrct_, _tclct_ or _tctct_
 before you go to the _pairs from threads_ page.
 
-Footside twist may collaps with ground twists.
+Note that footside twists may collapse with ground twists or vice versa.
 
 A passive more or less is not significant to control the thread flow,
 but you might want half snowflakes that match the ground.
