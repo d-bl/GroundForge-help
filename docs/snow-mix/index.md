@@ -139,6 +139,9 @@ On the right you see the default pattern of the [snow mixer].
 * When you change the content of the stitches panel and go to this page,
   the diagrams are cleared to avoid confusion about inconsistencies.
 
+See also the _show help links_ button.
+ 
+
 When you changed the pattern on the snow mixer,
 some stitches might have their ID changed, or they are no longer applicable at all.
 
@@ -165,10 +168,12 @@ On the right a simplified pattern (blue) with two different footsides
 each with their own consequences for the thread sequence.
 The footsides are based on a _tct_ give or take a twist.
 Following the link-button _tweak footsides_ in the mixer,
-you can apply any other stitch, like _tcrct_, _tclct_ or _tctct_
+you can apply any other stitch, like _tcrct_, _tclct_ or _tctct_ to the footsides
 before you go to the _pairs from threads_ page.
+See the _show help links_ button on both pages.
 
-Note that footside twists may collapse with ground twists or vice versa.
+
+Note that footside twists may [collapse](#collapsed-stitches) with ground twists or vice versa.
 
 A passive more or less is not significant to control the thread flow,
 but you might want half snowflakes that match the ground.
