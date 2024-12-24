@@ -139,9 +139,8 @@ On the right you see the default pattern of the [snow mixer].
 * When you change the content of the stitches panel and go to this page,
   the diagrams are cleared to avoid confusion about inconsistencies.
 
-See also the _show help links_ button.
+See also the _show help links_ button of this _pairs from threads_ page.
  
-
 When you changed the pattern on the snow mixer,
 some stitches might have their ID changed, or they are no longer applicable at all.
 
