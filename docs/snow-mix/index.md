@@ -165,7 +165,8 @@ We can counteract that effect with a _ctctttctc_ as shown on the right.
 Footsides direct contrasting threads back into the ground in a specific order.
 On the right a simplified pattern (blue) with two different footsides
 each with their own consequences for the thread sequence.
-The footsides are based on a _tct_ give or take a twist.
+The footsides are based on a _tct_ give or take a twist,
+shown between the bobbins.
 Following the link-button _tweak footsides_ in the mixer,
 you can apply any other stitch, like _tcrct_, _tclct_ or _tctct_ to the footsides
 before you go to the _pairs from threads_ page.
