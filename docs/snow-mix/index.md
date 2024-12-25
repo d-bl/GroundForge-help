@@ -130,7 +130,7 @@ spiders or whatever needing six pairs.
 
 On the right you see the default pattern of the [snow mixer].
 
-* Click the button _pairs from threads_ on the mixer page,
+* Click the button _pair diagrams from thread diagrams_ on the mixer page,
   and you will see the screenshot below with empty diagrams.
 * Click the wands to generate the diagrams.
 * [Play](/GroundForge-help/Icons)
@@ -139,7 +139,7 @@ On the right you see the default pattern of the [snow mixer].
 * When you change the content of the stitches panel and go to this page,
   the diagrams are cleared to avoid confusion about inconsistencies.
 
-See also the _show help links_ button of this _pairs from threads_ page.
+See also the _show help links_ button of this _pair diagrams from thread diagrams_ page.
  
 When you changed the pattern on the snow mixer,
 some stitches might have their ID changed, or they are no longer applicable at all.
@@ -150,36 +150,46 @@ The twist marks in the pair diagram are not reliable.
 
 ### Collapsed stitches
 
-We might encounter repeated actions in a stitch. Repeated twists are the most common.
+We might encounter repeated actions in a stitch.
+Repeated twists are the most common in traditional lace.
 The sample on the left below shows a repeated cross on both sides.
 For GroundForge anything done with the same two pairs is a single stitch.
 We see that below in the middle with the pair diagram created from the thread diagram.
 We can counteract that effect with a _ctctttctc_ as shown on the right. 
+You might want this stitch for the vertical connection between two sipeders like this.
 
-![](double-cross.png) &nbsp; ![](un-doubled.png) &nbsp; ![](re-doubled.png)
+| thread diagram on mixer page  | step 1 on _pair diagrams from thread diagrams_ page  |
+|:-----------------------------:|:----------------------------------------------------:|
+|     ![](double-cross.png)     | ![](un-doubled.png)  &nbsp;      ![](re-doubled.png) |
 
 ![](footsides.png?align=right)
 
 ### Footsides
 
-Footsides direct contrasting threads back into the ground in a specific order.
-On the right a simplified pattern (blue) with two different footsides
-each with their own consequences for the thread sequence.
-The footsides are based on a _tct_ give or take a twist,
-shown between the bobbins.
-Following the link-button _tweak footsides_ in the mixer,
-you can apply any other stitch, like _tcrct_, _tclct_ or _tctct_ to the footsides
-before you go to the _pairs from threads_ page.
-See the _show help links_ button on both pages.
+A footside that works for one set of recipes may not work for another.
+This is caused by footside twists that may or may not collapse
+with ground twists or vice versa.
 
-
-Note that footside twists may [collapse](#collapsed-stitches) with ground twists or vice versa.
+On the right a simplified pattern (blue) without collapsed twists. 
+The two different footsides have each their own consequences for the flow of threads.
+The footsides are based on a _tct_ (give or take a twist) as shown between the bobbins.
+To choose another stitch as basis you need to
+follow the link-button _tweak footsides_ in the mixer,
+before you go to the _pair diagrams from thread diagrams_ page.
 
 A passive more or less is not significant to control the thread flow,
-but you might want half snowflakes that match the ground.
-For that purpose, there is room for five more pairs using this [advanced] technique.
+but you might want more pairs for half snowflakes or whatever to match the ground.
+The  _stitches and threads_ page has a link "back" to the _pattern definition_ page.
+That page has room for five more pairs in the left footside. See this [advanced] technique.
+The _pattern definition_ page has a link to the _stitches and threads_ page.
+The link back and forth preserve the pattern form the mixer page as long as you
+did not change the number of columns for the left footside.
+
+Both pages give you a chance to adjust the [swatch size] and have links to return.
+See the _show help links_ button  pages.
 
 <!-- TODO develop recipes from simplified  -->
+[swatch size]: /GroundForge-help/Patch-Size
 [simplified]: /GroundForge/droste?patchWidth=1?patchWidth=1&patchHeight=15&footside=4,x&tile=-,5&headside=7,x&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&c1=lctrr&a1=rctll&b2=ctc&droste2=c10=c11=c12=tctctct,c13=rrtctctct,a10=tctctctc,a11=ctctctc,a13=ctctct,a12=lllctctctctc#
 [advanced]: /GroundForge-help/Advanced#footside-tutorial
 
