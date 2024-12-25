@@ -26,10 +26,14 @@ extend the forces in [docs/js/show-graph.js] with something like
 2
 -
 
-![tipped over pillow](/GroundForge/images/tipped-over.png)
+![tipped over pillow](/GroundForge/images/tipped-over.png) &nbsp; ![](/GroundForge/images/tipped-over-2.png)
 
 Same [download](https://github.com/d-bl/GroundForge/archive/52459fe36c69cf9dcf869148c8321577e6f3dd1d.zip),
 try repeated twists for the first thread diagram in the page `docs/recursive.html` then show the second thread diagram.
+
+Or try "thread diagram as pair diagram" for any pattern 
+and type just a random letter in the stitches field.
+You may stumble over a nice pattern.
 
 3
 -
