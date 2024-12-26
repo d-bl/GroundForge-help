@@ -190,6 +190,23 @@ did not change the number of columns for the left footside.
 Both pages give you a chance to adjust the [swatch size] and have links to return.
 See the _show help links_ button  pages.
 
+![](one-oair-more.png) &nbsp; <textarea rows="5" cols="8" spellcheck="false">----xx
+----xx
+----xx
+----xx
+----4y
+----rx
+----rx
+----r8
+----xx
+----xx
+----xx
+----xx
+----4y
+----rx
+----rx
+----r8</textarea> with _clcrclc_ and _lcrcl_
+
 <!-- TODO develop recipes from simplified  -->
 [swatch size]: /GroundForge-help/Patch-Size
 [simplified]: /GroundForge/droste?patchWidth=1?patchWidth=1&patchHeight=15&footside=4,x&tile=-,5&headside=7,x&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&c1=lctrr&a1=rctll&b2=ctc&droste2=c10=c11=c12=tctctct,c13=rrtctctct,a10=tctctctc,a11=ctctctc,a13=ctctct,a12=lllctctctctc#
