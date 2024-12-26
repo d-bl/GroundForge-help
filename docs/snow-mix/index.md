@@ -177,10 +177,10 @@ The footsides are based on the default _tct_ (give or take a twist) as shown bet
 To choose another stitch as basis you need to
 follow the link-button _tweak footsides_ in the mixer,
 before you go to the _pair diagrams from thread diagrams_ page.
+The example on the left has the _tct_ replaced with _rclcrclcr_, again give or take a twist.
 
 ![](with-passive.png?align=left)
-A passive (red in the left example, _rclcrclcr_ again give or take a twist)
-more or less is not significant to control the thread flow,
+A passive (red line)  more or less is not significant to control the thread flow,
 but you might want more pairs for more elaborate footsides.
 The  _stitches and threads_ page has a link "back" to the _pattern definition_ page.
 That page has room for five more pairs in the left footside. See this [advanced] technique.
