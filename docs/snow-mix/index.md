@@ -173,19 +173,20 @@ with ground twists or vice versa.
 
 On the right a simplified pattern (blue) without collapsed twists. 
 The two different footsides have each their own consequences for the flow of threads.
-The footsides are based on a _tct_ (give or take a twist) as shown between the bobbins.
+The footsides are based on the default _tct_ (give or take a twist) as shown between the bobbins.
 To choose another stitch as basis you need to
 follow the link-button _tweak footsides_ in the mixer,
 before you go to the _pair diagrams from thread diagrams_ page.
 
-A passive more or less is not significant to control the thread flow,
-but you might want more pairs for half snowflakes or whatever to match the ground.
+![](with-passive.png?align=left)
+A passive (red in the left example, _rclcrclcr_ again give or take a twist)
+more or less is not significant to control the thread flow,
+but you might want more pairs for more elaborate footsides.
 The  _stitches and threads_ page has a link "back" to the _pattern definition_ page.
 That page has room for five more pairs in the left footside. See this [advanced] technique.
 The _pattern definition_ page has a link to the _stitches and threads_ page.
 The link back and forth preserve the pattern form the mixer page as long as you
 did not change the number of columns for the left footside.
-
 Both pages give you a chance to adjust the [swatch size] and have links to return.
 See the _show help links_ button  pages.
 
