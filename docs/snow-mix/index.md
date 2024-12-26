@@ -190,7 +190,8 @@ did not change the number of columns for the left footside.
 Both pages give you a chance to adjust the [swatch size] and have links to return.
 See the _show help links_ button  pages.
 
-![](one-oair-more.png) &nbsp; <textarea rows="5" cols="8" spellcheck="false">----xx
+An example with the advanced technique:  
+![](one-oair-more.png)  pattern page <textarea rows="3" cols="6" spellcheck="false">----xx
 ----xx
 ----xx
 ----xx
@@ -205,7 +206,7 @@ See the _show help links_ button  pages.
 ----4y
 ----rx
 ----rx
-----r8</textarea> with _clcrclc_ and _lcrcl_
+----r8</textarea> stitches page: _clcrclc_ and _lcrcl_
 
 <!-- TODO develop recipes from simplified  -->
 [swatch size]: /GroundForge-help/Patch-Size
