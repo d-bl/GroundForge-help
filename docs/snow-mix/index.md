@@ -75,7 +75,17 @@ Suppose we want to remove the center of a spider as shown in dark blue in the fi
 
 Note figure (c) above: the last "stitch" of the plait is white, the "stitch" is just a right twist.
 To get an even number of stitches, we had to separate it from the preceding stitch which now is just a cross. 
-For technical reasons the mixer template does not support odd numbers of stitches, see this [workaround].
+For technical reasons the mixer template does not support odd numbers of stitches.
+
+In other occasions we can't split but have to add a stitch of just twists to get an even number.
+Such as for the triangle recipe.
+This causes crossed legs in the pair diagram generated from the thread diagram.
+We can counteract that effect with "stitch" that just twists the legs.
+Below snippets of this
+[pattern](https://d-bl.github.io/GroundForge/droste?source=mix4snow&source=mix4snow&source=mix4snow&tile=48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr,48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr&f8=llttcrr&f16=llttcrr&footside=-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r,-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r&=undefined&u8=rrttcll&u16=rrttcll&headside=x,x,x,8,r,r,r,r,x,x,x,8,r,r,r,r&shiftColsSW=0&shiftRowsSW=16&shiftColsSE=4&shiftRowsSE=8&patchWidth=14&patchHeight=35&i1=rc&h1=t&g1=ctcl&h2=crclcr&n5=llctt&i5=ctcl&g5=ct&j9=lc&h9=t&j13=t&g13=lc&g16=tctc&h16=rctc&h4=t&h8=rctc&g8=tctc&g9=ctcl&g12=lc&i12=tctc&j12=rctc&i13=ctcl&j16=t&j4=rctc&i4=tctc&j5=t&i8=rc&j8=t&i16=rc&h12=t&droste2=j80=h121=g14=j161=j160=i134=h40=h41=i54=j81=g94=h120=tt,f80=p81=f160=p161=ctcttttttttttlllllctc,f82=f162=rrtctctrr,f83=f163=rrttctc,u82=u162=ctc,u81=u161=tttttttctctttttt,u83=u163=tttttctc,u80=u160=tttctc#).
+
+![](odd-even.png)
+
 The mixer can handle up to 10 stitches. That is an arbitrary but hard coded limit.
 
 [workaround]: https://github.com/d-bl/GroundForge/blob/master/docs/_includes/mix4snow/README.md#odd-number-of-stitches
