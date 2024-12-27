@@ -28,7 +28,9 @@
 
 * [Getting Started](/GroundForge-help/index)
 * [Swatch Size](/GroundForge-help/Patch-Size) (rows/columns)
-* [Binche](/GroundForge-help/Binche) sampler
+* Binche
+  * [sampler](/GroundForge-help/Binche)
+  * [snow mixer](/GroundForge-help/snow-mix)
 * [Reshape pair diagrams](/GroundForge-help/Reshape-Patterns)
 * Advanced
     * [Create a pattern](/GroundForge-help/Advanced)
