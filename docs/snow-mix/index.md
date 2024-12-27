@@ -48,6 +48,8 @@ but not exhaustively.
 
 About half of the _B3_ samples in [Viele gute Gründe](/MAE-gf/docs/literature)
 are members of only 2 families and need only 17 recipes.
+The other half is member of 25 families with an average of almost 3 samples per family.
+This leaves 203 families not explored.
 
 ### Modify a given recipe
 
