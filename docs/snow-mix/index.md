@@ -43,10 +43,11 @@ The [snow mixer] shows a few recipes with thumbnails.
 This is just to get you started as a collection with recipes can barely scratch the surface of the possibilities.
 In [counting snow families](https://d-bl.github.io/MAE-gf/docs/counting-snow/)
 we have 230 families for the type of snowflakes for the mixer.
+The counting page explores only two families with [recipes](MAE-gf/docs/counting-snow/#exploring-families),
+but not exhaustively.
+
 About half of the _B3_ samples in [Viele gute Gründe](/MAE-gf/docs/literature)
 are members of only 2 families and need only 17 recipes.
-We have a few more [recipes](/MAE-gf/docs/snow-stitches/563412-145236.svg) beyond the thumbnails for only two families.
-These families are not explored exhaustively.
 
 ### Modify a given recipe
 
