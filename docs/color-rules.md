@@ -6,8 +6,17 @@ title: 4 colors per stitch
 Color codes
 ===========
 
-The Belgian color code and [similar systems](Color-Code) are designed for traditional styles of bobbin lace.
-When experimenting with unorthodox stitches and grounds we need more than half a dozen of colors for a universal legend.
+Various dialects of color codes for pair diagrams are used by bobbin lace designers:
+There is at least a [Belgian] version, a simplified [Danish] version and a [red-blue] version and perhaps more.
+These dialects use just one color per stitch what accommodates at most about half a dozen of stitches.
+
+These systems have in common that only one color represents a stitch.
+These are easy to draw by hand and sufficient for traditional styles of bobbin lace.
+When experimenting with unorthodox stitches and grounds we need to distinguish more than those half a dozen of colors.
+
+[Belgian]: https://www.mail-archive.com/lace@arachne.com/msg51345.html
+[Danish]: https://www.mail-archive.com/lace@arachne.com/msg51355.html
+[red-blue]: https://susanroberts.info/wp-content/uploads/2019/08/Working-diagrams-part-2.pdf
 
 [2x2swatches](/GroundForge/images/to-color-rules.png)  serves as a reminder:
 the color numbers are arranged in a clockwise order
@@ -61,15 +70,13 @@ The sampler by [Gertrude Whiting](gw-lace-to-gf) has some interesting examples i
 [F9](/GroundForge/stitches?whiting=F9_P185&patchWidth=26&patchHeight=26&m1=ctc&e1=ctc&o3=llcttctt&k3=cttctt&g3=ctcrrrctc&e3=ctc&c3=ctcllctc&g4=ctc&e4=ctc&i5=llctctt&g5=ctc&e5=ctc&c5=ctc&a5=rrctctt&e6=ctc&c6=ctc&o7=cttctt&k7=cttctt&g7=ctcrrctcrr&e7=ctc&c7=ctcllctcll&tile=--x-5-x---x-c-x-,-----w-----y-w--,--g-g-c---b---c-,---w8-mv-yx---xw,h-g-f-f-5-x---x-,-w8-mv---w-----y,--f-f-c---c---b-,--xw--x---xw-yx-&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-8&shiftRowsSW=8&shiftColsSE=8&shiftRowsSE=8).
 Below a variation of F9 to show the difference between the tick marks for double and triple twists. The pattern shows also variations of winkie pins.
 
-![](images/F9-variation.png) ![](/gw-lace-to-gf/w/page185a.gif)
+![](images/F9-variation.png) ![GW sampler F9](images/gw-F9.png)
 
 Notes
 -----
 
 The color scheme was selected from [colorbrewer](https://colorbrewer2.org/?type=diverging&scheme=RdBu&n=5)
 because of its color-blind friendly properties.
-
-The pair diagrams based on thread diagrams still apply a [variation](Color-Code) of the Belgian color-code with buggy numbers of twist marks. 
 
 Not having twists between stitches encoded in the colors of the stitches, 
 makes the diagrams agnostic to the open (start with twist) and close (end with twist) method.

@@ -1,39 +1,49 @@
-group,page,bookmark/tab title,side bar navigation,shared TOC, notes
-,Same content when "index" is dropped and/or ".html" added. An additional #tag scrolls the page.
+group,page,bookmark/tab title,has,is in/on, notes
+,Same content when 'index' is dropped and/or '.html' added. An additional #tag only scrolls the page. Sidebar 2'' is supposed to be the same as sidebar 2'
 User guide > features >
-,https://d-bl.github.io/GroundForge-help/Change-tiles,Tile layout, > Tile layout
-,https://d-bl.github.io/GroundForge-help/Color-Code,Single color per sticth, > Color codes > 1 color per sticth
-,https://d-bl.github.io/GroundForge-help/color-rules,4 colors per stitch, > Color codes > up to 4 per stitch
-,https://d-bl.github.io/GroundForge-help/Download,GroundForge download, > Download
-,https://d-bl.github.io/GroundForge-help/footsides,Modify stitches, > Head/foot sides
-,https://d-bl.github.io/GroundForge-help/Icons,"Icons, their purpose/meaning", > Icons,,and more menu entries
-,https://d-bl.github.io/GroundForge-help/Replace,Modify stitches, > Drop/restore stitches
-,https://d-bl.github.io/GroundForge-help/Thread-Properties,Thread properties, > Thread properties
-,https://d-bl.github.io/GroundForge-help/Undo,Undo, > save refresh undo
+,https://d-bl.github.io/GroundForge-help/Change-tiles,Tile layout,sidebar 2',sidebar 2', > Tile layout
+,https://d-bl.github.io/GroundForge-help/color-rules,4 colors per stitch,sidebar 2',sidebar 2', > Color code
+,https://d-bl.github.io/GroundForge-help/Download,GroundForge download,sidebar 2',sidebar 2', > Download
+,https://d-bl.github.io/GroundForge-help/footsides,Modify stitches,sidebar 2',sidebar 2', > Head/foot sides
+,https://d-bl.github.io/GroundForge-help/Icons,"Icons, their purpose/meaning",sidebar 2',sidebar 2', > Icons and more menu entries
+,https://d-bl.github.io/GroundForge-help/Replace,Modify stitches,sidebar 2',sidebar 2', > Drop/restore stitches
+,https://d-bl.github.io/GroundForge-help/Undo,Undo,sidebar 2',sidebar 2', > save refresh undo
 User guide > tutorials >
-,https://d-bl.github.io/GroundForge-help/Droste-effect,Droste effect, > Droste effect
-,https://d-bl.github.io/GroundForge-help/index,Getting Started, > Getting Started
-,https://d-bl.github.io/GroundForge-help/Advanced,New pattern tutorial, > Create a pattern
-,https://d-bl.github.io/GroundForge-help/Reshape-Patterns,Reshape Patterns, > Reshape pair diragrams
-,https://d-bl.github.io/GroundForge-help/Reversed-engineering-of-patterns,Advanced Design, > Printed pattern to GF
+,https://d-bl.github.io/GroundForge-help/Droste-effect,Droste effect,sidebar 2',sidebar 2', > Droste effect
+,https://d-bl.github.io/GroundForge-help/snow-mix,,sidebar 2',sidebar 2'; mix4snow-link,
+,https://d-bl.github.io/GroundForge-help/index,Getting Started,sidebar 2',sidebar 2', > Getting Started
+,https://d-bl.github.io/GroundForge-help/Advanced,New pattern tutorial,sidebar 2',sidebar 2', > Create a pattern
+,https://d-bl.github.io/GroundForge-help/Reshape-Patterns,Reshape Patterns,sidebar 2',sidebar 2', > Reshape pair diragrams
+,https://d-bl.github.io/GroundForge-help/Reversed-engineering-of-patterns,Advanced Design,sidebar 2',sidebar 2', > Printed pattern to GF
 other
-,https://d-bl.github.io/GroundForge/index,GroundForge - Home,User guide > introdcution > en
-,https://d-bl.github.io/GroundForge-help/Changes,Changes,,> Stay posted,about notifications and issues
-,https://d-bl.github.io/GroundForge-help/Patch-Size,Patch Size,User guide > Notes > Patch Size
-,https://d-bl.github.io/GroundForge-help/Pin-distances-and-angles,Pin distances and Angles,User guide > Notes > Pin distances and Angles
-,https://d-bl.github.io/GroundForge-help/about-us,About us,Contact > About us
-,https://d-bl.github.io/GroundForge-help/Binche,Binche Kompakt ground number 31,
-,https://d-bl.github.io/GroundForge-help/Stable,Stable version / 3rd party pages,,> stable version
-,https://d-bl.github.io/GroundForge-help/untangle,Untangle,
-,https://d-bl.github.io/gw-lace-to-gf/index,Whiting index,Catalogues > Gertrude Whiting sampler
-,https://d-bl.github.io/MAE-gf/literature,Literature,Catalogues > Literature
+,https://groundforge.wordpress.com,d-bl :: contact form,-,any sidebar > contact
+,https://github.com/d-bl/GroundForge/blob/oidfa-article/docs/help/NL.md,-,-,sidebar 2' > nl
+,https://github.com/d-bl/GroundForge/blob/oidfa-article/docs/help/DE.md,-,-,sidebar 2' > de
+,https://gibritte.over-blog.com/2020/05/jouer-groundforge.html,-,-,sidebar 2' > fr
+,https://d-bl.github.io/GroundForge/index,GroundForge - Home,sidebar 2'',sidebar 2'' > en,
+,https://d-bl.github.io/GroundForge-help/Changes,Changes,sidebar 2',sidebar 2',> Stay posted;about notifications and issues
+,https://d-bl.github.io/GroundForge-help/snow-mix,mix snowflakes | Grounforge-help,sidebar 2',sidebar 2',> Stay posted;about notifications and issues
+,https://d-bl.github.io/GroundForge-help/Patch-Size,Patch Size,sidebar 2',sidebar 2',User guide > Notes > Patch Size
+,https://d-bl.github.io/GroundForge-help/Pin-distances-and-angles,Pin distances and Angles,sidebar 2',sidebar 2',User guide > Notes > Pin distances and Angles
+,https://d-bl.github.io/GroundForge-help/Binche,Binche example | Grounforge-help,sidebar 2',sidebar 2',
+,https://d-bl.github.io/GroundForge-help/Stable,Stable version / 3rd party pages,sidebar 2',sidebar 2',> stable version
+,https://d-bl.github.io/about-us,About us | d-bl,sidebar 1,sidebar 1,Contact > About us
+,https://d-bl.github.io/history,History of d-bl and GroundForge |d-bl,sidebar 1,sidebar 1,time line
+,https://d-bl.github.io/glossary,a suite of projects and applications | d-bl,sidebar 1,sidebar 1,,
+,https://d-bl.github.io/abandoned,a suite of projects and applications | d-bl,sidebar 1,sidebar 1,incorrectly linked from sidebar
+,https://d-bl.github.io/teasers,DIBL : Diagrams for Bobbin Lace,-,sidebar 1,old overview
+,https://d-bl.github.io/index,a suite of projects and applications | d-bl,sidebar 1,banner; any sidebar > home,landing page for GF and grids
 review only (very technical content),
-,https://d-bl.github.io/GroundForge/nets,GroundForge: nets,GroundForge > Net variations
-,https://d-bl.github.io/GroundForge/tiles,GroundForge - thread diagrams from pair diagrams,GroundForge > Diagram editor
+,https://d-bl.github.io/GroundForge/nets,GF; nets,-,landing page
+,https://d-bl.github.io/GroundForge/pattern,GF; assemble a pair diagram,help menu,landing page
+,https://d-bl.github.io/GroundForge/stitches,GF; Stitches and threads,help menu,landing page
+,https://d-bl.github.io/GroundForge/droste,GF; Pair diagrams from thread diagrams,help menu,landing page
+,https://d-bl.github.io/GroundForge/mix4snow/index,GF; Mix snowflakes,sidebar 2'',landing page
+,https://d-bl.github.io/GroundForge/symmetry,GF; Pair diagrams symmmetries,-,landing page
 not sure is not really for an end user guide,
 ,https://d-bl.github.io/GroundForge/API/index,GroundForge - API,,,Building blocks of the web UI. Should be (but is not yet) findable via the project README
-,https://d-bl.github.io/GroundForge/404,,,,how to fix broken bookmarks and third party links because page renames
-,https://d-bl.github.io/GroundForge-help/Bloopers,Bloopers,
-,https://d-bl.github.io/GroundForge-help/History,History of GroundForge,
-,https://d-bl.github.io/GroundForge-help/Fix-Old-Links,Fix Old Links,,> Fix old pattern links
-,https://d-bl.github.io/GroundForge-help/Reuse,Share,Contribute > Share and reuse,> Share
+,https://d-bl.github.io/GroundForge/404,,,,how to fix broken bookmarks and third party links because pages renamed
+,https://d-bl.github.io/GroundForge-help/Bloopers,Bloopers,sidebar 2'',,
+,https://d-bl.github.io/GroundForge-help/History,History of GroundForge,sidebar 2'',,technical details
+,https://d-bl.github.io/GroundForge-help/Fix-Old-Links,Fix Old Links,sidebar 2'',,> Fix old pattern links
+,https://d-bl.github.io/GroundForge-help/Reuse,Share,sidebar 2'',,Contribute > Share and reuse;> Share

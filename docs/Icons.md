@@ -19,7 +19,6 @@ shows additional symbols used in legacy patterns.
 
 ![2x2](/GroundForge/images/to-color-rules.png) **Color code rules**  
 This icon leads to the rules for a color code with up to [four colors per stitch](color-rules).  
-The Droste pair diagrams still use a [single color per stitch](Color-Code).
 
 ![max](/GroundForge/images/maximize.png)
 ![reset](/GroundForge/images/reset-dimensions.png)
