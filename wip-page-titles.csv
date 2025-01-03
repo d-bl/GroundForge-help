@@ -35,11 +35,11 @@ other,,,,,
 ,https://d-bl.github.io/index,a suite of projects and applications | d-bl,sidebar 1,banner; any sidebar > home,landing page for GF and grids
 review only (very technical content),,,,,
 ,https://d-bl.github.io/GroundForge/nets,GF; nets,-,landing page,
-,https://d-bl.github.io/GroundForge/pattern,GF; assemble a pair diagram,help menu,landing page
-,https://d-bl.github.io/GroundForge/stitches,GF; Stitches and threads,help menu,landing page
-,https://d-bl.github.io/GroundForge/droste,GF; Pair diagrams from thread diagrams,help menu,landing page
-,https://d-bl.github.io/GroundForge/mix4snow/index,GF; Mix snowflakes,sidebar 2'',landing page
-,https://d-bl.github.io/GroundForge/symmetry,GF; Pair diagrams symmmetries,-,landing page
+,https://d-bl.github.io/GroundForge/pattern,GF; assemble a pair diagram,help menu,landing page,
+,https://d-bl.github.io/GroundForge/stitches,GF; Stitches and threads,help menu,landing page,
+,https://d-bl.github.io/GroundForge/droste,GF; Pair diagrams from thread diagrams,help menu,landing page,
+,https://d-bl.github.io/GroundForge/mix4snow/index,GF; Mix snowflakes,sidebar 2'',landing page,
+,https://d-bl.github.io/GroundForge/symmetry,GF; Pair diagrams symmmetries,-,landing page,
 not sure is not really for an end user guide,,,,,
 ,https://d-bl.github.io/GroundForge/API/index,GroundForge - API,,,Building blocks of the web UI. Should be (but is not yet) findable via the project README
 ,https://d-bl.github.io/GroundForge/404,,,,how to fix broken bookmarks and third party links because pages renamed
