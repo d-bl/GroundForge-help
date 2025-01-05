@@ -192,9 +192,9 @@ On the right a simplified pattern (blue) without collapsed twists
 and a _tct_ as basis (give or take a twist) as shown between the bobbins.
 This basis gives you more options.
 The two different footsides have each their own consequences for the flow of threads.
-The example on the left has a _rclcrclcr_ as basis, again give or take a twist.
 
 ![](with-passive.png?align=left)
+The example on the left has a _rclcrclcr_ as basis, again give or take a twist.
 A passive (red line)  more or less is not significant to control the thread flow,
 but you might want more pairs for more elaborate footsides.
 The  _stitches and threads_ page has a link "back" to the _pattern definition_ page.
