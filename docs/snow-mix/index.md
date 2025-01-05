@@ -183,14 +183,16 @@ You might want this stitch for the vertical connection between two sipeders like
 A footside that works for one set of recipes may not work for another.
 This is caused by footside twists that may or may not collapse
 with ground twists or vice versa.
-
-On the right a simplified pattern (blue) without collapsed twists. 
-The two different footsides have each their own consequences for the flow of threads.
-The footsides are based on the default _tct_ (give or take a twist) as shown between the bobbins.
+The default footside is based on a _c_.
 To choose another stitch as basis you need to
 follow the link-button _tweak footsides_ in the mixer,
 before you go to the _pair diagrams from thread diagrams_ page.
-The example on the left has the _tct_ replaced with _rclcrclcr_, again give or take a twist.
+
+On the right a simplified pattern (blue) without collapsed twists
+and a _tct_ as basis (give or take a twist) as shown between the bobbins.
+This basis gives you more options.
+The two different footsides have each their own consequences for the flow of threads.
+The example on the left has a _rclcrclcr_ as basis, again give or take a twist.
 
 ![](with-passive.png?align=left)
 A passive (red line)  more or less is not significant to control the thread flow,
