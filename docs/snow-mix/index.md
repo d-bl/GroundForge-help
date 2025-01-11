@@ -145,22 +145,22 @@ spiders or whatever needing six pairs.
 On the right you see the default pattern of the [snow mixer].
 
 * Click the button _pair diagrams from thread diagrams_ on the mixer page,
-  and you will see the screenshot below with empty diagrams.
-* Click the wands to generate the diagrams.
+  and you will see the screenshot below with an empty thread diagrams.
+* Click wands to (re)generate diagrams.
 * [Play](/GroundForge-help/Icons)
   with the size of the panels and move the content as you see convenient.
 * The mouse in the screenshot points to the stitch that is highlighted with green in the stitches panel.
-* When you change the content of the stitches panel and go to this page,
-  the diagrams are cleared to avoid confusion about inconsistencies.
+* You can edit the stitches panel manually or use (a variation of) a predefined stitch above _Step 1_.
 
 See also the _show help links_ button of this _pair diagrams from thread diagrams_ page.
- 
-When you changed the pattern on the snow mixer,
-some stitches might have their ID changed, or they are no longer applicable at all.
 
 ![img_1.png](default-droste.png)
 
-The twist marks in the pair diagram are not reliable.
+![](resume-animation.png?align=right)
+For a pretty screenshot or PDF you can resume the animation for a less stretched look.
+
+When you changed the pattern on the snow mixer,
+some stitches might have their ID changed, or they are no longer applicable at all.
 
 ### Collapsed stitches
 
@@ -183,7 +183,7 @@ You might want this stitch for the vertical connection between two sipeders like
 A footside that works for one set of recipes may not work for another.
 This is caused by footside twists that may or may not collapse
 with ground twists or vice versa.
-The default footside is based on a _c_.
+The default footside is based on a _crc_.
 To choose another stitch as basis you need to
 follow the link-button _tweak footsides_ in the mixer,
 before you go to the _pair diagrams from thread diagrams_ page.
