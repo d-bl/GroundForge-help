@@ -41,8 +41,9 @@ Stitch gallery
 --------------
 
 Above the first step, you can find a stitch gallery with some fields and instructions that suggest to change the pair diagram. 
-In fact, it adds specifications at the bottom of the input box in a less elaborate way.
+In fact, it adds specifications at the bottom of the input box.
 Frequently occurring stitches are better specified manually at the top of the input box.
+
 The quick changes may cause the same id mentioned several times in the input box. 
 The last occurrence is the one that counts.
 To clean up you can use the search function of your browser to find duplicates in order remove the preceding ones.
