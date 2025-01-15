@@ -4,10 +4,10 @@ Core,,,,,
 ,https://d-bl.github.io/GroundForge/nets,GF; nets,-,landing page,
 ,https://d-bl.github.io/GroundForge/pattern,GF; assemble a pair diagram,help menu,landing page; stitches,
 ,https://d-bl.github.io/GroundForge/stitches,GF; Stitches and threads,help menu,landing page; nets; mix4snow; droste; sheet,
-,https://d-bl.github.io/GroundForge/droste,GF; Pair diagrams from thread diagrams,help menu,stitches; mix4snow,link back depends on source
-,https://d-bl.github.io/GroundForge/mix4snow/index,GF; Mix snowflakes,sidebar 2'',landing page; droste,
+,https://d-bl.github.io/GroundForge/droste,GF; Pair diagrams from thread diagrams,help menu,stitches; mix4snow,link back depends on source argument
+,https://d-bl.github.io/GroundForge/mix4snow/index,GF; Mix snowflakes,sidebar 2'',landing page; droste,side bar'' is a bit odd here
 ,https://d-bl.github.io/GroundForge/symmetry,GF; Pair diagrams symmmetries,-,landing page,
-,https://d-bl.github.io/GroundForge/sheet,GF; Pricking variations,-,SVG links in tesselace-to-gf,has not even a baanner pointing to the landing page
+,https://d-bl.github.io/GroundForge/sheet,GF; Pricking variations,-,SVG links in tesselace-to-gf,
 Catalogues,,,,,
 ,https://d-bl.github.io/tesselace-to-gf/*,own sidebar,landing page; ...,,
 ,https://d-bl.github.io/MA-to-gf/*,own sidebar,landing page; ...,,

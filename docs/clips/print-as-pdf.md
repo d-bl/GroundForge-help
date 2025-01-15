@@ -15,8 +15,13 @@ The soundless video clip shows Firefox, details may vary by browser.
 
 * The print dialog of your browser has a destination option PDF.
 * Your OS may let you browse through thumbnails of saved PDFs.
-* Clutter like banners and form fields will be removed from the saved document.
+* Clutter like banners and form fields will usually be removed from the saved document.
 * Prepare the desired room for the diagrams, check the preview, perhaps adjust the scale.
 * The last seconds of the video clip shows the mouse hovering over a link.
   The status bar at the bottom of the bowser shows the target.
   Once the document is saved, this link goes back to the online page.
+
+A _thread diagram as pair diagram_ page, may not restore completely.
+Open the document in your browser, and you can copy the content of the stitches panel,
+provided you made it big enough to show the full content before saving.
+
