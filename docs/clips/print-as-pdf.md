@@ -21,7 +21,11 @@ The soundless video clip shows Firefox, details may vary by browser.
   The status bar at the bottom of the bowser shows the target.
   Once the document is saved, this link goes back to the online page.
 
+**Warning**  
 A _thread diagram as pair diagram_ page, may not restore completely.
 Open the document in your browser, and you can copy the content of the stitches panel,
 provided you made it big enough to show the full content before saving.
+Better prepare before saving: follow the link  _pair diagram_ 
+on that page follow the link _pair diagram for thread diagram_ 
+now it should be safe to save the page.
 

@@ -11,7 +11,7 @@ When hovering with your mouse over the last one, it gives as title "winkie pin".
 ![](images/stitch-samples.png)
 
 Note that pins can be indicated with a `p` before a `t`,
-they are rarely rendered where the should be.
+they are rarely rendered where they should be.
 Therefore, no pin is defined in this winkie pin.
 
 GroundForge considers every sequence of actions with only two pairs as a single stitch,

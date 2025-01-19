@@ -7,8 +7,7 @@ Toc
 ===
 * [Mix snowflakes into new Grounds](#mix-snowflakes-into-new-grounds)
   * [Stitches for six pair snowflakes](#stitches-for-six-pair-snowflakes)
-    * [Collapsed stitches](#collapsed-stitches)
-    * [Footsides](#footsides)
+  * [Footsides](#footsides)
   * [Recipes for the mixer](#recipes-for-the-mixer)
     * [Modify a given recipe](#modify-a-given-recipe)
     * [Even numbers of stitches](#even-numbers-of-stitches)
@@ -21,6 +20,7 @@ Mix snowflakes into new Grounds
 ===============================
 
 On the [snow mixer] you can create diagrams for (new) grounds with a mix of 2x2 snowflakes.
+Below the form you find links to the most important subjects to have fun with the mixer.
 
 ![](sample.png?align=left)
 On the left a sample of lace by Babette.
@@ -40,48 +40,34 @@ Stitches for six pair snowflakes
 --------------------------------
 
 The mixer generates thread diagrams for three pair stitches.
-Using these thread diagram as a pair diagram,
+Using such a thread diagram as a pair diagram,
 allows to assign stitches for six pair snowflakes,
-spiders or whatever needing six pairs.
+spiders or whatever needs six pairs.
 
 ![](default-pattern.png?align=right)
 On the right you see the default pattern of the [snow mixer].
 
 * Click the button _pair diagrams from thread diagrams_ on the mixer page,
-  and you will see the screenshot below with an empty thread diagrams.
+  and you will see the screenshot below with an empty thread diagram.
 * Click wands to (re)generate diagrams.
 * [Play](/GroundForge-help/Icons)
   with the size of the panels and move the content as you see convenient.
 * The mouse in the screenshot points to the stitch that is highlighted with green in the stitches panel.
-* You can edit the stitches panel manually or use (a variation of) a predefined stitch above _Step 1_.
-
-See also the _show help links_ button of this _pair diagrams from thread diagrams_ page.
+* You can set defaults manually at the start of the stitches panel and add lines at the bottom 
+  with (variations of) [predefined stitches](io/GroundForge-help/clips/flip) above _Step 1_.
 
 ![](default-droste.png)
 
 ![](resume-animation.png?align=right)
-For a pretty screenshot or PDF you can resume the animation for a less stretched look.
+For a less stretched look (in a screenshot or PDF) you can resume the animation.
 
-When you changed the pattern on the snow mixer,
-some stitches might have their ID changed, or they are no longer applicable at all.
-
-### Collapsed stitches
-
-We might encounter repeated actions in a stitch.
-Repeated twists are the most common in traditional lace.
-The sample on the left below shows a repeated cross on both sides.
-For GroundForge anything done with the same two pairs is a single stitch.
-We see that below when we compare a traditional pair diagram with the  GroundForge pair diagram for step 1.
-We can counteract that effect with a _ctctttctc_ as shown on the right. 
-You might want this stitch for the vertical connection between two spiders or snowflakes.
-
-| thread diagram<br>on mixer page | traditional<br>pair diagram   | step 1 on <br>_pair diagrams from thread diagrams_ |
-|:-------------------------------:|-------------------------------|:--------------------------------------------------:|
-|       ![](double-cross.png)     | ![](traditional-spider.png)   |   ![](un-doubled.png)  &nbsp; ![](re-doubled.png)  |
+Please note the spider example for the [color rules](/GroundForge-help/color-rules)
+and the page specific help links.
 
 ![](footsides.png?align=right)
 
-### Footsides
+Footsides
+---------
 
 A footside that works for one set of recipes may not work for another.
 This is caused by footside twists that may or may not collapse

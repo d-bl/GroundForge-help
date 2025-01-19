@@ -13,7 +13,7 @@
 * [Icons](/GroundForge-help/Icons)
 * [Drop/restore stitches](/GroundForge-help/Replace) ![-](/GroundForge-help/images/toggle-stitch.png)
 * [Tile layout](/GroundForge-help/Change-tiles) ![-](/GroundForge-help/images/brick-menu-icon.png)
-* [Reload](/GroundForge-help/Icons) ![-](/GroundForge/images/wand.png)
+* [Reload/resume](/GroundForge-help/Icons) ![-](/GroundForge/images/wand.png) ![-](/GroundForge/images/play.png)
 * [Panel size](/GroundForge-help/Icons)
   ![-](/GroundForge/images/maximize.png)
   ![-](/GroundForge/images/reset-dimensions.png)

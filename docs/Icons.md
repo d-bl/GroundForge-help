@@ -7,8 +7,10 @@ The purpose/meaning of buttons/icons in short
 =============================================
 
 ![wand](/GroundForge/images/wand.png)
-**[Reload](Undo)**  
-The wand (re)loads a diagram.
+**Reload** 
+![resume](/GroundForge/images/play.png)
+**Resume**  
+The wand (re)loads a diagram. The play button resumes the animation.
 
 ![](images/toggle-stitch.png) **Stitch**  
 The character inside the circle determines the origins 
