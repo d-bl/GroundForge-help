@@ -65,8 +65,6 @@ To get a less stretched look (for screenshots or PDF documents) you can resume t
 Please note the pattern examples on the [color rules](/GroundForge-help/color-rules)
 for '_g15_' in the screenshot above and see also the page specific help links.
 
-![](footsides.png?align=right)
-
 Footsides
 ---------
 
@@ -83,6 +81,7 @@ On this intermediate page you will see the thread diagram without highlights.
 The pair diagram on the intermediate page allows to replace the footside stitches, 
 other stitches too, but you could have done that on the mixer page.
 
+![](footsides.png?align=right)
 On the right a simplified pattern (blue) without collapsed twists
 and a _tct_ as basis (give or take a twist) as shown between the bobbins.
 This basis gives you more options.
@@ -129,7 +128,7 @@ the other creates more distance between the legs of two adjacent snowflakes.
 [advanced]: /GroundForge-help/Advanced#footside-tutorial
 
 Footside detour navigation
------------------
+-------------------------
 
 The grey arrows below show the possible detour routes to tweak the footsides,
 the black arrows show the normal work flow for the snow mixer.
