@@ -161,7 +161,7 @@ For an impression about the numbers:
 The page [counting snow families](https://d-bl.github.io/MAE-gf/docs/counting-snow/)
 has 230 families for the type of snowflakes for the mixer.
 For the next step, the counting page explores two families with [recipes](MAE-gf/docs/counting-snow/#exploring-families).
-This is but not exhaustively.
+These examples are not exhaustive.
 Did your think [Viele gute Gründe](/MAE-gf/docs/literature)
 has a lot of snowflakes in the B3 series?
 About half of them are members of only 2 families and need only 17 recipes.
@@ -170,12 +170,20 @@ This leaves 203 families not explored at all.
 
 ### Modify a given recipe
 
-The easiest modification of an existing recipe is to remove stitches.
-Suppose we want to remove the center of a spider as shown in dark blue
-in the thread diagrams below.
+(Un)twisting the legs of a snowflake recipe is an easy modification.
+Just play with the highlighted characters in the recipe box as shown below:
+two twists to play with for the first/last stitch, one for the second first/last.
+The other twist for the second first/last stitch is (usually?) inside the snowflake.
 
-The following list of steps explains an approach. These steps show some hover actions.
-A mobile device does not support hovering, it requires a little more trial and error without.
+![img_2.png](un-re-twist-legs.png)
+
+Note that you can also use dots as separators between the stitches.
+Harder to see but easier to type on a mobile device. Spaces are ignored. 
+
+The following list of steps explains an approach to remove other stitches.
+As an example, the steps remove the center of a spider as shown in dark blue in the thread diagrams below.
+These steps show some hover actions.
+A mobile device does not support hovering, it requires a little more trial and error.
 Click the blue hexagon again when you guessed wrong with removing the color.
 
 * The gallery of recipes has the dark blue snowflake in the thread diagrams of figure (a) and (b).
