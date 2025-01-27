@@ -156,6 +156,7 @@ The [snow mixer] shows a galley of recipes with thumbnails.
 The collection is just to get you started as we can barely scratch the surface of the possibilities.
 To get more at your fingertips with a smaller set, we leave out look a likes
 that are (relatively) simple modifications of others.
+Some gallery items make look only tilted, but the difference in the recipe may not be trivial.
 
 For an impression about the numbers:
 The page [counting snow families](https://d-bl.github.io/MAE-gf/docs/counting-snow/)
@@ -170,7 +171,7 @@ This leaves 203 families not explored at all.
 
 ### Modify a given recipe
 
-(Un)twisting the legs of a snowflake recipe is an easy modification.
+(Un)twisting the legs of a snowflake recipe is a relatively easy modification.
 Just play with the highlighted characters in the recipe box as shown below:
 two twists to play with for the first/last stitch, one for the second first/last.
 The other twist for the second first/last stitch is (usually?) inside the snowflake.
@@ -256,54 +257,45 @@ The following table explains by example.
 
 ### Blob analysis
 
-To start from scratch, we need to interpret a six-pair diagram as a thread diagram.
+To start from scratch, we need to interpret a 6-pair diagram as a thread diagram.
+The colors in the diagrams have no meaning.
 
 ![](blobs.svg)
 
-The colors in the diagrams have no meaning.
-The 2-pair stitches composing the 3-pair stitch are marked with blobs.
+The 2-pair stitches composing the 3-pair stitch are marked with solid blobs
+in figure (A) and (B) and just pencil-like tracings in figure (C).
 The blobs are numbered in working order.
-The caption enumerates the stitches also in working order, one per blob.
+The captions enumerate the 2-pair stitches also in working order, one per blob.
 The R prefix means we start on the right.
 
-It helps to trace a pair diagram with the proper alternating over-under effects of the threads.
-Another color for each thread helps to recognize when to start a new stitch:
+It might help to trace a pair diagram with the proper alternating over-under effects of the threads.
+Another color for each thread can help to recognize when to start a new stitch/blob:
 A stitch worked with the middle and right pair can't use the left pair and vice versa.
 
-The example of figure (A) has cloth stitches for the yellow blob number 2 and blue 3.
+The example of figure (A) has cloth stitches in the yellow blob number 2 and blue 3.
 These may be easy to recognize for a trained eye.
 The pink blobs are a little harder as those are unorthodox stitches.
 
 Figure (B) and (C) show the same stitch, (B) has the minimum number of blobs.
 For technical reasons the snow mixer needs an even number of stitches/blobs,
 so blob number 7 of (B) is split in 7 and 8 for (C).
-Note that splitting this last stitch changes a left twist into a right twist.
+Note in the captions that splitting this last stitch changes a left twist in a right blob
+into a right twist i na left blob.
 
 The diagrams (B) and (C) also have different content for the yellow blob 2 and pink 4.
 It might be a personal preference which of the two solutions
 is easier to memorize while working the stitches.
-Solution (C) is more symmetrical, the split blob spoils it.
+Solution (C) is more symmetrical, the split blob spoils the symmetry.
 
-The center and right example illustrate requirements for the blobs:
+Requirements for the blobs:
 * Each blob span 4 threads.
-* The threads flow two by two into adjacent blobs. Put in other words:
-  the blobs span either the four left threads, or the four right threads.  
-* Not all threads in a blob need to have an interaction with other threads.
+* Half of the blobs span to the far left, the other half to the far right.  
+* The right and left blobs alternate in the center of the diagram. 
 
-As a consequence of these rules, half of the blobs extend to the left of the diagram,
-the other half to the right. The right and left blobs alternate in the center of the diagram. 
-You may need the zoom function of your browser to see the alternating, especially  for pink blob 7 in (C).
+You may need the zoom function of your browser to see the details.
 
-The pink blob number 1 spans green, red, black and blue.
-Red and black leave the pink blob on the left to join orange and purple.
-Thus, we have 4 threads for the yellow blob number 2.
-Purple does nothing in this yellow blob in figure (C), it twists in figure (B).
-Now black and purple have to wait. 
-Now we have the red, green, orange and blue threads for the blue blob number 3.
-This is a cloth stitch. Looking too quickly,
-the pink blob 4 of (C) may look like a cloth stitch with an extra twist on the right.
-It actually contains a kind of inverted cloth stitch with twist and cross exchanged:
-twist left, cross, twist right, cross, twist left.
-With yellow blob 5 we have a normal cloth stitch.
-Etcetera. Again, the final solution is in the gallery of recipes.
-
+The pink blob number 1 spans green, red, black and blue threads.
+Now the green and blue threads should be left outside the second blob.
+Start drawing just inside this pair and draw a line outward to the other side.
+Now the purple thread should be left alone, 
+the process repeats itself in alternating directions. 
