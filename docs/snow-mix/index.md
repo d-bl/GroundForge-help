@@ -42,7 +42,7 @@ Stitches for 6-pair snowflakes
 
 The mixer generates thread diagrams for 3-pair stitches.
 Using such a thread diagram as a pair diagram,
-allows to assign stitches for 6-snowflakes,
+allows to assign stitches for snowflakes,
 spiders or whatever needs 6 pairs.
 
 ![](default-pattern.png?align=right)
@@ -60,10 +60,10 @@ On the right you see the default pattern of the [snow mixer].
 ![](default-droste.png)
 
 ![](resume-animation.png?align=right)
-To get a less stretched look (for screenshots or PDF documents) you can resume the animation.
+To get a less stretched look (for nicer screenshots or PDF documents) you can resume the animation.
 
-Please note the pattern examples on the [color rules](/GroundForge-help/color-rules)
-for '_g15_' in the screenshot above and see also the page specific help links.
+Please note the pattern examples on the [color rules](/GroundForge-help/color-rules).
+It explains some details for '_g15_' in the screenshot above and see also the page specific help links.
 
 Footsides
 ---------
@@ -130,7 +130,7 @@ the other creates more distance between the legs of two adjacent snowflakes.
 Footside detour navigation
 -------------------------
 
-The grey arrows below show the possible detour routes to tweak the footsides,
+The grey arrows below (some browser may show grey lines with black arrow heads) show the possible detour routes to tweak the footsides,
 the black arrows show the normal work flow for the snow mixer.
 The route along 4-5 is optional in the detour and the most advanced.
 The names of the pages in this overview appear in the address bar of the browser.
@@ -171,7 +171,8 @@ This leaves 203 families not explored at all.
 
 ### Modify a given recipe
 
-(Un)twisting the legs of a snowflake recipe is a relatively easy modification.
+(Un)twisting the legs of a snowflake recipe is a relatively easy modification,
+unless it reduces the number of stitches to an odd number.
 Just play with the highlighted characters in the recipe box as shown below:
 two twists to play with for the first/last stitch, one for the second first/last.
 The other twist for the second first/last stitch is (usually?) inside the snowflake.
@@ -189,15 +190,15 @@ Click the blue hexagon again when you guessed wrong with removing the color.
 
 * The gallery of recipes has the dark blue snowflake in the thread diagrams of figure (a) and (b).
 * Click or tap on it in the gallery and the content of the recipe box should change.
-* Click the dark blue hexagon.
+* Click the dark blue hexagon and the diagrams change.
 * Hover over the center of the spider as shown in figure (a), an ID 'b12' popped up when the screenshot was made. You might see another value.
-* Hover over the stitches in the zigzag of figure (b) until you see the start of the ID shown in figure (b): 'b1'.
-  Note that the zigzag may have just three or four stitches for other recipes.
+* Hover over the stitches in the zigzag trail of figure (b) until you see the start of the ID shown in figure (b): 'b1'.
+  Note that the zigzag trail may have just three or four stitches for other recipes.
 * Click the stitch to check the color disappears from the desired stitch in the thread diagram.
-* In this case we clicked the fourth stitch of the zigzag in figure (b),
-  the zigzag starts on the right (with the black dot) as specified in the recipe box.
-  The ID's in the zigzag can be quite erratic so do your own counting.
-* Note that figure (a) adds a two to the id in figure (b). As the application starts with zero that means it is the third action.
+* In this case we clicked the fourth stitch of the trail in figure (b). In this case,
+  the trail starts on the right (with the black dot) as specified in the recipe box.
+  The ID's in the trail can be quite erratic so do your own counting.
+* Note that figure (a) adds a two to the ID in figure (b). As the application starts with zero that means it is the third action.
   Note that a _t_ counts as two actions: twist left plus twist right.
 * The recipe was _lc,crc,ctc,lcrcl,ctc,crc,c,r_, the fourth stitch is _lcrcl_ as we saw on the tooltip in figure (b).
   We have to remove the third action which is the _r_.
@@ -217,6 +218,7 @@ that twists the legs between the snowflakes to get an even number.
 Such as for the triangle recipe shown below.
 This causes crossed legs (tool tips _j161_) in the pair diagram generated from the thread diagram.
 We can counteract that effect with a "stitch" that just twists the legs.
+Sadly the pair diagram thus doesn´t match the thread diagram anymore.
 Below snippets of this [pattern](https://d-bl.github.io/GroundForge/droste?source=mix4snow&source=mix4snow&source=mix4snow&tile=48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr,48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr&f8=llttcrr&f16=llttcrr&footside=-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r,-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r&=undefined&u8=rrttcll&u16=rrttcll&headside=x,x,x,8,r,r,r,r,x,x,x,8,r,r,r,r&shiftColsSW=0&shiftRowsSW=16&shiftColsSE=4&shiftRowsSE=8&patchWidth=14&patchHeight=35&i1=rc&h1=t&g1=ctcl&h2=crclcr&n5=llctt&i5=ctcl&g5=ct&j9=lc&h9=t&j13=t&g13=lc&g16=tctc&h16=rctc&h4=t&h8=rctc&g8=tctc&g9=ctcl&g12=lc&i12=tctc&j12=rctc&i13=ctcl&j16=t&j4=rctc&i4=tctc&j5=t&i8=rc&j8=t&i16=rc&h12=t&droste2=j80=h121=g14=j161=j160=i134=h40=h41=i54=j81=g94=h120=tt,f80=p81=f160=p161=ctcttttttttttlllllctc,f82=f162=rrtctctrr,f83=f163=rrttctc,u82=u162=ctc,u81=u161=tttttttctctttttt,u83=u163=tttttctc,u80=u160=tttctc#).
 The pattern examples on the [color code](/GroundForge-help/color-rules)
 discuss this phenomenon in more detail.
@@ -246,7 +248,7 @@ as explained on [exploring families](/MAE-gf/docs/counting-snow/#exploring-famil
 The double ring pair of the [default](/GroundForge/mix4snow) pattern is a nice environment to explore or troubleshoot a new recipe.
 The following table explains by example.
 
-| recipe                                  | result                  |                                                            |
+| recipe                                  | result                  | description                                                |
 |:----------------------------------------|:------------------------|:-----------------------------------------------------------|
 | Right "r,t,t,l" <br> or: Left "l,t,t,r" | ![](simple-content.png) | Start simple with three pairs twisted twice                |
 | crc,t,l,l (Right)                       | ![](step2.png)          | Start to feed the first thread on the right to the left.   |

@@ -11,6 +11,16 @@ The purpose/meaning of buttons/icons in short
 ![resume](/GroundForge/images/play.png)
 **Resume**  
 The wand (re)loads a diagram. The play button resumes the animation.
+<button>Apply forces</button> formerly:![ ](/GroundForge/images/animate.png) **Animate**  
+The attracting and repelling forces create more or less regularly sized holes in the thread diagram.
+It may bridge the difference in shapes of the holes between pattern definition and thread diagram.
+For example for [dropped stitches](Replace#drop-stitches) or irregular holes.
+An example of the latter is the TesseLace pattern [3x4_447](/GroundForge/stiches.html?TesseLace=3x4_447&patchWidth=12&patchHeight=12&tile=4-L8,-50F,56-O&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=0&)
+which becomes surprisingly regular.
+See also [reshape patterns](Reshape-Patterns).
+The animation may quit toe soon, resulting in stretch diagrams 
+or even something that looks like throwing a fishing net that dit not yet unfold.
+The resume button is there to continue the animation.
 
 ![](images/toggle-stitch.png) **Stitch**  
 The character inside the circle determines the origins 
@@ -34,13 +44,6 @@ A half minute [video](clips/resize) clip shows how to use the second set of butt
 
 ![](images/resize.png)
 
-<button>Apply forces</button> formerly:![ ](/GroundForge/images/animate.png) **Animate**  
-The attracting and repelling forces create more or less regularly sized holes in the thread diagram.
-It may bridge the difference in shapes of the holes between pattern definition and thread diagram. 
-For example for [dropped stitches](Replace#drop-stitches) or irregular holes. 
-An example of the latter is the TesseLace pattern [3x4_447](/GroundForge/stiches.html?TesseLace=3x4_447&patchWidth=12&patchHeight=12&tile=4-L8,-50F,56-O&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=0&)
-which becomes surprisingly regular.
-See also [reshape patterns](Reshape-Patterns).
 
 ![ ](/GroundForge/images/download.jpg) **[Download](Download)**  
 Scalable images for 3rd party [editors](Reshape-Patterns#evaluated-editors),
