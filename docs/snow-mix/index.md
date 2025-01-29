@@ -182,8 +182,14 @@ The other twist for the second first/last stitch is (usually?) inside the snowfl
 Note that you can also use dots as separators between the stitches.
 Harder to see but easier to type on a mobile device. Spaces are ignored. 
 
-The following list of steps explains an approach to remove other stitches.
-As an example, the steps remove the center of a spider as shown in dark blue in the thread diagrams below.
+
+![](variants.png?align=right)
+On the right three variants of one recipe.
+At the top the original recipe, 
+bottom-right the center action was taken out,
+bottom-left the actions above and below the center were taken out.
+
+The following list of steps explains an approach to remove other stitches than twisted legs.
 These steps show some hover actions.
 A mobile device does not support hovering, it requires a little more trial and error.
 Click the blue hexagon again when you guessed wrong with removing the color.
