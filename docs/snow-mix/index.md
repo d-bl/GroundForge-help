@@ -10,7 +10,8 @@ Toc
   * [Footsides](#footsides)
   * [Footside detour navigation](#footside-detour-navigation)
   * [Recipes for the mixer](#recipes-for-the-mixer)
-    * [Modify a given recipe](#modify-a-given-recipe)
+    * [(Un)twist legs](#untwist-legs)
+    * [Remove details](#remove-details)
     * [Even numbers of stitches](#even-numbers-of-stitches)
   * [Create a recipe from scratch](#create-a-recipe-from-scratch)
     * [Step by step](#step-by-step)
@@ -55,14 +56,14 @@ On the right you see the default pattern of the [snow mixer].
   with the size of the panels and move the content as you see convenient.
 * The mouse in the screenshot points to the stitch that is highlighted with green in the stitches panel.
 * You can set defaults manually at the start of the stitches panel and add lines at the bottom 
-  with (variations of) [predefined stitches](io/GroundForge-help/clips/flip) above _Step 1_.
+  with (variations of) [predefined stitches](/GroundForge-help/clips/flip) above _Step 1_.
 
 ![](default-droste.png)
 
 ![](resume-animation.png?align=right)
 To get a less stretched look (for nicer screenshots or PDF documents) you can resume the animation.
 
-Please note the pattern examples on the [color rules](/GroundForge-help/color-rules).
+Please note the pattern examples on the [color code](/GroundForge-help/color-rules).
 It explains some details for '_g15_' in the screenshot above and see also the page specific help links.
 
 Footsides
@@ -71,7 +72,7 @@ Footsides
 A footside that works for one set of recipes may not work for another.
 This has to do with footside twists that may or may not collapse
 with ground twists or vice versa.
-These collapsing stitches are explained with example patterns on the [color rules](/GroundForge-help/color-rules) page.
+These collapsing stitches are explained with example patterns on the [color code](/GroundForge-help/color-rules) page.
 
 The default footside is based on a _crc_.
 To choose another stitch as a footside basis you need a detour.
@@ -140,7 +141,9 @@ The names of the pages in this overview appear in the address bar of the browser
 
 Links:  
 1. 6 pair snow  
-2. Back to original _pair diagram_ (in another context this links goes to the _stitches_ page)   
+2. Back to original _pair diagram_  
+   After the long detour, this link goes to the _stitches_ page.
+   Diagrams are updated with the new footside and other changes. None of the four recipes are restored.
 3. Tweak footside  
 4. Back to the _pattern definition_  
 5. Use the pattern below to experiment with _stitches and threads_.  
@@ -161,15 +164,10 @@ Some gallery items make look only tilted, but the difference in the recipe may n
 For an impression about the numbers:
 The page [counting snow families](https://d-bl.github.io/MAE-gf/docs/counting-snow/)
 has 230 families for the type of snowflakes for the mixer.
-For the next step, the counting page explores two families with [recipes](MAE-gf/docs/counting-snow/#exploring-families).
+For the next step, the counting page explores two families with [recipes](/MAE-gf/docs/counting-snow/#exploring-families).
 These examples are not exhaustive.
-Did your think [Viele gute Gründe](/MAE-gf/docs/literature)
-has a lot of snowflakes in the B3 series?
-About half of them are members of only 2 families and need only 17 recipes.
-The other half is member of 25 families with an average of almost 3 samples per family.
-This leaves 203 families not explored at all.
 
-### Modify a given recipe
+### (Un)twist legs
 
 (Un)twisting the legs of a snowflake recipe is a relatively easy modification,
 unless it reduces the number of stitches to an odd number.
@@ -179,9 +177,14 @@ The other twist for the second first/last stitch is (usually?) inside the snowfl
 
 ![img_2.png](un-re-twist-legs.png)
 
+The leading stitch may be just twists. You can reduce such a stitch 
+to a dummy stitch with a "-" to keep the number of stitches even.
+The last stitch can not be a dummy stitch. A snowflake with a leading dummy can not be flipped upside down.
+
 Note that you can also use dots as separators between the stitches.
 Harder to see but easier to type on a mobile device. Spaces are ignored. 
 
+### Remove details
 
 ![](variants.png?align=right)
 On the right three variants of one recipe.
@@ -217,23 +220,25 @@ Click the blue hexagon again when you guessed wrong with removing the color.
 
 Note figure (c) above: the last "stitch" of the plait is white, the "stitch" is just a right twist.
 For technical reasons the mixer template does not support odd numbers of stitches.
-To get an even number of stitches, we had to separate the twist from the preceding stitch which now is just a cross.
+To get an even number of stitches, the twist is separated from the preceding stitch which now is just a cross.
 
 In other occasions we could not split so we added a stitch (tooltip _j16_) 
 that twists the legs between the snowflakes to get an even number.
 Such as for the triangle recipe shown below.
 This causes crossed legs (tool tips _j161_) in the pair diagram generated from the thread diagram.
 We can counteract that effect with a "stitch" that just twists the legs.
-Sadly the pair diagram thus doesn´t match the thread diagram anymore.
 Below snippets of this [pattern](https://d-bl.github.io/GroundForge/droste?source=mix4snow&source=mix4snow&source=mix4snow&tile=48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr,48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr&f8=llttcrr&f16=llttcrr&footside=-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r,-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r&=undefined&u8=rrttcll&u16=rrttcll&headside=x,x,x,8,r,r,r,r,x,x,x,8,r,r,r,r&shiftColsSW=0&shiftRowsSW=16&shiftColsSE=4&shiftRowsSE=8&patchWidth=14&patchHeight=35&i1=rc&h1=t&g1=ctcl&h2=crclcr&n5=llctt&i5=ctcl&g5=ct&j9=lc&h9=t&j13=t&g13=lc&g16=tctc&h16=rctc&h4=t&h8=rctc&g8=tctc&g9=ctcl&g12=lc&i12=tctc&j12=rctc&i13=ctcl&j16=t&j4=rctc&i4=tctc&j5=t&i8=rc&j8=t&i16=rc&h12=t&droste2=j80=h121=g14=j161=j160=i134=h40=h41=i54=j81=g94=h120=tt,f80=p81=f160=p161=ctcttttttttttlllllctc,f82=f162=rrtctctrr,f83=f163=rrttctc,u82=u162=ctc,u81=u161=tttttttctctttttt,u83=u163=tttttctc,u80=u160=tttctc#).
 The pattern examples on the [color code](/GroundForge-help/color-rules)
 discuss this phenomenon in more detail.
 
 ![](odd-even.png)
 
-The mixer can handle up to 10 stitches. That is an arbitrary but hard coded limit.
+To better match the pair diagram with the thread diagram we prefer a completely dummy stitch: '-'.
+A dummy stitch is a feature that may or may not work. It does not work as last stitch in a recipe.
+The gallery flipped this type of snowflakes upside down to get the twist-only stitch at the start.
+Then we can make the first stitch a dummy.
 
-[workaround]: https://github.com/d-bl/GroundForge/blob/master/docs/_includes/mix4snow/README.md#odd-number-of-stitches
+The mixer can handle up to 10 stitches. That is an arbitrary but hard coded limit.
 
 
 ## Create a recipe from scratch
@@ -289,6 +294,7 @@ For technical reasons the snow mixer needs an even number of stitches/blobs,
 so blob number 7 of (B) is split in 7 and 8 for (C).
 Note in the captions that splitting this last stitch changes a left twist in a right blob
 into a right twist i na left blob.
+See also _under even number of stitches_ for another solution.
 
 The diagrams (B) and (C) also have different content for the yellow blob 2 and pink 4.
 It might be a personal preference which of the two solutions
