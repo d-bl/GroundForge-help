@@ -177,14 +177,14 @@ Some gallery items make look only tilted, but the difference in the recipes may 
 Others require little changes but may have a big impact on the look.
 So the criteria are a bit arbitrary.
 
-![](variants1.png?align=right)
-On the right three variants of one recipe.
+![](variants1.png?align=left)
+On the left three variants of one recipe.
 At the top the original recipe,
 bottom-right the center action was taken out,
 bottom-left the actions above and below the center were taken out.
 
-![](variants2.png?align=left)
-On the left variants of another recipe.
+![](variants2.png?align=right)
+On the right variants of another recipe.
 At a first glance, this looks like a matter of playing with the left/right radio buttons
 and replace a _ctc_ with _crc_ or _clc_ and another with _lcl_ or _rcr_.
 In practice, it is more complicated, even with the sequence of steps below.
