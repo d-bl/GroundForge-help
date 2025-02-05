@@ -167,11 +167,11 @@ These IDs appear when hovering over a gallery item.
 For the next step, the counting page explores two families with [recipes](/MAE-gf/docs/counting-snow/#exploring-families).
 These examples are not exhaustive.
 So we can create a multitude of 217 recipes
-without even having decided about the stitches for 6-pair snowflakes.
+without even counting the variations with different stitches for 6-pair snowflakes.
 
 ### Look a likes
 
-To get more at your fingertips without dazzling you, the gallery leaves out look a likes
+To avoid an overwhelming gallery, we omit look a likes
 that are (relatively) simple modifications of others.
 Some gallery items make look only tilted, but the difference in the recipes may not be trivial.
 Others require little changes but may have a big impact on the look.
@@ -187,13 +187,13 @@ bottom-left the actions above and below the center were taken out.
 On the left variants of another recipe.
 At a first glance, this looks like a matter of playing with the left/right radio buttons
 and replace a _ctc_ with _crc_ or _clc_ and another with _lcl_ or _rcr_.
-In fact, it is more complicated to follow the sequence of steps below.
+In practice, it is more complicated, even with the sequence of steps below.
 
 ### (Un)twist legs
 
-(Un)twisting the legs of a snowflake recipe is a relatively easy modification.
+(Un)twisting the legs of a recipe is a relatively easy modification.
 Just play with the highlighted characters in the recipe box as shown below:
-two twists to play with for the first/last stitch, one for the second first/last.
+two legs to twist with the first/last stitch, one leg for the second first/last stitch.
 The other twist for the second first/last stitch is (usually?) inside the snowflake.
 
 ![](un-re-twist-legs.png)
@@ -207,7 +207,7 @@ Harder to see but easier to type on a mobile device. Spaces are ignored.
 
 On the mixer page it may look logical to twist legs between 3-pair connections.
 Such as for the triangle recipe shown below.
-However, this causes crossed legs (tool tips _j161_) in the pair diagram generated from the thread diagram.
+However, this causes crossed legs (tool tips ending with _j161_) in the pair diagram generated from the thread diagram.
 We can counteract that effect with a "stitch" that just twists both pairs.
 Below snippets of this [pattern](https://d-bl.github.io/GroundForge/droste?source=mix4snow&source=mix4snow&source=mix4snow&tile=48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr,48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr&f8=llttcrr&f16=llttcrr&footside=-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r,-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r&=undefined&u8=rrttcll&u16=rrttcll&headside=x,x,x,8,r,r,r,r,x,x,x,8,r,r,r,r&shiftColsSW=0&shiftRowsSW=16&shiftColsSE=4&shiftRowsSE=8&patchWidth=14&patchHeight=35&i1=rc&h1=t&g1=ctcl&h2=crclcr&n5=llctt&i5=ctcl&g5=ct&j9=lc&h9=t&j13=t&g13=lc&g16=tctc&h16=rctc&h4=t&h8=rctc&g8=tctc&g9=ctcl&g12=lc&i12=tctc&j12=rctc&i13=ctcl&j16=t&j4=rctc&i4=tctc&j5=t&i8=rc&j8=t&i16=rc&h12=t&droste2=j80=h121=g14=j161=j160=i134=h40=h41=i54=j81=g94=h120=tt,f80=p81=f160=p161=ctcttttttttttlllllctc,f82=f162=rrtctctrr,f83=f163=rrttctc,u82=u162=ctc,u81=u161=tttttttctctttttt,u83=u163=tttttctc,u80=u160=tttctc#).
 The pattern examples on the [color code](/GroundForge-help/color-rules)
@@ -215,15 +215,17 @@ discuss this phenomenon in more detail.
 
 ![](odd-even.png)
 
-To better match the pair diagram with the thread diagram we prefer a completely dummy stitch: '-'.
-A dummy stitch is a feature that may or may not work. It does not work as last stitch in a recipe.
-The gallery flipped this type of snowflakes upside down to get the twist-only stitch at the start.
+To better match the pair diagram with the thread diagram we prefer untwisted legs.
+In this case that means a completely dummy stitch: '-'.
+A dummy stitch is a feature that may or may not work. It does not work as last stitch of a recipe.
+In the first pair diagram the mouse points at the last stitch of the recipe which is just a twist.
+The current gallery flipped this type of snowflakes upside down to get the twist-only stitch at the start.
 Then we can make the first stitch a dummy.
 
 
 ### Remove details
 
-The following list of steps explains an approach to remove other stitches than twisted legs.
+The following list of steps explains an approach to remove other actions than explained above.
 These steps show some hover actions.
 A mobile device does not support hovering, it requires a little more trial and error.
 Click the blue hexagon again when you guessed wrong with removing the color.
