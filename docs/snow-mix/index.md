@@ -186,8 +186,9 @@ bottom-left the actions above and below the center were taken out.
 
 ![](variants2.png?align=left)
 On the left variants of another recipe.
-In this case it is a matter of playing with the left/right radio buttons
+At a first glance, this looks like a matter of playing with the left/right radio buttons
 and replace a _ctc_ with _crc_ or _clc_ and another with _lcl_ or _rcr_.
+In fact, it is more complicated to follow the sequence of steps below.
 
 ### (Un)twist legs
 
