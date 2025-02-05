@@ -10,6 +10,7 @@ Toc
   * [Footsides](#footsides)
   * [Footside detour navigation](#footside-detour-navigation)
   * [Recipes for the mixer](#recipes-for-the-mixer)
+    * [Look a likes](#look-a-likes)
     * [(Un)twist legs](#untwist-legs)
     * [Remove details](#remove-details)
     * [Even numbers of stitches](#even-numbers-of-stitches)
@@ -156,16 +157,37 @@ Recipes for the mixer
 ---------------------
 
 The [snow mixer] shows a galley of recipes with thumbnails.
-The collection is just to get you started as we can barely scratch the surface of the possibilities.
-To get more at your fingertips with a smaller set, we leave out look a likes
-that are (relatively) simple modifications of others.
-Some gallery items make look only tilted, but the difference in the recipe may not be trivial.
+The gallery can barely scratch the surface of the possibilities.
 
-For an impression about the numbers:
+For an impression about the numbers:  
 The page [counting snow families](https://d-bl.github.io/MAE-gf/docs/counting-snow/)
 has 230 families for the type of snowflakes for the mixer.
+Some 17 of them keep pairs together and can be expressed with 4 family IDs of three digits.
+That leaves 213 families with IDs of 6 digits.
+These IDs appear when hovering over a gallery item.
 For the next step, the counting page explores two families with [recipes](/MAE-gf/docs/counting-snow/#exploring-families).
 These examples are not exhaustive.
+So we can create a multitude of 217 recipes
+without even having decided about the stitches for 6-pair snowflakes.
+
+### Look a likes
+
+To get more at your fingertips without dazzling you, the gallery leaves out look a likes
+that are (relatively) simple modifications of others.
+Some gallery items make look only tilted, but the difference in the recipes may not be trivial.
+Others require little changes but may have a big impact on the look.
+So the criteria are a bit arbitrary.
+
+![](variants1.png?align=right)
+On the right three variants of one recipe.
+At the top the original recipe,
+bottom-right the center action was taken out,
+bottom-left the actions above and below the center were taken out.
+
+![](variants2.png?align=left)
+On the left variants of another recipe.
+In this case it is a matter of playing with the left/right radio buttons
+and replace a _ctc_ with _crc_ or _clc_ and another with _lcl_ or _rcr_.
 
 ### (Un)twist legs
 
@@ -175,7 +197,7 @@ Just play with the highlighted characters in the recipe box as shown below:
 two twists to play with for the first/last stitch, one for the second first/last.
 The other twist for the second first/last stitch is (usually?) inside the snowflake.
 
-![img_2.png](un-re-twist-legs.png)
+![](un-re-twist-legs.png)
 
 The leading stitch may be just twists. You can reduce such a stitch 
 to a dummy stitch with a "-" to keep the number of stitches even.
@@ -185,12 +207,6 @@ Note that you can also use dots as separators between the stitches.
 Harder to see but easier to type on a mobile device. Spaces are ignored. 
 
 ### Remove details
-
-![](variants.png?align=right)
-On the right three variants of one recipe.
-At the top the original recipe, 
-bottom-right the center action was taken out,
-bottom-left the actions above and below the center were taken out.
 
 The following list of steps explains an approach to remove other stitches than twisted legs.
 These steps show some hover actions.
