@@ -161,13 +161,13 @@ The gallery can barely scratch the surface of the possibilities.
 For an impression about the numbers:  
 The page [counting snow families](https://d-bl.github.io/MAE-gf/docs/counting-snow/)
 has 230 families for the type of snowflakes for the mixer.
-Some 17 of them keep pairs together and can be expressed with 4 family IDs of three digits.
-That leaves 213 families with IDs of 6 digits.
+Some 19 of them keep pairs together and can be expressed with 4 family IDs of three digits.
+That leaves 211 families with IDs of 6 digits.
 These IDs appear when hovering over a gallery item.
 For the next step, the counting page explores two families with [recipes](/MAE-gf/docs/counting-snow/#exploring-families).
 These examples are not exhaustive.
-So we can create a multitude of 217 recipes
-without even counting the variations with different stitches for 6-pair snowflakes.
+So we can create a multitude of 215 recipes.
+Each recipe in turn has many options to choose stitches for 6-pair snowflakes.
 
 ### Look a likes
 
