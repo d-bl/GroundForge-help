@@ -19,7 +19,7 @@ The lists of steps below will give you your own stable version.
   [gw-lace-to-gf](https://github.com/d-bl/gw-lace-to-gf);
   in this context to _not_ stay synced.
 * For most forks: [Configure] the `/docs` folder as publishing source for GitHub Pages,
-  for `MAE-g` the root folder is the publishing source.
+  for `MAE-gf` the root folder is the publishing source.
   After saving, the page will tell you where you can access the pages.
 * A simple alternative to get synced again:
   delete your own fork and repeat the process.

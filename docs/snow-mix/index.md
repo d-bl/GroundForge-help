@@ -10,7 +10,7 @@ Toc
   * [Footsides](#footsides)
   * [Footside detour navigation](#footside-detour-navigation)
   * [Recipes for the mixer](#recipes-for-the-mixer)
-    * [Look a likes](#look-a-likes)
+    * [Deriviates](#deriviates)
     * [(Un)twist legs](#untwist-legs)
     * [Remove details](#remove-details)
   * [Create a recipe from scratch](#create-a-recipe-from-scratch)
@@ -21,8 +21,8 @@ Toc
 Mix snowflakes into new Grounds
 ===============================
 
-On the [snow mixer] you can create diagrams for (new) grounds with a mix of 2x2 snowflakes.
-Below the form you find links to the most important subjects to have fun with the mixer.
+With the [snow mixer] you can create diagrams for (new) grounds with a mix of up to 2x2 snowflakes.
+Beneath the form you find a quick intro with links to the most important subjects to have fun with the mixer.
 
 ![](sample.png?align=left)
 On the left a sample of lace by Babette.
@@ -38,6 +38,17 @@ The mixer starts with the last step as building blocks alias recipes for a combi
 
 [snow mixer]: /GroundForge/mix4snow/
 
+Compositions
+------------
+
+Babettes pattern uses compact snowflakes for the ring and a spacious snowflake for the centre.
+This approach can be reversed into a bold ring and compact centre.
+
+Another option is to use just a single stitch, or also a flipped version
+for either the dark hexagons or the blue hexagons. The three options are shown below.
+
+![](compositions.png)
+
 Stitches for 6-pair snowflakes
 ------------------------------
 
@@ -47,7 +58,7 @@ allows to assign stitches for snowflakes,
 spiders or whatever needs 6 pairs.
 
 ![](default-pattern.png?align=right)
-On the right you see the default pattern of the [snow mixer].
+On the right you see the default pattern of the [snow mixer] with Babettes double ring.
 
 * Click the button _pair diagrams from thread diagrams_ on the mixer page,
   and you will see the screenshot below with an empty thread diagram.
@@ -131,7 +142,7 @@ the other creates more distance between the legs of two adjacent snowflakes.
 Footside detour navigation
 -------------------------
 
-The grey arrows below (some browser may show grey lines with black arrow heads) show the possible detour routes to tweak the footsides,
+The dashed arrows below (3, 4, 5, 6) show possible detour routes to tweak the footsides,
 the black arrows show the normal work flow for the snow mixer.
 The route along 4-5 is optional in the detour and the most advanced.
 The names of the pages in this overview appear in the address bar of the browser.
@@ -155,7 +166,15 @@ Even when you vist the droste page for the first time, you inherit stitches from
 Recipes for the mixer
 ---------------------
 
-The [snow mixer] shows a galley of recipes with thumbnails.
+* [Deriviates](#deriviates)
+* [(Un)twist legs](#untwist-legs)
+* [Remove details](#remove-details)
+* [Create a recipe from scratch](#create-a-recipe-from-scratch)
+  * [Step by step](#step-by-step)
+  * [Blob analysis](#blob-analysis)
+
+
+The [snow mixer] shows a gallery of recipes with thumbnails.
 The gallery can barely scratch the surface of the possibilities.
 
 For an impression about the numbers:  
@@ -169,25 +188,30 @@ These examples are not exhaustive.
 So we can create a multitude of 215 recipes.
 Each recipe in turn has many options to choose stitches for 6-pair snowflakes.
 
-### Look a likes
+### Deriviates
 
-To avoid an overwhelming gallery, we omit look a likes
+To avoid an overwhelming gallery, we omit recipes
 that are (relatively) simple modifications of others.
 Some gallery items make look only tilted, but the difference in the recipes may not be trivial.
 Others require little changes but may have a big impact on the look.
-So the criteria are a bit arbitrary.
+So the criteria are a bit arbitrary, except for (not) twisting legs.
 
-![](variants1.png?align=left)
-On the left three variants of one recipe.
-At the top the original recipe,
-bottom-right the center action was taken out,
-bottom-left the actions above and below the center were taken out.
+Before elaborating how-to's some examples to get the gist of dropping stitches other than twisted legs.
 
-![](variants2.png?align=right)
-On the right variants of another recipe.
-At a first glance, this looks like a matter of playing with the left/right radio buttons
-and replace a _ctc_ with _crc_ or _clc_ and another with _lcl_ or _rcr_.
-In practice, it is more complicated, even with the sequence of steps below.
+[//]: # (save svg with inkscape images at 120 dpi respectively 66 dpi)
+
+
+|      drop       |     gallery      |                           deriviates                           | stitch<br>starts | drop/replace capitals                                  |
+|:---------------:|:----------------:|:--------------------------------------------------------------:|:----------------:|:--------------------------------------------------------------------|
+| ![](img_8.png)  |   ![](img.png)   | ![](img_1.png "321654") ![](img_4.png "623451") ![](img_2.png) |       left       | r,c,crc,Tc,lcRcl,cTc,crc,cl<br>r,c,crc,cRc,lccl,cRc,crc,cl          |
+| ![](img_3.png)  |  ![](img_7.png)  |        ![](img_6.png "623451") ![](img_5.png "645231")         |      right       | lcrc,clcrC,CLcrC,clcr <br> lCrc,Clcrcl,crc,cr <br> lrc,lcrcl,crc,cr |
+| ![](img_11.png) | ![](img_9.png)   |                        ![](img_10.png)                         |      right       | -,ctc,ctc,cTc,ctc,ctc <br> -,ctc,ctc,cLc,ctc,ctc                    |
+
+Note that a double twist or cross in a thread diagram becomes a single stitch
+when transforming the thread diagram to a pair diagram.
+This is illustrated with examples of patterns in the [color code](/GroundForge-help/color-rules).
+When deriviates are in the gallery, those repetitive actions are removed.
+Deriviates in the table that are not in the gallery show family numbers when hovering over the image.
 
 ### (Un)twist legs
 
