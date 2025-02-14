@@ -22,7 +22,7 @@ Mix snowflakes into new Grounds
 ===============================
 
 With the [snow mixer] you can create diagrams for (new) grounds with a mix of up to 2x2 snowflakes.
-On the mixer you find a quick intro with links to the most important subjects to get started.
+The mixer has a quick intro with links to the most important subjects to get started.
 
 The pair diagram of a 6-pair snowflake can be interpreted
 as a thread diagram of a 3-pair connection.
