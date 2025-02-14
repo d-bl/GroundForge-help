@@ -22,7 +22,7 @@ Mix snowflakes into new Grounds
 ===============================
 
 With the [snow mixer] you can create diagrams for (new) grounds with a mix of up to 2x2 snowflakes.
-The mixer has a quick intro with links to the most important subjects to get started.
+The mixer page has a quick intro with links to the most important subjects to get started.
 
 The pair diagram of a 6-pair snowflake can be interpreted
 as a thread diagram of a 3-pair connection.
@@ -259,7 +259,7 @@ Click the blue hexagon again when you guessed wrong with removing the color.
 * Hover over the stitches in the zigzag trail of figure (b) until you see the start of the ID shown in figure (b): 'b1'.
   Note that the zigzag trail may have just three or four stitches for other recipes.
 * Click the stitch to check the color disappears from the desired stitch in the thread diagram.
-* In this case we clicked the fourth stitch of the trail in figure (b). For this recipe,
+* In this case, we clicked the fourth stitch of the trail in figure (b). For this recipe,
   the trail starts on the right (with the black dot) as specified in the recipe box.
   The ID's in the trail can be quite erratic so do your own counting.
 * Note that figure (a) adds a two to the ID in figure (b). As the application starts with zero that means it is the third action.
