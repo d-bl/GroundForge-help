@@ -3,8 +3,8 @@ layout: default
 title: mix snowflakes
 ---
 
-Toc
-===
+Table of contents
+=================
 * [Mix snowflakes into new Grounds](#mix-snowflakes-into-new-grounds)
   * [Stitches for six pair snowflakes](#stitches-for-6-pair-snowflakes)
   * [Footsides](#footsides)
