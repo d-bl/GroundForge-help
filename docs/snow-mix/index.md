@@ -10,7 +10,7 @@ Table of contents
   * [Footsides](#footsides)
   * [Footside detour navigation](#footside-detour-navigation)
   * [Recipes for the mixer](#recipes-for-the-mixer)
-    * [derivatives](#derivatives)
+    * [Derivatives](#derivatives)
     * [(Un)twist legs](#untwist-legs)
     * [Remove details](#remove-details)
   * [Create a recipe from scratch](#create-a-recipe-from-scratch)
@@ -186,7 +186,7 @@ These examples are not exhaustive.
 So we can create a multitude of 215 recipes.
 Each recipe in turn has many options to choose stitches for 6-pair snowflakes.
 
-### derivatives
+### Derivatives
 
 To avoid an overwhelming gallery, we omit recipes
 that are (relatively) simple modifications of others.
@@ -238,7 +238,7 @@ discuss this phenomenon in more detail.
 ![](odd-even.png)
 
 To better match the pair diagram with the thread diagram we prefer untwisted legs.
-In this case that means a completely dummy stitch: '-'.
+In this case, that means a completely dummy stitch: '-'.
 A dummy stitch is a feature that may or may not work. It does not work as last stitch of a recipe.
 In the first pair diagram the mouse points at the last stitch of the recipe which is just a twist.
 The current gallery flipped this type of snowflakes upside down to get the twist-only stitch at the start.
