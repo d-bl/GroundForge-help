@@ -6,6 +6,7 @@ title: mix snowflakes
 Table of contents
 =================
 * [Mix snowflakes into new Grounds](#mix-snowflakes-into-new-grounds)
+  * [Compositions](#compositions) 
   * [Stitches for six pair snowflakes](#stitches-for-6-pair-snowflakes)
   * [Footsides](#footsides)
   * [Footside detour navigation](#footside-detour-navigation)
