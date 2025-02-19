@@ -87,7 +87,7 @@ See also the last one in the _examples of stitches_ above.
 ![](images/F9-variation.png) ![GW sampler F9](images/gw-F9.png)
 
 The following example follows the transformation from a thread diagram
-used as pair diagram to thread diagram, a [Drosste effect](Droste-effect).
+used as pair diagram to thread diagram, a [Droste effect](Droste-effect).
 The last diagram is a traditional pair diagram for the eyed spider.
 In the step from thread to pair diagram the double twists are reduced to a single stitch
 because everything done with just two pairs is a single stitch in GroundForge.
