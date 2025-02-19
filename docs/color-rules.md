@@ -18,10 +18,6 @@ When experimenting with unorthodox stitches and grounds we need to distinguish m
 [Danish]: https://www.mail-archive.com/lace@arachne.com/msg51355.html
 [red-blue]: https://susanroberts.info/wp-content/uploads/2019/08/Working-diagrams-part-2.pdf
 
-[2x2swatches](/GroundForge/images/to-color-rules.png)  serves as a reminder:
-the color numbers are arranged in a clockwise order
-starting with red (=danger alias unusual) as zero.
-
 4 colors per stitch
 ===================
 
