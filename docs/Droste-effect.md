@@ -8,7 +8,6 @@ Droste effect
 
 * [Thread diagram as pair diagram](#thread-diagram-as-pair-diagram)
 * [Input boxes "stitches"](#input-boxes-stitches)
-* [Stitch gallery](#stitch-gallery)
 * [repeat the process](#repeat-the-process)
 * [Examples](#examples)
 
@@ -19,7 +18,7 @@ In a typical pair diagram, two pairs intersect at each crossing and then continu
 
 ![](images/simple-droste.png)
 
-GroundForge uses its own [color code](/GroundForge-help/color-rules) shown on the second row. 
+GroundForge uses its own [color code](/GroundForge-help/color-rules) shown on the second row of diagrams. 
 This color-code accommodates unorthodox stitches.
 
 The red arrow above represents a link to use the _thread diagram as pair diagram_.
@@ -29,24 +28,27 @@ Input boxes "stitches"
 ----------------------
 
 The input boxes called _stitches_ have several options for specifying which stitches appear in the new thread diagram.
-Grey backgrounds for diagrams indicate they are out of sync with the changes content of the input box.
-As the diagrams may be slow to render, changes in the input box cause grey backgrounds for the diagrams to indicate they are out of sync.
-Click the wands to update the diagrams.
 
-By default, every stitch is `ctc`.  You can assign a new default stitch by typing the actions (such as `ct`) in the input box that appears to the left of the new pair diagram. You can also assign a stitch to every "cross" in the original thread diagram by typing `cross=...` (for example, `cross=ctcll`) in the input box.  Similarly, you assign a stitch to every "twist" in the original thread diagram using `twist=...`.  For finer control, you can specify a stitch for a specific intersection.  First find the identity of the intersection in the new pair diagram (hover over the intersection until the id appears), then give it a new value in the input box such as `b10=clcl`.  You can combine any of these options in the input box.  Use a new line or a comma to separate each instruction.
+By default, every stitch is `ctc`.  You can assign a new default stitch by typing the actions (such as `ct`) in the input box that appears to the left of the new pair diagram. You can also assign a stitch to every "cross" in the original thread diagram by typing `cross=...` (for example, `cross=ctcll`) in the input box.  Similarly, you assign a stitch to every "twist" in the original thread diagram using `twist=...`.  
+
+As the diagrams may be slow to render, changes in the input box cause grey backgrounds for the diagrams to indicate they are out of sync.
+Click the wands to update the diagrams. The wands are highlighted with red rectangles red in the screenshot below.
+
+Clicking stitches in the pair diagram adds lines to the bottom of the _stitches_ box,
+typing these line manually is also possible.
+The IDs on the left side of the added equations come from the right side of the tooltip in the pair diagram.  
+![](images/assign-stitch.png)  
+The actions on the right side of the equations come from the input box shown above.
+You can type your own set of actions in this box or select a stitch from the gallery.
+The [color code](color-rules) in front of the input box changes along with the content of the input box.
+
+The list of equations may grow long and contain duplicates.
+The last occurrence for an ID is the one that counts.
+The broomstick icon cleans up the list by removing duplicates and combine equations with the same set of instructions.
+For printing purposes, you can join lines separated with a comma. 
 
 ![](images/droste-assign-stitches.png)
 
-Stitch gallery
---------------
-
-Above the first step, you can find a stitch gallery with some fields and instructions that suggest to change the pair diagram. 
-In fact, it adds specifications at the bottom of the input box.
-Frequently occurring stitches are better specified manually at the top of the input box.
-
-The quick changes may cause the same id mentioned several times in the input box. 
-The last occurrence is the one that counts.
-To clean up you can use the search function of your browser to find duplicates in order remove the preceding ones.
 
 Repeat the process
 ------------------
