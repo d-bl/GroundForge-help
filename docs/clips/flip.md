@@ -14,11 +14,25 @@ Soundless video clip.
 </video>   
 
 The clip shows that the buttons `↔` and `↕` change the text field.
-You can subsequently assign the text value to stitches in the pair diagram.
+It subsequently assigns the text value to stitches in the pair diagram.
+
+Symmetry
+--------
+
+Table of contents
+
+* [Symmetry introduction](#symmetry-introduction)
+* [Symmetry on a diagonal net](#symmetry-on-a-diagonal-net)
+  * [What the flip buttons do](#what-the-flip-buttons-do)
+  * [Internal symmetry](#internal-symmetry)
+* [Symmetry on a square net](#symmetry-on-a-square-net)
+* [Wrapping up](#wrapping-up)
 
 Symmetry on a diagonal net
 --------------------------
-Just an example of a stitch placed on a diagonal net.
+
+Just an example of mirrored stitches placed on a diagonal net.
+The diagram on the right shows the working directions of the stitches.
 
 ![](external-symmetry.png)
 
@@ -32,7 +46,7 @@ a. Replace each R in the with L and each L with R
 
 Mirrored representation: b ⇔ p, d ⇔ q
 
-a. Read backwards
+a. Read backwards  
 b. Re-order twist groups: T < R < L
 
     CTCRC ⇒ CRCTC
@@ -40,9 +54,9 @@ b. Re-order twist groups: T < R < L
 
 How to make the quartet of stitches
 
-a. Apply mirror b ⇒ d
-b. Apply mirror d ⇒ q
-c. Apply mirror q ⇒ p
+a. Apply mirror b ⇒ d  
+b. Apply mirror d ⇒ q  
+c. Apply mirror q ⇒ p  
 
     CTCRC ⇒ CTCLC ⇒ CLCTC ⇒ CRCTC
     CTRCLC ⇒ CTLCRC ⇒ CLCTRC ⇒ CRCTLC
@@ -64,7 +78,15 @@ The working directions in a square net cause complications when flipping stitche
 
 ![](square-symmetry.png)
 
-... TODO ...
+In the diagrams above, b and q should be executed on a left to right row, 
+d and p on a right to left row.
+Compare b of the left diagram with p of the right diagram:
+only changing the working direction rotates the stitch by 45 degrees in a clockwise direction.
+Compare both b's and we that reading the stitch backwards has see the same effect.
+
+The algorithm for the flip buttons assumes stitches are placed on diagonal rows. 
+To really mimic the `↔` and `↕` reflections, we should also change the working directions.
+The _both_ button works as expected. 
 
 
 Wrapping up
