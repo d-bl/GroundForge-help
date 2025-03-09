@@ -96,6 +96,7 @@ Below we annotated GroundForge screenshots.
 
 You can reproduce figure D on this [nets](/GroundForge/nets.html?b=crcllc) page.
 It uses the stitch _crcllc_.
+You can not reproduce figure B with the nets page.
 Direct links to reproduce figures:
 [A+B](https://d-bl.github.io/GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=4,x&tile=-5-5,5-5-,-5-5,5-5-&headside=x,7&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=4&shiftRowsSE=4&e1=ctc&c1=cllcrc&a1=ctctctl&n2=ctctctr&d2=cllcrc&b2=cllcrc&e3=ctc&c3=cllcrc&d4=ctc&b4=ctc)
 and
@@ -103,6 +104,7 @@ and
 For figure A-B we added a neutral cloth stitch between the four mirrored stitches.
 In figure F we cheated: the last column of stitches is manually flipped.
 Figure G zooms in and extracts a manually flipped stitch.
+The flipped stitch is pale in figure F.
 
 ![](cllcr-bdpq.svg)
 

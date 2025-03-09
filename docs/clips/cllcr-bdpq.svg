@@ -429,20 +429,20 @@
      fit-margin-left="0.6"
      fit-margin-right="0.6"
      fit-margin-bottom="0.6"
-     inkscape:zoom="2.1520119"
+     inkscape:zoom="2.0253353"
      inkscape:cx="335.5"
-     inkscape:cy="168.21468"
-     inkscape:window-width="2256"
-     inkscape:window-height="1435"
+     inkscape:cy="168.12031"
+     inkscape:window-width="2251"
+     inkscape:window-height="970"
      inkscape:window-x="0"
      inkscape:window-y="41"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      height="291.1976px" />
   <path
      class="node ct-b1"
      d="m 723.25284,212.95537 a 9.6461496,9.6461497 0 0 1 -9.64614,9.64617 9.6461496,9.6461497 0 0 1 -9.64615,-9.64617 9.6461496,9.6461497 0 0 1 9.64615,-9.64614 9.6461496,9.6461497 0 0 1 9.64614,9.64614 z"
-     style="opacity:0.4;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path4405">
     <title
        id="title4403">left twist - b13</title>
@@ -450,7 +450,7 @@
   <path
      class="node ct-b1"
      d="m 733.7402,226.02483 a 9.6461496,9.6461497 0 0 1 -9.64614,9.64617 9.6461496,9.6461497 0 0 1 -9.64615,-9.64617 9.6461496,9.6461497 0 0 1 9.64615,-9.64614 9.6461496,9.6461497 0 0 1 9.64614,9.64614 z"
-     style="opacity:0.4;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path4409">
     <title
        id="title4407">left twist - b14</title>
@@ -458,7 +458,7 @@
   <path
      class="node ct-b1"
      d="m 745.62811,238.20341 a 9.6461496,9.6461497 0 0 1 -9.64615,9.64614 9.6461496,9.6461497 0 0 1 -9.64617,-9.64614 9.6461496,9.6461497 0 0 1 9.64617,-9.64617 9.6461496,9.6461497 0 0 1 9.64615,9.64617 z"
-     style="opacity:0.4;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path4413">
     <title
        id="title4411">left twist - b15</title>
@@ -559,7 +559,7 @@
   <path
      class="node ct-b4"
      d="m 248.11619,56.164399 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2409-3">
     <title
        id="title2407-4">cross - b40</title>
@@ -567,7 +567,7 @@
   <path
      class="node ct-b4"
      d="m 258.41908,65.158351 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2413-9">
     <title
        id="title2411-2">right twist - b41</title>
@@ -575,7 +575,7 @@
   <path
      class="node ct-b4"
      d="m 245.00393,67.724959 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2417-7">
     <title
        id="title2415-4">cross - b42</title>
@@ -583,7 +583,7 @@
   <path
      class="node ct-b4"
      d="m 231.61747,66.304782 a 5.445,5.445 0 0 1 -5.44499,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.44499,5.445 z"
-     style="opacity:0.4;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2421-25">
     <title
        id="title2419-2">left twist - b43</title>
@@ -591,7 +591,7 @@
   <path
      class="node ct-b4"
      d="m 231.23801,76.073937 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2425-4">
     <title
        id="title2423-4">left twist - b44</title>
@@ -599,7 +599,7 @@
   <path
      class="node ct-b4"
      d="m 242.08186,81.734119 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2429-3">
     <title
        id="title2427-8">cross - b45</title>
@@ -607,7 +607,7 @@
   <path
      class="node ct-d4"
      d="m 290.03059,55.912741 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path2433-6">
     <title
        id="title2431-0">cross - d40</title>
@@ -615,7 +615,7 @@
   <path
      class="node ct-d4"
      d="m 280.03567,64.947415 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path2437-89">
     <title
        id="title2435-2">left twist - d41</title>
@@ -623,7 +623,7 @@
   <path
      class="node ct-d4"
      d="m 293.60728,67.391142 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path2441-2">
     <title
        id="title2439-3">cross - d42</title>
@@ -631,7 +631,7 @@
   <path
      class="node ct-d4"
      d="m 307.24711,65.858303 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path2445-1">
     <title
        id="title2443-8">right twist - d43</title>
@@ -639,7 +639,7 @@
   <path
      class="node ct-d4"
      d="m 308.05,75.558532 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path2449-3">
     <title
        id="title2447-4">right twist - d44</title>
@@ -647,7 +647,7 @@
   <path
      class="node ct-d4"
      d="m 297.24006,81.24782 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path2453-2">
     <title
        id="title2451-2">cross - d45</title>
@@ -655,7 +655,7 @@
   <path
      class="node ct-b2"
      d="m 242.50636,100.20731 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2505-4">
     <title
        id="title2503-5">cross - b20</title>
@@ -663,7 +663,7 @@
   <path
      class="node ct-b2"
      d="m 231.62959,105.94196 a 5.445,5.445 0 0 1 -5.44498,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.44498,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2509-1">
     <title
        id="title2507-7">left twist - b21</title>
@@ -671,7 +671,7 @@
   <path
      class="node ct-b2"
      d="m 232.43295,116.09267 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2513-5">
     <title
        id="title2511-7">left twist - b22</title>
@@ -679,7 +679,7 @@
   <path
      class="node ct-b2"
      d="m 245.89064,115.15909 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2517-1">
     <title
        id="title2515-6">cross - b23</title>
@@ -687,7 +687,7 @@
   <path
      class="node ct-b2"
      d="m 259.73487,118.108 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2521-9">
     <title
        id="title2519-8">right twist - b24</title>
@@ -695,7 +695,7 @@
   <path
      class="node ct-b2"
      d="m 249.88061,128.09407 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2525-1">
     <title
        id="title2523-3">cross - b25</title>
@@ -703,7 +703,7 @@
   <path
      class="node ct-d2"
      d="m 297.63693,99.53796 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2529-3">
     <title
        id="title2527-3">cross - d20</title>
@@ -711,7 +711,7 @@
   <path
      class="node ct-d2"
      d="m 308.92099,104.97273 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2533-7">
     <title
        id="title2531-9">right twist - d21</title>
@@ -719,7 +719,7 @@
   <path
      class="node ct-d2"
      d="m 308.46828,115.12421 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2537-8">
     <title
        id="title2535-6">right twist - d22</title>
@@ -727,7 +727,7 @@
   <path
      class="node ct-d2"
      d="m 294.81542,114.48408 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2541-7">
     <title
        id="title2539-0">cross - d23</title>
@@ -735,7 +735,7 @@
   <path
      class="node ct-d2"
      d="m 281.09919,117.79592 a 5.445,5.445 0 0 1 -5.445,5.44501 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.44499 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2545-4">
     <title
        id="title2543-8">left twist - d24</title>
@@ -743,7 +743,7 @@
   <path
      class="node ct-d2"
      d="m 291.35946,127.50308 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path2549-4">
     <title
        id="title2547-8">cross - d25</title>
@@ -911,22 +911,22 @@
        y="328.26483"
        style="font-size:18.6667px;stroke:none">G</tspan></text>
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0;stroke:#e5a50a;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     style="opacity:1;fill:#000000;fill-opacity:0;stroke:#92c5de;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
      d="m 209.85037,118.82628 c -9.05043,19.25118 14.34283,36.43072 27.00561,23.74987"
      id="path53580"
      sodipodi:nodetypes="cc" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0;stroke:#e5a50a;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     style="opacity:1;fill:#000000;fill-opacity:0;stroke:#92c5de;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
      d="M 209.84719,64.538075 C 200.79676,45.286895 224.19002,28.107357 236.8528,40.788204"
      id="path53582"
      sodipodi:nodetypes="cc" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0;stroke:#e5a50a;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     style="opacity:1;fill:#000000;fill-opacity:0;stroke:#92c5de;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
      d="m 298.04726,147.42197 c 19.25118,9.05043 36.43072,-14.34283 23.74987,-27.00561"
      id="path53584"
      sodipodi:nodetypes="cc" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0;stroke:#e5a50a;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     style="opacity:1;fill:#000000;fill-opacity:0;stroke:#92c5de;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
      d="m 288.04971,39.968266 c 19.25118,-9.050423 36.43072,14.342834 23.74987,27.005613"
      id="path53586"
      sodipodi:nodetypes="cc" />
@@ -1056,7 +1056,7 @@
   <path
      class="node ct-c2"
      d="m 647.1538,41.29363 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path88674">
     <title
        id="title88672">cross - c20</title>
@@ -1064,7 +1064,7 @@
   <path
      class="node ct-c2"
      d="m 633.22981,41.11382 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path88678">
     <title
        id="title88676">left twist - c21</title>
@@ -1072,7 +1072,7 @@
   <path
      class="node ct-c2"
      d="m 640.11157,53.29481 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path88682">
     <title
        id="title88680">cross - c22</title>
@@ -1080,7 +1080,7 @@
   <path
      class="node ct-c2"
      d="m 650.99353,62.36436 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path88686">
     <title
        id="title88684">right twist - c23</title>
@@ -1088,7 +1088,7 @@
   <path
      class="node ct-c2"
      d="m 643.02739,68.86353 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path88690">
     <title
        id="title88688">right twist - c24</title>
@@ -1096,7 +1096,7 @@
   <path
      class="node ct-c2"
      d="m 631.47065,66.99022 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path88694">
     <title
        id="title88692">cross - c25</title>
@@ -1104,7 +1104,7 @@
   <path
      class="node ct-b2"
      d="m 608.18903,48.99099 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88698">
     <title
        id="title88696">cross - b20</title>
@@ -1112,7 +1112,7 @@
   <path
      class="node ct-b2"
      d="m 607.51167,67.99549 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88702">
     <title
        id="title88700">right twist - b21</title>
@@ -1120,7 +1120,7 @@
   <path
      class="node ct-b2"
      d="m 592.66922,58.76492 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88706">
     <title
        id="title88704">cross - b22</title>
@@ -1128,7 +1128,7 @@
   <path
      class="node ct-b2"
      d="m 580.42967,47.68829 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88710">
     <title
        id="title88708">left twist - b23</title>
@@ -1136,7 +1136,7 @@
   <path
      class="node ct-b2"
      d="m 571.10908,53.96968 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88714">
     <title
        id="title88712">left twist - b24</title>
@@ -1144,7 +1144,7 @@
   <path
      class="node ct-b2"
      d="m 575.14425,68.87921 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88718">
     <title
        id="title88716">cross - b25</title>
@@ -1152,7 +1152,7 @@
   <path
      class="node ct-b1"
      d="m 574.8558,91.28882 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88730">
     <title
        id="title88728">cross - b10</title>
@@ -1160,7 +1160,7 @@
   <path
      class="node ct-b1"
      d="m 570.90584,106.63826 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88734">
     <title
        id="title88732">left twist - b11</title>
@@ -1168,7 +1168,7 @@
   <path
      class="node ct-b1"
      d="m 580.33559,112.48034 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88738">
     <title
        id="title88736">left twist - b12</title>
@@ -1176,7 +1176,7 @@
   <path
      class="node ct-b1"
      d="m 592.17991,100.93099 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88742">
     <title
        id="title88740">cross - b13</title>
@@ -1184,7 +1184,7 @@
   <path
      class="node ct-b1"
      d="m 607.32394,90.7359 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88746">
     <title
        id="title88744">right twist - b14</title>
@@ -1192,7 +1192,7 @@
   <path
      class="node ct-b1"
      d="m 607.92764,109.5022 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88750">
     <title
        id="title88748">cross - b15</title>
@@ -1200,7 +1200,7 @@
   <path
      class="node ct-c1"
      d="m 631.27801,92.86667 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88754">
     <title
        id="title88752">cross - c10</title>
@@ -1208,7 +1208,7 @@
   <path
      class="node ct-c1"
      d="m 642.86803,90.73079 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88758">
     <title
        id="title88756">right twist - c11</title>
@@ -1216,7 +1216,7 @@
   <path
      class="node ct-c1"
      d="m 650.70888,97.23751 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88762">
     <title
        id="title88760">right twist - c12</title>
@@ -1224,7 +1224,7 @@
   <path
      class="node ct-c1"
      d="m 640.07144,106.25337 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88766">
     <title
        id="title88764">cross - c13</title>
@@ -1232,7 +1232,7 @@
   <path
      class="node ct-c1"
      d="m 633.05742,118.85486 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88770">
     <title
        id="title88768">left twist - c14</title>
@@ -1240,7 +1240,7 @@
   <path
      class="node ct-c1"
      d="m 646.87624,118.10571 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path88774">
     <title
        id="title88772">cross - c15</title>
@@ -1248,7 +1248,7 @@
   <path
      class="node ct-b1"
      d="m 62.04135,274.14885 a 15.535222,15.535222 0 0 1 -15.535221,15.5352 15.535222,15.535222 0 0 1 -15.535221,-15.5352 15.535222,15.535222 0 0 1 15.535221,-15.53523 15.535222,15.535222 0 0 1 15.535221,15.53523 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:1.72614"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:1.72614;stroke-opacity:1;fill-opacity:1"
      id="path89501">
     <title
        id="title89499">left twist - b12</title>
@@ -1256,7 +1256,7 @@
   <path
      class="node ct-b2"
      d="m 62.04135,225.83598 a 15.535222,15.535222 0 0 1 -15.535221,15.5352 15.535222,15.535222 0 0 1 -15.53522,-15.5352 15.535222,15.535222 0 0 1 15.53522,-15.53521 15.535222,15.535222 0 0 1 15.535221,15.53521 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.72614"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.72614;fill-opacity:1;stroke-opacity:1"
      id="path89585">
     <title
        id="title89583">cross - b25</title>
@@ -1264,7 +1264,7 @@
   <path
      class="node ct-c2"
      d="M 108.04339,225.83599 A 15.535222,15.535222 0 0 1 92.508176,241.37118 15.535222,15.535222 0 0 1 76.972958,225.83599 15.535222,15.535222 0 0 1 92.508176,210.30078 15.535222,15.535222 0 0 1 108.04339,225.83599 Z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:1.72614"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:1.72614;stroke-opacity:1;fill-opacity:1"
      id="path89589">
     <title
        id="title89587">left twist - c21</title>
@@ -1272,7 +1272,7 @@
   <path
      class="node ct-c1"
      d="M 108.04339,272.57419 A 15.535222,15.535222 0 0 1 92.508175,288.10942 15.535222,15.535222 0 0 1 76.972954,272.57419 15.535222,15.535222 0 0 1 92.508175,257.03898 15.535222,15.535222 0 0 1 108.04339,272.57419 Z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:1.72614"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:1.72614;fill-opacity:1;stroke-opacity:1"
      id="path89593">
     <title
        id="title89591">left twist - c14</title>
@@ -1472,7 +1472,7 @@
   <path
      class="node ct-b2"
      d="m 506.09891,216.35988 a 9.6461496,9.6461496 0 0 1 -9.64615,9.64615 9.6461496,9.6461496 0 0 1 -9.64614,-9.64615 9.6461496,9.6461496 0 0 1 9.64614,-9.64616 9.6461496,9.6461496 0 0 1 9.64615,9.64616 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path92859">
     <title
        id="title92857">cross - b20</title>
@@ -1480,7 +1480,7 @@
   <path
      class="node ct-b2"
      d="m 504.89892,250.0275 a 9.6461496,9.6461496 0 0 1 -9.64616,9.64616 9.6461496,9.6461496 0 0 1 -9.64613,-9.64616 9.6461496,9.6461496 0 0 1 9.64613,-9.64615 9.6461496,9.6461496 0 0 1 9.64616,9.64615 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path92863">
     <title
        id="title92861">right twist - b21</title>
@@ -1488,7 +1488,7 @@
   <path
      class="node ct-b2"
      d="m 478.60464,233.675 a 9.6461496,9.6461496 0 0 1 -9.64615,9.64615 9.6461496,9.6461496 0 0 1 -9.64615,-9.64615 9.6461496,9.6461496 0 0 1 9.64615,-9.64615 9.6461496,9.6461496 0 0 1 9.64615,9.64615 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path92867">
     <title
        id="title92865">cross - b22</title>
@@ -1496,7 +1496,7 @@
   <path
      class="node ct-b2"
      d="m 456.92151,214.05206 a 9.6461496,9.6461496 0 0 1 -9.64615,9.64614 9.6461496,9.6461496 0 0 1 -9.64615,-9.64614 9.6461496,9.6461496 0 0 1 9.64615,-9.64616 9.6461496,9.6461496 0 0 1 9.64615,9.64616 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path92871">
     <title
        id="title92869">left twist - b23</title>
@@ -1504,7 +1504,7 @@
   <path
      class="node ct-b2"
      d="m 440.40953,225.17993 a 9.6461496,9.6461496 0 0 1 -9.64616,9.64614 9.6461496,9.6461496 0 0 1 -9.64615,-9.64614 9.6461496,9.6461496 0 0 1 9.64615,-9.64617 9.6461496,9.6461496 0 0 1 9.64616,9.64617 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path92875">
     <title
        id="title92873">left twist - b24</title>
@@ -1512,7 +1512,7 @@
   <path
      class="node ct-b2"
      d="m 447.55807,251.59307 a 9.6461496,9.6461496 0 0 1 -9.64614,9.64615 9.6461496,9.6461496 0 0 1 -9.64616,-9.64615 9.6461496,9.6461496 0 0 1 9.64616,-9.64614 9.6461496,9.6461496 0 0 1 9.64614,9.64614 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path92879">
     <title
        id="title92877">cross - b25</title>
@@ -1526,7 +1526,7 @@
   <path
      class="node ct-b2"
      d="m 565.57301,216.35988 a 9.6461496,9.6461496 0 0 0 9.64614,9.64615 9.6461496,9.6461496 0 0 0 9.64616,-9.64615 9.6461496,9.6461496 0 0 0 -9.64616,-9.64616 9.6461496,9.6461496 0 0 0 -9.64614,9.64616 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path93331">
     <title
        id="title93329">cross - b20</title>
@@ -1534,7 +1534,7 @@
   <path
      class="node ct-b2"
      d="m 566.77299,250.0275 a 9.6461496,9.6461496 0 0 0 9.64614,9.64616 9.6461496,9.6461496 0 0 0 9.64617,-9.64616 9.6461496,9.6461496 0 0 0 -9.64617,-9.64615 9.6461496,9.6461496 0 0 0 -9.64614,9.64615 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path93335">
     <title
        id="title93333">right twist - b21</title>
@@ -1542,7 +1542,7 @@
   <path
      class="node ct-b2"
      d="m 593.06729,233.675 a 9.6461496,9.6461496 0 0 0 9.64616,9.64615 9.6461496,9.6461496 0 0 0 9.64615,-9.64615 9.6461496,9.6461496 0 0 0 -9.64615,-9.64615 9.6461496,9.6461496 0 0 0 -9.64616,9.64615 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path93339">
     <title
        id="title93337">cross - b22</title>
@@ -1550,7 +1550,7 @@
   <path
      class="node ct-b2"
      d="m 614.7504,214.05206 a 9.6461496,9.6461496 0 0 0 9.64614,9.64614 9.6461496,9.6461496 0 0 0 9.64616,-9.64614 9.6461496,9.6461496 0 0 0 -9.64616,-9.64616 9.6461496,9.6461496 0 0 0 -9.64614,9.64616 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path93343">
     <title
        id="title93341">left twist - b23</title>
@@ -1558,7 +1558,7 @@
   <path
      class="node ct-b2"
      d="m 631.26238,225.17993 a 9.6461496,9.6461496 0 0 0 9.64615,9.64614 9.6461496,9.6461496 0 0 0 9.64616,-9.64614 9.6461496,9.6461496 0 0 0 -9.64616,-9.64617 9.6461496,9.6461496 0 0 0 -9.64615,9.64617 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path93347">
     <title
        id="title93345">left twist - b24</title>
@@ -1566,7 +1566,7 @@
   <path
      class="node ct-b2"
      d="m 624.11382,251.59307 a 9.6461496,9.6461496 0 0 0 9.64617,9.64615 9.6461496,9.6461496 0 0 0 9.64614,-9.64615 9.6461496,9.6461496 0 0 0 -9.64614,-9.64614 9.6461496,9.6461496 0 0 0 -9.64617,9.64614 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:1.07179"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:1.07179;fill-opacity:1;stroke-opacity:1"
      id="path93351">
     <title
        id="title93349">cross - b25</title>
@@ -1613,7 +1613,7 @@
   <path
      class="node ct-b1"
      d="m 192.21403,185.09219 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4785-7">
     <title
        id="title4783-0">cross - b10</title>
@@ -1621,7 +1621,7 @@
   <path
      class="node ct-b1"
      d="m 190.27747,196.84779 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4789-5">
     <title
        id="title4787-1">left twist - b11</title>
@@ -1629,7 +1629,7 @@
   <path
      class="node ct-b1"
      d="m 194.56565,206.70432 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4793-1">
     <title
        id="title4791-0">left twist - b12</title>
@@ -1637,7 +1637,7 @@
   <path
      class="node ct-b1"
      d="m 203.64526,195.64457 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4797-3">
     <title
        id="title4795-0">cross - b13</title>
@@ -1645,7 +1645,7 @@
   <path
      class="node ct-b1"
      d="m 215.20808,186.18364 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4801-0">
     <title
        id="title4799-4">right twist - b14</title>
@@ -1653,7 +1653,7 @@
   <path
      class="node ct-b1"
      d="m 215.07304,204.74904 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4805-5">
     <title
        id="title4803-4">cross - b15</title>
@@ -1661,7 +1661,7 @@
   <path
      class="node ct-c1"
      d="m 228.35886,182.13812 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4809-2">
     <title
        id="title4807-4">cross - c10</title>
@@ -1669,7 +1669,7 @@
   <path
      class="node ct-c1"
      d="m 238.40323,179.66556 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4813-9">
     <title
        id="title4811-9">right twist - c11</title>
@@ -1677,7 +1677,7 @@
   <path
      class="node ct-c1"
      d="m 245.20617,186.34279 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4817-9">
     <title
        id="title4815-4">right twist - c12</title>
@@ -1685,7 +1685,7 @@
   <path
      class="node ct-c1"
      d="m 235.41848,195.24362 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4821-9">
     <title
        id="title4819-8">cross - c13</title>
@@ -1693,7 +1693,7 @@
   <path
      class="node ct-c1"
      d="m 229.20203,207.76825 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4825-1">
     <title
        id="title4823-6">left twist - c14</title>
@@ -1701,7 +1701,7 @@
   <path
      class="node ct-c1"
      d="m 241.29747,206.83375 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4829-3">
     <title
        id="title4827-9">cross - c15</title>
@@ -1709,7 +1709,7 @@
   <path
      class="node ct-b1"
      d="m 260.80767,184.68045 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4833-3">
     <title
        id="title4831-3">cross - b10</title>
@@ -1717,7 +1717,7 @@
   <path
      class="node ct-b1"
      d="m 256.29116,199.59042 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4837-4">
     <title
        id="title4835-6">left twist - b11</title>
@@ -1725,7 +1725,7 @@
   <path
      class="node ct-b1"
      d="m 265.61752,205.37206 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4841-1">
     <title
        id="title4839-5">left twist - b12</title>
@@ -1733,7 +1733,7 @@
   <path
      class="node ct-b1"
      d="m 277.75764,194.00676 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4845-6">
     <title
        id="title4843-1">cross - b13</title>
@@ -1741,7 +1741,7 @@
   <path
      class="node ct-b1"
      d="m 293.05109,184.1352 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4849-7">
     <title
        id="title4847-2">right twist - b14</title>
@@ -1749,7 +1749,7 @@
   <path
      class="node ct-b1"
      d="m 293.19801,202.48862 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4853-2">
     <title
        id="title4851-9">cross - b15</title>
@@ -1757,7 +1757,7 @@
   <path
      class="node ct-c1"
      d="m 308.90649,179.89015 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4857-2">
     <title
        id="title4855-8">cross - c10</title>
@@ -1765,7 +1765,7 @@
   <path
      class="node ct-c1"
      d="m 320.43081,177.4439 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4861-1">
     <title
        id="title4859-2">right twist - c11</title>
@@ -1773,7 +1773,7 @@
   <path
      class="node ct-c1"
      d="m 328.21741,183.80173 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4865-4">
     <title
        id="title4863-7">right twist - c12</title>
@@ -1781,7 +1781,7 @@
   <path
      class="node ct-c1"
      d="m 317.48379,192.75685 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4869-8">
     <title
        id="title4867-6">cross - c13</title>
@@ -1789,7 +1789,7 @@
   <path
      class="node ct-c1"
      d="m 310.22785,205.30128 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4873-3">
     <title
        id="title4871-7">left twist - c14</title>
@@ -1797,7 +1797,7 @@
   <path
      class="node ct-c1"
      d="m 324.01194,204.43056 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4877-7">
     <title
        id="title4875-2">cross - c15</title>
@@ -1805,7 +1805,7 @@
   <path
      class="node ct-b1"
      d="m 345.3267,182.42421 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4881">
     <title
        id="title4879">cross - b10</title>
@@ -1813,7 +1813,7 @@
   <path
      class="node ct-b1"
      d="m 340.79012,197.51763 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4885">
     <title
        id="title4883">left twist - b11</title>
@@ -1821,7 +1821,7 @@
   <path
      class="node ct-b1"
      d="m 350.91622,203.04789 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4889">
     <title
        id="title4887">left twist - b12</title>
@@ -1829,7 +1829,7 @@
   <path
      class="node ct-b1"
      d="m 363.93762,191.81985 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4893">
     <title
        id="title4891">cross - b13</title>
@@ -1837,7 +1837,7 @@
   <path
      class="node ct-b1"
      d="m 380.17038,182.10255 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4897">
     <title
        id="title4895">right twist - b14</title>
@@ -1845,7 +1845,7 @@
   <path
      class="node ct-b1"
      d="m 380.6119,200.47343 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path4901">
     <title
        id="title4899">cross - b15</title>
@@ -1853,7 +1853,7 @@
   <path
      class="node ct-b2"
      d="m 336.46496,222.88147 c 0,3.00719 2.43781,5.445 5.445,5.445 3.00719,0 5.445,-2.43781 5.445,-5.445 0,-3.00719 -2.43781,-5.445 -5.445,-5.445 -3.00719,0 -5.445,2.43781 -5.445,5.445 z"
-     style="opacity:0.289081;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.25;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5145"
      sodipodi:nodetypes="sssss">
     <title
@@ -1862,7 +1862,7 @@
   <path
      class="node ct-b2"
      d="m 337.01306,241.93956 c 0,3.00719 2.43781,5.445 5.445,5.445 3.00719,0 5.445,-2.43781 5.445,-5.445 0,-3.0072 -2.43781,-5.445 -5.445,-5.445 -3.00719,0 -5.445,2.4378 -5.445,5.445 z"
-     style="opacity:0.289081;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.25;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5149"
      sodipodi:nodetypes="sssss">
     <title
@@ -1871,7 +1871,7 @@
   <path
      class="node ct-b2"
      d="m 353.02196,232.56559 c 0,3.00719 2.43781,5.445 5.445,5.445 3.00719,0 5.445,-2.43781 5.445,-5.445 0,-3.00719 -2.43781,-5.445 -5.445,-5.445 -3.00719,0 -5.445,2.43781 -5.445,5.445 z"
-     style="opacity:0.289081;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.25;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5153"
      sodipodi:nodetypes="sssss">
     <title
@@ -1880,7 +1880,7 @@
   <path
      class="node ct-b2"
      d="m 366.39727,221.42428 c 0,3.00719 2.43781,5.445 5.445,5.445 3.00719,0 5.445,-2.43781 5.445,-5.445 0,-3.00719 -2.43781,-5.445 -5.445,-5.445 -3.00719,0 -5.445,2.43781 -5.445,5.445 z"
-     style="opacity:0.289081;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.25;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5157"
      sodipodi:nodetypes="sssss">
     <title
@@ -1889,7 +1889,7 @@
   <path
      class="node ct-b2"
      d="m 376.50555,227.37614 c 0,3.00719 2.43781,5.445 5.445,5.445 3.00719,0 5.445,-2.43781 5.445,-5.445 0,-3.00719 -2.43781,-5.445 -5.445,-5.445 -3.00719,0 -5.445,2.43781 -5.445,5.445 z"
-     style="opacity:0.289081;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.25;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5161"
      sodipodi:nodetypes="sssss">
     <title
@@ -1898,7 +1898,7 @@
   <path
      class="node ct-b2"
      d="m 372.1304,242.52445 c 0,3.00719 2.43781,5.445 5.445,5.445 3.00719,0 5.445,-2.43781 5.445,-5.445 0,-3.00719 -2.43781,-5.445 -5.445,-5.445 -3.00719,0 -5.445,2.43781 -5.445,5.445 z"
-     style="opacity:0.289081;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.25;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5165"
      sodipodi:nodetypes="sssss">
     <title
@@ -1907,7 +1907,7 @@
   <path
      class="node ct-c2"
      d="m 323.90285,221.01668 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5169">
     <title
        id="title5167">cross - c20</title>
@@ -1915,7 +1915,7 @@
   <path
      class="node ct-c2"
      d="m 309.97886,220.83687 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5173">
     <title
        id="title5171">left twist - c21</title>
@@ -1923,7 +1923,7 @@
   <path
      class="node ct-c2"
      d="m 316.86062,233.01786 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5177">
     <title
        id="title5175">cross - c22</title>
@@ -1931,7 +1931,7 @@
   <path
      class="node ct-c2"
      d="m 327.74258,242.08741 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5181">
     <title
        id="title5179">right twist - c23</title>
@@ -1939,7 +1939,7 @@
   <path
      class="node ct-c2"
      d="m 319.77644,248.58658 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5185">
     <title
        id="title5183">right twist - c24</title>
@@ -1947,7 +1947,7 @@
   <path
      class="node ct-c2"
      d="m 308.2197,246.71327 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5189">
     <title
        id="title5187">cross - c25</title>
@@ -1955,7 +1955,7 @@
   <path
      class="node ct-b2"
      d="m 292.93808,224.71404 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5193">
     <title
        id="title5191">cross - b20</title>
@@ -1963,7 +1963,7 @@
   <path
      class="node ct-b2"
      d="m 292.26072,243.71854 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5197">
     <title
        id="title5195">right twist - b21</title>
@@ -1971,7 +1971,7 @@
   <path
      class="node ct-b2"
      d="m 277.41827,234.48797 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5201">
     <title
        id="title5199">cross - b22</title>
@@ -1979,7 +1979,7 @@
   <path
      class="node ct-b2"
      d="m 265.17872,223.41134 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5205">
     <title
        id="title5203">left twist - b23</title>
@@ -1987,7 +1987,7 @@
   <path
      class="node ct-b2"
      d="m 255.85813,229.69273 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5209">
     <title
        id="title5207">left twist - b24</title>
@@ -1995,7 +1995,7 @@
   <path
      class="node ct-b2"
      d="m 259.8933,244.60226 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5213">
     <title
        id="title5211">cross - b25</title>
@@ -2003,7 +2003,7 @@
   <path
      class="node ct-c2"
      d="m 240.96563,223.12215 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5217">
     <title
        id="title5215">cross - c20</title>
@@ -2011,7 +2011,7 @@
   <path
      class="node ct-c2"
      d="m 228.71238,222.85447 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5221">
     <title
        id="title5219">left twist - c21</title>
@@ -2019,7 +2019,7 @@
   <path
      class="node ct-c2"
      d="m 234.42128,235.03853 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5225">
     <title
        id="title5223">cross - c22</title>
@@ -2027,7 +2027,7 @@
   <path
      class="node ct-c2"
      d="m 244.17991,244.06455 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5229">
     <title
        id="title5227">right twist - c23</title>
@@ -2035,7 +2035,7 @@
   <path
      class="node ct-c2"
      d="m 237.12604,250.81388 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5233">
     <title
        id="title5231">right twist - c24</title>
@@ -2043,7 +2043,7 @@
   <path
      class="node ct-c2"
      d="m 227.04954,248.83693 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#613583;stroke:#613583;stroke-width:0.605"
+     style="opacity:0.5;fill:#92c5de;stroke:#92c5de;stroke-width:0.605;stroke-opacity:1;fill-opacity:1"
      id="path5237">
     <title
        id="title5235">cross - c25</title>
@@ -2051,7 +2051,7 @@
   <path
      class="node ct-b2"
      d="m 214.45182,226.83931 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5241">
     <title
        id="title5239">cross - b20</title>
@@ -2059,7 +2059,7 @@
   <path
      class="node ct-b2"
      d="m 213.7802,245.90354 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5245">
     <title
        id="title5243">right twist - b21</title>
@@ -2067,7 +2067,7 @@
   <path
      class="node ct-b2"
      d="m 202.33987,236.88466 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5249">
     <title
        id="title5247">cross - b22</title>
@@ -2075,7 +2075,7 @@
   <path
      class="node ct-b2"
      d="m 193.15047,226.19817 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5253">
     <title
        id="title5251">left twist - b23</title>
@@ -2083,7 +2083,7 @@
   <path
      class="node ct-b2"
      d="m 187.08631,235.81071 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5257">
     <title
        id="title5255">left twist - b24</title>
@@ -2091,7 +2091,7 @@
   <path
      class="node ct-b2"
      d="m 189.47904,247.30512 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.557465;fill:#26a269;stroke:#26a269;stroke-width:0.605"
+     style="opacity:0.5;fill:#ca0020;stroke:#ca0020;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5261">
     <title
        id="title5259">cross - b25</title>
@@ -2099,7 +2099,7 @@
   <path
      class="node ct-b1"
      d="m 190.68544,267.54438 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5265">
     <title
        id="title5263">cross - b10</title>
@@ -2107,7 +2107,7 @@
   <path
      class="node ct-b1"
      d="m 189.22267,279.62243 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5269">
     <title
        id="title5267">left twist - b11</title>
@@ -2115,7 +2115,7 @@
   <path
      class="node ct-b1"
      d="m 193.95641,289.35114 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5273">
     <title
        id="title5271">left twist - b12</title>
@@ -2123,7 +2123,7 @@
   <path
      class="node ct-b1"
      d="m 202.59449,278.05869 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5277">
     <title
        id="title5275">cross - b13</title>
@@ -2131,7 +2131,7 @@
   <path
      class="node ct-b1"
      d="m 213.81137,268.1315 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5281">
     <title
        id="title5279">right twist - b14</title>
@@ -2139,7 +2139,7 @@
   <path
      class="node ct-b1"
      d="m 214.4313,287.02395 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5285">
     <title
        id="title5283">cross - b15</title>
@@ -2147,7 +2147,7 @@
   <path
      class="node ct-c1"
      d="m 226.94855,264.35956 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5289">
     <title
        id="title5287">cross - c10</title>
@@ -2155,7 +2155,7 @@
   <path
      class="node ct-c1"
      d="m 237.00539,262.14447 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5293">
     <title
        id="title5291">right twist - c11</title>
@@ -2163,7 +2163,7 @@
   <path
      class="node ct-c1"
      d="m 243.94873,268.86606 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5297">
     <title
        id="title5295">right twist - c12</title>
@@ -2171,7 +2171,7 @@
   <path
      class="node ct-c1"
      d="m 234.41544,277.85935 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5301">
     <title
        id="title5299">cross - c13</title>
@@ -2179,7 +2179,7 @@
   <path
      class="node ct-c1"
      d="m 228.65698,290.46229 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5305">
     <title
        id="title5303">left twist - c14</title>
@@ -2187,7 +2187,7 @@
   <path
      class="node ct-c1"
      d="m 240.75639,289.56833 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5309">
     <title
        id="title5307">cross - c15</title>
@@ -2195,7 +2195,7 @@
   <path
      class="node ct-b1"
      d="m 259.60485,267.01187 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5313">
     <title
        id="title5311">cross - b10</title>
@@ -2203,7 +2203,7 @@
   <path
      class="node ct-b1"
      d="m 255.65489,282.36131 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5317">
     <title
        id="title5315">left twist - b11</title>
@@ -2211,7 +2211,7 @@
   <path
      class="node ct-b1"
      d="m 265.08464,288.20339 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5321">
     <title
        id="title5319">left twist - b12</title>
@@ -2219,7 +2219,7 @@
   <path
      class="node ct-b1"
      d="m 276.92896,276.65404 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5325">
     <title
        id="title5323">cross - b13</title>
@@ -2227,7 +2227,7 @@
   <path
      class="node ct-b1"
      d="m 292.07299,266.45895 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5329">
     <title
        id="title5327">right twist - b14</title>
@@ -2235,7 +2235,7 @@
   <path
      class="node ct-b1"
      d="m 292.67669,285.22525 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5333">
     <title
        id="title5331">cross - b15</title>
@@ -2243,7 +2243,7 @@
   <path
      class="node ct-c1"
      d="m 308.02706,262.58972 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5337">
     <title
        id="title5335">cross - c10</title>
@@ -2251,7 +2251,7 @@
   <path
      class="node ct-c1"
      d="m 319.61708,260.45384 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5341">
     <title
        id="title5339">right twist - c11</title>
@@ -2259,7 +2259,7 @@
   <path
      class="node ct-c1"
      d="m 327.45793,266.96056 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5345">
     <title
        id="title5343">right twist - c12</title>
@@ -2267,7 +2267,7 @@
   <path
      class="node ct-c1"
      d="m 316.82049,275.97642 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5349">
     <title
        id="title5347">cross - c13</title>
@@ -2275,7 +2275,7 @@
   <path
      class="node ct-c1"
      d="m 309.80647,288.57791 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5353">
     <title
        id="title5351">left twist - c14</title>
@@ -2283,7 +2283,7 @@
   <path
      class="node ct-c1"
      d="m 323.62529,287.82876 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#e5a50a;stroke:#e5a50a;stroke-width:0.605"
+     style="opacity:0.5;fill:#f4a582;stroke:#f4a582;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5357">
     <title
        id="title5355">cross - c15</title>
@@ -2291,7 +2291,7 @@
   <path
      class="node ct-b1"
      d="m 344.70482,265.34848 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5361">
     <title
        id="title5359">cross - b10</title>
@@ -2299,7 +2299,7 @@
   <path
      class="node ct-b1"
      d="m 340.43581,280.92425 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5365">
     <title
        id="title5363">left twist - b11</title>
@@ -2307,7 +2307,7 @@
   <path
      class="node ct-b1"
      d="m 350.62304,286.52759 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5369">
     <title
        id="title5367">left twist - b12</title>
@@ -2315,7 +2315,7 @@
   <path
      class="node ct-b1"
      d="m 363.58999,275.04015 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5373">
     <title
        id="title5371">cross - b13</title>
@@ -2323,7 +2323,7 @@
   <path
      class="node ct-b1"
      d="m 379.94376,264.89025 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5377">
     <title
        id="title5375">right twist - b14</title>
@@ -2331,7 +2331,7 @@
   <path
      class="node ct-b1"
      d="m 380.41975,283.72483 a 5.445,5.445 0 0 1 -5.445,5.445 5.445,5.445 0 0 1 -5.445,-5.445 5.445,5.445 0 0 1 5.445,-5.445 5.445,5.445 0 0 1 5.445,5.445 z"
-     style="opacity:0.4;fill:#ff0000;stroke:#ff0000;stroke-width:0.605"
+     style="opacity:0.5;fill:#0571b0;stroke:#0571b0;stroke-width:0.605;fill-opacity:1;stroke-opacity:1"
      id="path5381">
     <title
        id="title5379">cross - b15</title>
