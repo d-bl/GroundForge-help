@@ -83,9 +83,10 @@ Compare b of the left diagram with p of the right diagram:
 only changing the working direction rotates the stitch by 45 degrees in a clockwise direction.
 Compare both b's, and we see that reading the stitch instructions backwards has the same effect.
 
-The algorithm for the flip buttons assumes stitches are placed on diagonal rows. 
-To really mimic the `↔` and `↕` reflections, we should also change the working directions.
-The _both_ button works as expected. 
+The algorithm for the flip buttons assumes stitches are placed on diagonal rows.
+Applied in horizontal rows we need the following rules to avoid rotations:
+* After the _both_ button: apply in a row with the same direction.
+* After a `↔` or `↕`: apply in a row in opposit direction.
 
 
 Wrapping up
