@@ -26,11 +26,12 @@ Introduction
 The page has two sections: stitches and diagrams. 
 
 The stitches section has:
-* an input box where you can define a stitch from scratch or modify a stitch selected from the gallery
-* a gallery with some arbitrary examples of stitches, the links put the stitch in the input box
-* flip buttons to mirror the stitch in the input box
-* a table with mirrored versions of the stitch in the input box
-* a wand that updates the table and clears the diagrams
+* En input box where you can define a stitch from scratch or modify a stitch selected from the gallery.
+* A gallery with some arbitrary examples of stitches, the links put the stitch in the input box.
+  On a small screen, you may need to scroll the gallery. 
+* Flip buttons to mirror the stitch in the input box.
+* A table with mirrored versions of the stitch in the input box.
+* A wand that updates the table and clears the diagrams.
 
 The wands in the diagrams section generate the thread diagrams.
 It may take some seconds until something happens. Please wait.
