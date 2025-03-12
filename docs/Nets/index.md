@@ -27,8 +27,8 @@ The page has two sections: stitches and diagrams.
 
 The stitches section has:
 * En input box where you can define a stitch from scratch or modify a stitch selected from the gallery.
-* A gallery with some arbitrary examples of stitches, the links put the stitch in the input box.
-  On a small screen, you may need to scroll the gallery. 
+* A gallery with twelve arbitrary examples of stitches.
+  Scroll when you see less. The links put the stitch in the input box.
 * Flip buttons to mirror the stitch in the input box.
 * A table with mirrored versions of the stitch in the input box.
 * A wand that updates the table and clears the diagrams.
