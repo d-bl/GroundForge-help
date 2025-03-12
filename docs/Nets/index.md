@@ -6,7 +6,7 @@ Table of contents
 -----------------
 * [Introduction](#introduction)
 * [Symmetry introduction](#symmetry-introduction)
-* [Tweak patterns](#tweak-patterns)
+* [Customize patterns](#customize-patterns)
 * [DIY patterns](#diy-patterns)
 * [Hints](#hints-for-the-nets-page)
 
@@ -14,12 +14,11 @@ Tutorial for the Nets Page
 ===========
 
 The [nets] page is a playground for (unorthodox) stitches.
-The stitches are applied on the nets shown below.
+The stitches are applied on simple diagonal and horizontal nets.
 Playing around can give you a first impression of the power of GroundForge.
+You will have to decide for yourself where and how to place pins.
 
 [nets]: /GroundForge/nets
-
-![](nets-pair-diagrams.png)
 
 Introduction
 ------------
@@ -51,7 +50,7 @@ Anyway, these stitches are too large for the small space per diagram.
 Symmetry introduction
 ---------------------
 
-It is not necessary to understand the theory of symmetry or apply it correctly
+It is not necessary to understand the theory of symmetry
 to discover interesting nets with the [nets] page.
 However, the theory can help you to understand the results.
 
@@ -59,22 +58,23 @@ This page was born out of curiosity about the effects of symmetry.
 Investigating the theory after taking a plunge with experiments caused a surprise:
 flipping on diagonal nets works as the buttons suggest.
 On horizontal nets, a flipped stitch should be applied on a row with another working direction.
-The details are explained on the [flip](https://d-bl.github.io/GroundForge-help/clips/flip#symmetry).
+The details are explained on the [flip](https://d-bl.github.io/GroundForge-help/clips/flip#symmetry)
 page.
 
 
-Tweak patterns
+Customize patterns
 --------------
 
-The diagram links lead to pages where you can tweak the results.
+The diagram links lead to pages where you can customize the results.
 The linked page starts with a button that can reveal help links.
 
 First steps:
 * Apply colour to the threads to reveal how they flow through the net.
 * Adjust the number of accumulated twists.
 * Adjust the number of twists for pairs entering and leaving the foot side.
+* Play with the cloth stitch in the center of diagonal repeats.
 
-The tweaking page (called stitches in the page address and _stitches and threads_ in the subtitle)
+The customize page (called stitches in the page address and _stitches and threads_ in the subtitle)
 has a similar gallery of stitches (and an input box with flip buttons) as the nets page.
 The difference is a [color code](color-rules) that supports unorthodox stitches.
 The pair diagram next to the thread diagrams uses the same color code.
@@ -93,14 +93,14 @@ Even a two by two horizontal net has more options.
 For example odd numbers of two stitches out of the four mirrored stitches,
 or combinations with three of the four stitches. 
 
-With some experience with tweaking patterns, it becomes easier to create
-your own patterns with these other combinations of stitches or even unrelated stitches.
+With some experience in customizing patterns, it becomes easier to create
+your own patterns with not provided combinations of stitches or even unrelated stitches.
 The page [embelished clothwork](https://d-bl.github.io/MAE-gf/docs/ec)
 provides starting points for horizontal nets with other dimensions than two by two stitches.  
 An [e-book](https://www.patreon.com/theadventurouslacemakers/shop/embellished-clothwork-ebook-by-marian-221058?source=storefront)
-with the same name applies the horizontal nets in motifs.
+with the same name applies the horizontal nets in motives.
 
-See also [MAE-nets](https://d-bl.github.io/MAE-gf/docs/nets) for the other nets.
+See also [MAE-nets](https://d-bl.github.io/MAE-gf/docs/nets) for other types of nets.
 
 
 Hints for the nets page
