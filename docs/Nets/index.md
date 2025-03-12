@@ -25,7 +25,7 @@ Introduction
 
 The page has two sections: stitches and diagrams. 
 
-The stitches section has
+The stitches section has:
 * an input box where you can define a stitch from scratch or modify a stitch selected from the gallery
 * a gallery with some arbitrary examples of stitches, the links put the stitch in the input box
 * flip buttons to mirror the stitch in the input box
@@ -33,6 +33,7 @@ The stitches section has
 * a wand that updates the table and clears the diagrams
 
 The wands in the diagrams section generate the thread diagrams.
+It may take some seconds until something happens. Please wait.
 The diagrams are divided into groups, generating all at once could choke your browser.
 Please wait for the animation to complete before clicking the wand again.
 
@@ -50,47 +51,44 @@ Anyway, these stitches are too large for the small space per diagram.
 Symmetry introduction
 ---------------------
 
-It is not necessary to understand the theory of symmetry
-to discover interesting nets with the [nets] page.
+It is not necessary to understand the theory of symmetry to discover interesting [nets].
 However, the theory can help you to understand the results.
 
 This page was born out of curiosity about the effects of symmetry.
-Investigating the theory after taking a plunge with experiments caused a surprise:
-flipping on diagonal nets works as the buttons suggest.
+The experiments caused a surprise: flipping on diagonal nets works as the buttons suggest.
 On horizontal nets, a flipped stitch should be applied on a row with another working direction.
 The details are explained on the [flip](https://d-bl.github.io/GroundForge-help/clips/flip#symmetry)
 page.
 
 
 Customize patterns
---------------
+------------------
 
-The diagram links lead to pages where you can customize the results.
-The linked page starts with a button that can reveal help links.
+The links in the diagram captions lead to pages where you can customize the results.
+The linked page:
+* is called _stitches_ in the page address and _stitches and threads_ in the subtitle
+* starts with a button that can reveal help links
+* has a similar gallery of stitches (and an input box with flip buttons) as the _nets_ page.
+  The difference is a [color code](color-rules) for each stitch that supports unorthodox stitches.
+  The pair diagram next to the thread diagrams uses the same color code.
 
 First steps:
-* Apply colour to the threads to reveal how they flow through the net.
+* Highlight threads to reveal how they flow through the net.
+* Play with the cloth stitch in the center of diagonal repeats.
 * Adjust the number of accumulated twists.
 * Adjust the number of twists for pairs entering and leaving the foot side.
-* Play with the cloth stitch in the center of diagonal repeats.
-
-The customize page (called stitches in the page address and _stitches and threads_ in the subtitle)
-has a similar gallery of stitches (and an input box with flip buttons) as the nets page.
-The difference is a [color code](color-rules) that supports unorthodox stitches.
-The pair diagram next to the thread diagrams uses the same color code.
 
 You may see cross marks in the pair diagram to indicate twists between stitches.
-Hover with the cursor over the stitches to see which one is responsible for those twists. 
-This way you can learn how change which stitches.
-Set the desired value in the input box and click the stitch in the pair diagram to replace it.
+Hover with the cursor over the adjacent stitches to see which one is responsible for those twists. 
+This way you can learn how to change which stitches.
+Put the desired value in the input box and click the stitch in the pair diagram to replace it.
 
 
 DIY patterns
 ------------
 
 The diagrams generated on the nets page only scratch the surface of possible stitch combinations.
-Even a two by two horizontal net has more options.
-For example odd numbers of two stitches out of the four mirrored stitches,
+Other options are odd numbers of two stitches out of the four mirrored stitches,
 or combinations with three of the four stitches. 
 
 With some experience in customizing patterns, it becomes easier to create
@@ -108,10 +106,10 @@ Hints for the nets page
 
 Changing the input box manually and using the _tab_ on your keyboard (or click anywhere on the page) 
 has the same effect as the wand in the stitches section.
-After selecting a stitch from the gallery, you do need the wand to update the table with stitches.
-Typing enter reloads the page, the input box of the stitches section becomes part of the page address.
-If the highlight check box was ticked,
-you will have to tick it again. You also may have to regenerate diagrams with a wand.
 
-You can use the print button of your browser and choose destination PDF to save your diagrams.
-Copy-paste content of the input box in the stitches section to reproduce the page online.
+Typing enter reloads the page, the input box of the stitches section becomes part of the page address.
+If the highlight check box was ticked, you will have to tick it again. 
+You also may have to regenerate diagrams with a wand.
+
+You can use the print button of your browser and choose destination PDF to save your diagrams as far as generated.
+Copy-paste content of the input box in the stitches section of the document to reproduce the page online.
