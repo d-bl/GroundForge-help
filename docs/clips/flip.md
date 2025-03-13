@@ -92,26 +92,23 @@ Applied in horizontal rows we need the following rules to avoid rotations:
 Wrapping up
 -----------
 
-The stitches above were drawn manually.
-Below we annotated GroundForge screenshots.
+The stitches above were drawn manually. 
+Below screenshots of GroundForge annotated with dashed lines. 
 
-You can reproduce figure D on this [nets](/GroundForge/nets.html?b=crcllc) page.
-It uses the stitch _crcllc_.
-You can not reproduce figure B with the nets page.
-Because we sneaked in a neutral cloth stitch between the four mirrored stitches.
+You can reproduce the thread diagrams B and D on this [nets](/GroundForge/nets.html?b=crcllc&colors)
+page with stitch _crcllc_: click/tap _horizontal: b+d+p+q_ and _diagonal: b+d+p+q_.
+We are talking about the first diagram in each group.
+For the pair diagrams A and C you need to click the links in the diagram captions.
 
-Direct links to reproduce the figures:
+Direct links for the pair diagrams:
 [A+B](https://d-bl.github.io/GroundForge/stitches.html?patchWidth=12&patchHeight=12&footside=4,x&tile=-5-5,5-5-,-5-5,5-5-&headside=x,7&shiftColsSW=-4&shiftRowsSW=0&shiftColsSE=4&shiftRowsSE=4&e1=ctc&c1=cllcrc&a1=ctctctl&n2=ctctctr&d2=cllcrc&b2=cllcrc&e3=ctc&c3=cllcrc&d4=ctc&b4=ctc)
 and
-[C+D+F](https://d-bl.github.io/GroundForge/stitches.html?b1=cllcr&c1=crrcl&b2=rcllc&c2=lcrrc&tile=88,11&a1=rctctctctt&l2=lctctctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&patchWidth=10&patchHeight=12&headside=x,7&footside=4,x).
-In figure F we cheated: the pale stitch in the last column is manually flipped.
-Figure G zooms in and extracts a manually flipped stitch.
-The flipped stitch is pale in figure F.
+[C+D](https://d-bl.github.io/GroundForge/stitches.html?b1=cllcr&c1=crrcl&b2=rcllc&c2=lcrrc&tile=88,11&a1=rctctctctt&l2=lctctctctt&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&patchWidth=10&patchHeight=12&headside=x,7&footside=4,x).
 
 ![](cllcr-bdpq.svg)
 
 The fat arrow heads indicate working directions.
-Each blue dashed line in A-E indicates a flip axis.
-A red dashed line in C-D is not a flip axis.
-Mixed dashes: flip axis for the pair diagram but not for the corresponding thread diagram.
-The pink dashed lines in B illustrate how the stitches rotate by 45 degrees to appear in D.
+Each blue dashed line indicate flip axis.
+A red dashed line in D is not a flip axis.
+From this we see that de vertical mirror in pair diagram C is deceptive.
+The pinkish arrows show how the stitches in B rotate by 45 degrees in D.

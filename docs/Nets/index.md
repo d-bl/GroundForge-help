@@ -36,7 +36,7 @@ The stitches section has:
 The wands in the diagrams section generate the thread diagrams.
 It may take some seconds until something happens. Please wait.
 The diagrams are divided into groups, generating all at once could choke your browser.
-Please wait for the animation to complete before clicking the wand again.
+Please wait for the animation to complete before clicking another wand.
 
 Highlighting stitches can help to recognize the stitches in the diagrams.
 The colours have no other meaning than to match the stitches 
@@ -67,9 +67,9 @@ Customize patterns
 
 The links in the diagram captions lead to pages where you can customize the results.
 The linked page:
-* is called _stitches_ in the page address and _stitches and threads_ in the subtitle
-* starts with a button that can reveal help links
-* has a similar gallery of stitches (and an input box with flip buttons) as the _nets_ page.
+* Is called _stitches_ in the page address and _stitches and threads_ in the subtitle.
+* Starts with a button that can reveal help links.
+* Has a similar gallery of stitches (and an input box with flip buttons) as the _nets_ page.
   The difference is a [color code](color-rules) for each stitch that supports unorthodox stitches.
   The pair diagram next to the thread diagrams uses the same color code.
 
