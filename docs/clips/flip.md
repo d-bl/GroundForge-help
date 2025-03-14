@@ -109,6 +109,6 @@ and
 
 The fat arrow heads indicate working directions.
 Each blue dashed line indicate flip axis.
-A red dashed line in D is not a flip axis.
+The red dashed line in D is not a flip axis.
 From this we see that de vertical mirror in pair diagram C is deceptive.
 The pinkish arrows show how the stitches in B rotate by 45 degrees in D.
