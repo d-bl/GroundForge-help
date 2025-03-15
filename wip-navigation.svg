@@ -313,7 +313,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.13, 2.26;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 34.277887,200.05065 174.82656,133.19535"
+       d="M 34.277887,200.05065 C 161.90416,186.08432 170.14883,160.38124 174.82656,133.19535"
        id="path979"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
