@@ -41,6 +41,7 @@ Please wait for the animation to complete before clicking another wand.
 Highlighting stitches can help to recognize the stitches in the diagrams.
 The colours have no other meaning than to match the stitches 
 in the thread diagrams with their positions in the pair diagrams.
+When highlighting is ticked, you will also see gray rounded tiles indicating the repeats.
 
 The thread diagrams use one, two or four of the mirrored stitches shown in the table. 
 With asymmetrical stitches you get more diagrams.
