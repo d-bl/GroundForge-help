@@ -1,8 +1,8 @@
 group,page,title of bookmark/tab,has,is in/on, notes
 ,,,,,Same content when 'index' is dropped and/or '.html' added. Sidebar 2'' is supposed to be the same as sidebar 2'
 Core,,,,,
-,https://d-bl.github.io/GroundForge/nets,GF; nets,-,landing page,
-,https://d-bl.github.io/GroundForge/mix4snow/index,GF; Mix snowflakes,sidebar 2'',landing page; droste,side bar'' is a bit odd here
+,https://d-bl.github.io/GroundForge/nets,GF; nets,tutorial-link,landing page,
+,https://d-bl.github.io/GroundForge/mix4snow/index,GF; Mix snowflakes,sidebar 2''; tutorial-link,landing page; droste,side bar'' is a bit odd here
 ,https://d-bl.github.io/GroundForge/pattern,GF; assemble a pair diagram,help menu,landing page; stitches,
 ,https://d-bl.github.io/GroundForge/stitches,GF; Stitches and threads,help menu,landing page; nets; mix4snow; droste; sheet,
 ,https://d-bl.github.io/GroundForge/droste,GF; Pair diagrams from thread diagrams,help menu,stitches; mix4snow,link back depends on source argument
@@ -22,8 +22,8 @@ User guide > tutorials >,,,,,
 ,https://d-bl.github.io/GroundForge-help/Advanced,New pattern tutorial,sidebar 2',sidebar 2, > Create a pattern
 ,https://d-bl.github.io/GroundForge-help/Reshape-Patterns,Reshape Patterns,sidebar 2',sidebar 2, > Reshape pair diragrams
 ,https://d-bl.github.io/GroundForge-help/Reversed-engineering-of-patterns,Advanced Design,sidebar 2',sidebar 2, > Printed pattern to GF
-,https://d-bl.github.io/GroundForge-help/snow-mix,mix snowflakes,sidebar; mix4snow-link,,
-,https://d-bl.github.io/GroundForge-help/Nets,Nets tutorial,sidebar 2'; tutorial-link,sidebar 2,
+,https://d-bl.github.io/GroundForge-help/snow-mix,mix snowflakes,sidebar,sidebar 2,
+,https://d-bl.github.io/GroundForge-help/Nets,Nets tutorial,sidebar 2',sidebar 2,
 ,https://d-bl.github.io/GroundForge-help/Binche,Binche example,sidebar 2',sidebar 2,
 ,https://d-bl.github.io/GroundForge-help/Patch-Size,Patch Size,sidebar 2',sidebar 2,User guide > Notes > Patch Size
 other help pages,,,,,
