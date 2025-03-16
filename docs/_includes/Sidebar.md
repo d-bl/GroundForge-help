@@ -24,6 +24,7 @@
 
 ### Tutorials
 
+* [Nets](/GroundForge-help/Nets)
 * [Getting Started](/GroundForge-help/index)
 * [Swatch Size](/GroundForge-help/Patch-Size) (rows/columns)
 * Binche
@@ -31,9 +32,9 @@
   * [snow mixer](/GroundForge-help/snow-mix)
 * [Reshape pair diagrams](/GroundForge-help/Reshape-Patterns)
 * Advanced
-    * [Create a pattern](/GroundForge-help/Advanced)
-    * [Printed patterns to GF](/GroundForge-help/Reversed-engineering-of-patterns)
-    * [Droste effect](/GroundForge-help/Droste-effect)
+  * [Create a pattern](/GroundForge-help/Advanced)
+  * [Printed patterns to GF](/GroundForge-help/Reversed-engineering-of-patterns)
+  * [Droste effect](/GroundForge-help/Droste-effect)
 
 ### Notes
 
