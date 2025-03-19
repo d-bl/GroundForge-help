@@ -25,16 +25,17 @@ Introduction
 
 The page has two sections: stitches and diagrams. 
 
-The stitches section has:
+The stitches section has (in another order):
+* A table with mirrored versions of a stitch. The dashed lines are mirrors.
 * An input box where you can define a stitch from scratch or modify a stitch selected from the gallery.
-* A gallery with twelve arbitrary examples of stitches.
-  Scroll if you see less. The links put the stitch in the input box.
-* Flip buttons to mirror the stitch in the input box.
-* A table with mirrored versions of the stitch in the input box.
-* A wand that updates the table and clears the diagrams.
+  When changed, even while typing, the diagrams are cleared and the table is updated.
+  Lowercase or uppercase is irrelevant. Characters other than _clrt_ are ignored.
+* A gallery with arbitrary examples of stitches.
+  Scroll if you see less than twelve. The links put the stitch in the input box.
+* Flip buttons to mirror the stitch in the input box. This will move stitches around in the table.
 
 The wands in the diagrams section generate the thread diagrams.
-It may take some seconds until something happens. Please wait.
+It may take a moment until something happens. Please wait.
 The diagrams are divided into groups, generating all at once could choke your browser.
 Please wait for the animation to complete before clicking another wand.
 
@@ -58,9 +59,11 @@ However, the theory can help you to understand the results.
 
 This page was born out of curiosity about the effects of symmetry.
 The experiments caused a surprise: flipping on diagonal nets works as the buttons suggest.
-On horizontal nets, a flipped stitch should be applied on a row with another working direction.
-The details are explained on the [flip](https://d-bl.github.io/GroundForge-help/clips/flip#symmetry)
+On horizontal nets, the stitches are in fact titled by 45 degrees.
+The consequences and other details are explained on the [flip](https://d-bl.github.io/GroundForge-help/clips/flip#symmetry)
 page.
+
+![bdpq titled by 45 degrees on a horizontal net](titled-bdpq.png)
 
 
 Customize patterns
@@ -71,7 +74,7 @@ The linked page:
 * Is called _stitches_ in the page address and _stitches and threads_ in the subtitle.
 * Starts with a button that can reveal help links.
 * Has a similar gallery of stitches (and an input box with flip buttons) as the _nets_ page.
-  The difference is a [color code](color-rules) for each stitch that supports unorthodox stitches.
+  The difference is a [color code](color-rules) for each stitch. This color code supports unorthodox stitches.
   The pair diagram next to the thread diagrams uses the same color code.
 
 First steps:
@@ -105,9 +108,6 @@ See also [MAE-nets](https://d-bl.github.io/MAE-gf/docs/nets) for other types of 
 
 Hints for the nets page
 -----------------------
-
-Changing the input box manually and using the _tab_ on your keyboard (or click anywhere on the page) 
-has the same effect as the wand in the stitches section.
 
 Typing enter reloads the page, the input box of the stitches section becomes part of the page address.
 If the highlight check box was ticked, you will have to tick it again. 
