@@ -32,9 +32,14 @@ The stitches section has (in another order):
   Lowercase or uppercase is irrelevant. Characters other than _clrt_ are ignored.
 * A gallery with arbitrary examples of stitches.
   Scroll if you see less than twelve. The links put the stitch in the input box.
+  You can argue that the last stitches in the gallery are multiple stitches.
+  GroundForge does not know how threads react to pins so everything with just two pairs is a single stitch.
+  Anyway, these stitches are too large for the small space per diagram.
 * Flip buttons to mirror the stitch in the input box. This will move stitches around in the table.
 
-The wands in the diagrams section generate the thread diagrams.
+The diagrams section might show a sample from [MAE stitches](/MAE-gf/docs/stitches) in the diagrams section.
+
+The wands generate the thread diagrams.
 It may take a moment until something happens. Please wait.
 The diagrams are divided into groups, generating all at once could choke your browser.
 Please wait for the animation to complete before clicking another wand.
@@ -46,10 +51,6 @@ When highlighting is ticked, you will also see gray rounded tiles indicating the
 
 The thread diagrams use one, two or four of the mirrored stitches shown in the table. 
 With asymmetrical stitches you get more diagrams.
-
-You can argue that the last stitches in the gallery are multiple stitches. 
-GroundForge does not know how threads react to pins so everything with just two pairs is a single stitch.
-Anyway, these stitches are too large for the small space per diagram.
 
 Symmetry introduction
 ---------------------
