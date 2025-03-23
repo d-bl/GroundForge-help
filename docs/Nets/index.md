@@ -37,7 +37,7 @@ The stitches section has (in another order):
   Anyway, these stitches are too large for the small space per diagram.
 * Flip buttons to mirror the stitch in the input box. This will move stitches around in the table.
 
-The diagrams section might show a sample from [MAE stitches](/MAE-gf/docs/stitches) in the diagrams section.
+If available, the diagrams section shows a sample from [MAE stitches](/MAE-gf/docs/stitches) for stitch b, d, p or q.
 
 The wands generate the thread diagrams.
 It may take a moment until something happens. Please wait.
