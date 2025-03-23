@@ -38,6 +38,8 @@ The stitches section has (in another order):
 * Flip buttons to mirror the stitch in the input box. This will move stitches around in the table.
 
 If available, the diagrams section shows a sample from [MAE stitches](/MAE-gf/docs/stitches) for stitch b, d, p or q.
+The close-up on the nets page shows one option for thread width, grid angle, pin size and tension.
+With different choices, you can create different textures.
 
 The wands generate the thread diagrams.
 It may take a moment until something happens. Please wait.
@@ -111,8 +113,7 @@ Hints for the nets page
 -----------------------
 
 Typing enter reloads the page, the input box of the stitches section becomes part of the page address.
-If the highlight check box was ticked, you will have to tick it again. 
-You also may have to regenerate diagrams with a wand.
+You may have to regenerate diagrams with a wand.
 
 You can use the print button of your browser and choose destination PDF to save your diagrams as far as generated.
 Copy-paste content of the input box in the stitches section of the document to reproduce the page online.
