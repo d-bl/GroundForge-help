@@ -43,7 +43,7 @@ The intersections of the double ring pairs are in fact compact snowflakes.
 The snow mixer genealizes this idea.
 The composition can be reversed into a bold ring and compact centre.
 
-Another option is to use just a single stitch, or also a flipped version
+Another option is to use just a single snowflake, or also a flipped version
 for either the dark hexagons or the blue hexagons. The three options are shown below.
 
 ![](compositions.png)
@@ -181,7 +181,7 @@ The page [counting snow families](https://d-bl.github.io/MAE-gf/docs/counting-sn
 has 230 families for the type of snowflakes for the mixer.
 Some 19 of them keep pairs together and can be expressed with 4 family ID's of three digits.
 That leaves 211 families with ID's of 6 digits.
-These ID's appear when hovering over a gallery item.
+These ID's appear as captions beneath the gallery items.
 For the next step, the counting page explores two families with [recipes](/MAE-gf/docs/counting-snow/#exploring-families).
 These examples are not exhaustive.
 So we can create a multitude of 215 recipes.
