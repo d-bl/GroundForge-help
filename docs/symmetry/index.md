@@ -4,6 +4,8 @@ title: edit symmetries
 ---
 
 - [Edit symmetries](#edit-symmetries)
+  * [Introduction](#introduction)
+  * [Auxiliary pages](#auxiliary-pages)
 - [The forms](#the-forms)
   * [Export / Import](#export---import)
   * [Template](#template)
@@ -22,24 +24,63 @@ title: edit symmetries
 Edit symmetries
 ===============
 
-_Create your own template, it may generate numerous patterns with reflected and rotated copies._
+Repeat, reflect and translate a snippet of a lace pattern,
+to create a variety of designs. The generated patterns might be surprisingly attractive.
+This page lets you create such snippets, called templates, and to explore the results.
+The editor is inspired by Veronika Irvine's YouTube [course] (first published in 2021)
+or rather the bonus lesson with Inkscape.
+The page simplifies tedious tasks and enforces some constraints.
 
-The [page](/GroundForge/symmetry) has a few forms before an editable template
+[course]: https://www.youtube.com/@veronikairvine/videos
+
+Introduction
+------------
+
+This [symmetry](/GroundForge/symmetry) page works differently from the other GroundForge tools.
+Other tools use links back and forth.
+The pages with diagrams can be saved as PDF's without the forms,
+these documents link back to the interactive webpages to make further changes.
+
+The symmetry page is based on downloading and uploading SVG files (vector images).
+These files follow [conventions] for ID's and classes of objects that are vital for the web page.
+It is possible to customize the downloaded files with third party editors,
+but be aware that it is unlikely these tools preserve the conventions. 
+So customized files may cause trouble when uploading them again.
+Working on a copy would be a wise precaution.
+
+The page has a few forms before the editable template
 and (optionally) several swatches in a smaller scale.
-The swatches are various configurations of reflected and rotated repeats of the template.
-One of the forms lets you quickly browse through more swatches.
+The swatches show various combinations of the template.
+One of the forms lets you browse through more swatches.
 You can drop, move and add stitches in the template and apply a [color code] to the stitches:
 the 4 colors per stitch approach.
-The color code is properly reflected and rotated in the swatches.
 
-The editor is inspired by Veronika Irvine's course on [DFZ] in 2021
-or rather the [bonus lesson] with Inkscape. 
-The page simplifies tedious tasks and enforces some constraints.
-Currently, it is not possible to generate thread diagrams from the diagrams.
-
-[DFZ]: https://doily-free-zone.namastream.com/product/26887/about
+[symmetry]: /GroundForge/symmetry
+[conventions]: #file-structure
 [color code]: color-rules
-[bonus lesson]: https://youtu.be/0mf_pE2Ywk8
+
+Auxiliary pages
+---------------
+
+Auxiliary pages are emerging as proof of concepts for further development.
+These pages use uploads of files downloaded from the symmetry page.
+As of this writing (September 2025) we have:
+
+* A new style of [thread diagrams](/GroundForge/p2t) for the primary template.
+* A page with correct tooltips for [flipped versions](GroundForge/reflect) of the template.
+
+It needs more water under the bridge to create
+thread diagrams for the flipped templates too,
+let alone transform a full swatch into a thread diagram.
+Window dressing (like further downloads, integration and 
+an option to apply forces to the thread diagrams)
+has to wait until the core functionality matures.
+
+Download workaround: Right-click a desired diagram, select _inspect_.
+A window will open with something like: `<svg  ...> ... </svg>`.
+Select it, right click, select _copy_, select _outer HTML_.
+Paste in a text editor and save as an SVG file for further processing
+or paste into another HTML page for publishing.
 
 The forms
 =========
