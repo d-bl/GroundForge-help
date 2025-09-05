@@ -24,19 +24,21 @@ title: edit symmetries
 Edit symmetries
 ===============
 
-Repeat, reflect and translate a snippet of a lace pattern,
-to create a variety of designs. The generated patterns might be surprisingly attractive.
-This page lets you create such snippets, called templates, and to explore the results.
-The editor is inspired by Veronika Irvine's YouTube [course] (first published in 2021)
+The [symmetry] editor lets you design a pattern snippet alias template.
+With this template you can browse through numerous patterns
+assembled with flipped and/or shifted copies.
+This editor is inspired by Veronika Irvine’s course (first published in 2021) 
 or rather the bonus lesson with Inkscape.
-The page simplifies tedious tasks and enforces some constraints.
+Watching the YouTube [course] is a good start. 
+This page simplifies tedious tasks and enforces some constraints.
 
+[symmetry]: /GroundForge/symmetry
 [course]: https://www.youtube.com/@veronikairvine/videos
 
 Introduction
 ------------
 
-This [symmetry](/GroundForge/symmetry) page works differently from the other GroundForge tools.
+This [symmetry] page works differently from the other GroundForge tools.
 Other tools use links back and forth.
 The pages with diagrams can be saved as PDF's without the forms,
 these documents link back to the interactive webpages to make further changes.
