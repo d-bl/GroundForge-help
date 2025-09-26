@@ -3,7 +3,7 @@ layout: default
 title: Navigation
 ---
 
-The banner links to the [home page](https://d-bl.github.io/),
+The banner of each page links to the [home page](https://d-bl.github.io/),
 like the explicit home link in the various sidebars.
 This home page gives a descriptive overview of entry points.
 
