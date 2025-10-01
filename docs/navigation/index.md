@@ -37,7 +37,7 @@ Known third party pages/sites
 * IOLI [challenge 5](https://lacechallenge.internationalorganizationoflace.org/#h.ouc3mhbkvsi5)
 * pinterest / facebook / instagram / discord / . . .
 * Courses by Veronika Irvine, TAL, ...
-* Scientific papers by [Veronika Irvine](https://orcid.org/0000-0002-9455-8712)
+* Scientific papers by [Veronika Irvine](https://orcid.org/0000-0002-9455-8712) and [others](https://dl.acm.org/doi/10.1145/3689050.3704957)
 
 See also [404](https://d-bl.github.io/GroundForge/404)
 
