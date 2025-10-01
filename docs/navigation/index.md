@@ -31,7 +31,7 @@ Known third party pages/sites
 
 * https://groups.io/g/GroundForge/
 * https://groups.io/g/pointfusion/
-* https://kantelier.wordpress.com (menu and posts)
+* https://kantelier.wordpress.com (posts may have old links)
 * https://gibritte.over-blog.com/search/groundforge/
 * https://gibritte2.blogspot.com/search?q=GroundForge
 * IOLI [challenge 5](https://lacechallenge.internationalorganizationoflace.org/#h.ouc3mhbkvsi5)
