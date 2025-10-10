@@ -11,19 +11,12 @@
 ### Features
 
 * [Icons](/GroundForge-help/Icons)
-* [Drop/restore stitches](/GroundForge-help/Replace) ![-](/GroundForge-help/images/toggle-stitch.png)
 * [Tile layout](/GroundForge-help/Change-tiles) ![-](/GroundForge-help/images/brick-menu-icon.png)
-* [Reload/resume](/GroundForge-help/Icons) ![-](/GroundForge/images/wand.png) ![-](/GroundForge/images/play.png)
-* [Panel size](/GroundForge-help/Icons)
-  ![-](/GroundForge/images/maximize.png)
-  ![-](/GroundForge/images/reset-dimensions.png)
-  ![-](/GroundForge/images/minimize.png)
-* [Apply forces](/GroundForge-help/Icons) ![-](/GroundForge/images/animate.png)
-* [Download](/GroundForge-help/Download) ![-](/GroundForge/images/download.jpg)
 * [Color code](/GroundForge-help/color-rules) ![-](/GroundForge/images/to-color-rules.png)
 
 ### Tutorials
 
+* [Navigation](/GroundForge-help/navigation)
 * [Nets](/GroundForge-help/Nets)
 * [Getting Started](/GroundForge-help/index)
 * [Swatch Size](/GroundForge-help/Patch-Size) (rows/columns)
