@@ -5,7 +5,7 @@ lang: en
 ref: intro
 ---
 
-Getting Started
+Customize diagrams
 ==========
 + [Highlight a thread](#highlight-a-thread)
 + [Resize pattern](#resize-pattern)
@@ -16,17 +16,12 @@ Getting Started
 + [Add footsides](#add-footsides)
 + [Next steps](#next-steps)
    
-In the following tutorial, we will explore a versatile ground from the [Whiting catalogue] and illustrate some basic features of GroundForge. 
-
-First navigate to the [Whiting catalogue] (click on this link) and look at the grounds.  By clicking on a photo in the catalogue, you will launch the associated page in Gertrude Whiting's book *A lace guide for makers and collectors* which will give more information about the ground.  The grounds are arrange in columns labelled __A__ to __H__ and rows labelled __1__ to __18__.
- 
-Clicking on the [diagram] link above a photo in the catalogue will launch the GroundForge tool, initialized with the details of the selected Whiting ground.
-
-Open the [diagram] for ground G-2 (column G, row 2) in the [Whiting catalogue].
+Before we can customize the diagrams of a ground, we need to get one. 
+For example the [diagrams] for  G-2 (column G, row 2) in the [Whiting catalogue].
 
 [Whiting catalogue]: /gw-lace-to-gf/
 
-[diagram]: /GroundForge/stitches?whiting=G2_P199&patchWidth=14&patchHeight=13&f1=ctctt&a1=ctcctc&j2=ctc&i2=ctcll&h2=ctctt&g2=ctctt&f2=ctctt&e2=ctctt&d2=ctctt&c2=ctcrrr&b2=ctc&j3=ctcll&i3=ctctt&h3=ctctt&g3=ctcttl&f3=ctc&e3=ctcttr&d3=ctctt&c3=ctctt&b3=ctcrrr&a3=ctc&j4=ctctt&i4=ctctt&h4=ctcttl&g4=ctc&f4=ctc&e4=ctc&d4=ctcttr&c4=ctctt&b4=ctctt&a4=ctcttt&j5=ctctt&i5=ctcttl&h5=ctc&g5=ctc&e5=ctc&d5=ctc&c5=ctcttr&b5=ctctt&a5=ctctt&tile=5----5----,-CDD632AAB,5666632222,5666632222,56666-2222&tileStitch=ctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
+[diagrams]: /GroundForge/stitches?whiting=G2_P199&patchWidth=14&patchHeight=13&f1=ctctt&a1=ctcctc&j2=ctc&i2=ctcll&h2=ctctt&g2=ctctt&f2=ctctt&e2=ctctt&d2=ctctt&c2=ctcrrr&b2=ctc&j3=ctcll&i3=ctctt&h3=ctctt&g3=ctcttl&f3=ctc&e3=ctcttr&d3=ctctt&c3=ctctt&b3=ctcrrr&a3=ctc&j4=ctctt&i4=ctctt&h4=ctcttl&g4=ctc&f4=ctc&e4=ctc&d4=ctcttr&c4=ctctt&b4=ctctt&a4=ctcttt&j5=ctctt&i5=ctcttl&h5=ctc&g5=ctc&e5=ctc&d5=ctc&c5=ctcttr&b5=ctctt&a5=ctctt&tile=5----5----,-CDD632AAB,5666632222,5666632222,56666-2222&tileStitch=ctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 
 ## Highlight a thread
 For each lace ground, GroundForge displays two generated drawings: a pair diagram (with a special [Colour Code](color-rules)) and a thread diagram. Help pages provide more information.
@@ -95,7 +90,7 @@ A link in the document will bring you back to the current state of the pattern.
 
 ## Create a new ground pattern
 
-The link to “pattern definition” leads you to a page create a new pattern. First, we map the pattern onto a grid. Symbols, comprising numbers or letters, are used to draw lines on the grid. This creates a vector diagram showing the order in which pairs of threads come together. From this description, the software generates a pair diagram and a thread diagram. A more [detailed tutorial](Advanced) fully explains the many construction options available.
+The link to “pattern definition” leads you to a page where you can modify an existing pattern or create a new pattern. First, we map the pattern onto a grid. Symbols, comprising numbers or letters, are used to draw lines on the grid. This creates a vector diagram showing the order in which pairs of threads come together. From this description, the software generates a pair diagram and a thread diagram. A more [detailed tutorial](Advanced) fully explains the many construction options available.
 
 ## Add footsides
 
