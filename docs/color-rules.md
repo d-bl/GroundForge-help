@@ -3,8 +3,18 @@ layout: default
 title: 4 colors per stitch
 ---
 
-Color codes
-===========
+* [Why another color code?](#why-another-color-code)
+* [4 colors per stitch](#4-colors-per-stitch)
+  * [Twists](#twists)
+  * [Crosses](#crosses)
+* [Examples of stitches](#examples-of-stitches)
+* [Examples of patterns](#examples-of-patterns)
+* [Notes](#notes)
+  * [Color scheme](#color-scheme)
+  * [Open and closed methods](#open-and-closed-methods)
+
+Why another color code?
+=======================
 
 Various dialects of color codes for pair diagrams are used by bobbin lace designers:
 There is at least a [Belgian] version, a simplified [Danish] version and a [red-blue] version and perhaps more.
@@ -105,8 +115,12 @@ while it represents two stitches in the traditional pair diagram for an eyed spi
 Notes
 -----
 
+### Color scheme
+
 The color scheme was selected from [colorbrewer](https://colorbrewer2.org/?type=diverging&scheme=RdBu&n=5)
 because of its color-blind friendly properties.
+
+### Open and closed methods
 
 Not having twists between stitches encoded in the colors of the stitches, 
 makes the diagrams agnostic to the open (start with twist) and closed (end with twist) method.
