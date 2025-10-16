@@ -16,7 +16,7 @@ The wand (re)loads a diagram.
 The play button resumes the animation of a diagram.
 
 The animation may quit too soon, resulting in stretch diagrams 
-or even something that looks like throwing a fishing net that dit not yet unfold.
+or even something that looks like throwing a fishing net that did not yet unfold.
 The resume button is there to continue the animation.
 
 Pair diagrams in the [stitches](GroundForge/stitches) don't start the animation at all.
