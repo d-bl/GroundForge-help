@@ -31,7 +31,7 @@ Known examples:
 [wobble.html]: https://github.com/MAETempels/MAE-gf/blob/master/_includes/wobble.html
 [valenciennes]: https://github.com/d-bl/gw-lace-to-gf/blob/master/docs/_includes/val-variants.html
 [Whiting-Index]: /gw-lace-to-gf#val
-[woble.html]: https://github.com/MAETempels/MAE-gf/blob/master/_includes/wobble.html
+[wobble.html]: https://github.com/MAETempels/MAE-gf/blob/master/_includes/wobble.html
 
 ### 3. Embedded diagrams
 You can even embed one or more of the dynamic diagrams on your pages.

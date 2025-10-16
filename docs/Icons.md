@@ -41,13 +41,12 @@ This icon leads to the rules for a color code with up to [four colors per stitch
 ![ ](/GroundForge/images/reset-dimensions.png)
 ![ ](/GroundForge/images/minimize.png)
 **Panel size**  
+![](images/resize.png?align=right)
 Depending on the browser/device, the diagrams may have a hot corner
-in the south-east, where the sliders meet.
+in the south-east, where the sliders meet as shown on the right.
 Drag this corner to adjust the available space. 
-The buttons shown here are an alternative when the hot corner is not available, for example on touch devices.
-A half minute [video clip](clips/resize) shows how to use the second set of buttons.
-
-![ ](images/resize.png)
+The buttons shown here (maximize, default, minimize)are an alternative when the hot corner is not available, for example on touch devices.
+A half minute [video clip](clips/resize) shows how to use the set of buttons.
 
 
 ![ ](/GroundForge/images/download.jpg) **[Download](Download)**  
