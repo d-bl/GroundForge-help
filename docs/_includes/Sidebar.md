@@ -15,9 +15,8 @@
 
 * [Nets](/GroundForge-help/Nets)
 * [Customize diagrams](/GroundForge-help/index)
-* Binche
-  * [sampler](/GroundForge-help/Binche)
-  * [snow mixer](/GroundForge-help/snow-mix)
+* [Binche sampler](/GroundForge-help/Binche)
+* [snow mixer](/GroundForge-help/snow-mix)
 * [Reshape pair diagrams](/GroundForge-help/Reshape-Patterns)
 * Advanced
   * [Create a pattern](/GroundForge-help/Advanced)
