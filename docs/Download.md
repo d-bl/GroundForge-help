@@ -5,9 +5,8 @@ title: GroundForge download
 
 The download icon ![](/GroundForge/images/download.jpg) 
 may apply to:
-* a diagram as scalable vector image from
-* a template for an [Inkscape plugin](/inkscape-bobbinlace/)
-  (on the "pattern definition" panel on the all-in-one page) 
+* a diagram as scalable vector image (SVG)
+* a template (text file) for an [Inkscape plugin](/inkscape-bobbinlace/)
   
 Templates
 ---------

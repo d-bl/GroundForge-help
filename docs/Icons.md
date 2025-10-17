@@ -6,6 +6,10 @@ title: Icons, their purpose/meaning
 The purpose/meaning of buttons/icons in short
 =============================================
 
+On a desktop/laptop the icons may show a tooltip when hovering the mouse pointer over an icon.
+On touch devices the tooltip is not available.
+
+
 ![ ](/GroundForge/images/wand.png)
 **Reload**  
 The wand (re)loads a diagram. 
@@ -42,10 +46,8 @@ The buttons shown here (maximize, default, minimize)are an alternative when the 
 A half minute [video clip](clips/resize) shows how to use the set of buttons.
 
 
-![ ](/GroundForge/images/download.jpg) **Download**
-The [download](Download) lets you save a single diagram.
-
-These diagrams ares scalable images for 3rd party [editors](Reshape-Patterns#evaluated-editors).
+![ ](/GroundForge/images/download.jpg) **Download**  
+The button lets you save a single diagram.
 For complete pages: see [print as PDF](clips/print-as-pdf).
 
-or templates for an [Inkscape plugin](/inkscape-bobbinlace/).
+Details about download types [here(/GroundForge-help/Download)].
