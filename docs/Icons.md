@@ -50,4 +50,4 @@ A half minute [video clip](clips/resize) shows how to use the set of buttons.
 The button lets you save a single diagram.
 For complete pages: see [print as PDF](clips/print-as-pdf).
 
-Details about download types [here(/GroundForge-help/Download)].
+Details about download types [here](/GroundForge-help/Download).
