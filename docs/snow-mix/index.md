@@ -3,32 +3,33 @@ layout: default
 title: mix snowflakes
 ---
 
-Table of contents
-=================
-* [Mix snowflakes into new Grounds](#mix-snowflakes-into-new-grounds)
-  * [Compositions](#compositions) 
-  * [Stitches for six pair snowflakes](#stitches-for-6-pair-snowflakes)
-  * [Footsides](#footsides)
-  * [Footside detour navigation](#footside-detour-navigation)
-  * [Recipes for the mixer](#recipes-for-the-mixer)
-    * [Derivatives](#derivatives)
-    * [(Un)twist legs](#untwist-legs)
-    * [Remove details](#remove-details)
-  * [Create a recipe from scratch](#create-a-recipe-from-scratch)
-    * [Step by step](#step-by-step)
-    * [Blob analysis](#blob-analysis)
+Snow Mixer
+==========
+
+* [Introduction](#introduction)
+* [Compositions](#compositions) 
+* [Stitches for six pair snowflakes](#stitches-for-6-pair-snowflakes)
+* [Footsides](#footsides)
+* [Footside detour navigation](#footside-detour-navigation)
+* [Recipes for the mixer](#recipes-for-the-mixer)
+  * [Derivatives](#derivatives)
+  * [(Un)twist legs](#untwist-legs)
+  * [Remove details](#remove-details)
+* [Create a recipe from scratch](#create-a-recipe-from-scratch)
+  * [Step by step](#step-by-step)
+  * [Blob analysis](#blob-analysis)
 
 
-Mix snowflakes into new Grounds
-===============================
+Introduction
+------------
 
-With the [snow mixer] you can create diagrams for (new) grounds with a mix of up to 2x2 snowflakes.
+With the [snow mixer] you can create diagrams for (new) grounds with a mix of up to 4 snowflakes.
 The mixer page has some quick hints with links to the most important subjects to get started.
 
 The pair diagram of a 6-pair snowflake can be interpreted
 as a thread diagram of a 3-pair connection.
 Each 3-pair connection can be composed with a group of 2-pair stitches.
-The mixer starts with the last step as building blocks alias recipes for a combination of 2x2 snowflakes.
+The mixer starts with the last step as building blocks alias recipes for a combination of 4 snowflakes.
 
 
 [snow mixer]: /GroundForge/mix4snow/
