@@ -5,8 +5,8 @@ lang: en
 ref: binche
 ---
 
-Binche snowflakes in a Paris Ground
-===================================
+Demo with a Binche ground
+=========================
  
 A Paris ground as ring pairs around snowflakes becomes particularly challenging to work when using a combination of half-stitch (CT) and whole-stitch (CTCT) in the ring pairs.
 To better understand this ground, a GroundForge model was made.
@@ -80,4 +80,4 @@ The sampler is no longer available from the [Deutscher Klöppelverband], but you
 Another sampler suitable to practice variations of the ground is an edging designed by the Tini Bruins,
 published in 2018 by the LOKK as _[kantje van de maand]_, also nr 31.
 
-[kantje van de maand]: https://lokknl.org/patronen/de-kantjes-van-de-maand/
+[kantje van de maand]: https://lokknl.org/wp-content/uploads/2025/08/kantje31.pdf
