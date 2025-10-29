@@ -15,7 +15,7 @@
 
 * [Nets](/GroundForge-help/Nets)
 * [Customize diagrams](/GroundForge-help/index)
-* [snow mixer](/GroundForge-help/snow-mix)
+* [Snow mixer](/GroundForge-help/snow-mix)
 * [Reshape pair diagrams](/GroundForge-help/Reshape-Patterns)
 * Advanced
   * [Create a pattern](/GroundForge-help/Advanced)
