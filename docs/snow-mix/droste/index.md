@@ -3,8 +3,11 @@ layout: default
 title: snowflakes with 2 droste steps
 ---
 
+Snow with two droste steps
+==========================
+
 Too many possibilities
-============
+----------------------
 
 From [counting snow](/MAE-gf/docs/counting-snow/)
 we know that six pair snowflakes can change the order of threads in 230 ways.
@@ -14,8 +17,8 @@ them all is therefore impossible.
 The [snow mixer](/GroundForge/mix4snow) provides a few dozen
 and a tutorial to create variations and new ones.
 
-More freedom with two droste steps
-================
+More freedom
+------------
 
 The mixer uses only one [droste](Glossary#droste) step to choose stitches for six pair snowflakes.
 You can choose to assign stitches to a single snowflake, or to four.
@@ -43,7 +46,7 @@ Note that for the second step, you need to re-render the pair diagram
 before re-rendering the thread diagram. Otherwise, the changes don't appear. 
 
 Double worker pairs
-===================
+-------------------
 
 Another example turns the worker pair of the initial pair diagram
 into two workers going together from left to right, 
