@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Binche example
+title: Binche demo
 lang: en
 ref: binche
 ---
