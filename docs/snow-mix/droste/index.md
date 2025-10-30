@@ -79,6 +79,8 @@ See also [tweak recipces](../#recipes-for-the-mixer) for more variations.
 **Under construction**  
 With two droste steps, we should not need a leading dash
 for an odd number of stitches to make it an even number.
+The dash (meaning: skip a stitch) is an accidental feature
+and can cause problems outside the mixer. 
 
 | **3-pair thread diagram** | **recipe of the diagram**                     | **flipped recipe**            |
 |---------------------------|:----------------------------------------------|:------------------------------|
