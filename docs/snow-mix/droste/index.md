@@ -81,32 +81,32 @@ With two droste steps, we should not need a leading dash
 for an odd number of stitches to make it an even number.
 
 | 3-pair thread diagram | recipe of the diagram                      | flipped recipe                 |
-|----------------------:|:-------------------------------------------|:-------------------------------|
-|        ![](123-a.png) | rcrcrc <br> crc,crclctc,ctcrc,rcl,c,c      |                                |
-|        ![](123-b.png) | lclclc <br> rcl,ctc,crcllc,crrclcr,ctc,cl  |                                |
-|        ![](132-a.png) | rcrcrc <br> -,ctc,ctc,ctc,ctc,ctc          |                                |
-|        ![](312-a.png) | lclc <br> tctc,rctcl,ctcl,ctct             |                                |
-|        ![](321-a.png) | lclc <br> tc,rclcrc,clcrcl,ct              | rcrc <br> tc,lcrclc,crclcr,ct  |
-|        ![](321-b.png) | rcrc <br> tcr,lctc,ctcr,lct                |                                |
-|        ![](321-c.png) | rcrc <br> tcl,lctc,ctcr,rct                |                                |
-|        ![](321-d.png) | rcrc <br> t,lctc,ctcr,ctct                 |                                |
-|     ![](126453-a.png) | lclclc <br> -,c,ctctc,ctctc,ctctc,c        |                                |
-|     ![](153426-a.png) | lclclc <br> t,rc,ctc,rclcr,ctcl,ct         |                                |
-|     ![](154326-a.png) | lclc <br> t,rctc,ctctcl,ctct               |                                |
-|     ![](156423-a.png) | rcrcrc <br> -,cr,crcl,clcrclcr,rcrcl,c     |                                |
-|     ![](234561-a.png) | lclclc <br> cr,crcl,clcr,crcl,clcr,c       |                                |
-|     ![](263451-a.png) | rcrcrc <br> -,cr,crcl,clcr,crcl,cl         |                                |
-|     ![](321546-a.png) | lclclc <br> -,cl,ctcl,crcrcr,rcr,c         |                                |
-|     ![](321654-a.png) | lclclclc <br> -,lc,crc,clcrc,clcr,c,crc,cl |                                |
-|     ![](321654-b.png) | rcrcrc <br> -,cr,ctcr,clclc,lcl,c          |                                |
-|     ![](354612-a.png) | rcrcrc <br> ctct,ct,ct,ct,cl,ctc           |                                |
-|     ![](426153-a.png) | rcrc <br> lc,crclclc,crcrclc,cr            |                                |
-|     ![](426153-b.png) | rcrcrc <br> cr,ctcl,ctcr,ctcl,ctc,c        |                                |
-|     ![](456123-a.png) | rcrc <br> r,lrc,ctcr,lct                   |                                |
-|     ![](456123-b.png) | rcrcrcrc <br> c,ctc,rclc,ctc,rc,rcl,ctc,c  |                                |
-|     ![](462513-a.png) | lclc <br> rc,clcrc,clctc,rcl               |                                |
-|     ![](564312-a.png) | rcrc <br> lcrc,clcrc,clcrc,clcr            |                                |
-|     ![](563412-a.png) | rcrcrc <br> -,c,ctctc,clcr,rctc,c          |                                |
-|     ![](623451-a.png) | lclclclc <br> r,c,crc,ctc,lcrcl,ctc,crc,cl |                                |
-|     ![](623541-a.png) | lclclc <br> -,ctc,ct,crc,ctc,ctc           |                                |
-|     ![](623541-b.png) | rcrcrc <br> -,cl,ctctcr,ct,ctc,c           |                                |
+|-----------------------|:-------------------------------------------|:-------------------------------|
+| ![](123-a.png)        | rcrcrc <br> crc,crclctc,ctcrc,rcl,c,c      |                                |
+| ![](123-b.png)        | lclclc <br> rcl,ctc,crcllc,crrclcr,ctc,cl  |                                |
+| ![](132-a.png)        | rcrcrc <br> -,ctc,ctc,ctc,ctc,ctc          |                                |
+| ![](312-a.png)        | lclc <br> tctc,rctcl,ctcl,ctct             |                                |
+| ![](321-a.png)        | lclc <br> tc,rclcrc,clcrcl,ct              | rcrc <br> tc,lcrclc,crclcr,ct  |
+| ![](321-b.png)        | rcrc <br> tcr,lctc,ctcr,lct                |                                |
+| ![](321-c.png)        | rcrc <br> tcl,lctc,ctcr,rct                |                                |
+| ![](321-d.png)        | rcrc <br> t,lctc,ctcr,ctct                 |                                |
+| ![](126453-a.png)     | lclclc <br> -,c,ctctc,ctctc,ctctc,c        |                                |
+| ![](153426-a.png)     | lclclc <br> t,rc,ctc,rclcr,ctcl,ct         |                                |
+| ![](154326-a.png)     | lclc <br> t,rctc,ctctcl,ctct               |                                |
+| ![](156423-a.png)     | rcrcrc <br> -,cr,crcl,clcrclcr,rcrcl,c     |                                |
+| ![](234561-a.png)     | lclclc <br> cr,crcl,clcr,crcl,clcr,c       |                                |
+| ![](263451-a.png)     | rcrcrc <br> -,cr,crcl,clcr,crcl,cl         |                                |
+| ![](321546-a.png)     | lclclc <br> -,cl,ctcl,crcrcr,rcr,c         |                                |
+| ![](321654-a.png)     | lclclclc <br> -,lc,crc,clcrc,clcr,c,crc,cl |                                |
+| ![](321654-b.png)     | rcrcrc <br> -,cr,ctcr,clclc,lcl,c          |                                |
+| ![](354612-a.png)     | rcrcrc <br> ctct,ct,ct,ct,cl,ctc           |                                |
+| ![](426153-a.png)     | rcrc <br> lc,crclclc,crcrclc,cr            |                                |
+| ![](426153-b.png)     | rcrcrc <br> cr,ctcl,ctcr,ctcl,ctc,c        |                                |
+| ![](456123-a.png)     | rcrc <br> r,lrc,ctcr,lct                   |                                |
+| ![](456123-b.png)     | rcrcrcrc <br> c,ctc,rclc,ctc,rc,rcl,ctc,c  |                                |
+| ![](462513-a.png)     | lclc <br> rc,clcrc,clctc,rcl               |                                |
+| ![](564312-a.png)     | rcrc <br> lcrc,clcrc,clcrc,clcr            |                                |
+| ![](563412-a.png)     | rcrcrc <br> -,c,ctctc,clcr,rctc,c          |                                |
+| ![](623451-a.png)     | lclclclc <br> r,c,crc,ctc,lcrcl,ctc,crc,cl |                                |
+| ![](623541-a.png)     | lclclc <br> -,ctc,ct,crc,ctc,ctc           |                                |
+| ![](623541-b.png)     | rcrcrc <br> -,cl,ctctcr,ct,ctc,c           |                                |
