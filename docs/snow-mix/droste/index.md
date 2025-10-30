@@ -37,7 +37,7 @@ How to
 
 ![](first-thread.png?align=right)
 You can select any pattern from any catalogue and use plaits with three threads as stitches,
-for example _lclc_ or _rcrc_ between other stitches (or not). 
+for example _lclc_ or _rcrcrc_ between other stitches (or not). 
 This looks like highlighted in the image on the right.
 
 Let us take a mixer recipe from the [table](#recipes) as an example.  
