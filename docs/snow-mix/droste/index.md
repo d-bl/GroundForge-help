@@ -44,20 +44,21 @@ Let us take a mixer recipe from the [table](#recipes) as an example.
 ![](321-a.png) which is:  _lclc; tc,rclcrc,clcrcl,ct_ and flipped: _rcrc; tc,lcrclc,crclcr,ct_    
 Apply the _lclc_ and/or _rcrc_ stitches on the [stitches] page.
 You can apply the rest of the recipe after following the link to _thread diagram as pair diagram_.
-The first droste step then should look like below. 
 
 [stitches]: /GroundForge/stitches?patchWidth=18&patchHeight=35&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ctc&c1=ctc&a1=ctc&f2=ctc&d2=ctc&b2=ctc&e3=ctc&c3=crcr&a3=ctc&f4=ctc&d4=ctc&b4=ctc&e5=clcl&c5=ctc&a5=ctc&f6=ctc&d6=ctc&b6=ctc&&droste3=tc,lcrclc,crclcr,ct
 
 ![](first-step.png)  
 [show](/GroundForge/droste?patchWidth=18&patchHeight=35&tile=5-5-5-,-5-5-5,5-5-5-,-5-5-5,5-5-5-,-5-5-5&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=6&shiftRowsSE=6&e1=ctc&c1=ctc&a1=ctc&f2=ctc&d2=ctc&b2=ctc&e3=ctc&c3=crcr&a3=ctc&f4=ctc&d4=ctc&b4=ctc&e5=clcl&c5=ctc&a5=ctc&f6=ctc&d6=ctc&b6=ctc&&droste3=tc,lcrclc,crclcr,ct&droste2=,c30=tc,c31=rclcrc,c32=clcrcl,c33=ct,e50=tc,e51=lcrclc,e52=crclcr,e53=ct)
 
-Compare the text box of the screenshot with the recipes.
-You don't need to edit the big text box, type the desired stitch 
-in the little test box below the stitches gallery,
-then click a stitch in the pair diagram to apply.
-As this page can be very slow, the diagrams are only re-rendered
-after you click the wand.
-Changes are highlighted grey until you do. 
+Compare the text box and thread diagram of the screenshot with the recipes.
+You don't _need_ to edit the big text box,
+but in this case it can be easier to copy-paste the recipe
+and edit to get something like the screenshot.
+After applying the broomstick, the lines will get reorganized and the recipe no longer recognizable.
+
+Even when changing stitches by clicking the thread diagram,
+you need the wand to re-render the diagrams because this page can be very slow.
+Outdated diagram parts are highlighted grey and black until rerendering.
 
 Note that for the second step, you need to re-render the pair diagram
 before re-rendering the thread diagram. Otherwise, the changes don't appear. 
