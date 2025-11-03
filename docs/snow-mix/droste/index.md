@@ -54,6 +54,8 @@ Compare the text box and thread diagram of the screenshot with the recipes.
 You don't _need_ to edit the big text box,
 but in this case it can be easier to copy-paste the recipe
 and edit to get something like the screenshot.
+The start of the ID-s like _c3_ and _e5_ depend on your pattern and where you applied the plait stitches.
+The number of lines depend on the number of stitches in your snowflake recipe.
 After applying the broomstick, the lines will get reorganized and the recipe no longer recognizable.
 
 Even when changing stitches by clicking the thread diagram,
