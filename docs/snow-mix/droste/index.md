@@ -152,8 +152,6 @@ Note also that the [blob analysis](/GroundForge-help/snow-mix/#blob-analysis)
 (to capture new spiders/bollletjes) needs slightly different rules. 
 The blobs are not only left or right, we also have blobs in the center.
 
-The recipes in the table can be applied to this [pattern](https://d-bl.github.io/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-&headside=c,-&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1&m1=ctctt&g1=ctct&f2=ctctt).
-
 | **initial stitch** | **first droste step**                                                                    | **second droste step**                                    |
 |--------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | ctcctct            | g13=ctcctc <br> g18=g19=tt                                                               | g133=ctcctc <br> g180=g181=g190=g191=tt                   |
