@@ -158,6 +158,6 @@ The recipes in the table can be applied to this [pattern](https://d-bl.github.io
 |--------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | ctcctct            | g13=ctcctc <br> g18=g19=tt                                                               | g133=ctcctc <br> g180=g181=g190=g191=tt                   |
 | ![](ctcctct.png)   | ![](ctcctct-step1.png) ![](ctcctct-threads.png)                                          | ![](ctcctct-step2.png)                                    |
-| rctcr              | g15=c <br> g10=cl <br> g14=clcrll <br> g13=crclcrcl <br> g11=llclcr <br> g12=llclcrclcll | g100=g150=c <br> g110=g120=g128=g144=tt ![img.png](ndb-9Z.png) |
+| rctcr              | g15=c <br> g10=cl <br> g14=clcrll <br> g13=crclcrcl <br> g11=llclcr <br> g12=llclcrclcll | g100=g150=c <br> g110=g120=g128=g144=tt <br> ![img.png](ndb-9Z.png) |
 | ctct               | g11=g12=ctctc <br> g14=g15=tt                                                            | ![](spider.png)                                           |
 | ctct               | g12=ctclctc <br> g11=ctcrctc <br> g14=g15=tt                                             | ![](double-eyed-spider.png)                               |
