@@ -21,6 +21,12 @@
   * [Printed patterns to GF](/GroundForge-help/Reversed-engineering-of-patterns)
   * [Droste effect](/GroundForge-help/Droste-effect)
 
+### Snow mixer
+
+* [tutorials](/GroundForge-help/snow-mix/)
+* [two droste steps](/GroundForge-help/snow-mix/droste)
+* [experiments](/GroundForge-help/snow-mix/experiments)
+
 ### Notes
 
 * [print as PDF](/GroundForge-help/clips/print-as-pdf)

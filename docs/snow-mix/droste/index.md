@@ -156,6 +156,8 @@ The blobs are not only left or right, we also have blobs in the center.
 |--------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | ctcctct            | g13=ctcctc <br> g18=g19=tt                                                               | g133=ctcctc <br> g180=g181=g190=g191=tt                   |
 | ![](ctcctct.png)   | ![](ctcctct-step1.png) ![](ctcctct-threads.png)                                          | ![](ctcctct-step2.png)                                    |
-| rctcr              | g15=c <br> g10=cl <br> g14=clcrll <br> g13=crclcrcl <br> g11=llclcr <br> g12=llclcrclcll | g100=g150=c <br> g110=g120=g128=g144=tt <br> ![img.png](ndb-9Z.png) |
+| rctcr              | g10=cl <br> g11=llclcr <br> g12=llclcrclcll <br> g13=crclcrcl <br> g14=clcrll <br> g15=c | g100=g150=c <br> g110=g120=g128=g144=tt <br> ![img.png](ndb-9Z.png) |
 | ctct               | g11=g12=ctctc <br> g14=g15=tt                                                            | ![](spider.png)                                           |
-| ctct               | g12=ctclctc <br> g11=ctcrctc <br> g14=g15=tt                                             | ![](double-eyed-spider.png)                               |
+| ctct               | g11=ctcrctc <br> g12=ctclctc <br> g14=g15=tt                                             | ![](double-eyed-spider.png)                               |
+
+[![](ndb-10N.png)](https://d-bl.github.io/GroundForge/droste.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-&headside=c,-&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1&m1=ctctt&g1=clctcrct&f2=ctctt&droste3=,g180=tt,g181=tt,g190=tt,g191=tt,g100=c,g170=c&droste2=g10=g17=c,g15=clcr,g12=crc,g16=crcl,g14=ctcl,g11=rclcr,g13=rctc,g18=g19=tt#)
