@@ -130,34 +130,39 @@ and can cause problems outside the mixer.
 4/8 pair recipes
 ----------------
 
-It is even less possible to be exhaustive for 4/8 pair recipes.
-The table below is just a start.
+It is impossible to be exhaustive, the table below is just a start.
 See also [MAE-gf](/MAE-gf/docs/spin_08).
 
-The first example is a traditional 
+| **initial stitch** | **first droste step** <br> [note about g1](#more-notes)                                                       | **second droste step**                                                                                                                  |
+|--------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| ctcctct            | g13=ctcctc <br> g18=g19=tt                                                                                    | g133=ctcctc <br> g180=g181=g190=g191=tt                                                                                                 |
+| ![](ctcctct.png)   | ![](ctcctct-step1.png) ![](ctcctct-threads.png)                                                               | ![](ctcctct-step2.png) <br> [note about the legs](#crossed-legs-in-both-steps)                                                          |
+| rctcr              | g10=cl <br> g11=llclcr <br> g12=llclcrclcll <br> g13=crclcrcl <br> g14=clcrll <br> g15=c                      | g100=g150=c <br> g110=g120=g128=g144=tt <br> ![img.png](ndb-9Z.png) <br> [other note about legs](#crossed-legs-in-second-step-only) |
+| clctcrct           | g10=g17=c <br> g11=rclcr <br> g12=crc <br> g13=rctc <br> g14=ctcl <br> g15=clcr <br> g16=crcl <br> g18=g19=tt | g100=g170=c <br> g180=g181=g190=g191=tt <br> ![](ndb-10N.png)                                                                           |
+| ctct               | g11=g12=ctctc <br> g14=g15=tt                                                                                 | ![](spider.png)                                                                                                                         |
+| ctct               | g11=ctcrctc <br> g12=ctclctc <br> g14=g15=tt                                                                  | ![](double-eyed-spider.png)                                                                                                             |
+
+### Crossed legs in both steps
+The first example is a traditional
 [spider](GroundForge/droste.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-&headside=c,-&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1&m1=ctctt&g1=ctcctct&f2=ctctt&droste2=g18=g19=tt,g13=ctcctc&droste3=g180=g181=g190=g191=tt,g133=ctcctc).
 Note that leading/trailing twists in the initial stitch cause crossed legs in the pair diagram of the first droste step.
 Assigning just twists to these stitches nicely separates the legs into twisted pairs.
 Due to the nature of the droste effect, that effect repeats in the second droste step.
+
+### Crossed legs in second step only
 
 The initial stitch in the second example uses all twists for the "[bolletje](https://d-bl.github.io/GroundForge/droste.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-&headside=c,-&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1&m1=ctctt&g1=rctcr&f2=ctctt&droste3=,g120=tt,g110=tt,g129=tt,g144=tt&droste2=g15=c,g10=cl,g14=clcrll,g13=crclcrcl,g11=llclcr,g12=llclcrclcll#)".
 So we can't use the crossed legs trick in the first droste step,
 we have to add the legs to other stitches.
 The four ll's in three stitches of the first droste step become the twisted legs in the second droste step.
 
-Note that repeated actions (repeated twists or repeated crosses)
+### More notes
+Replace _g1_ with the ID of the stitch you want in the pattern of your choice.
+See [how to](#how-to) for more details, in that explanation the initial stitches are plaits of three threads.
+
+Repeated actions (repeated twists or repeated crosses)
 become a single stitch when a thread diagram is used as pair diagram.
 
-Note also that the [blob analysis](/GroundForge-help/snow-mix/#blob-analysis)
-(to capture new spiders/bollletjes) needs slightly different rules. 
+The [blob analysis](/GroundForge-help/snow-mix/#blob-analysis)
+(to capture new spiders/bollletjes) needs slightly different rules.
 The blobs are not only left or right, we also have blobs in the center.
-
-| **initial stitch** | **first droste step**                                                                    | **second droste step**                                    |
-|--------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| ctcctct            | g13=ctcctc <br> g18=g19=tt                                                               | g133=ctcctc <br> g180=g181=g190=g191=tt                   |
-| ![](ctcctct.png)   | ![](ctcctct-step1.png) ![](ctcctct-threads.png)                                          | ![](ctcctct-step2.png)                                    |
-| rctcr              | g10=cl <br> g11=llclcr <br> g12=llclcrclcll <br> g13=crclcrcl <br> g14=clcrll <br> g15=c | g100=g150=c <br> g110=g120=g128=g144=tt <br> ![img.png](ndb-9Z.png) |
-| ctct               | g11=g12=ctctc <br> g14=g15=tt                                                            | ![](spider.png)                                           |
-| ctct               | g11=ctcrctc <br> g12=ctclctc <br> g14=g15=tt                                             | ![](double-eyed-spider.png)                               |
-
-[![](ndb-10N.png)](https://d-bl.github.io/GroundForge/droste.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-&headside=c,-&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1&m1=ctctt&g1=clctcrct&f2=ctctt&droste3=,g180=tt,g181=tt,g190=tt,g191=tt,g100=c,g170=c&droste2=g10=g17=c,g15=clcr,g12=crc,g16=crcl,g14=ctcl,g11=rclcr,g13=rctc,g18=g19=tt#)
