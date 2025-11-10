@@ -63,7 +63,7 @@ However, the theory can help you to understand the results.
 This page was born out of curiosity about the effects of symmetry.
 The experiments caused a surprise: flipping on diagonal nets works as the buttons suggest.
 On horizontal nets, the stitches are in fact titled by 45 degrees.
-The consequences and other details are explained on the [flip](https://d-bl.github.io/GroundForge-help/clips/flip#symmetry)
+The consequences and other details are explained on the [flip](/GroundForge-help/clips/flip#symmetry)
 page.
 
 ![bdpq titled by 45 degrees on a horizontal net](titled-bdpq.png)
@@ -101,12 +101,12 @@ or combinations with three of the four stitches.
 
 With some experience in customizing patterns, it becomes easier to create
 your own patterns with not provided combinations of stitches or even unrelated stitches.
-The page [embelished clothwork](https://d-bl.github.io/MAE-gf/docs/ec)
+The page [embelished clothwork](/MAE-gf/docs/ec)
 provides starting points for horizontal nets with other dimensions than two by two stitches.  
 An [e-book](https://www.patreon.com/theadventurouslacemakers/shop/embellished-clothwork-ebook-by-marian-221058?source=storefront)
 with the same name applies the horizontal nets in motives.
 
-See also [MAE-nets](https://d-bl.github.io/MAE-gf/docs/nets) for other types of nets.
+See also [MAE-nets](/MAE-gf/docs/nets) for other types of nets.
 
 
 Hints for the nets page

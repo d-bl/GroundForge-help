@@ -178,7 +178,7 @@ The [snow mixer] shows a gallery of recipes with thumbnails.
 The gallery can barely scratch the surface of the possibilities.
 
 For an impression about the numbers:  
-The page [counting snow families](https://d-bl.github.io/MAE-gf/docs/counting-snow/)
+The page [counting snow families](/MAE-gf/docs/counting-snow/)
 has 230 families for the type of snowflakes for the mixer.
 Some 19 of them keep pairs together and can be expressed with 4 family ID's of three digits.
 That leaves 211 families with ID's of 6 digits.
@@ -233,7 +233,7 @@ On the mixer page it may look logical to twist legs between 3-pair connections.
 Such as for the triangle recipe shown below.
 However, this causes crossed legs (tool tips ending with _j161_) in the pair diagram generated from the thread diagram.
 We can counteract that effect with a "stitch" that just twists both pairs.
-Below snippets of this [pattern](https://d-bl.github.io/GroundForge/droste?source=mix4snow&source=mix4snow&source=mix4snow&tile=48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr,48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr&f8=llttcrr&f16=llttcrr&footside=-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r,-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r&=undefined&u8=rrttcll&u16=rrttcll&headside=x,x,x,8,r,r,r,r,x,x,x,8,r,r,r,r&shiftColsSW=0&shiftRowsSW=16&shiftColsSE=4&shiftRowsSE=8&patchWidth=14&patchHeight=35&i1=rc&h1=t&g1=ctcl&h2=crclcr&n5=llctt&i5=ctcl&g5=ct&j9=lc&h9=t&j13=t&g13=lc&g16=tctc&h16=rctc&h4=t&h8=rctc&g8=tctc&g9=ctcl&g12=lc&i12=tctc&j12=rctc&i13=ctcl&j16=t&j4=rctc&i4=tctc&j5=t&i8=rc&j8=t&i16=rc&h12=t&droste2=j80=h121=g14=j161=j160=i134=h40=h41=i54=j81=g94=h120=tt,f80=p81=f160=p161=ctcttttttttttlllllctc,f82=f162=rrtctctrr,f83=f163=rrttctc,u82=u162=ctc,u81=u161=tttttttctctttttt,u83=u163=tttttctc,u80=u160=tttctc#).
+Below snippets of this [pattern](/GroundForge/droste?source=mix4snow&source=mix4snow&source=mix4snow&tile=48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr,48y-,xrx-,xrx-,xr83,y-48,x-xr,x-xr,83xr&f8=llttcrr&f16=llttcrr&footside=-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r,-----x,-----x,-----x,-----x,-----4,-----r,-----r,-----r&=undefined&u8=rrttcll&u16=rrttcll&headside=x,x,x,8,r,r,r,r,x,x,x,8,r,r,r,r&shiftColsSW=0&shiftRowsSW=16&shiftColsSE=4&shiftRowsSE=8&patchWidth=14&patchHeight=35&i1=rc&h1=t&g1=ctcl&h2=crclcr&n5=llctt&i5=ctcl&g5=ct&j9=lc&h9=t&j13=t&g13=lc&g16=tctc&h16=rctc&h4=t&h8=rctc&g8=tctc&g9=ctcl&g12=lc&i12=tctc&j12=rctc&i13=ctcl&j16=t&j4=rctc&i4=tctc&j5=t&i8=rc&j8=t&i16=rc&h12=t&droste2=j80=h121=g14=j161=j160=i134=h40=h41=i54=j81=g94=h120=tt,f80=p81=f160=p161=ctcttttttttttlllllctc,f82=f162=rrtctctrr,f83=f163=rrttctc,u82=u162=ctc,u81=u161=tttttttctctttttt,u83=u163=tttttctc,u80=u160=tttctc#).
 The pattern examples on the [color code](/GroundForge-help/color-rules)
 discuss this phenomenon in more detail.
 
@@ -284,7 +284,7 @@ It might be a personal preference and also depend on your type of brains.
 
 From scratch is a bit of a misnomer as we start with an existing pair diagram.
 That diagram may be found in literature, on the web or created by bending pairs
-of a snowflake [family](https://d-bl.github.io/MAE-gf/docs/counting-snow/6-pair-permutations.svg)
+of a snowflake [family](/MAE-gf/docs/counting-snow/6-pair-permutations.svg)
 as explained on [exploring families](/MAE-gf/docs/counting-snow/#exploring-families).
 
 ### Step-by step

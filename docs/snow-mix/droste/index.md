@@ -63,7 +63,7 @@ into two workers going together from left to right,
 negotiate a footside and return together through the next row of snowflakes.
 
 ![](square.png)
-[show](https://d-bl.github.io/GroundForge/droste?b1=rcrc&b2=lclc&c1=rcrc&c2=lclc&g1=rcrc&g2=lclc&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&footside=-5,b-&headside=-c,5-&a2=-&h1=-&patchWidth=4&patchHeight=6&droste2=b10=c10=g10=rclc,b11=c11=g11=ctc,b12=c12=g12=ctc,b13=c13=g13=crcl,b20=c20=g20=lcrc,b21=c21=g21=ctc,b22=c22=g22=ctc,b23=c23=g23=clcr&droste3=ctc,b133=b233=c133=c233=g133=33=g233=ctcttctc#)
+[show](/GroundForge/droste?b1=rcrc&b2=lclc&c1=rcrc&c2=lclc&g1=rcrc&g2=lclc&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&footside=-5,b-&headside=-c,5-&a2=-&h1=-&patchWidth=4&patchHeight=6&droste2=b10=c10=g10=rclc,b11=c11=g11=ctc,b12=c12=g12=ctc,b13=c13=g13=crcl,b20=c20=g20=lcrc,b21=c21=g21=ctc,b22=c22=g22=ctc,b23=c23=g23=clcr&droste3=ctc,b133=b233=c133=c233=g133=33=g233=ctcttctc#)
 
 Spidery/Snowy/Asym connections
 ------------------------------
@@ -72,11 +72,11 @@ Traditionally, spiders start with two groups of pairs, and they have two groups 
 Traditional six pair snowflakes have three groups of starting/leaving pairs.
 With the droste method we get asymmetrical connections for 3/6 pair connections.
 
-[spidery](https://d-bl.github.io/GroundForge/stitches?patchWidth=12&patchHeight=20&c1=ct&a1=ct&b2=ct&c3=ct&a3=ct&d4=ct&b4=ct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4):
+[spidery](/GroundForge/stitches?patchWidth=12&patchHeight=20&c1=ct&a1=ct&b2=ct&c3=ct&a3=ct&d4=ct&b4=ct&tile=5-5-,-5--,B-C-,-5-5&footsideStitch=ctctt&tileStitch=ct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4):
 ![](spidery.png) &nbsp;
-[snowy](https://d-bl.github.io/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6): 
+[snowy](/GroundForge/stitches?patchWidth=12&patchHeight=20&b1=clcrc&a1=c&d3=clcrclll&a3=cttt&c4=c&b4=crclc&d6=crclcrrr&c6=cttt&tile=76x-,yxxy,6-x4,x24-,xxww,x-27&tileStitch=ctct&shiftColsSW=0&shiftRowsSW=6&shiftColsSE=4&shiftRowsSE=6): 
 ![](snowy.png) &nbsp;
-[asymmetrical](https://d-bl.github.io/GroundForge/stitches?patchWidth=10&patchHeight=14&tile=5-5-,-5-5&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ct&a1=rcrc&d2=cr&b2=ct):
+[asymmetrical](/GroundForge/stitches?patchWidth=10&patchHeight=14&tile=5-5-,-5-5&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ct&a1=rcrc&d2=cr&b2=ct):
 ![](asym2.png)
 
 Note that with 4/8 pairs we can't divide the pairs into three groups, so we need more to distinguish spiders from snow.
@@ -151,7 +151,7 @@ Due to the nature of the droste effect, that effect repeats in the second droste
 
 ### Crossed legs in second step only
 
-The initial stitch in the second example uses all twists for the "[bolletje](https://d-bl.github.io/GroundForge/droste.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-&headside=c,-&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1&m1=ctctt&g1=rctcr&f2=ctctt&droste3=,g120=tt,g110=tt,g129=tt,g144=tt&droste2=g15=c,g10=cl,g14=clcrll,g13=crclcrcl,g11=llclcr,g12=llclcrclcll#)".
+The initial stitch in the second example uses all twists for the "[bolletje](/GroundForge/droste.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-&headside=c,-&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1&m1=ctctt&g1=rctcr&f2=ctctt&droste3=,g120=tt,g110=tt,g129=tt,g144=tt&droste2=g15=c,g10=cl,g14=clcrll,g13=crclcrcl,g11=llclcr,g12=llclcrclcll#)".
 So we can't use the crossed legs trick in the first droste step,
 we have to add the legs to other stitches.
 The four ll's in three stitches of the first droste step become the twisted legs in the second droste step.
@@ -161,6 +161,12 @@ The four ll's in three stitches of the first droste step become the twisted legs
 The columns _first/second droste step_ assume that the initial stitch is applied to the stitch with ID _g1_.
 Replace the _g1_ ID prefixes with the proper value.
 See [how to](#how-to) for more details, in that explanation the initial stitches are plaits of three threads.
+A few examples for configurations with four initial stitches each:
+
+[![](diamond-4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)
+[![](diamond-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)
+[![](square4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)
+[![](square-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)
 
 ### More notes
 

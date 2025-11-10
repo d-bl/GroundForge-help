@@ -100,7 +100,7 @@ Base  | Base &rarr; First Level    | First level     | [Whiting catalogue](/gw-l
 Experiment
 -------------------------
 
-For the base pattern, start with something small.  For example, enter an even number of alternating rows of `8`'s and `1`'s or `-`'s and `5`'s in the [Pattern definition](https://d-bl.github.io/GroundForge/pattern) page. Then click on the blue square of the simple layout (see below).  Next follow the link to _stitches and threads_ and finally follow the link to the _Thread diagram as pair diagram_ page. Each page has a link back to the previous page and a button to show page specific help subjects.
+For the base pattern, start with something small.  For example, enter an even number of alternating rows of `8`'s and `1`'s or `-`'s and `5`'s in the [Pattern definition](/GroundForge/pattern) page. Then click on the blue square of the simple layout (see below).  Next follow the link to _stitches and threads_ and finally follow the link to the _Thread diagram as pair diagram_ page. Each page has a link back to the previous page and a button to show page specific help subjects.
 
 Remember to keep the swatch size small.  A large swatch size may be very slow. 
 

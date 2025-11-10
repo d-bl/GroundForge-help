@@ -27,7 +27,7 @@ Arrow legend
 * black: links
 * blue: download/upload alias import/export
 * dashed: recovery for third party sites, older pages may link to an obsolete page.
-  See also [404](https://d-bl.github.io/GroundForge/404)
+  See also [404](/GroundForge/404)
 
 1. Use the pattern below to experiment with _stitches and threads_.
 2. Use the _thread diagram as pair diagram_.
@@ -46,7 +46,7 @@ When the menu is hidden, the links 1-4 are just below this button.
 The other pages have a single link or a short story linking to tutorials and/or help pages.
 Both types of help pages would clutter the overview.
 Connecting the snow mixer (_**mix4snow**_) would also clutter the overview, it has a
-[navigation](https://d-bl.github.io/GroundForge-help/snow-mix/#footside-detour-navigation)
+[navigation](/GroundForge-help/snow-mix/#footside-detour-navigation)
 section in its own tutorial.
 
 Help pages and galleries have a sidebar with links to other help pages respectively pages in the same gallery.

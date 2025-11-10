@@ -17,8 +17,8 @@ Shorthand fur using thread diagrams as pair diagrams.
 See wikipedia for a more general meaning of the droste effect. 
 For example in a diamond mesh [ctct] becomes a rose ground and [ct] a Paris ground.
 
-[ctct]: https://d-bl.github.io/GroundForge/droste.html?patchWidth=7&patchHeight=10&footside=----,---b,&tile=5-&headside=-,c,&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&e1=ctct&l2=ttt&d2=ttt&droste2=c,e14=e15=ct,e10=e11=e12=e13=ctct
-[ct]: https://d-bl.github.io/GroundForge/droste.html?patchWidth=7&patchHeight=10&footside=----,---b,&tile=5-&headside=-,c,&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&e1=ct&p2=ttt&d2=ttt&l2=ttt&droste2=c,e10=e11=e12=ctct#
+[ctct]: /GroundForge/droste.html?patchWidth=7&patchHeight=10&footside=----,---b,&tile=5-&headside=-,c,&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&e1=ctct&l2=ttt&d2=ttt&droste2=c,e14=e15=ct,e10=e11=e12=e13=ctct
+[ct]: /GroundForge/droste.html?patchWidth=7&patchHeight=10&footside=----,---b,&tile=5-&headside=-,c,&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1&e1=ct&p2=ttt&d2=ttt&l2=ttt&droste2=c,e10=e11=e12=ctct#
 
 ## Force graphs 
 
