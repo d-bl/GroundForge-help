@@ -163,10 +163,10 @@ Replace the _g1_ ID prefixes with the proper value.
 See [how to](#how-to) for more details, in that explanation the initial stitches are plaits of three threads.
 A few examples for configurations with four initial stitches each:
 
-[![](diamond-4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)
-[![](diamond-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)
-[![](square4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)
-[![](square-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)
+[![](diamond-4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)  
+[![](diamond-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)  
+[![](square4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)  
+[![](square-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)  
 
 ### More notes
 
