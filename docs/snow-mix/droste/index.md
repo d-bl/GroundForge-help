@@ -133,7 +133,7 @@ and can cause problems outside the mixer.
 It is impossible to be exhaustive, the table below is just a start.
 See also [MAE-gf](/MAE-gf/docs/spin_08).
 
-| **initial stitch** <br> &nbsp; | **first droste step** <br> [note about g1](#more-notes)                                                       | **second droste step** <br> &nbsp;                                                                                                  |
+| **initial stitch** <br> &nbsp; | **first droste step** <br> [note about g1](#stitch-ids)                                                       | **second droste step** <br> &nbsp;                                                                                                  |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | ctcctct                        | g13=ctcctc <br> g18=g19=tt                                                                                    | g133=ctcctc <br> g180=g181=g190=g191=tt                                                                                             |
 | ![](ctcctct.png)               | ![](ctcctct-step1.png) ![](ctcctct-threads.png) <br> [note about the legs](#crossed-legs-in-both-steps)       | ![](ctcctct-step2.png)                                                                                                              |
@@ -144,7 +144,7 @@ See also [MAE-gf](/MAE-gf/docs/spin_08).
 
 ### Crossed legs in both steps
 The first example is a traditional
-[spider](GroundForge/droste.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-&headside=c,-&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1&m1=ctctt&g1=ctcctct&f2=ctctt&droste2=g18=g19=tt,g13=ctcctc&droste3=g180=g181=g190=g191=tt,g133=ctcctc).
+[spider](/GroundForge/droste.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-&headside=c,-&shiftColsSW=-2&shiftRowsSW=0&shiftColsSE=1&shiftRowsSE=1&m1=ctctt&g1=ctcctct&f2=ctctt&droste2=g18=g19=tt,g13=ctcctc&droste3=g180=g181=g190=g191=tt,g133=ctcctc).
 Note that leading/trailing twists in the initial stitch cause crossed legs in the pair diagram of the first droste step.
 Assigning just twists to these stitches nicely separates the legs into twisted pairs.
 Due to the nature of the droste effect, that effect repeats in the second droste step.
@@ -156,9 +156,13 @@ So we can't use the crossed legs trick in the first droste step,
 we have to add the legs to other stitches.
 The four ll's in three stitches of the first droste step become the twisted legs in the second droste step.
 
-### More notes
-Replace _g1_ with the ID of the stitch you want in the pattern of your choice.
+### Stitch ID's
+
+The columns _first/second droste step_ assume that the initial stitch is applied to the stitch with ID _g1_.
+Replace the _g1_ ID prefixes with the proper value.
 See [how to](#how-to) for more details, in that explanation the initial stitches are plaits of three threads.
+
+### More notes
 
 Repeated actions (repeated twists or repeated crosses)
 become a single stitch when a thread diagram is used as pair diagram.
