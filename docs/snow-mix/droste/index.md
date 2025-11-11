@@ -18,7 +18,7 @@ More freedom
 
 With two [droste](Glossary#droste)  steps you have way more options
 to combine snowflakes than with the [snow mixer](/GroundForge/mix4snow).
-The mixer combines four snowflakes only in the first configuration shown below.
+The mixer combines four snowflakes like the first configuration shown below.
 With two droste steps you can assign a recipe to any stitch in any pattern,
 so even way more than the four configurations below.
 The price for the freedom: more steps to apply a predefined recipe,
@@ -65,8 +65,8 @@ before re-rendering the thread diagram. Otherwise, the changes don't appear.
 Double worker pairs
 -------------------
 
-Another example turns the worker pair of the initial pair diagram
-into two workers going together from left to right, 
+Two of the example configurations [above](#more-freedom) haver worker pairs in the initial pair diagram
+These pairs become two workers going together from left to right, 
 negotiate a footside and return together through the next row of snowflakes.
 
 ![](square.png)
