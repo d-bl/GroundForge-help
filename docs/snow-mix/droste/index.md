@@ -151,7 +151,8 @@ See also [MAE-gf](/MAE-gf/docs/spin_08).
 
 ### Stitch ID's
 
-The columns _first/second droste step_ assume that the initial stitch is applied to the stitch with ID _g1_.
+The columns _first/second droste step_ assume that the initial stitch is applied to the stitch with ID _g1_.  
+![](id-g6.png)  
 As you can apply the recipes to any stitch in any pattern,
 you will have to replace the _g1_ ID prefixes with the proper value.
 See also [how to](#how-to) for more details, in that explanation the initial stitches are plaits of three threads.
