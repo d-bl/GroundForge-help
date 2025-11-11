@@ -18,9 +18,16 @@ More freedom
 
 With two [droste](Glossary#droste)  steps you have way more options
 to combine snowflakes than with the [snow mixer](/GroundForge/mix4snow).
-The mixer only allows to assign stitches to one or four snowflakes.
+The mixer combines four snowflakes only in the first configuration shown below.
+With two droste steps you can assign a recipe to any stitch in any pattern,
+so even way more than the four configurations below.
 The price for the freedom: more steps to apply a predefined recipe,
 that takes only two clicks with the mixer.
+
+[![](diamond-4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)  
+[![](diamond-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)  
+[![](square4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)  
+[![](square-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)
 
 How to
 ------
@@ -133,14 +140,21 @@ and can cause problems outside the mixer.
 It is impossible to be exhaustive, the table below is just a start.
 See also [MAE-gf](/MAE-gf/docs/spin_08).
 
-| **initial stitch** <br> &nbsp; | **first droste step** <br> [note about g1](#stitch-ids)                                                       | **second droste step** <br> &nbsp;                                                                                                  |
-|--------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| ctcctct                        | g13=ctcctc <br> g18=g19=tt                                                                                    | g133=ctcctc <br> g180=g181=g190=g191=tt                                                                                             |
-| ![](ctcctct.png)               | ![](ctcctct-step1.png) ![](ctcctct-threads.png) <br> [note about the legs](#crossed-legs-in-both-steps)       | ![](ctcctct-step2.png)                                                                                                              |
-| rctcr                          | g10=cl <br> g11=llclcr <br> g12=llclcrclcll <br> g13=crclcrcl <br> g14=clcrll <br> g15=c                      | g100=g150=c <br> g110=g120=g128=g144=tt <br> ![img.png](ndb-9Z.png) <br> [other note about legs](#crossed-legs-in-second-step-only) |
-| clctcrct                       | g10=g17=c <br> g11=rclcr <br> g12=crc <br> g13=rctc <br> g14=ctcl <br> g15=clcr <br> g16=crcl <br> g18=g19=tt | g100=g170=c <br> g180=g181=g190=g191=tt <br> ![](ndb-10N.png)                                                                       |
-| ctct                           | g11=g12=ctctc <br> g14=g15=tt                                                                                 | ![](spider.png)                                                                                                                     |
-| ctct                           | g11=ctcrctc <br> g12=ctclctc <br> g14=g15=tt                                                                  | ![](double-eyed-spider.png)                                                                                                         |
+| **initial stitch** <br> &nbsp; | **first droste step** <br> [note about ID's (g1)](#stitch-ids)                                                                                           | **second droste step** <br> &nbsp;                                   |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| ctcctct                        | g13=ctcctc <br> g18=g19=tt                                                                                                                               | g133=ctcctc <br> g180=g181=g190=g191=tt                              |
+| ![](ctcctct.png)               | ![](ctcctct-step1.png) ![](ctcctct-threads.png) <br> [note about the legs](#crossed-legs-in-both-steps)                                                  | ![](ctcctct-step2.png)                                               |
+| rctcr                          | g10=cl <br> g11=llclcr <br> g12=llclcrclcll <br> g13=crclcrcl <br> g14=clcrll <br> g15=c <br> [other note about legs](#crossed-legs-in-second-step-only) | g100=g150=c <br> g110=g120=g128=g144=tt <br> ![img.png](ndb-9Z.png)  |
+| clctcrct                       | g10=g17=c <br> g11=rclcr <br> g12=crc <br> g13=rctc <br> g14=ctcl <br> g15=clcr <br> g16=crcl <br> g18=g19=tt                                            | g100=g170=c <br> g180=g181=g190=g191=tt <br> ![](ndb-10N.png)        |
+| ctct                           | g11=g12=ctctc <br> g14=g15=tt                                                                                                                            | ![](spider.png)                                                      |
+| ctct                           | g11=ctcrctc <br> g12=ctclctc <br> g14=g15=tt                                                                                                             | ![](double-eyed-spider.png)                                          |
+
+### Stitch ID's
+
+The columns _first/second droste step_ assume that the initial stitch is applied to the stitch with ID _g1_.
+As you can apply the recipes to any stitch in any pattern,
+you will have to replace the _g1_ ID prefixes with the proper value.
+See also [how to](#how-to) for more details, in that explanation the initial stitches are plaits of three threads.
 
 ### Crossed legs in both steps
 The first example is a traditional
@@ -155,18 +169,6 @@ The initial stitch in the second example uses all twists for the "[bolletje](/Gr
 So we can't use the crossed legs trick in the first droste step,
 we have to add the legs to other stitches.
 The four ll's in three stitches of the first droste step become the twisted legs in the second droste step.
-
-### Stitch ID's
-
-The columns _first/second droste step_ assume that the initial stitch is applied to the stitch with ID _g1_.
-Replace the _g1_ ID prefixes with the proper value.
-See [how to](#how-to) for more details, in that explanation the initial stitches are plaits of three threads.
-A few examples for configurations with four initial stitches each:
-
-[![](diamond-4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)  
-[![](diamond-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)  
-[![](square4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)  
-[![](square-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)  
 
 ### More notes
 
