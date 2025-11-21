@@ -54,9 +54,9 @@ Each node is replaced with a set of linked nodes as defined by the sequence of t
 To keep track of the threads while constructing the diagram, 
 the algorithm figures out a working order to create the lace just like a real lace maker does.
 
-[adjust]: https://github.com/d-bl/GroundForge/blob/master/docs/js/tiles.js#L105
-[hook]: https://github.com/d-bl/GroundForge/blob/master/docs/js/tiles.js#L91-L93
-[D3jsSVG]: https://github.com/d-bl/GroundForge/blob/master/src/main/scala/dibl/D3jsSVG.scala
+[adjust]: https://github.com/d-bl/GroundForge/blob/2019-Q2/docs/js/tiles.js#L105
+[hook]: https://github.com/d-bl/GroundForge/blob/2019-Q2/docs/js/tiles.js#L91-L93
+[D3jsSVG]: https://github.com/d-bl/GroundForge/blob/2019-Q2/src/main/scala/dibl/D3jsSVG.scala
 [link]: https://github.com/d-bl/GroundForge/blob/918ab7aa3601e709475aa4b80baa388f2bd1161e/src/main/scala/dibl/LinkProps.scala#L36-L44
 [node]: https://github.com/d-bl/GroundForge/blob/918ab7aa3601e709475aa4b80baa388f2bd1161e/src/main/scala/dibl/NodeProps.scala#L27-L32
 [TesselaceThumbs]: https://github.com/d-bl/GroundForge/blob/918ab7aa3601e709475aa4b80baa388f2bd1161e/src/test/scala/dibl/TesselaceThumbs.scala#L66
