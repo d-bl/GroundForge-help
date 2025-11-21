@@ -5,7 +5,7 @@ title: a suite of projects and applications
 Glossary
 ========
 
-See also [icons](GroundForge-help/Icons)
+See also [icons](/GroundForge-help/Icons)
 
 ## D-BL
 

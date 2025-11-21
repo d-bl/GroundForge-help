@@ -24,10 +24,10 @@ so even way more than the four configurations below.
 The price for the freedom: more steps to apply a predefined recipe,
 that takes only two clicks with the mixer.
 
-[![](diamond-4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)  
-[![](diamond-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)  
-[![](square4-brick.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)  
-[![](square-4-bathroom.png)](/GroundForge/stitches.html?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)
+[![](diamond-4-brick.png)](/GroundForge/stitches?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)  
+[![](diamond-4-bathroom.png)](/GroundForge/stitches?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=5-,-5,5-,-5&headside=c,-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=4&m1=ctctt&g1=clctcrct&h2=ctc&f2=ctctt&g3=ctc&h4=ctc)  
+[![](square4-brick.png)](/GroundForge/stitches?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=-1&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)  
+[![](square-4-bathroom.png)](/GroundForge/stitches?patchWidth=6&patchHeight=6&footside=------,-----b,&tile=11,88&headside=c,-&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&m1=ctctt&h1=ctc&g1=clctcrct&h2=ctc&g2=ctc&f2=ctctt)
 
 How to
 ------
@@ -86,7 +86,7 @@ With the droste method we get asymmetrical connections for 3/6 pair connections.
 [asymmetrical](/GroundForge/stitches?patchWidth=10&patchHeight=14&tile=5-5-,-5-5&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2&c1=ct&a1=rcrc&d2=cr&b2=ct):
 ![](asym2.png)
 
-Note that with 4/8 pairs we can't divide the pairs into three groups, so we need more to distinguish spiders from snow.
+Note that with 4/8 pairs we can't divide the pairs into three groups, so this is not enough tell spiders from snow.
 
 
 3/6 pair recipes
@@ -179,3 +179,8 @@ become a single stitch when a thread diagram is used as pair diagram.
 The [blob analysis](/GroundForge-help/snow-mix/#blob-analysis)
 (to capture new spiders/bollletjes) needs slightly different rules.
 The blobs are not only left or right, we also have blobs in the center.
+
+Patterns like [wobble](MAE-gf/docs/droste#wobble)
+can be created with a single droste step.
+Use alternating initial stitches, combine for example _c_ with _tctct_ for plain rose ground units, 
+or with _tclcrct_ or _tcrclct_ for bias units.

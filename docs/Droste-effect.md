@@ -40,7 +40,7 @@ The IDs on the left side of the added equations come from the right side of the 
 ![](images/assign-stitch.png)  
 The actions on the right side of the equations come from the input box shown above.
 You can type your own set of actions in this box or select a stitch from the gallery.
-The [color code](color-rules) in front of the input box changes along with the content of the input box.
+The [color code](/GroundForge-help/color-rules) in front of the input box changes along with the content of the input box.
 
 The list of equations may grow long and contain duplicates.
 The last occurrence for an ID is the one that counts.

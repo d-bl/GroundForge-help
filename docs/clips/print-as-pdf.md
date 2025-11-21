@@ -10,7 +10,7 @@ The soundless video clip shows Firefox, details may vary by browser.
 
 <video controls style="border: 1px solid; padding-top: 2px;">
     <source src="print-as-pdf.mp4" type="video/mp4">
-    Your browser does not support an inline <a href="print as pdf">video</a>.
+    Your browser does not support an inline <a href="print-as-pdf">video</a>.
 </video>  
 
 * The print dialog of your browser has a destination option PDF.

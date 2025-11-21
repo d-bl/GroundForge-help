@@ -25,7 +25,7 @@ Table of contents
 * [Symmetry on a diagonal net](#symmetry-on-a-diagonal-net)
   * [What the flip buttons do](#what-the-flip-buttons-do)
   * [Internal symmetry](#internal-symmetry)
---* [Symmetry on a horizontal net](#symmetry-on-a-horizontal-net)
+* [Symmetry on a horizontal net](#symmetry-on-a-horizontal-net)
 * [Wrapping up](#wrapping-up)
 
 Symmetry on a diagonal net

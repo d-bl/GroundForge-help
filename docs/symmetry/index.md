@@ -69,7 +69,7 @@ These pages use uploads of files downloaded from the symmetry page.
 As of this writing (September 2025) we have:
 
 * A new style of [thread diagrams](/GroundForge/p2t) for the primary template.
-* A page with correct tooltips for [flipped versions](GroundForge/reflect) of the template.
+* A page with correct tooltips for [flipped versions](/GroundForge/reflect) of the template.
 
 It needs more water under the bridge to create
 thread diagrams for the flipped templates too,

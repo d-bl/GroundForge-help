@@ -77,7 +77,7 @@ The linked page:
 * Is called _stitches_ in the page address and _stitches and threads_ in the subtitle.
 * Starts with a button that can reveal help links.
 * Has a similar gallery of stitches (and an input box with flip buttons) as the _nets_ page.
-  The difference is a [color code](color-rules) for each stitch. This color code supports unorthodox stitches.
+  The difference is a [color code](/GroundForge-help/color-rules) for each stitch. This color code supports unorthodox stitches.
   The pair diagram next to the thread diagrams uses the same color code.
 
 First steps:
@@ -103,7 +103,7 @@ With some experience in customizing patterns, it becomes easier to create
 your own patterns with not provided combinations of stitches or even unrelated stitches.
 The page [embelished clothwork](/MAE-gf/docs/ec)
 provides starting points for horizontal nets with other dimensions than two by two stitches.  
-An [e-book](https://www.patreon.com/theadventurouslacemakers/shop/embellished-clothwork-ebook-by-marian-221058?source=storefront)
+An [e-book](https://www.theadventurouslacemakers.com/shop/e/Embellished-Clothwork-an-e-book-by-Marian-Tempels-p665073529)
 with the same name applies the horizontal nets in motives.
 
 See also [MAE-nets](/MAE-gf/docs/nets) for other types of nets.

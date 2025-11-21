@@ -32,7 +32,7 @@ In some cases it may be relatively easy to see how one pattern is reshaped in an
 
 ![](images/reshape.png)
 
-The [Tesselace index](tesselace-to-gf/) has computer generated variants (families of patterns) for some traditional grounds. 
+The [Tesselace index](/tesselace-to-gf) has computer generated variants (families of patterns) for some traditional grounds. 
 
 
 Make variations in general terms

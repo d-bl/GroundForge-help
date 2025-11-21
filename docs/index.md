@@ -24,7 +24,7 @@ For example the [diagrams] for  G-2 (column G, row 2) in the [Whiting catalogue]
 [diagrams]: /GroundForge/stitches?whiting=G2_P199&patchWidth=14&patchHeight=13&f1=ctctt&a1=ctcctc&j2=ctc&i2=ctcll&h2=ctctt&g2=ctctt&f2=ctctt&e2=ctctt&d2=ctctt&c2=ctcrrr&b2=ctc&j3=ctcll&i3=ctctt&h3=ctctt&g3=ctcttl&f3=ctc&e3=ctcttr&d3=ctctt&c3=ctctt&b3=ctcrrr&a3=ctc&j4=ctctt&i4=ctctt&h4=ctcttl&g4=ctc&f4=ctc&e4=ctc&d4=ctcttr&c4=ctctt&b4=ctctt&a4=ctcttt&j5=ctctt&i5=ctcttl&h5=ctc&g5=ctc&e5=ctc&d5=ctc&c5=ctcttr&b5=ctctt&a5=ctctt&tile=5----5----,-CDD632AAB,5666632222,5666632222,56666-2222&tileStitch=ctct&shiftColsSW=-5&shiftRowsSW=5&shiftColsSE=5&shiftRowsSE=5
 
 ## Highlight a thread
-For each lace ground, GroundForge displays two generated drawings: a pair diagram (with a special [Colour Code](color-rules)) and a thread diagram. Help pages provide more information.
+For each lace ground, GroundForge displays two generated drawings: a pair diagram (with a special [Colour Code](/GroundForge-help/color-rules)) and a thread diagram. Help pages provide more information.
 You can show/hide them with a button just below the banner of the page.
 
 In the thread diagram, each thread has a small square at the start and a bobbin at the end. You may need to scroll the diagram to see them. Click on a square or bobbin to change the color of the thread. You can highlight more than one thread at a time. 

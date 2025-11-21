@@ -24,7 +24,7 @@ Just below the banner of the _stitches and threads_ page you can unfold help lin
 
 Below are four main variations showing the pair diagram coded with [4 colors] per stitch (top row) and the corresponding thread diagram (bottom row).
 
-[4 colors]: color-rules
+[4 colors]: /GroundForge-help/color-rules
 
 ![](images/kompakt-31.png)
 

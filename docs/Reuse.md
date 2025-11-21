@@ -17,7 +17,7 @@ and knowledge how to write them.
 ### 1. PDF or Link
 The most reliable and future-proof option is to share a PDF.
 For a linked screenshot snippet on your website you can use the link in the 
-[generated PDF](/GroundForge-help/clips/print-as-pf).
+[generated PDF](/GroundForge-help/clips/print-as-pdf).
 Please note the warning for the droste page.
 
 ### 2. Convenience forms
