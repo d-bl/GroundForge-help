@@ -34,7 +34,7 @@ The animation may quit too soon, resulting in stretch diagrams
 or even something that looks like throwing a fishing net that did not yet unfold.
 The resume button is there to continue the animation.
 
-Pair diagrams in the [stitches](GroundForge/stitches) don't start the animation at all.
+Pair diagrams in the [stitches](/GroundForge/stitches) don't start the animation at all.
 Using the resume button may bridge the difference in shapes of the holes between pattern definition and thread diagram.
 For example for [dropped stitches](Replace#drop-stitches) or irregular holes.
 An example of the latter is the TesseLace pattern [3x4_447](/GroundForge/stitches?TesseLace=3x4_447&patchWidth=12&patchHeight=12&tile=4-L8,-50F,56-O&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=0&)

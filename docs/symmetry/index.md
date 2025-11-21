@@ -59,7 +59,7 @@ the 4 colors per stitch approach.
 
 [symmetry]: /GroundForge/symmetry
 [conventions]: #file-structure
-[color code]: color-rules
+[color code]: ../color-rules
 
 Auxiliary pages
 ---------------

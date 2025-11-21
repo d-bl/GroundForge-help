@@ -6,6 +6,7 @@ title: Modify stitches
 Drop/restore stitches
 =======================
 
+[//]: #TODO (https://github.com/d-bl/GroundForge-help/commit/b4ddd8684421cbd06b97dd54e7c572a07ef4f285#diff-61b278c19cff1d636a5e54c840b30e33b7fd5d58c35161b96a8615707c220a98)
 ![](images/legend-and-ids.png)
 
 How to modify stitches is explained in the getting started [tutorial](../#modify-stitches).

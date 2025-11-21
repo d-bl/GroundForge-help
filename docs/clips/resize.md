@@ -18,4 +18,4 @@ The buttons demonstrated here are an alternative when the hot corner on panels i
 The buttons may be convenient on desktops/laptops that do have a hot corner.
 The hot corner sits in the south-east, where the sliders meet as shown below.
 
-![](images/resize.png)
+![](../images/resize.png)

@@ -16,7 +16,7 @@ Snow with two droste steps
 More freedom
 ------------
 
-With two [droste](Glossary#droste)  steps you have way more options
+With two [droste](/Glossary#droste)  steps you have way more options
 to combine snowflakes than with the [snow mixer](/GroundForge/mix4snow).
 The mixer combines four snowflakes like the first configuration shown below.
 With two droste steps you can assign a recipe to any stitch in any pattern,
@@ -180,7 +180,7 @@ The [blob analysis](/GroundForge-help/snow-mix/#blob-analysis)
 (to capture new spiders/bollletjes) needs slightly different rules.
 The blobs are not only left or right, we also have blobs in the center.
 
-Patterns like [wobble](MAE-gf/docs/droste#wobble)
+Patterns like [wobble](/MAE-gf/docs/droste#wobble)
 can be created with a single droste step.
 Use alternating initial stitches, combine for example _c_ with _tctct_ for plain rose ground units, 
 or with _tclcrct_ or _tcrclct_ for bias units.
