@@ -16,7 +16,7 @@ Snow with two droste steps
 More freedom
 ------------
 
-With two [droste](../Glossary#droste)  steps you have way more options
+With two [droste](/GroundForge/Glossary#droste)  steps you have way more options
 to combine snowflakes than with the [snow mixer](/GroundForge/mix4snow).
 The mixer combines four snowflakes like the first configuration shown below.
 With two droste steps you can assign a recipe to any stitch in any pattern,
