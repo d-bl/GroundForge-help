@@ -6,12 +6,11 @@ title: New pattern tutorial
 Creating a pattern definition
 ==============
 
-[lace ground page]: /GroundForge/tiles?tile=5831,-4-7&patchWidth=9&patchHeight=9&shiftColsSE=4&shiftRowsSE=2&shiftColsSW=0&shiftRowsSW=2&
+[lace ground page]: /GroundForge/pattern?tile=5831,-4-7&patchWidth=9&patchHeight=9&shiftColsSE=4&shiftRowsSE=2&shiftColsSW=0&shiftRowsSW=2&
 
 + [New Pattern Tutorial](#new-pattern-tutorial)
    + [Define the base pattern](#define-the-base-pattern)
    + [Glue copies together](#glue-copies-together)
-   + [Initialize stitches](#initialize-stitches)
 + [Footside Tutorial](#footside-tutorial)
 + [Thread diagram as pair diagram](#thread-diagram-as-pair-diagram)
 
@@ -55,7 +54,7 @@ Consider the image below. Red dashed lines show the grid overlaid on the pattern
 To position the blue rectangle on top of the green rectangle, we must slide the blue rectangle down 4 rows.
 To position the blue rectangle on top of the purple rectangle, we must slide it right 4 columns and down 4 rows.  These translation distances are the numbers that appear in the green and purple boxes.  You can also edit these slide moves directly in the number fields.
 
-[Final result](/GroundForge/tiles.html?patchWidth=7&patchHeight=7&c1=ctct&a1=ctct&d2=ctct&c2=ctct&b2=ctct&a2=ctct&c3=ctct&a3=ctct&d4=ctct&c4=ctct&b4=ctct&a4=ctct&tile=4-7-,1583,7-4-,8315&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4)
+[Final result](/GroundForge/pattern.html?patchWidth=7&patchHeight=7&c1=ctct&a1=ctct&d2=ctct&c2=ctct&b2=ctct&a2=ctct&c3=ctct&a3=ctct&d4=ctct&c4=ctct&b4=ctct&a4=ctct&tile=4-7-,1583,7-4-,8315&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=4)
 
 ### Creating a smaller base tile
 
@@ -71,7 +70,7 @@ For a vertical brick pattern first identify one brick and label each intersectio
 
 If the pattern does not immediately align correctly, click on the black arrows above and below the second column of bricks to adjust how the two columns of bricks align.  Each click will move the second column up or down by one row relative to the first column.  Look at the pattern diagram to see how the copies move around.
 
-[Final result](/GroundForge/tiles?patchWidth=13&patchHeight=10&a1=ctct&b2=ctct&a2=ct&a3=ctct&b4=ctct&a4=ct&tile=4-,15,7-,83,,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=2)
+[Final result](/GroundForge/pattern?patchWidth=13&patchHeight=10&a1=ctct&b2=ctct&a2=ct&a3=ctct&b4=ctct&a4=ct&tile=4-,15,7-,83,,&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=2)
 
 ### Overlap arrangement
 When a large part of the pattern is a hole, we can further decrease the size of the base tile using overlap.  In this case, the base tile does not include the hole.  In the figure below, the coloured squares each contain one copy of the pattern.  
@@ -91,16 +90,7 @@ It is important to have only one copy of each stitch in the pattern, otherwise u
 
 ![](images/rose-checker-define-repeat-2.png) 
 
-[Final result](/GroundForge/tiles?patchWidth=12&patchHeight=12&c1=ctct&b1=ctct&a1=ctct&c2=ctct&a2=ctct&c3=ctct&b3=ctct&a3=ctct&tile=831,4-7,158&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2)
-
-### Initialize stitches
-
-For convenience, you can set all stitches in the pattern to the same value.
-In the _Diagrams_ area, there is a text box above the pair diagram.
-Enter a stitch as a sequence of `c`, `t`, `r` or `l` (for example, `cttct`).
-Click on the _assign to all_ button and then on the ![wand](/GroundForge/images/wand.png) image to regenerate the thread and pair diagrams.
-This is a quick way to see how a ground looks in cloth-stitch, half-stitch or whole-stitch.
-To change individual stitches, change the text box again and click an intersection in the pair diagram.
+[Final result](/GroundForge/pattern?patchWidth=12&patchHeight=12&c1=ctct&b1=ctct&a1=ctct&c2=ctct&a2=ctct&c3=ctct&b3=ctct&a3=ctct&tile=831,4-7,158&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2)
 
 Footside Tutorial
 -----------------
@@ -116,7 +106,7 @@ First, we will consider the simple example of Torchon Ground.  Lay a square grid
 
 ![](images/simple-wavy-footside.png)
 
-Below is the [completed footside definition](/GroundForge/tiles?patchWidth=6&patchHeight=5&b1=ctct&footside=-,Y&tile=5-&headside=W,-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1). Footside definitions are repeated in one direction, like a frieze pattern.  In this example, the definition for the left footside of the Torchon ground is "-,Y" so the left footside will be "-,Y,-,Y,-,Y,..." for as many rows as are in the patch. Note that in this example, the footside definition has two rows while the ground definition only has one row.  The ground and footside definitions may not always have the same number of rows.
+Below is the [completed footside definition](/GroundForge/pattern?patchWidth=6&patchHeight=5&b1=ctct&footside=-,Y&tile=5-&headside=W,-&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=-1&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=1). Footside definitions are repeated in one direction, like a frieze pattern.  In this example, the definition for the left footside of the Torchon ground is "-,Y" so the left footside will be "-,Y,-,Y,-,Y,..." for as many rows as are in the patch. Note that in this example, the footside definition has two rows while the ground definition only has one row.  The ground and footside definitions may not always have the same number of rows.
 
 ![](images/simple-wavy-footside-prototype.png)
   
@@ -135,11 +125,11 @@ Below is [G-4 with left footside].  Notice the red box around "V,6" in the groun
 
 You can also create a traditional footside that has several [passives].
 
-[G-4]: /GroundForge/tiles?whiting=G4_P201&patchWidth=40&patchHeight=19&i1=ctctt&f1=ctc&e1=ctc&d1=ctc&c1=ctc&a1=ctctt&g2=ctc&i3=ctc&f3=ctc&e3=ctc&d3=ctc&c3=ctcll&a3=ctctt&n4=ctctt&l4=ctctt&j4=ctctt&h4=ctctt&f4=ctt&d4=ctcll&c4=ctcll&b4=ctctt&g5=ctctt&c5=ctctt&n6=ctctt&j6=ctctt&m7=c&k7=ctc&j7=ctc&i7=ctctt&g7=ctctt&e7=ctctt&c7=ctctt&a7=ctctt&tile=5-m998-z5-----,------5-------,g-aaab-wd-----,-246-m-l-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
+[G-4]: /GroundForge/pattern?whiting=G4_P201&patchWidth=40&patchHeight=19&i1=ctctt&f1=ctc&e1=ctc&d1=ctc&c1=ctc&a1=ctctt&g2=ctc&i3=ctc&f3=ctc&e3=ctc&d3=ctc&c3=ctcll&a3=ctctt&n4=ctctt&l4=ctctt&j4=ctctt&h4=ctctt&f4=ctt&d4=ctcll&c4=ctcll&b4=ctctt&g5=ctctt&c5=ctctt&n6=ctctt&j6=ctctt&m7=c&k7=ctc&j7=ctc&i7=ctctt&g7=ctctt&e7=ctctt&c7=ctctt&a7=ctctt&tile=5-m998-z5-----,------5-------,g-aaab-wd-----,-246-m-l-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
 
-[passives]: /GroundForge/tiles?patchWidth=19&patchHeight=21&y1=ctcttr&g1=ctct&a1=ctcttl&x2=ctc&w2=ctc&h2=ct&f2=ct&d2=ct&c2=ctc&b2=ctc&x3=ctcrr&w3=ctc&i3=ctct&g3=ctc&e3=ctct&d3=ct&c3=ctc&b3=ctcll&y4=ctcttr&x4=ctc&w4=ctc&h4=ctc&f4=ctc&c4=ctc&b4=ctc&a4=ctcttl&i5=ctc&h5=ctc&g5=ctc&f5=ctc&e5=ctc&d5=ct&g6=ctc&y7=ctcttr&x7=ctcrr&w7=ctc&i7=ctcr&h7=ctc&g7=ctc&f7=ctc&e7=ctcl&d7=ct&c7=ctc&b7=ctcll&a7=ctcttl&x8=ctc&w8=ctc&h8=ctcr&f8=ctcl&d8=ct&c8=ctc&b8=ctc&i9=ctct&g9=ctct&e9=ctct&x10=ctcrr&w10=ctc&h10=ct&f10=ct&d10=ct&c10=ctc&b10=ctcll&footside=B--,XCD,-11,B88,XXX,---,AAA,X78,X--,-AA&tile=---5--,D-B-C-,15-5-5,--5-5-,C63532,---5--,AAB3CD,8-5-5-,-5-5-5,B-5-5-&headside=--C,ABX,88-,11C,XXX,---,DDD,14X,--X,DD-&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=5
+[passives]: /GroundForge/pattern?patchWidth=19&patchHeight=21&y1=ctcttr&g1=ctct&a1=ctcttl&x2=ctc&w2=ctc&h2=ct&f2=ct&d2=ct&c2=ctc&b2=ctc&x3=ctcrr&w3=ctc&i3=ctct&g3=ctc&e3=ctct&d3=ct&c3=ctc&b3=ctcll&y4=ctcttr&x4=ctc&w4=ctc&h4=ctc&f4=ctc&c4=ctc&b4=ctc&a4=ctcttl&i5=ctc&h5=ctc&g5=ctc&f5=ctc&e5=ctc&d5=ct&g6=ctc&y7=ctcttr&x7=ctcrr&w7=ctc&i7=ctcr&h7=ctc&g7=ctc&f7=ctc&e7=ctcl&d7=ct&c7=ctc&b7=ctcll&a7=ctcttl&x8=ctc&w8=ctc&h8=ctcr&f8=ctcl&d8=ct&c8=ctc&b8=ctc&i9=ctct&g9=ctct&e9=ctct&x10=ctcrr&w10=ctc&h10=ct&f10=ct&d10=ct&c10=ctc&b10=ctcll&footside=B--,XCD,-11,B88,XXX,---,AAA,X78,X--,-AA&tile=---5--,D-B-C-,15-5-5,--5-5-,C63532,---5--,AAB3CD,8-5-5-,-5-5-5,B-5-5-&headside=--C,ABX,88-,11C,XXX,---,DDD,14X,--X,DD-&footsideStitch=ctct&tileStitch=ctc&headsideStitch=ctct&shiftColsSW=0&shiftRowsSW=10&shiftColsSE=6&shiftRowsSE=5
 
-[G-4 with left footside]: /GroundForge/tiles?patchWidth=28&patchHeight=40&l1=ctctt&i1=ctc&h1=ctc&g1=ctc&f1=ctc&d1=ctctt&j2=ctcrr&l3=ctctt&i3=ctc&h3=ctc&g3=ctc&f3=ctcll&d3=ctctt&q4=ctctt&o4=ctctt&m4=ctctt&k4=ctctt&i4=ctt&g4=ctcll&f4=ctcll&e4=ctctt&c4=ctctt&a4=ctctt&j5=ctctt&f5=ctctt&q6=ctctt&m6=ctctt&c6=ctctt&p7=c&n7=ctc&m7=ctc&l7=ctctt&j7=ctctt&h7=ctctt&f7=ctctt&d7=ctctt&c7=ctctt&c9=ctctt&a9=ctctt&c11=ctctt&c12=ctctt&c14=ctctt&a14=ctctt&footside=X--,X--,---,G-E,XW-,X-C,X-1,-Y-,B-B,XW-,X-C,X-4,-Y-,B-N&tile=5-m998-z5-----,------5-------,g-aaab-wd-----,-246-mv6-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
+[G-4 with left footside]: /GroundForge/pattern?patchWidth=28&patchHeight=40&l1=ctctt&i1=ctc&h1=ctc&g1=ctc&f1=ctc&d1=ctctt&j2=ctcrr&l3=ctctt&i3=ctc&h3=ctc&g3=ctc&f3=ctcll&d3=ctctt&q4=ctctt&o4=ctctt&m4=ctctt&k4=ctctt&i4=ctt&g4=ctcll&f4=ctcll&e4=ctctt&c4=ctctt&a4=ctctt&j5=ctctt&f5=ctctt&q6=ctctt&m6=ctctt&c6=ctctt&p7=c&n7=ctc&m7=ctc&l7=ctctt&j7=ctctt&h7=ctctt&f7=ctctt&d7=ctctt&c7=ctctt&c9=ctctt&a9=ctctt&c11=ctctt&c12=ctctt&c14=ctctt&a14=ctctt&footside=X--,X--,---,G-E,XW-,X-C,X-1,-Y-,B-B,XW-,X-C,X-4,-Y-,B-N&tile=5-m998-z5-----,------5-------,g-aaab-wd-----,-246-mv6-o-k-e,--5---5---y-w-,---w-y---b---c,h-g-5-n-l3h-e-,&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-7&shiftRowsSW=7&shiftColsSE=7&shiftRowsSE=7
 
 Thread diagram as pair diagram
 ------------------------------
