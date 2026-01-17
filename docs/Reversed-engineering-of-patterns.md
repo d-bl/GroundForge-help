@@ -17,7 +17,7 @@ Different methods allow to reproduce a pattern with GroundForge.
 Recognize patterns
 ------------------
 
-The [catalogue pages](/GroundForge) are the easiest way to start experimenting with grounds.
+The [gallery pages](/GroundForge) are the easiest way to start experimenting with grounds.
 
 The generated pair diagrams don't care about plaits and something-pin-something
 and draw them as plain cloth stitches.

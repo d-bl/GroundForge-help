@@ -17,8 +17,8 @@
 * [Customize diagrams](/GroundForge-help/index)
 * [Reshape pair diagrams](/GroundForge-help/Reshape-Patterns)
 * Advanced
+  * [Transform patterns](/GroundForge-help/transform)
   * [Create a pattern](/GroundForge-help/Advanced)
-  * [Printed patterns to GF](/GroundForge-help/Reversed-engineering-of-patterns)
   * [Droste effect](/GroundForge-help/Droste-effect)
 
 ### Snow mixer

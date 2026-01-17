@@ -33,7 +33,7 @@ How to
 ------
 
 ![](first-thread.png?align=right)
-You can select any pattern from any catalogue and use plaits with three threads as stitches,
+You can select any pattern from any gallery and use plaits with three threads as stitches,
 for example _lclc_ or _rcrcrc_ between other stitches (or not). 
 This looks like highlighted in the image on the right.
 

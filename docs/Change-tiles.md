@@ -25,7 +25,7 @@ The "Tile layout" panel controls the way a base pattern repeats.
 The video above shows what happens with the diagram (and status bar of the browser)
 when executing the steps numbered in the image below. 
 The video uses ground [F4](/GroundForge/pattern?whiting=F4_P180&patchWidth=9&patchHeight=9&d1=ctc&c1=ctc&b1=ctc&a1=ctc&d2=ctc&c2=ctcllctc&a2=ctcrrctc&tile=1483,8-48&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2)
-by Gertrude Whiting as defined in the [catalogue](/gw-lace-to-gf).
+by Gertrude Whiting as defined in the [gallery](/gw-lace-to-gf).
 The very last action (not numbered) would bring you back to this page.
 
 ![](images/brick-to-overlap-order.png)
