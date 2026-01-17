@@ -3,10 +3,11 @@ layout: default
 title: Transformations
 ---
 
-Picking a pattern from a [gallery](/) and changing stitches is the easiest way to start experiment with grounds.
+Picking a pattern from a [gallery](/) and [changing stitches](/GroundForge-help/index#modify-stitches)
+is the easiest way to start experiment with grounds.
 For some more background and to help recognize patterns, this page shows how patterns are transformed.
 
-![](gms-3086.png?align=left?align=left) In [literature](/MAE-gf/docs/literature), you may find patterns like
+![](gms-3086.png?align=left) In [literature](/MAE-gf/docs/literature), you may find patterns like
 3086 of “Gründe mit System” by Uta Ulrich, similar to F4 (though no corner pins are used) in the gallery
 created from the sampler of mrs Whiting. Please click the wand for the thread diagram of [F4].
 See also the  [MAE-gf](/MAE-gf/docs/bias#bias-ground-crossed-rose-style) gallery.
@@ -14,11 +15,11 @@ See also the  [MAE-gf](/MAE-gf/docs/bias#bias-ground-crossed-rose-style) gallery
 
 [F4]: /GroundForge/stitches?whiting=F4_P180&patchWidth=9&patchHeight=9&d1=ctc&c1=ctc&b1=ctc&a1=ctc&d2=ctc&c2=ctcllctc&a2=ctcrrctc&tile=1483,8-48&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
-![](plaits.png?align=left?align=left) GroundForge does not know how to draw pins, so stitch-pin-stitch becomes a kind of short plait.
+![](plaits.png?align=left) GroundForge does not know how to draw pins, so stitch-pin-stitch becomes a kind of short plait.
 Hence, the first transformation step is drawing straight lines from pin to pin.
 <p style="clear: both"></p>
 
-![](snap.png?align=left?align=left) GroundForge also wants stitches at grid positions. So we move some intersections to the nearest grid position.
+![](snap.png?align=left) GroundForge also wants stitches at grid positions. So we move some intersections to the nearest grid position.
 <p style="clear: both"></p>
 
 ![](squeeze.png?align=left) An optional step is to squeeze the pattern to make it more compact.
