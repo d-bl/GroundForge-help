@@ -3,6 +3,9 @@ layout: default
 title: Transformations
 ---
 
+Transformations
+===============
+
 Picking a pattern from a [gallery](/) and [changing stitches](/GroundForge-help/index#modify-stitches)
 is the easiest way to start experiment with grounds.
 For some more background and to help recognize patterns, this page shows how patterns are transformed.
@@ -24,7 +27,7 @@ Hence, the first transformation step is drawing straight lines from pin to pin.
 <p style="clear: both"></p>
 
 ![](encoded.png?align=left) Then, we can [encode](/GroundForge-help/Advanced) the pattern in GroundForge and [assign stitches](/GroundForge-help/index#modify-stitches).
-For F4 that are cloth stitches and winkie pins: cloth stitch, twist one pair around a pin, cloth stitc.
+For F4 that are cloth stitches and winkie pins. In this case, the winkie pin is: cloth stitch, twist one pair twice around a pin, cloth stitc.
 Remember that GroundForge does not draw pins and treats the winkie pin as a single stitch.
 <p style="clear: both"></p>
 
