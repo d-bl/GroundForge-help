@@ -1,4 +1,4 @@
-## [Home](https://d-bl.github.io) &mdash; <a href="https://groundforge.wordpress.com" target="_blank">contact</a>
+## [Home](https://d-bl.github.io) &mdash; <a href="https://groundforge.wordpress.com" target="_blank">Contact</a>
 
 * * *
 
@@ -7,8 +7,8 @@
 * [Introduction](/GroundForge/)  
 * [Navigation](/GroundForge-help/navigation)  
 * [Icons](/GroundForge-help/Icons)  
-* [Glossary](/GroundForge-help/Glossary)  
 * [Color code](/GroundForge-help/color-rules) ![-](/GroundForge/images/to-color-rules.png)  
+* [Glossary](/GroundForge-help/Glossary)
 * [print as PDF](/GroundForge-help/clips/print-as-pdf)  
 
 ### Tutorials
@@ -18,15 +18,17 @@
 * [Reshape pair diagrams](/GroundForge-help/Reshape-Patterns)
 * [Demo with Binche sample](/GroundForge-help/Binche)
 * [Droste effect](/GroundForge-help/Droste-effect)
-* Capture patterns
-  * [Transform patterns](/GroundForge-help/transform)
-  * [Create a pattern](/GroundForge-help/Advanced)
 
 ### Snow mixer
 
 * [tutorials](/GroundForge-help/snow-mix/)
 * [two droste steps](/GroundForge-help/snow-mix/droste)
 * [experiments](/GroundForge-help/snow-mix/experiments)
+
+### Capture patterns
+
+* [Transform patterns](/GroundForge-help/transform)
+* [Create a pattern](/GroundForge-help/Advanced)
 
 ### Notes
 
