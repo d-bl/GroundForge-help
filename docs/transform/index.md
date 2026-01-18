@@ -8,12 +8,10 @@ is the easiest way to start experiment with grounds.
 For some more background and to help recognize patterns, this page shows how patterns are transformed.
 
 ![](gms-3086.png?align=left) In [literature](/MAE-gf/docs/literature), you may find patterns like
-3086 of “Gründe mit System” by Uta Ulrich, similar to F4 (though no corner pins are used) in the gallery
-created from the sampler of mrs Whiting. Please click the wand for the thread diagram of [F4].
+3086 of “Gründe mit System” by Uta Ulrich, similar to [F4](https://www.theedkins.co.uk/jo/lace/whiting/page180.htm)
+(though no corner pins are used) in the gallery created from the sampler of mrs Whiting.
 See also the  [MAE-gf](/MAE-gf/docs/bias#bias-ground-crossed-rose-style) gallery.
 <p style="clear: both"></p>
-
-[F4]: /GroundForge/stitches?whiting=F4_P180&patchWidth=9&patchHeight=9&d1=ctc&c1=ctc&b1=ctc&a1=ctc&d2=ctc&c2=ctcllctc&a2=ctcrrctc&tile=1483,8-48&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ![](plaits.png?align=left) GroundForge does not know how to draw pins, so stitch-pin-stitch becomes a kind of short plait.
 Hence, the first transformation step is drawing straight lines from pin to pin.
@@ -26,12 +24,15 @@ Hence, the first transformation step is drawing straight lines from pin to pin.
 <p style="clear: both"></p>
 
 ![](encoded.png?align=left) Then, we can [encode](/GroundForge-help/Advanced) the pattern in GroundForge and [assign stitches](/GroundForge-help/index#modify-stitches).
-In this case cloth stitches and winkie pins: cloth stitch, twist one pair around a pin, cloth stitc.
+For F4 that are cloth stitches and winkie pins: cloth stitch, twist one pair around a pin, cloth stitc.
 Remember that GroundForge does not draw pins and treats the winkie pin as a single stitch.
 <p style="clear: both"></p>
 
-![](thread.png?align=left) This thread diagram is the result.
+![](thread.png?align=left) This thread diagram is the [result], 
+please click the wand for the thread diagram after following the link.
 <p style="clear: both"></p>
+
+[result]: /GroundForge/stitches?whiting=F4_P180&patchWidth=9&patchHeight=9&d1=ctc&c1=ctc&b1=ctc&a1=ctc&d2=ctc&c2=ctcllctc&a2=ctcrrctc&tile=1483,8-48&footsideStitch=ctctt&tileStitch=ctc&headsideStitch=ctctt&shiftColsSW=-2&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=2
 
 ![img.png?align=left](droste.png?align=left) Another option is to interpret the pair diagram as thread diagram.
 A single unit of the ground uses four pairs. So we need only one stitch of four threaads: _clcrct_.
