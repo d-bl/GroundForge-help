@@ -1,25 +1,23 @@
-## [Home](https://d-bl.github.io) - <a href="https://groundforge.wordpress.com" target="_blank">contact</a>
+## [Home](https://d-bl.github.io) | <a href="https://groundforge.wordpress.com" target="_blank">Contact</a>
 
 * * *
 
 ## User guide
 
-[Introduction](/GroundForge/)  
-[Navigation](/GroundForge-help/navigation)  
-[Icons](/GroundForge-help/Icons)  
-[Glossary](/GroundForge-help/Glossary)  
-[Demo with Binche sample](/GroundForge-help/Binche)  
-[Color code](/GroundForge-help/color-rules) ![-](/GroundForge/images/to-color-rules.png)
+* [Introduction](/GroundForge/)  
+* [Navigation](/GroundForge-help/navigation)  
+* [Icons](/GroundForge-help/Icons)  
+* [Color code](/GroundForge-help/color-rules) ![-](/GroundForge/images/to-color-rules.png)  
+* [Glossary](/GroundForge-help/Glossary)
+* [print as PDF](/GroundForge-help/clips/print-as-pdf)  
 
 ### Tutorials
 
 * [Nets](/GroundForge-help/Nets)
 * [Customize diagrams](/GroundForge-help/index)
 * [Reshape pair diagrams](/GroundForge-help/Reshape-Patterns)
-* Advanced
-  * [Create a pattern](/GroundForge-help/Advanced)
-  * [Printed patterns to GF](/GroundForge-help/Reversed-engineering-of-patterns)
-  * [Droste effect](/GroundForge-help/Droste-effect)
+* [Demo with Binche sample](/GroundForge-help/Binche)
+* [Droste effect](/GroundForge-help/Droste-effect)
 
 ### Snow mixer
 
@@ -27,9 +25,13 @@
 * [two droste steps](/GroundForge-help/snow-mix/droste)
 * [experiments](/GroundForge-help/snow-mix/experiments)
 
+### Capture patterns
+
+* [Transform patterns](/GroundForge-help/transform)
+* [Create a pattern](/GroundForge-help/Advanced)
+
 ### Notes
 
-* [print as PDF](/GroundForge-help/clips/print-as-pdf)
 * [Pin distances and angles](/GroundForge-help/Pin-distances-and-angles)
 * [Head/foot-sides](/GroundForge-help/footsides)
 
