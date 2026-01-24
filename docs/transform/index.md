@@ -7,8 +7,12 @@ Transformations
 ===============
 
 Picking a pattern from a [gallery](/) and [changing stitches](/GroundForge-help/index#modify-stitches)
-is the easiest way to start experiment with grounds.
-For some more background and to help recognize patterns, this page shows how patterns are transformed.
+is the easiest way to start experimenting with GroundForge.
+Capturing patterns may require some distortions of a traditional technical drawing.
+This page illustrates the transformation proces.
+
+An example
+----------
 
 ![](gms-3086.png?align=left) In [literature](/MAE-gf/docs/literature), you may find patterns like
 3086 of “Gründe mit System” by Uta Ulrich, similar to [F4](https://www.theedkins.co.uk/jo/lace/whiting/page180.htm)

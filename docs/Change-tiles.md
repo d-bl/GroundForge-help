@@ -12,8 +12,8 @@ The "Tile layout" panel controls the way a base pattern repeats.
 | ![](images/blue-tile.png) | &nbsp;**1**&nbsp;<br><br> | Choose the initial layout of the tiles. |
 | ![](images/nudge-tiles.png) | **2**<br><br><br> | Fine tune the choice made above. <br> Each arrow nudges the green or purple tile (see the bottom of the video) one grid position. |
 | ![](images/green-tile.png) <br> ![](images/purple-tile.png) | **3**<br><br><br><br> | Values resulting from the actions above. <br> You can also enter the values manually, see this [tutorial section](Advanced#glue-copies-together). <br> Some browsers might show a red border when the values are problematic. These problems might only show up with larger swatches as empty corners. |
-| | | _A myriad of choices can render the same pattern, each has pros and cons._
-| ![](images/brick-to-overlap-choices.png) | **?**<br><br><br> | Tutorial sections explain how to find a [simple](Advanced#simple-arrangement) tile (for example the 4x4) a [brick](Advanced#creating-a-smaller-base-tile) (the 2x4) or [overlap](Advanced#overlap-arrangement) (the 3x3, recorded in the video). Bigger tiles are also possible.
+| | | _A myriad of choices can render the same pattern, each has pros and cons._ |
+| ![](images/brick-to-overlap-choices.png) | **?**<br><br><br> | Tutorial sections explain how to find a [simple](Advanced#simple-arrangement) tile (for example the 4x4) a [brick](Advanced#creating-a-smaller-base-tile) (the 2x4) or [overlap](Advanced#overlap-arrangement) (the 3x3, recorded in the video). Bigger tiles are also possible. |
 
 ### A quick example: 3x3 corner-to-corner => overlap
 
