@@ -14,7 +14,7 @@ This page illustrates the transformation proces.
 An example
 ----------
 
-![](gms-3086.png?align=left) In [literature](/MAE-gf/docs/literature), you may find patterns like
+![](gms-3086.png?align=left) In [literature](/MAE-gf/docs/literature) or workshops, you may find patterns like
 3086 of “Gründe mit System” by Uta Ulrich, similar to [F4](https://www.theedkins.co.uk/jo/lace/whiting/page180.htm)
 (though no corner pins are used) in the gallery created from the sampler of mrs Whiting.
 See also the  [MAE-gf](/MAE-gf/docs/bias#bias-ground-crossed-rose-style) gallery.
@@ -31,7 +31,7 @@ Hence, the first transformation step is drawing straight lines from pin to pin.
 <p style="clear: both"></p>
 
 ![](encoded.png?align=left) Then, we can [encode](/GroundForge-help/Advanced) the pattern in GroundForge and [assign stitches](/GroundForge-help/index#modify-stitches).
-For F4 that are cloth stitches and winkie pins. In this case, the winkie pin is: cloth stitch, twist one pair twice around a pin, cloth stitc.
+For F4 that are cloth stitches and winkie pins. In this case, the winkie pin is: cloth stitch, twist one pair twice around a pin, cloth stitch.
 Remember that GroundForge does not draw pins and treats the winkie pin as a single stitch.
 <p style="clear: both"></p>
 
