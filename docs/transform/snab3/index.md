@@ -87,13 +87,45 @@ Please note:
 
 ## Step 7
 
-![][snab3-07b]
-Only now are you ready to go to the [page Patterns](/GroundForge/pattern.html) and fill in the pattern-definition, translating the squares of your grid to GF-numbers and letters. 
+![][snab3-07a]
+Only now are you ready to go to the [_page Patterns_](/GroundForge/pattern.html) and fill in the pattern-definition, translating the squares of your grid to GF-numbers and letters. 
 You have to type the charcters in. You can ignore the half-circles that appear in the first collumn.
 <p style="clear: both"></p>
 
-![][snab3-07a]
+![][snab3-07b]
 <p style="clear: both"></p>
+
+## Step 8
+
+![][snab3-08]
+You have to tell GroundForge how the pattern repeats. GroundForge uses two parameters for the tile-layout.    
+Some lay-outs are predefined: click on one of these. The parameters will be filled in for you. 
+
+Please note: This pattern is quite straightforward, as the "bricks" are neatly placed. There are examples that are more complicated. 
+<p style="clear: both"></p>
+
+Here is how this works:  
+
+Look at your tiles, select one, blue box in the picture. This tile has the upper left corner on postition (0,0). Indicated with a blue dot.   
+
+First, tell GF where the south-east diagonal of the pattern is, indicated in purple. Count how many squares to the right and down you have to step from the blue to the purple dot. You will find that the purple dot is on position (4,3). We now know how to build the purple diagonal.    
+
+Next, find where the next diagonal on the left side is. Indicated in green. Counting to the left gives negative numbers. The green dot is on position (-4,3).     
+ 
+These values go in the sections with the green and purple border on page Patterns.   
+Note: green: (0,6) also works, however, we recommend selecting the green dot in south-west direction.
+
+## Step 9 
+
+Check in the “pattern”-panel if your definition is correct  You can ignore the half-circles that appear in the first collumn. If you see half-circles in other than the first collumn, there is a problem with your definition.
+
+## Step 10
+
+Adjust the pattern size by filling in columns and rows in the “swatch size”-panel.
+
+## Step 11 DONE! 
+
+You can now click on the blue underlined “stitches and threads” to go to page Stitches to see what you have created and play with your ground.
 
 
 
@@ -107,5 +139,5 @@ You have to type the charcters in. You can ignore the half-circles that appear i
 [snab3-06]: SNAB3-06.svg?align=right
 [snab3-07a]: SNAB3-07a.svg?align=left
 [snab3-07b]: SNAB3-07b.svg?align=right
-
+[snab3-08]: SNAB3-08.svg?align=right
 
