@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Transformations
+title: Transformation of a bias ground
 ---
 
-Transformation preparations for a bias ground
-=============================================
+Transformation of a bias ground
+===============================
 
 ![](gms-3086.png?align=left) In [literature](/MAE-gf/docs/literature) or workshops, you may find patterns like
 3086 of “Gründe mit System” by Uta Ulrich, similar to [F4](https://www.theedkins.co.uk/jo/lace/whiting/page180.htm)
