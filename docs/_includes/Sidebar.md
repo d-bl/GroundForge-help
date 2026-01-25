@@ -27,8 +27,9 @@
 
 ### Capture patterns
 
-* [Transform patterns](/GroundForge-help/transform)
-* [Transform spider](/GroundForge-help/transform/spider)
+* Transform
+  * [Patterns](/GroundForge-help/transform)
+  * [Spider](/GroundForge-help/transform/spider)
 * [Create a pattern](/GroundForge-help/Advanced)
 
 ### Notes
