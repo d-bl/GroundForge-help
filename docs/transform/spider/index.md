@@ -106,7 +106,7 @@ Please note: This pattern is quite straightforward, as the "bricks" are neatly p
 
 ___Here is how this works___:  
 
-Look at your tiles and select one: the blue box in the picture. This tile has the upper left corner on postition (0,0). Indicated with a blue dot.   
+Look at your tiles and select one: the <span style="color:blue">blue box</span> in the picture. This tile has the upper left corner on postition (0,0). Indicated with a blue dot.   
 
 First, tell GF where the south-east diagonal of the pattern is, indicated in purple. Count how many squares to the right and how many down you have to step from the blue to the purple dot. You will find that the purple dot is on position (4,3). We now know how to build the purple diagonal.    
 
