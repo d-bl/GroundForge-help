@@ -27,8 +27,8 @@
 
 ### Capture patterns
 
-* Transform
-  * [Patterns](/GroundForge-help/transform)
+* [Transform patterns](/GroundForge-help/transform)
+  * [Bias ground](/GroundForge-help/transform/bias)
   * [Spider](/GroundForge-help/transform/spider)
 * [Create a pattern](/GroundForge-help/Advanced)
 
