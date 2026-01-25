@@ -115,7 +115,7 @@ You will find that the <span style="color:purple">purple</span> dot is on positi
 We now know how to build the <span style="color:purple">purple</span> diagonal.    
 
 Next, find where the next diagonal on the __left__ side is. Indicated in <span style="color:green">green</span>. Counting to the left gives negative numbers. 
-The <span style="color:green">green</span> dot is on position (-4,3).     
+The <span style="color:green">green</span> dot is on position <span style="color:green">(-4,3)</span>.     
 
 These values go in the sections with the <span style="color:green">green</span> and <span style="color:purple">purple</span> border on page Patterns.   
 Note: <span style="color:green">green: (0,6)</span> also works, however, we recommend selecting the green dot in south-west direction.
