@@ -107,7 +107,7 @@ Please note: This pattern is quite straightforward, as the "bricks" are neatly p
 ___Here is how this works___:  
 
 Look at your tiles and select one: the <span style="color:blue">blue</span> box in the picture. 
-This tile has the upper left corner on postition <span style="color:blue">(0,0)</span>. Indicated with a blue dot.   
+This tile has the upper left corner on postition <span style="color:blue">(0,0)</span>. Indicated with a <span style="color:blue">blue</span> dot.   
 
 First, tell GF where the south-east diagonal of the pattern is, indicated in <span style="color:purple">purple</span>. 
 Count how many squares to the right and how many down you have to step from the <span style="color:blue">blue</span> to the <span style="color:purple">purple</span> dot. 
@@ -144,8 +144,8 @@ You can now click on the blue underlined “stitches and threads” to go to pag
 [snab3-04b]: SNAB3-04b.svg?align=right
 [snab3-05]: SNAB3-05.svg?align=right
 [snab3-06]: SNAB3-06.svg?align=right
-[snab3-07a]: SNAB3-07a.svg?align=left
-[snab3-07b]: SNAB3-07b.svg?align=right
+[snab3-07a]: SNAB3-07a.svg?align=right
+[snab3-07b]: SNAB3-07b.svg?align=left
 [snab3-08]: SNAB3-08.svg?align=right
 
 [t-snab3]: /GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=8-4-,x5-5,4-5-,7-15,-5x-,5-73&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3&c1=ctc&a1=ctc&d2=ctctc&b2=rrctctcrr&c3=ctc&a3=ctc&d4=ctc&c4=ctc&a4=ctc&b5=llctctcll&d6=ctc&c6=ctc&a6=ctc
