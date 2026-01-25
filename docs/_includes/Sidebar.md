@@ -28,8 +28,8 @@
 ### Capture patterns
 
 * [Transform patterns](/GroundForge-help/transform)
-  * [Bias ground](/GroundForge-help/transform/bias)
-  * [Spider](/GroundForge-help/transform/spider)
+  * [Mean and lean with bias](/GroundForge-help/transform/bias)
+  * [Detail with spider](/GroundForge-help/transform/spider)
 * [Create a pattern](/GroundForge-help/Advanced)
 
 ### Notes
