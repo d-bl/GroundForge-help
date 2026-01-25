@@ -106,14 +106,19 @@ Please note: This pattern is quite straightforward, as the "bricks" are neatly p
 
 ___Here is how this works___:  
 
-Look at your tiles and select one: the <span style="color:blue">blue box</span> in the picture. This tile has the upper left corner on postition (0,0). Indicated with a blue dot.   
+Look at your tiles and select one: the <span style="color:blue";>blue</span> box in the picture. 
+This tile has the upper left corner on postition <span style="color:blue";>(0,0)</span>. Indicated with a blue dot.   
 
-First, tell GF where the south-east diagonal of the pattern is, indicated in purple. Count how many squares to the right and how many down you have to step from the blue to the purple dot. You will find that the purple dot is on position (4,3). We now know how to build the purple diagonal.    
+First, tell GF where the south-east diagonal of the pattern is, indicated in <span style="color:purple";>purple</span>. 
+Count how many squares to the right and how many down you have to step from the <span style="color:blue";>blue</span> to the <span style="color:purple";>purple</span> dot. 
+You will find that the <span style="color:purple";>purple</span> dot is on position <span style="color:purple";>(4,3)</span>. 
+We now know how to build the <span style="color:purple";>purple</span> diagonal.    
 
-Next, find where the next diagonal on the __left__ side is. Indicated in green. Counting to the left gives negative numbers. The green dot is on position (-4,3).     
- 
-These values go in the sections with the green and purple border on page Patterns.   
-Note: green: (0,6) also works, however, we recommend selecting the green dot in south-west direction.
+Next, find where the next diagonal on the __left__ side is. Indicated in <span style="color:green";>green</span>. Counting to the left gives negative numbers. 
+The <span style="color:green";>green</span> dot is on position (-4,3).     
+
+These values go in the sections with the <span style="color:green";>green</span> and <span style="color:purple";>purple</span> border on page Patterns.   
+Note: <span style="color:green";>green: (0,6)</span> also works, however, we recommend selecting the green dot in south-west direction.
 
 ## Step 9 
 
