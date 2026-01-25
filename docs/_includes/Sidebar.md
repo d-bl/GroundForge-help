@@ -27,10 +27,10 @@
 
 ### Capture patterns
 
-* [Transform patterns](/GroundForge-help/transform)
-  * [Mean and lean with bias](/GroundForge-help/transform/bias)
-  * [Details with spider](/GroundForge-help/transform/spider)
-* [Create a pattern](/GroundForge-help/Advanced)
+* [Phases](/GroundForge-help/transform)
+* [Preparations with a bias ground](/GroundForge-help/transform/bias)
+* [Phase two with a rose ground](/GroundForge-help/Advanced)
+* [Both phases with a spider](/GroundForge-help/transform/spider)
 
 ### Notes
 
