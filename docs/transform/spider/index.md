@@ -87,12 +87,14 @@ Please note:
 
 <p style="clear: both"></p>
 
+You now are ready to define your pattern in GroundForge.
+
 ## Phase 2: define pattern in Groundforge
 
 ### Step 2.1
 
 ![][snab3-07a]
-Only now you are ready to go to the [_page Patterns_](/GroundForge/pattern.html) and fill in the __pattern-definition__, translating the squares of your grid to GF-numbers and letters. 
+Go to the [_page Patterns_](/GroundForge/pattern.html) and fill in the __pattern-definition__, translating the squares of your grid to GF-numbers and letters. 
 You have to type the characters in. You can ignore the half-circles that appear in the first collumn.
 <p style="clear: both"></p>
 
@@ -131,7 +133,9 @@ If you see half-circles in an other than the first collumn, there is a problem w
 
 ### Step 2.4
 
-Adjust the pattern size by filling in columns and rows in the “swatch size”-panel.
+Adjust the pattern size by filling in columns and rows in the “swatch size”-panel.   
+
+The definition-phase is now finished.
 
 ## Phase 3: Fill in stitches
 
