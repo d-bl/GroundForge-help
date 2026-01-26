@@ -87,7 +87,7 @@ Please note:
 
 <p style="clear: both"></p>
 
-You are now ready to define your pattern in GroundForge.
+You now are ready to define your pattern in GroundForge.
 
 ## Phase 2: define pattern in Groundforge
 
