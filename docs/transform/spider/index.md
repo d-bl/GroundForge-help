@@ -75,7 +75,7 @@ Check if the adjusted pattern still repeats.
 ### Step 1.6
 
 ![][snab3-06]
-Draw a rectangle around a repeating area, here indicated in blue.    
+Draw a rectangle around a repeating area, here indicated in <span style="color:blue">blue</span>.    
 The rectangle with contents is called a “tile”. 
 
 Please note:
@@ -87,7 +87,7 @@ Please note:
 
 <p style="clear: both"></p>
 
-You now are ready to define your pattern in GroundForge.
+You are now ready to define your pattern in GroundForge.
 
 ## Phase 2: define pattern in Groundforge
 
