@@ -2,7 +2,6 @@
 layout: default
 title: How to transform a spider
 ---
-.clpic, a img {border-style: solid; border-width: 1px; border-color: #ADD8E6; margin-right: 1em;}
 
 # How to transform a spider
 
