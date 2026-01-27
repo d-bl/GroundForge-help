@@ -5,9 +5,15 @@ title: How to transform a spider
 
 # How to transform a spider
 
+## Contents
+* [Introduction](#introduction)
+* [Phase 1: Prepare your pattern](#phase-1-prepare-your-pattern)
+* [Phase 2: Define pattern in GroundForge](#phase-2-define-pattern-in-groundforge)
+* [Phase 3: Fill in stitches](#phase-3-fill-in-stitches)
+
 ## Introduction
 
-![][snab3-00]
+[![][snab3-00]][t-snab3]
 So, we have this fancy ground. We wish to define it in GroundForge to play with the stitches.   
 
 This page shows you how you can do this. The procedure has three phases, each phase has several steps.
@@ -21,7 +27,7 @@ This page shows you how you can do this. The procedure has three phases, each ph
 Start with a pairs-diagram drawing of the ground you wish to use (a "technical" drawing).
 <p style="clear: both"></p>
 
-### Step 1.2
+### Step 1.2 
 
 ![][snab3-02]
 In the drawing of the ground, replace all  
@@ -89,7 +95,7 @@ Please note:
 
 You now are ready to define your pattern in GroundForge.
 
-## Phase 2: define pattern in Groundforge
+## Phase 2: Define pattern in Groundforge
 
 ### Step 2.1
 
@@ -124,7 +130,7 @@ Next, find where the next diagonal on the __left__ side is. Indicated in <span s
 The <span style="color:green">green</span> dot is on position <span style="color:green">(-4,3)</span>.     
 
 These values go in the sections with the <span style="color:green">green</span> and <span style="color:purple">purple</span> border on page Patterns.   
-Note: <span style="color:green">green: (0,6)</span> also works, however, we recommend selecting the green dot in south-west direction.
+Note: <span style="color:green">green: (0,6)</span> also works, however, we recommend selecting the <span style="color:green">green</span> dot in south-west direction.
 
 ### Step 2.3 
 
@@ -141,10 +147,7 @@ The definition-phase is now finished.
 
 ### Step 3.1
 
-You can now click on the blue underlined “stitches and threads” to go to page Stitches to see what you have created and play with your ground.  
-
-[the spider][t-snab3]
-
+You can now click on the link “stitches and threads” to go to page Stitches to see what you have created and play with your ground. If you like to see our defintion, please click on the picture in the introduction of this page.  
 
 [snab3-00]: SNAB3-00.svg?align=left
 [snab3-01]: SNAB3-01.svg?align=right
