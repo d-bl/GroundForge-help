@@ -22,10 +22,10 @@ Hence, the first transformation step is drawing straight lines from pin to pin.
 ![](squeeze.png?align=left) An optional step is to squeeze the pattern to make it more compact.
 <p style="clear: both"></p>
 
-So far the preparations. Now we are ready to go to GroundForge: [encode](/GroundForge-help/Advanced) the pattern and [assign stitches](/GroundForge-help/index#modify-stitches).
+So far the preparations. Now we are ready for the GroundForge: [definition](/GroundForge-help/Advanced). The step is [choosing stitches](/GroundForge-help/index#modify-stitches).
 
 ![](encoded.png?align=left) For F4 that are cloth stitches and winkie pins.
-In this case, the winkie pin is: cloth stitch, twist one pair twice around a pin, cloth stitch.
+In this case, the winkie pin is: cloth stitch, twist one pair twice and go around a pin, cloth stitch.
 Remember that GroundForge does not draw pins and treats the winkie pin as a single stitch.
 <p style="clear: both"></p>
 

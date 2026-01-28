@@ -29,8 +29,8 @@
 
 * [Phases](/GroundForge-help/transform)
 * [Preparations with a bias ground](/GroundForge-help/transform/bias)
-* [Phase two with a rose ground](/GroundForge-help/Advanced)
-* [Both phases with a spider](/GroundForge-help/transform/spider)
+* [Definition of a rose ground](/GroundForge-help/Advanced)
+* [Full story for a spider](/GroundForge-help/transform/spider)
 
 ### Notes
 
