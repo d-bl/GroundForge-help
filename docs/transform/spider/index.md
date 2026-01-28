@@ -13,8 +13,7 @@ title: How to transform a spider
 
 ## Introduction
 
-<a href="/GroundForge/stitches.html?patchWidth=24&patchHeight=24&tile=8-4-,x5-5,4-5-,7-15,-5x-,5-73&shiftColsSW=-4&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3&c1=ctc&a1=ctc&d2=ctctc&b2=rrctctcrr&c3=ctc&a3=ctc&d4=ctc&c4=ctc&a4=ctc&b5=llctctcll&d6=ctc&c6=ctc&a6=ctc">
-<img src="SNAB3-00.svg" style="float: left; border-style: solid; border-width: 1px; border-color: #ADD8E6; margin-right: 1em"></a>
+[![][snab3-00]][t-snab3]
 
 So, we have this fancy ground. We wish to define it in GroundForge to play with the stitches.   
 
