@@ -5,21 +5,30 @@ title: How to transform a spider
 
 # How to transform a spider
 
+## Contents
+* [Introduction](#introduction)
+* [Phase 1: Prepare your pattern](#phase-1-prepare-your-pattern)
+* [Phase 2: Define pattern in GroundForge](#phase-2-define-pattern-in-groundforge)
+* [Phase 3: Fill in stitches](#phase-3-fill-in-stitches)
+
 ## Introduction
 
-![][snab3-00]
+[![][snab3-00]][t-snab3]
+
 So, we have this fancy ground. We wish to define it in GroundForge to play with the stitches.   
 
-This page shows you how you can do this.
+This page shows you how you can do this. The procedure has three phases, each phase has several steps.
 <p style="clear: both"></p>
 
-## Step 1
+## Phase 1: Prepare your pattern
+
+### Step 1.1
 
 ![][snab3-01]
 Start with a pairs-diagram drawing of the ground you wish to use (a "technical" drawing).
 <p style="clear: both"></p>
 
-## Step 2
+### Step 1.2 
 
 ![][snab3-02]
 In the drawing of the ground, replace all  
@@ -32,13 +41,13 @@ Please note: GroundForge does not support sewings. If your ground has them, plea
 <p style="clear: both"></p>
 
 
-## Step 3
+### Step 1.3
 
 ![][snab3-03]
 Straigthen curved lines and put the figure on a square grid.
 <p style="clear: both"></p>
 
-## Step 4
+### Step 1.4
 
 ![][snab3-04a]
 Adjust pattern:
@@ -64,16 +73,16 @@ Please note:
 - Arrows are not drawn.
 - We have put the stitches in the middle of the squares. If it is easier for you to place the stitches on e.g. the upper left corner, that is of course oké.
 
-## Step 5
+### Step 1.5
 
 ![][snab3-05]
 Check if the adjusted pattern still repeats.
 <p style="clear: both"></p>
 
-## Step 6
+### Step 1.6
 
 ![][snab3-06]
-Draw a rectangle around a repeating area, here indicated in blue.    
+Draw a rectangle around a repeating area, here indicated in <span style="color:blue">blue</span>.    
 The rectangle with contents is called a “tile”. 
 
 Please note:
@@ -85,17 +94,21 @@ Please note:
 
 <p style="clear: both"></p>
 
-## Step 7
+You now are ready to define your pattern in GroundForge.
+
+## Phase 2: Define pattern in Groundforge
+
+### Step 2.1
 
 ![][snab3-07a]
-Only now you are ready to go to the [_page Patterns_](/GroundForge/pattern.html) and fill in the __pattern-definition__, translating the squares of your grid to GF-numbers and letters. 
+Go to the [_page Patterns_](/GroundForge/pattern.html) and fill in the __pattern-definition__, translating the squares of your grid to GF-numbers and letters. 
 You have to type the characters in. You can ignore the half-circles that appear in the first collumn.
 <p style="clear: both"></p>
 
 ![][snab3-07b]
 <p style="clear: both"></p>
 
-## Step 8
+### Step 2.2
 
 ![][snab3-08]
 You have to tell GroundForge how the pattern repeats. GroundForge uses two parameters for the __tile-layout__.    
@@ -118,23 +131,24 @@ Next, find where the next diagonal on the __left__ side is. Indicated in <span s
 The <span style="color:green">green</span> dot is on position <span style="color:green">(-4,3)</span>.     
 
 These values go in the sections with the <span style="color:green">green</span> and <span style="color:purple">purple</span> border on page Patterns.   
-Note: <span style="color:green">green: (0,6)</span> also works, however, we recommend selecting the green dot in south-west direction.
+Note: <span style="color:green">green: (0,6)</span> also works, however, we recommend selecting the <span style="color:green">green</span> dot in south-west direction.
 
-## Step 9 
+### Step 2.3 
 
 Check in the “pattern”-panel if your definition is correct  You can ignore the half-circles that appear in the first collumn. 
 If you see half-circles in an other than the first collumn, there is a problem with your definition.
 
-## Step 10
+### Step 2.4
 
-Adjust the pattern size by filling in columns and rows in the “swatch size”-panel.
+Adjust the pattern size by filling in columns and rows in the “swatch size”-panel.   
 
-## Step 11 DONE! 
+The definition-phase is now finished.
 
-You can now click on the blue underlined “stitches and threads” to go to page Stitches to see what you have created and play with your ground.  
+## Phase 3: Fill in stitches
 
-[the spider][t-snab3]
+### Step 3.1
 
+You can now click on the link “stitches and threads” to go to page Stitches to see what you have created and play with your ground. If you like to see our defintion, please click on the picture in the introduction of this page.  
 
 [snab3-00]: SNAB3-00.svg?align=left
 [snab3-01]: SNAB3-01.svg?align=right
