@@ -44,7 +44,7 @@ Please note: GroundForge does not support sewings. If your ground has them, plea
 ### Step 1.3
 
 ![][snab3-03]
-Straigthen curved lines and put the figure on a square grid.
+Straighten curved lines and put the figure on a square grid.
 <p style="clear: both"></p>
 
 ### Step 1.4
@@ -54,7 +54,7 @@ Adjust pattern:
 
 - make sure all stitches (where two lines connect) are in the middle of a square on the grid;
 - use only allowed "connecting" lines (horizontal, vertical down, diagonal down);
-- make sure that stitches have two lines comming in and two lines going out.
+- make sure that stitches have two lines coming in and two lines going out.
 <p style="clear: both"></p>
 
 ![][snab3-04b]
@@ -96,13 +96,13 @@ Please note:
 
 You now are ready to define your pattern in GroundForge.
 
-## Phase 2: Define pattern in Groundforge
+## Phase 2: Define pattern in GroundForge
 
 ### Step 2.1
 
 ![][snab3-07a]
 Go to the [_page Patterns_](/GroundForge/pattern.html) and fill in the __pattern-definition__, translating the squares of your grid to GF-numbers and letters. 
-You have to type the characters in. You can ignore the half-circles that appear in the first collumn.
+You have to type the characters in. You can ignore the half-circles that appear in the first column.
 <p style="clear: both"></p>
 
 ![][snab3-07b]
@@ -120,7 +120,7 @@ Please note: This pattern is quite straightforward, as the "bricks" are neatly p
 ___Here is how this works___:  
 
 Look at your tiles and select one: the <span style="color:blue">blue</span> box in the picture. 
-This tile has the upper left corner on postition <span style="color:blue">(0,0)</span>. Indicated with a <span style="color:blue">blue</span> dot.   
+This tile has the upper left corner on position <span style="color:blue">(0,0)</span>. Indicated with a <span style="color:blue">blue</span> dot.   
 
 First, tell GF where the south-east diagonal of the pattern is, indicated in <span style="color:purple">purple</span>. 
 Count how many squares to the right and how many down you have to step from the <span style="color:blue">blue</span> to the <span style="color:purple">purple</span> dot. 
@@ -135,8 +135,8 @@ Note: <span style="color:green">green: (0,6)</span> also works, however, we reco
 
 ### Step 2.3 
 
-Check in the “pattern”-panel if your definition is correct  You can ignore the half-circles that appear in the first collumn. 
-If you see half-circles in an other than the first collumn, there is a problem with your definition.
+Check in the “pattern”-panel to see if your definition is correct. You can ignore the half-circles that appear in the first column. 
+If you see half-circles in another than the first column, there is a problem with your definition.
 
 ### Step 2.4
 
@@ -148,7 +148,7 @@ The definition-phase is now finished.
 
 ### Step 3.1
 
-You can now click on the link “stitches and threads” to go to page Stitches to see what you have created and play with your ground. If you like to see our defintion, please click on the picture in the introduction of this page.  
+You can now click on the link “stitches and threads” to go to page Stitches to see what you have created and play with your ground. If you like to see our definition, please click on the picture in the introduction of this page.  
 
 [snab3-00]: SNAB3-00.svg?align=left
 [snab3-01]: SNAB3-01.svg?align=right
