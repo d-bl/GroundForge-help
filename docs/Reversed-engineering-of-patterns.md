@@ -48,7 +48,7 @@ Simplifying stitches might need some out of the box thinking as shown with the B
 Matrix from pair diagram
 ------------------------
 
-The template below contains objects to assemble a matrix required for the parameters.
+The template below contains objects to define a matrix required for the parameters.
 Each object represents a stitch and the pairs used to make the stitch.
 
 Start with the simplifications and distortions as described under [Recognize patterns](#recognize-patterns).
@@ -88,7 +88,7 @@ and the [SVG version] (right click to download) of the template.
 
 The symbol in each template object has six free snapping points,
 two of them should be connected with other objects.
-Copy-paste these objects to assemble a pattern without changing the length or directions of lines connecting the symbols. It might need some out-of-the-box thinking: the Binche snow flake example above has horizontal connections and the vertical connection is reduced to a single stitch. Stretching the stitch into a kind of plait with a hole (`ctcttctc`) reveals traditional connections in the thread diagram.
+Copy-paste these objects to define a pattern without changing the length or directions of lines connecting the symbols. It might need some out-of-the-box thinking: the Binche snow flake example above has horizontal connections and the vertical connection is reduced to a single stitch. Stretching the stitch into a kind of plait with a hole (`ctcttctc`) reveals traditional connections in the thread diagram.
 
 
 Droste method
