@@ -10,7 +10,6 @@ Different methods allow to reproduce a pattern with GroundForge.
 
 - [Recognize patterns](#recognize-patterns)
 - [Droste method](#droste-method)
-- [Pattern from download](#pattern-from-download)
 
 Recognize patterns
 ------------------
@@ -22,7 +21,7 @@ and draw them as plain cloth stitches.
 Furthermore, the distances between stitches are optimized to some average.
 So when trying to start with some familiar pattern to make variations,
 you may have to simplify, mirror and distort it
-to recognize it in the [TesseLace Index](/groundforge/tesselace-to-gf)
+to recognize it in the [TesseLace Index](/tesselace-to-gf/)
 or match up with the encoding system of GroundForge.
 
 You can find examples on pages: 
