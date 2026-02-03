@@ -31,6 +31,7 @@
 * [Preparations with a bias ground](/GroundForge-help/transform/bias)
 * [Definition of a rose ground](/GroundForge-help/Advanced)
 * [Full story for a spider](/GroundForge-help/transform/spider)
+* [Use SVG to design a pattern](/GroundForge-help/transform/draw-with-svg)
 
 ### Notes
 
