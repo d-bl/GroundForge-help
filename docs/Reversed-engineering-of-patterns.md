@@ -9,10 +9,8 @@ Working with printed catalogues
 Different methods allow to reproduce a pattern with GroundForge.
 
 - [Recognize patterns](#recognize-patterns)
-- [Matrix from pair diagram](#matrix-from-pair-diagram)
-  * [Tiling](#tiling)
-  * [With an SVG editor](#with-an-svg-editor)
 - [Droste method](#droste-method)
+- [Pattern from download](#pattern-from-download)
 
 Recognize patterns
 ------------------
@@ -24,7 +22,7 @@ and draw them as plain cloth stitches.
 Furthermore, the distances between stitches are optimized to some average.
 So when trying to start with some familiar pattern to make variations,
 you may have to simplify, mirror and distort it
-to recognize it in the [TesseLace Index](/tesselace-to-gf)
+to recognize it in the [TesseLace Index](/groundforge/tesselace-to-gf)
 or match up with the encoding system of GroundForge.
 
 You can find examples on pages: 
@@ -32,9 +30,8 @@ You can find examples on pages:
 * Definition phase with a [rose](/GroundForge-help/Advanced) ground.
 * All phases with a [spider](/GroundForge-help/transform/spider).
 
-### With an SVG editor
-
-_Contents moved to [Use SVG to design a pattern](/GroundForge-help/transform/draw-with-svg)_
+Help for using an SVG-editor to define a pattern can be found on page _[Use SVG to design a pattern](/GroundForge-help/transform/draw-with-svg)_.   
+On this page you also find help for downloading a pattern that is created using an SVG-file.   
 
 Droste method
 -------------
@@ -53,17 +50,3 @@ The weaving base pattern has always a checkerboard tiling. The diagonal base pat
 
 ![](images/disect-pairs-as-threads.png)
 
-
-Pattern from download
----------------------
-
-A different challenge is reconstructing a pattern definition from a downloaded SVG.
-A possible step is filtering the tooltips out of the file with following unix command.
-
-    egrep '[ctlr]+ - [^<]+' '/Users/jokep/Downloads/my problem(1)/3b2pair-diagram.svg'|sed 's!<.*!!'|sed 's!.*>!!'|sort|uniq>ids.txt
-
-When one Droste level is involved, the resulting IDs will be some `xnm` where `xn` identify positions in the tile
-and `m` identify a cross, left-twist or right-twist.
-By drawing blobs around identical `xn` value you might be able to recognize the `ct` sequence.
-When two Droste levels are involved there will be a third digit on the ID.
-Then you will also have to draw blobs around identical `xnm` values. 
