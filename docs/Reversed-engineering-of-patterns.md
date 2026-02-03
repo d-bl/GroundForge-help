@@ -31,7 +31,7 @@ You can find examples on pages:
 * All phases with a [spider](/GroundForge-help/transform/spider).
 
 Help for using an SVG-editor to define a pattern can be found on page _[Use SVG to design a pattern](/GroundForge-help/transform/draw-with-svg)_.   
-On this page you also find help for downloading a pattern that is created using an SVG-file.   
+On this page you also find help for downloading a pattern that is created using an SVG-file.  
 
 Droste method
 -------------
