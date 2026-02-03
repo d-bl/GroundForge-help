@@ -16,6 +16,7 @@ This is a preparation phase. Next phase is the GroundForge definition. The last 
 * Definition phase with a [rose](/GroundForge-help/Advanced) ground.
 * All phases with a [spider](/GroundForge-help/transform/spider).
 
-* [Use SVG to design a pattern](/GroundForge-help/transform/draw-with-svg) 
-
 Note that a bias ground and rose ground are pretty similar in structure.
+
+Help for using an SVG-editor to define a pattern can be found on page _[Use SVG to design a pattern](/GroundForge-help/transform/draw-with-svg)_.   
+On this page you also find help for downloading a pattern that is created using an SVG-file.  

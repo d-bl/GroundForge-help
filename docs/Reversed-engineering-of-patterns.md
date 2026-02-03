@@ -14,23 +14,9 @@ Different methods allow to reproduce a pattern with GroundForge.
 Recognize patterns
 ------------------
 
-The [gallery pages](/GroundForge) are the easiest way to start experimenting with grounds.
+The contents of this section are moved to **Capture patterns**.  
 
-The generated pair diagrams don't care about plaits and something-pin-something
-and draw them as plain cloth stitches.
-Furthermore, the distances between stitches are optimized to some average.
-So when trying to start with some familiar pattern to make variations,
-you may have to simplify, mirror and distort it
-to recognize it in the [TesseLace Index](/tesselace-to-gf/)
-or match up with the encoding system of GroundForge.
-
-You can find examples on pages: 
-* Preparations with a [bias](/GroundForge-help/transform/bias) ground.
-* Definition phase with a [rose](/GroundForge-help/Advanced) ground.
-* All phases with a [spider](/GroundForge-help/transform/spider).
-
-Help for using an SVG-editor to define a pattern can be found on page _[Use SVG to design a pattern](/GroundForge-help/transform/draw-with-svg)_.   
-On this page you also find help for downloading a pattern that is created using an SVG-file.  
+See page [Transformations](/GroundForge-help/transform) for the introduction.
 
 Droste method
 -------------
