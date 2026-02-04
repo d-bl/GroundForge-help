@@ -21,9 +21,9 @@
 
 ### Snow mixer
 
-* [tutorials](/GroundForge-help/snow-mix/)
-* [two droste steps](/GroundForge-help/snow-mix/droste)
-* [experiments](/GroundForge-help/snow-mix/experiments)
+* [Tutorials](/GroundForge-help/snow-mix/)
+* [Two droste steps](/GroundForge-help/snow-mix/droste)
+* [Experiments](/GroundForge-help/snow-mix/experiments)
 
 ### Capture patterns
 
@@ -32,6 +32,7 @@
 * [Definition of a rose ground](/GroundForge-help/Advanced)
 * [Full story for a spider](/GroundForge-help/transform/spider)
 * [Use SVG to design a pattern](/GroundForge-help/transform/draw-with-svg)
+* [Download pattern created with SVG-editor](/GroundForge-help/transform/download-svg)
 
 ### Notes
 
