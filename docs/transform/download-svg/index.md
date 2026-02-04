@@ -7,7 +7,7 @@ title: Use SVG to design a pattern
 
 Suppose the following scenario:
 
-I down-loaded a diagram from GroundForge, want to adjust it but don't have the link to the pattern any more. 
+I down-loaded a diagram from GroundForge, want to adjust it but don't have the link to the pattern anymore. 
 Can I skip some capture phases?
 
 A possible step is filtering the tooltips out of the file with following unix command.
