@@ -32,7 +32,7 @@
 * [Definition of a rose ground](/GroundForge-help/Advanced)
 * [Full story for a spider](/GroundForge-help/transform/spider)
 * [Use SVG to design a pattern](/GroundForge-help/transform/draw-with-svg)
-* [Download pattern created with SVG-editor](/GroundForge-help/transform/download-svg)
+* [Download SVG-edited pattern](/GroundForge-help/transform/download-svg)
 
 ### Notes
 
