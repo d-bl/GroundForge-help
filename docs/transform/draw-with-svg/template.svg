@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="27.35mm" height="27.983mm" version="1.1" viewBox="0 0 27.35 27.983" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="Arrow1Mend-07-4-2-75-47" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-07-4-2-75-7" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-07-4-2-75-9-8" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-07-4-2-75" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-07-9-0-0-0" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-07-6-9-7-4" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-8-7-7-4-0" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <g transform="translate(-72.703 -151.51)">
+  <g font-family="Arial" letter-spacing="0px" word-spacing="0px">
+   <text x="70.981689" y="175.0679" font-size="3.638px" style="line-height:0%" xml:space="preserve"/>
+   <text x="81.073715" y="159.80786" font-size=".97558px" style="line-height:0%" xml:space="preserve"/>
+   <g font-size="3.638px">
+    <text x="163.36162" y="246.90852" style="line-height:0%" xml:space="preserve"/>
+    <text x="67.457443" y="120.83516" style="line-height:0%" xml:space="preserve"/>
+    <text x="72.749115" y="126.12683" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="78.040779" y="120.83516" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="83.332443" y="126.12683" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="78.040779" y="131.41849" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="67.457443" y="131.41849" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="62.165779" y="126.12683" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="88.624115" y="131.41849" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="88.624115" y="120.83516" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="72.749115" y="136.71016" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="83.332443" y="136.71016" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="78.040779" y="142.00183" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="67.457443" y="142.00183" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="62.165779" y="136.71016" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="88.624115" y="142.00183" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="83.332443" y="115.5435" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text x="72.749115" y="115.5435" opacity=".6" style="line-height:0%" xml:space="preserve"/>
+    <text transform="scale(1,-1)" x="70.981689" y="-166.34625" style="line-height:0%" xml:space="preserve"/>
+   </g>
+  </g>
+  <path d="m84 168.98c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499 0.14612 0 0.27842 0.0592 0.37418 0.15499 0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z" fill="none" stroke="#000" stroke-width=".066146"/>
+  <text x="83.217201" y="169.2984" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="83.217201" y="169.2984" stroke-width=".26458">T</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m85.591 168.99c-0.54879-0.29899-1.0765-0.26116-1.5909-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m85.591 168.99c-0.53031 0.29557-1.0606 0.27992-1.5909-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m77.65 168.98c0 0.14612-0.05923 0.27841-0.15499 0.37417-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37417 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z"/>
+  </g>
+  <text x="76.867393" y="169.2984" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="76.867393" y="169.2984" stroke-width=".26458">P</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m75.005 168.98c0.56251-0.32098 1.1853-0.31709 1.5875 0" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m75.005 168.98c0.83142 0.4128 1.1883 0.18767 1.5875 0" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m90.88 165.8c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="90.095581" y="166.1228" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="90.095581" y="166.1228" stroke-width=".26458">2</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m92.471 165.81-1.5909-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m88.079 163.53 1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m95.113 164.74c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499-0.14612 0-0.27842-0.0592-0.37418-0.15499-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="94.329697" y="165.06506" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="94.329697" y="165.06506" stroke-width=".26458">0</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m96.704 164.75-1.5909-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m96.855 162.47-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m94.055 165.8c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="93.268036" y="166.1228" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="93.268036" y="166.1228" stroke-width=".26458">1</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m95.646 165.81-1.5909-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m93.525 163.68v1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m89.292 161.57c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="88.63855" y="161.8896" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="88.63855" y="161.8896" stroke-width=".26458">I</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m93.525 161.57h-4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m86.65 161.58 1.5841-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m92.467 164.74c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="91.682434" y="165.06461" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="91.682434" y="165.06461" stroke-width=".26458">4</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m94.21 162.47-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m91.938 162.63v1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m86.646 166.86c0 0.14612-0.05923 0.27841-0.15499 0.37417-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499-0.14612 0-0.27842-0.0592-0.37418-0.15499-0.09576-0.0958-0.15499-0.22805-0.15499-0.37417 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z"/>
+  </g>
+  <text x="85.863411" y="167.18234" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="85.863411" y="167.18234" stroke-width=".26458">5</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m88.389 164.59-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m83.845 164.59 1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m80.825 164.74c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="80.042603" y="165.06506" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="80.042603" y="165.06506" stroke-width=".26458">7</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m80.296 162.63v1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m78.025 162.47 1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m79.238 165.8c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="78.454842" y="166.1234" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="78.454842" y="166.1234" stroke-width=".26458">8</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m78.709 163.68v1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m76.592 165.8h1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m78.18 164.74c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="77.396561" y="165.06506" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="77.396561" y="165.06506" stroke-width=".26458">9</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m75.379 162.47 1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m75.534 164.74h1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m87.705 157.33c0 0.14612-0.05923 0.27841-0.15499 0.37418-0.09576 0.0957-0.22805 0.15498-0.37418 0.15498s-0.27842-0.0592-0.37418-0.15498c-0.09576-0.0958-0.15499-0.22806-0.15499-0.37418 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z"/>
+  </g>
+  <text x="86.872169" y="157.65628" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="86.872169" y="157.65628" stroke-width=".26458">A</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m89.296 157.34-1.5909-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m87.175 152.57v4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m88.763 156.28c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499 0.14612 0 0.27842 0.0592 0.37418 0.15499 0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="87.986397" y="156.59795" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="87.986397" y="156.59795" stroke-width=".26458">B</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m90.505 154-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m88.234 151.51v4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m84.53 156.28c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="83.677612" y="156.59795" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="83.677612" y="156.59795" stroke-width=".26458">C</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m84 151.51v4.2333" marker-end="url(#Arrow1Mend-8-7-7-4-0)"/>
+   <path d="m81.729 154 1.8975 1.8975" marker-end="url(#Arrow1Mend-8-7-7-4-0)"/>
+   <path d="m85.588 157.33c0 0.14612-0.05923 0.27841-0.15499 0.37418-0.09576 0.0957-0.22805 0.15498-0.37418 0.15498s-0.27842-0.0592-0.37418-0.15498c-0.09576-0.0958-0.15499-0.22806-0.15499-0.37418 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z"/>
+  </g>
+  <text x="84.814278" y="157.65628" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="84.814278" y="157.65628" stroke-width=".26458">D</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m85.059 152.57v4.2333" marker-end="url(#Arrow1Mend-07-6-9-7-4)"/>
+   <path d="m82.946 157.34 1.5841-0.01" marker-end="url(#Arrow1Mend-07-9-0-0-0)"/>
+   <path d="m93.525 157.33c0 0.14612-0.05923 0.27841-0.15499 0.37418-0.09576 0.0957-0.22805 0.15498-0.37418 0.15498-0.14612 0-0.27842-0.0592-0.37418-0.15498-0.09576-0.0958-0.15499-0.22806-0.15499-0.37418 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z"/>
+  </g>
+  <text x="92.70256" y="157.65628" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="92.70256" y="157.65628" stroke-width=".26458">E</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m97.755 157.32-4.2299 0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m95.268 155.06-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m91.409 159.45c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="90.630272" y="159.77295" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="90.630272" y="159.77295" stroke-width=".26458">F</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m95.642 159.45h-4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m90.88 157.33v1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m92.467 158.39c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="91.595688" y="158.71461" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="91.595688" y="158.71461" stroke-width=".26458">G</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m96.7 158.39h-4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m91.938 153.63v4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m90.35 160.51c0 0.14612-0.05923 0.27841-0.15499 0.37417-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499-0.14612 0-0.27842-0.0592-0.37418-0.15499-0.09576-0.0958-0.15499-0.22805-0.15499-0.37417 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z"/>
+  </g>
+  <text x="89.513451" y="160.83128" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="89.513451" y="160.83128" stroke-width=".26458">H</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m94.58 160.5-4.2299 0.01" marker-end="url(#Arrow1Mend)"/>
+   <path d="m87.55 158.24 1.8975 1.8975" marker-end="url(#Arrow1Mend)"/>
+   <path d="m86.646 162.63c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499-0.14612 0-0.27842-0.0592-0.37418-0.15499-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="85.833641" y="162.94794" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="85.833641" y="162.94794" stroke-width=".26458">K</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m90.88 162.63h-4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m81.355 162.63h4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m84 161.57c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="83.212387" y="161.89021" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="83.212387" y="161.89021" stroke-width=".26458">J</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m78.709 161.57h4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m85.585 161.58-1.5841-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m82.942 160.51c0 0.14612-0.05923 0.27841-0.15499 0.37418-0.09576 0.0958-0.22805 0.15498-0.37418 0.15498s-0.27842-0.0592-0.37418-0.15498c-0.09576-0.0958-0.15499-0.22806-0.15499-0.37418 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z"/>
+  </g>
+  <text x="82.161011" y="160.83127" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="82.161011" y="160.83127" stroke-width=".26458">L</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m84.685 158.24-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m77.65 160.51h4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m82.413 165.8c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499 0.14612 0 0.27842 0.0592 0.37418 0.15499 0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="81.629608" y="166.1234" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="81.629608" y="166.1234" stroke-width=".26458">6</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m84.155 163.53-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m79.767 165.8h1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m80.825 158.39c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="79.973442" y="158.71461" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="79.973442" y="158.71461" stroke-width=".26458">N</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m80.296 153.63v4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m75.534 158.39h4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m81.884 159.45c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499-0.14612 0-0.27842-0.0592-0.37418-0.15499-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="80.993141" y="159.77295" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="80.993141" y="159.77295" stroke-width=".26458">M</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m81.355 157.33v1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m76.592 159.45h4.2333" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m79.767 157.33c0 0.14612-0.05923 0.27841-0.15499 0.37418-0.09576 0.0957-0.22805 0.15498-0.37418 0.15498s-0.27842-0.0592-0.37418-0.15498c-0.09576-0.0958-0.15499-0.22806-0.15499-0.37418 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z"/>
+  </g>
+  <text x="78.901962" y="157.65625" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="78.901962" y="157.65625" stroke-width=".26458">O</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m76.966 155.06 1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m74.479 157.34 4.2299-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m86.646 164.21c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499-0.14612 0-0.27842-0.0592-0.37418-0.15499-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="85.863174" y="164.53592" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="85.863174" y="164.53592" stroke-width=".26458">3</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m84.004 164.22 1.5841-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m88.23 164.22-1.5841-0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m86.646 159.45c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="85.983612" y="159.77402" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="85.983612" y="159.77402" stroke-width=".26458">-</tspan></text>
+  <path d="m95.642 168.98c0 0.14612-0.05923 0.27841-0.15499 0.37417-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37417 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z" fill="none" stroke="#000" stroke-width=".066146"/>
+  <text x="94.858864" y="169.2984" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="94.858864" y="169.2984" stroke-width=".26458">Z</tspan></text>
+  <path d="m97.233 168.99-1.5909-0.01" fill="none" marker-end="url(#Arrow1Mend-07-4-2-75)" stroke="#000" stroke-width=".066146"/>
+  <path d="m92.467 168.98c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z" fill="none" stroke="#000" stroke-width=".066146"/>
+  <text x="91.680534" y="169.29781" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="91.680534" y="169.29781" stroke-width=".26458">X</tspan></text>
+  <path d="m91.938 166.86v1.5875" fill="none" marker-end="url(#Arrow1Mend-07-4-2-75)" stroke="#000" stroke-width=".066146"/>
+  <path d="m94.055 168.98c0 0.14612-0.05923 0.27841-0.15499 0.37417-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37417 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z" fill="none" stroke="#000" stroke-width=".066146"/>
+  <text x="93.269936" y="169.29794" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="93.269936" y="169.29794" stroke-width=".26458">Y</tspan></text>
+  <path d="m95.797 166.7-1.8975 1.8975" fill="none" marker-end="url(#Arrow1Mend-07-4-2-75)" stroke="#000" stroke-width=".066146"/>
+  <path d="m90.881 168.98c0 0.14612-0.05923 0.27841-0.15499 0.37417-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37417 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z" fill="none" stroke="#000" stroke-width=".066146"/>
+  <text x="89.950256" y="169.30435" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="89.950256" y="169.30435" stroke-width=".26458">W</tspan></text>
+  <path d="m88.08 166.71 1.8975 1.8975" fill="none" marker-end="url(#Arrow1Mend-07-4-2-75)" stroke="#000" stroke-width=".066146"/>
+  <path d="m89.292 168.98c0 0.14612-0.05923 0.27841-0.15499 0.37417-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37417 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z" fill="none" stroke="#000" stroke-width=".066146"/>
+  <text x="88.509056" y="169.2984" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="88.509056" y="169.2984" stroke-width=".26458">V</tspan></text>
+  <path d="m86.646 168.98h1.5875" fill="none" marker-end="url(#Arrow1Mend-07-4-2-75)" stroke="#000" stroke-width=".066146"/>
+  <path d="m80.825 168.98c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z" fill="none" stroke="#000" stroke-width=".066146"/>
+  <text x="80.038864" y="169.29781" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="80.038864" y="169.29781" stroke-width=".26458">R</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m80.296 166.86c0.18209 0.50115 0.26244 1.018 0 1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m80.296 166.86c-0.20829 0.46965-0.272 0.98062 0 1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m82.413 168.98c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37417 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37417z"/>
+  </g>
+  <text x="81.628273" y="169.29794" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="81.628273" y="169.29794" stroke-width=".26458">S</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m84.155 166.7c-0.51694 0.73841-0.98282 1.5236-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m84.155 166.7c-0.95572 0.49161-1.5429 0.9898-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m79.238 168.98c0 0.14612-0.05923 0.27841-0.15499 0.37417-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37417 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z"/>
+  </g>
+  <text x="78.307365" y="169.2984" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="78.307365" y="169.2984" stroke-width=".26458">Q</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m76.437 166.7c0.79124 0.38114 1.515 0.86908 1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m76.437 166.7c0.39212 0.81277 0.95621 1.4966 1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m81.884 177.2c0-0.14613-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499-0.14612 0-0.27842 0.0592-0.37418 0.15499-0.09576 0.0958-0.15499 0.22805-0.15499 0.37418s0.05923 0.27842 0.15499 0.37418c0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z"/>
+  </g>
+  <text x="81.099747" y="177.50993" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="81.099747" y="177.50993" stroke-width=".26458">ā</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m83.475 177.19-1.5909 0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m79.083 179.47 1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m97.759 177.2c0-0.14613-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499s-0.27842 0.0592-0.37418 0.15499c-0.09576 0.0958-0.15499 0.22805-0.15499 0.37418s0.05923 0.27842 0.15499 0.37418c0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z"/>
+  </g>
+  <text x="96.856606" y="177.47704" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="96.856606" y="177.47704" stroke-width=".26458">ō</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m99.35 177.19-1.5909 0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m99.501 179.47-1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m89.821 173.5c0-0.14612-0.05923-0.27841-0.15499-0.37417-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499-0.14612 0-0.27842 0.0592-0.37418 0.15499-0.09576 0.0958-0.15499 0.22805-0.15499 0.37417 0 0.14613 0.05923 0.27842 0.15499 0.37418 0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z"/>
+  </g>
+  <text x="89.034698" y="173.80577" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="89.034698" y="173.80577" stroke-width=".26458">ē</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m91.412 173.49-1.5909 0.01" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m89.292 175.61v-1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m87.705 177.2c0-0.14613-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499s-0.27842 0.0592-0.37418 0.15499c-0.09576 0.0958-0.15499 0.22805-0.15499 0.37418s0.05923 0.27842 0.15499 0.37418c0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z"/>
+  </g>
+  <text x="86.919937" y="177.50722" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="86.919937" y="177.50722" stroke-width=".26458">î </tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m89.447 179.47-1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m87.175 179.32v-1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m86.646 174.56c0-0.14613-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499-0.14612 0-0.27842 0.0592-0.37418 0.15499-0.09576 0.0958-0.15499 0.22805-0.15499 0.37418 0 0.14612 0.05923 0.27841 0.15499 0.37417 0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22805 0.15499-0.37417z"/>
+  </g>
+  <text x="85.900414" y="174.76703" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="85.900414" y="174.76703" stroke-width=".26458">ŷ</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m88.389 176.83-1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m83.845 176.83 1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m85.588 177.2c0-0.14613-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499s-0.27842 0.0592-0.37418 0.15499c-0.09576 0.0958-0.15499 0.22805-0.15499 0.37418s0.05923 0.27842 0.15499 0.37418c0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z"/>
+  </g>
+  <text x="84.805107" y="177.49863" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="84.805107" y="177.49863" stroke-width=".26458">û </tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m85.059 179.32v-1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m82.787 179.47 1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m83.471 173.5c0-0.14612-0.05923-0.27841-0.15499-0.37417-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499-0.14612 0-0.27842 0.0592-0.37418 0.15499-0.09576 0.0958-0.15499 0.22805-0.15499 0.37417 0 0.14613 0.05923 0.27842 0.15499 0.37418 0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z"/>
+  </g>
+  <text x="82.688179" y="173.79445" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="82.688179" y="173.79445" stroke-width=".26458">é</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m82.942 175.61v-1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m80.825 173.5h1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m75.534 177.2c0-0.14613-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499s-0.27842 0.0592-0.37418 0.15499c-0.09576 0.0958-0.15499 0.22805-0.15499 0.37418s0.05923 0.27842 0.15499 0.37418c0.09576 0.0958 0.22805 0.15499 0.37418 0.15499 0.14612 0 0.27842-0.0592 0.37418-0.15499 0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z"/>
+  </g>
+  <text x="74.750725" y="177.49863" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="74.750725" y="177.49863" stroke-width=".26458">á</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m72.733 179.47 1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m72.888 177.2h1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m91.409 177.2c0-0.14613-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499s-0.27842 0.0592-0.37418 0.15499c-0.09576 0.0958-0.15499 0.22805-0.15499 0.37418s0.05923 0.27842 0.15499 0.37418c0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z"/>
+  </g>
+  <text x="90.625443" y="177.49863" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="90.625443" y="177.49863" stroke-width=".26458">ó</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m93.151 179.47-1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m88.763 177.2h1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m96.7 172.53c0-0.14612-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15498-0.37418-0.15498s-0.27842 0.0592-0.37418 0.15498c-0.09576 0.0958-0.15499 0.22806-0.15499 0.37418 0 0.14613 0.05923 0.27842 0.15499 0.37418 0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z"/>
+  </g>
+  <text x="96.043411" y="172.84096" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="96.043411" y="172.84096" stroke-width=".26458">ï</tspan></text>
+  <path d="m96.171 174.65v-1.5875" fill="none" marker-end="url(#Arrow1Mend-07-4-2-75)" stroke="#000" stroke-width=".066146"/>
+  <path d="m98.288 172.53c0-0.14613-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499-0.14612 0-0.27842 0.0592-0.37418 0.15499-0.09576 0.0958-0.15499 0.22805-0.15499 0.37418 0 0.14612 0.05923 0.27842 0.15499 0.37418 0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22806 0.15499-0.37418z" fill="none" stroke="#000" stroke-width=".066146"/>
+  <text x="97.625763" y="172.84082" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="97.625763" y="172.84082" stroke-width=".26458">ì</tspan></text>
+  <path d="m100.03 174.81-1.8975-1.8975" fill="none" marker-end="url(#Arrow1Mend-07-4-2-75)" stroke="#000" stroke-width=".066146"/>
+  <path d="m95.113 172.53c0-0.14613-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499s-0.27842 0.0592-0.37418 0.15499c-0.09576 0.0958-0.15499 0.22805-0.15499 0.37418 0 0.14612 0.05923 0.27842 0.15499 0.37418 0.09576 0.0958 0.22805 0.15499 0.37418 0.15499s0.27842-0.0592 0.37418-0.15499c0.09576-0.0958 0.15499-0.22806 0.15499-0.37418z" fill="none" stroke="#000" stroke-width=".066146"/>
+  <text x="94.417816" y="172.84036" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="94.417816" y="172.84036" stroke-width=".26458">í</tspan></text>
+  <path d="m92.312 174.81 1.8975-1.8975" fill="none" marker-end="url(#Arrow1Mend-07-4-2-75)" stroke="#000" stroke-width=".066146"/>
+  <path d="m77.121 172.53c0-0.14612-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15498-0.37418-0.15498s-0.27842 0.0592-0.37418 0.15498c-0.09576 0.0958-0.15499 0.22806-0.15499 0.37418 0 0.14613 0.05923 0.27842 0.15499 0.37418 0.09576 0.0958 0.22805 0.15499 0.37418 0.15499 0.14612 0 0.27842-0.0592 0.37418-0.15499 0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z" fill="none" stroke="#000" stroke-width=".066146"/>
+  <text x="76.334702" y="172.84096" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="76.334702" y="172.84096" stroke-width=".26458">ü</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m76.592 174.65c0.18209-0.50115 0.26244-1.018 0-1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m76.592 174.65c-0.20829-0.46966-0.272-0.98062 0-1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m78.709 172.53c0-0.14612-0.05923-0.27842-0.15499-0.37417-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499s-0.27842 0.0592-0.37418 0.15499c-0.09576 0.0957-0.15499 0.22805-0.15499 0.37417 0 0.14613 0.05923 0.27842 0.15499 0.37418 0.09576 0.0958 0.22805 0.15499 0.37418 0.15499 0.14612 0 0.27842-0.0592 0.37418-0.15499 0.09576-0.0958 0.15499-0.22805 0.15499-0.37418z"/>
+  </g>
+  <text x="77.924103" y="172.84082" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="77.924103" y="172.84082" stroke-width=".26458">ù</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m80.451 174.81c-0.51694-0.73842-0.98282-1.5236-1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m80.451 174.81c-0.95573-0.49161-1.5429-0.98981-1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m75.534 172.53c0-0.14613-0.05923-0.27842-0.15499-0.37418-0.09576-0.0958-0.22805-0.15499-0.37418-0.15499s-0.27842 0.0592-0.37418 0.15499c-0.09576 0.0958-0.15499 0.22805-0.15499 0.37418 0 0.14612 0.05923 0.27842 0.15499 0.37418 0.09576 0.0958 0.22805 0.15499 0.37418 0.15499 0.14612 0 0.27842-0.0592 0.37418-0.15499 0.09576-0.0958 0.15499-0.22806 0.15499-0.37418z"/>
+  </g>
+  <text x="74.734009" y="172.80264" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="74.734009" y="172.80264" stroke-width=".26458">ú</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m72.733 174.81c0.79124-0.38114 1.515-0.86907 1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m72.733 174.81c0.39212-0.81277 0.95621-1.4966 1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m86.646 171.38c0 0.14612-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15498-0.37418 0.15498-0.14612 0-0.27842-0.0592-0.37418-0.15498-0.09576-0.0958-0.15499-0.22806-0.15499-0.37418 0-0.14613 0.05923-0.27842 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22805 0.15499 0.37418z"/>
+  </g>
+  <text x="85.861603" y="171.70238" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="85.861603" y="171.70238" stroke-width=".26458">ê</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m86.117 169.26v1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m86.117 173.5v-1.5875" marker-end="url(#Arrow1Mend-07-4-2-75-9-8)"/>
+   <path d="m88.234 172.44c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499-0.14612 0-0.27842-0.0592-0.37418-0.15499-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="87.449104" y="172.76071" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="87.449104" y="172.76071" stroke-width=".26458">è</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m89.976 170.17-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m87.705 174.56v-1.5875" marker-end="url(#Arrow1Mend-07-4-2-75-9-8)"/>
+   <path d="m96.171 177.2c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="95.386604" y="177.52321" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="95.386604" y="177.52321" stroke-width=".26458">ò</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m97.914 174.93-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m97.914 179.47-1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75-47)"/>
+   <path d="m80.296 177.2c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499-0.14612 0-0.27842-0.0592-0.37418-0.15499-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="79.511604" y="177.52321" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="79.511604" y="177.52321" stroke-width=".26458">à</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m82.039 174.93-1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m77.495 179.47 1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75-47)"/>
+   <path d="m78.709 177.2c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499 0.14612 0 0.27842 0.0592 0.37418 0.15499 0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="77.924103" y="177.52321" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="77.924103" y="177.52321" stroke-width=".26458">â</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m78.18 175.08v1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m75.908 179.47 1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75-47)"/>
+   <path d="m94.584 177.2c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="93.799103" y="177.52321" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="93.799103" y="177.52321" stroke-width=".26458">ô</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m94.055 175.08v1.5875" marker-end="url(#Arrow1Mend-07-4-2-75)"/>
+   <path d="m96.326 179.47-1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75-47)"/>
+   <path d="m85.059 172.44c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499-0.14612 0-0.27842-0.0592-0.37418-0.15499-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="84.274101" y="172.76071" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="84.274101" y="172.76071" stroke-width=".26458">ë</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m82.258 170.17 1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75-7)"/>
+   <path d="m84.53 174.56v-1.5875" marker-end="url(#Arrow1Mend-07-4-2-75-9-8)"/>
+   <path d="m77.121 177.2c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499 0.14612 0 0.27842 0.0592 0.37418 0.15499 0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="76.336601" y="177.52321" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="76.336601" y="177.52321" stroke-width=".26458">ä</tspan></text>
+  <g fill="none" stroke="#000" stroke-width=".066146">
+   <path d="m74.32 174.93 1.8975 1.8975" marker-end="url(#Arrow1Mend-07-4-2-75-7)"/>
+   <path d="m74.32 179.47 1.8975-1.8975" marker-end="url(#Arrow1Mend-07-4-2-75-47)"/>
+   <path d="m92.996 177.2c0 0.14613-0.05923 0.27842-0.15499 0.37418-0.09576 0.0958-0.22805 0.15499-0.37418 0.15499s-0.27842-0.0592-0.37418-0.15499c-0.09576-0.0958-0.15499-0.22805-0.15499-0.37418 0-0.14612 0.05923-0.27841 0.15499-0.37418 0.09576-0.0958 0.22805-0.15499 0.37418-0.15499s0.27842 0.0592 0.37418 0.15499c0.09576 0.0958 0.15499 0.22806 0.15499 0.37418z"/>
+  </g>
+  <text x="92.211601" y="177.52321" fill="#000000" font-family="Arial" font-size=".87802px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="92.211601" y="177.52321" stroke-width=".26458">ö</tspan></text>
+  <path d="m90.195 174.93 1.8975 1.8975" fill="none" marker-end="url(#Arrow1Mend-07-4-2-75-7)" stroke="#000" stroke-width=".066146"/>
+  <path d="m94.739 179.47-1.8975-1.8975" fill="none" marker-end="url(#Arrow1Mend-07-4-2-75-47)" stroke="#000" stroke-width=".066146"/>
+  <text x="74.992401" y="171.30209" fill="#000000" font-family="sans-serif" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="74.992401" y="171.30209" stroke-width=".26458"/></text>
+ </g>
+</svg>
