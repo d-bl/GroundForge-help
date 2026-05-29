@@ -68,4 +68,4 @@ Mobile devices
 ### ![](/GroundForge-help/images/hamburger.png) Menu
 
 Mobile devices may not have room for a menu in the sidebar.
-Then a floating hamburger jumps to the menu.
+Then click the floating hamburger to jump to the menu.
